@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1992857138595791330",
+    "created_at": "2025-11-24T16:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993000524636209264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533418235927793665",
+          "start": 0,
+          "username": "Zxcloveprison"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993000524636209264",
+    "in_reply_to_user_id": "1533418235927793665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992999059515490466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxcloveprison 驼色不是司法部规定的标准夏装的颜色嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1992857138595791330",
+        "created_at": "2025-11-24T16:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993000524636209264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533418235927793665",
+              "start": 0,
+              "username": "Zxcloveprison"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993000524636209264",
+        "in_reply_to_user_id": "1533418235927793665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992999059515490466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxcloveprison 驼色不是司法部规定的标准夏装的颜色嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533418235927793665",
+        "conversation_id": "1992857138595791330",
+        "created_at": "2025-11-24T16:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992999059515490466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992999059515490466",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992857138595791330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 这套的颜色感觉很复古呀，像是很多犯人穿过然后洗了很多次褪色的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 7,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 294
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T11:59:39.000Z",
+        "description": "喜欢囚服",
+        "id": "1533418235927793665",
+        "name": "Zxc",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 290,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "Zxcloveprison",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052988295005745152"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2052988297534980271",
+    "created_at": "2026-05-09T05:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052988297534980271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zovC1IbBdU",
+          "end": 190,
+          "expanded_url": "https://x.com/WorstCat/status/2052988297534980271/photo/1",
+          "media_key": "3_2052988295005745152",
+          "start": 167,
+          "url": "https://t.co/zovC1IbBdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052988297534980271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "设想一个极端病例:恶性肿瘤iv期术后,恶病质,低白蛋白,气切依赖机械通气,ards,食道气道瘘8*6mm,peep上不去,fio2 100血氧80,套管球囊再长也覆盖不了,不停漏气开胸必死 不放支架必死 放支架可能大出血秒死,甚至于诱导麻醉都可能氧合崩掉,单肺麻醉风险也很高,上vv-ecmo术中凝血也可能崩掉该怎么办ꉂ(ˊᗜˋ*) https://t.co/zovC1IbBdU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052988295005745152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2t-iPaMAA_FRe.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052988295005745152"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2052988297534980271",
+        "created_at": "2026-05-09T05:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052988297534980271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zovC1IbBdU",
+              "end": 190,
+              "expanded_url": "https://x.com/WorstCat/status/2052988297534980271/photo/1",
+              "media_key": "3_2052988295005745152",
+              "start": 167,
+              "url": "https://t.co/zovC1IbBdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052988297534980271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "设想一个极端病例:恶性肿瘤iv期术后,恶病质,低白蛋白,气切依赖机械通气,ards,食道气道瘘8*6mm,peep上不去,fio2 100血氧80,套管球囊再长也覆盖不了,不停漏气开胸必死 不放支架必死 放支架可能大出血秒死,甚至于诱导麻醉都可能氧合崩掉,单肺麻醉风险也很高,上vv-ecmo术中凝血也可能崩掉该怎么办ꉂ(ˊᗜˋ*) https://t.co/zovC1IbBdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 9,
+          "like_count": 4803,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 958
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1992296868286705940",
+    "created_at": "2025-11-23T07:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992496412995748153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974688655513096192",
+          "start": 0,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992496412995748153",
+    "in_reply_to_user_id": "1974688655513096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992296868286705940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_dialog 对，gpt比800一小时的医生强多了它会认真听不打断不找茬不面露鄙夷，可是感觉这个月变得有点笨，还有就是对话太长了会变得很卡很卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1992296868286705940",
+        "created_at": "2025-11-23T07:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992496412995748153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974688655513096192",
+              "start": 0,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992496412995748153",
+        "in_reply_to_user_id": "1974688655513096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992296868286705940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_dialog 对，gpt比800一小时的医生强多了它会认真听不打断不找茬不面露鄙夷，可是感觉这个月变得有点笨，还有就是对话太长了会变得很卡很卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974688655513096192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1992296868286705940",
+        "created_at": "2025-11-22T18:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T19:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992296868286705940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pangyusio/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/pangyusio/status/1991007224521764899",
+              "start": 49,
+              "url": "https://t.co/pobYuzOme7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992296868286705940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1048,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991007224521764899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持GPT取代心理咨询师，我之前800一小时的心理咨询师只会嗯嗯啊啊 然后给我开一堆不需要的药 https://t.co/pobYuzOme7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 7,
+          "like_count": 420,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 273
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.9 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜LGBTQ+🏳️‍🌈全友好^^｜查成分回fo｜单机转线上 尝试恢复社交能力中…",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1989295399740510238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 133,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 446
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

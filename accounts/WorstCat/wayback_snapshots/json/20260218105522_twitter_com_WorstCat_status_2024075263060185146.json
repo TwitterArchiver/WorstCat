@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2023900000812757449",
+    "created_at": "2026-02-18T10:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024075263060185146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024075263060185146",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023900000812757449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 我在桃子互联网医院获得了0处方的好成绩，你也快来试试吧ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 265,
+        "media_key": "3_2023899998812098560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZWU2ob0AA_12J.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2023900000812757449",
+        "created_at": "2026-02-18T10:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024075263060185146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024075263060185146",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023900000812757449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 我在桃子互联网医院获得了0处方的好成绩，你也快来试试吧ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023899998812098560"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2023900000812757449",
+        "created_at": "2026-02-17T23:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T00:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023900000812757449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x715MWP5NW",
+              "end": 36,
+              "expanded_url": "https://x.com/amecandy_x/status/2023900000812757449/photo/1",
+              "media_key": "3_2023899998812098560",
+              "start": 13,
+              "url": "https://t.co/x715MWP5NW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023900000812757449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5827,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你敢和这个医生对视一秒吗 https://t.co/x715MWP5NW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 7,
+          "like_count": 1724,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 674
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ 跨女 / radical communist / ally / ai4fun🤖 / 競馬🏇🏻 / vocaloid🎶 / 也许是铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5595,
+          "following_count": 1917,
+          "like_count": 24992,
+          "listed_count": 16,
+          "media_count": 1173,
+          "tweet_count": 8755
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

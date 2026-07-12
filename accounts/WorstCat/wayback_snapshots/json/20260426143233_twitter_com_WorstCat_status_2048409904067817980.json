@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2048409904067817980",
+    "created_at": "2026-04-26T14:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048409904067817980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "documents.un.org/doc/undoc/gen/…",
+          "end": 134,
+          "expanded_url": "https://documents.un.org/doc/undoc/gen/v21/096/63/pdf/v2109663.pdf",
+          "start": 111,
+          "unwound_url": "https://documents.un.org/doc/undoc/gen/v21/096/63/pdf/v2109663.pdf",
+          "url": "https://t.co/R46biH9Fub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048409904067817980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "联合国经济及社会理事会麻醉药品委员会\n第六十五届会议 E/CN.7/2022/10\nP13-14\n联合国认为:虽然作用于gaba-b和a2-δ，具有镇痛、抗抑郁、抗焦虑作用，但是目前滥用案例较少，不重点审议，仅保持监视。\nhttps://t.co/R46biH9Fub"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2048409904067817980",
+        "created_at": "2026-04-26T14:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048409904067817980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "documents.un.org/doc/undoc/gen/…",
+              "end": 134,
+              "expanded_url": "https://documents.un.org/doc/undoc/gen/v21/096/63/pdf/v2109663.pdf",
+              "start": 111,
+              "unwound_url": "https://documents.un.org/doc/undoc/gen/v21/096/63/pdf/v2109663.pdf",
+              "url": "https://t.co/R46biH9Fub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048409904067817980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "联合国经济及社会理事会麻醉药品委员会\n第六十五届会议 E/CN.7/2022/10\nP13-14\n联合国认为:虽然作用于gaba-b和a2-δ，具有镇痛、抗抑郁、抗焦虑作用，但是目前滥用案例较少，不重点审议，仅保持监视。\nhttps://t.co/R46biH9Fub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2750,
+          "following_count": 8,
+          "like_count": 3524,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 813
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

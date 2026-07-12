@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1988953746068693454",
+    "created_at": "2025-11-14T08:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989252439216964033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887904352079323136",
+          "start": 0,
+          "username": "superwww18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989252439216964033",
+    "in_reply_to_user_id": "1887904352079323136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989163260407607673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@superwww18 你也是会计吗😮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1988953746068693454",
+        "created_at": "2025-11-14T08:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989252439216964033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887904352079323136",
+              "start": 0,
+              "username": "superwww18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989252439216964033",
+        "in_reply_to_user_id": "1887904352079323136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989163260407607673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superwww18 你也是会计吗😮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887904352079323136",
+        "conversation_id": "1988953746068693454",
+        "created_at": "2025-11-14T02:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989163260407607673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989163260407607673",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988953746068693454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 知道丁香园，说明是同行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 5,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 178
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T16:41:11.000Z",
+        "description": "",
+        "id": "1887904352079323136",
+        "location": "Bj",
+        "name": "superwww11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937895405817413632/KUPiXBMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 111,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 77
+        },
+        "username": "superwww18",
+        "verified": false
+      }
+    ]
+  }
+}

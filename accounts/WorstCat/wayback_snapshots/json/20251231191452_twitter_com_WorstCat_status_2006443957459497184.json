@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2006443957459497184",
+    "created_at": "2025-12-31T19:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T20:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006443957459497184"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006443957459497184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "街上厚厚的垃圾到处飞\n人来人往的好吵\n快餐店里全是回不去家的大学生\n骑车去接主人下班冻得发抖\n一点都不开心🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2006443957459497184",
+        "created_at": "2025-12-31T19:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006443957459497184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006443957459497184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "街上厚厚的垃圾到处飞\n人来人往的好吵\n快餐店里全是回不去家的大学生\n骑车去接主人下班冻得发抖\n一点都不开心🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你1.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 7,
+          "like_count": 1552,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 455
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

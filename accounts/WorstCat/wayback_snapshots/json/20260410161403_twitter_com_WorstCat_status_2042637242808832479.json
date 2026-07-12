@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2042508549125738711",
+    "created_at": "2026-04-10T16:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042637242808832479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042637242808832479",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042632617678508354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash 就是普渡旗下做止疼药的，它家的tramadol出现皮肤过敏反应的少。试试工作日时间找个不太忙的市级三甲，尽量不选省部级的太忙了。然后说明哪里疼持续多久神内骨科开的像洛索洛芬塞来昔布马来酸氟吡汀卡马西平这类的都不好用，影响生活和睡眠，问问能不能给找个有效的止疼药，你的年龄确实影响阿片处方🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2042508549125738711",
+        "created_at": "2026-04-10T16:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042637242808832479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042637242808832479",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042632617678508354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash 就是普渡旗下做止疼药的，它家的tramadol出现皮肤过敏反应的少。试试工作日时间找个不太忙的市级三甲，尽量不选省部级的太忙了。然后说明哪里疼持续多久神内骨科开的像洛索洛芬塞来昔布马来酸氟吡汀卡马西平这类的都不好用，影响生活和睡眠，问问能不能给找个有效的止疼药，你的年龄确实影响阿片处方🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "2042508549125738711",
+        "created_at": "2026-04-10T15:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042632617678508354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042632617678508354",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042632310739362120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 蒙蒂是什么 \n急诊开了之后，我说这个太少了，他说是啊，你上门诊开吧，你去外科加个号，外科也愿意加号，也愿意给我开。一看他们权限开不了，让我去找脊柱外科，脊柱外科不愿意加号，说话还很爹味，让我去找疼痛科，疼痛科也不愿意接号，说话更爹味了。扯了一大堆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 7,
+          "like_count": 2852,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 854
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  🏳️‍⚧️🏳️‍🌈 好想变成可爱的正太呜哇",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "小雾岛岚",
+        "pinned_tweet_id": "2028423136564441463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6597,
+          "following_count": 7184,
+          "like_count": 114255,
+          "listed_count": 10,
+          "media_count": 751,
+          "tweet_count": 82223
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      }
+    ]
+  }
+}

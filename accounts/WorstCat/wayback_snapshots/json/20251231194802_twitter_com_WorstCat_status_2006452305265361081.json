@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006452301754671104"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2006452305265361081",
+    "created_at": "2025-12-31T19:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T20:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006452305265361081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aMC2ETmBMl",
+          "end": 168,
+          "expanded_url": "https://x.com/WorstCat/status/2006452305265361081/photo/1",
+          "media_key": "3_2006452301754671104",
+          "start": 145,
+          "url": "https://t.co/aMC2ETmBMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006452305265361081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来30一盒的西力欣，退出中国大陆一年半以后，还剩下几个月临期的孤品炒到七八百，半年前才四百。原研都退出或者转让算了，集采中标的时候最低12后来一度涨到80的拜复乐也已经被拜耳贱卖了，不想跟腱断裂 面神经炎的以后谨慎选择四代氟喹诺酮吧，特别是1n制药的风险远大于收益，容易治小病得大病😡😡 https://t.co/aMC2ETmBMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2006452301754671104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9hZvODaIAAy3ID.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006452301754671104"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2006452305265361081",
+        "created_at": "2025-12-31T19:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006452305265361081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMC2ETmBMl",
+              "end": 168,
+              "expanded_url": "https://x.com/WorstCat/status/2006452305265361081/photo/1",
+              "media_key": "3_2006452301754671104",
+              "start": 145,
+              "url": "https://t.co/aMC2ETmBMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006452305265361081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来30一盒的西力欣，退出中国大陆一年半以后，还剩下几个月临期的孤品炒到七八百，半年前才四百。原研都退出或者转让算了，集采中标的时候最低12后来一度涨到80的拜复乐也已经被拜耳贱卖了，不想跟腱断裂 面神经炎的以后谨慎选择四代氟喹诺酮吧，特别是1n制药的风险远大于收益，容易治小病得大病😡😡 https://t.co/aMC2ETmBMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你1.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 7,
+          "like_count": 1558,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 456
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

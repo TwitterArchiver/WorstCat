@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2007630862012293179",
+    "created_at": "2026-01-04T05:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007687296666218692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1738623914484563968",
+          "start": 0,
+          "username": "McdAnalxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007687296666218692",
+    "in_reply_to_user_id": "1738623914484563968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007686892096237982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McdAnalxd 最简单一个勾的链铐板铐钥匙，我都有五种不同规格的钥匙，还不太通用呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2007630862012293179",
+        "created_at": "2026-01-04T05:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007687296666218692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738623914484563968",
+              "start": 0,
+              "username": "McdAnalxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007687296666218692",
+        "in_reply_to_user_id": "1738623914484563968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007686892096237982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McdAnalxd 最简单一个勾的链铐板铐钥匙，我都有五种不同规格的钥匙，还不太通用呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738623914484563968",
+        "conversation_id": "2007630862012293179",
+        "created_at": "2026-01-04T05:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007686892096237982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007686892096237982",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007685291667271883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 脑海里已经有慌慌张张一把一把地试钥匙解手铐的画面了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 7,
+          "like_count": 1604,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 478
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T18:14:01.000Z",
+        "description": "Sub✨大码♀ bbw 160cm/68kg 吃抗抑郁药物导致体重超标，目前减重中。来这里倾泄日常废料，欢迎互fo。",
+        "id": "1738623914484563968",
+        "name": "lyranbaby_m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006392028750643200/Kg0V09nI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 382,
+          "like_count": 902,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 394
+        },
+        "username": "McdAnalxd",
+        "verified": true
+      }
+    ]
+  }
+}

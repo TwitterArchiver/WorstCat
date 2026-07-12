@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2070258888319058059",
+    "created_at": "2026-06-26T06:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070397485684777399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070397485684777399",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070258888319058059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 新鲜的血用冷水和洗衣皂搓洗，最好用的是医用多酶清洗剂ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2070258888319058059",
+        "created_at": "2026-06-26T06:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070397485684777399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070397485684777399",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070258888319058059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 新鲜的血用冷水和洗衣皂搓洗，最好用的是医用多酶清洗剂ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070258888319058059",
+        "created_at": "2026-06-25T21:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070258888319058059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2070210776053502212",
+              "start": 57,
+              "url": "https://t.co/ZZqIseCFFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070258888319058059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 418,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070210776053502212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又这么来了一针，然后不小心把血滴自己衣服上了擦都擦不干净，额该换衣服了，但是好爽，我要爽死了，升天，升天，升天 https://t.co/ZZqIseCFFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3039,
+          "following_count": 36,
+          "like_count": 9818,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 1492
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 99,
+          "like_count": 6330,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 940
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

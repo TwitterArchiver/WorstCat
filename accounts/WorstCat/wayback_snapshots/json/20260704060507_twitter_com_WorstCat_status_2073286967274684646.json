@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2072857975761596690",
+    "created_at": "2026-07-04T06:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T07:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073286967274684646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1625384799912488960",
+          "start": 0,
+          "username": "yasha_tear"
+        },
+        {
+          "end": 22,
+          "id": "1127777338907774976",
+          "start": 12,
+          "username": "luogesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073286967274684646",
+    "in_reply_to_user_id": "1625384799912488960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073257545230344623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yasha_tear @luogesama (*ﾟｪﾟ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2072857975761596690",
+        "created_at": "2026-07-04T06:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073286967274684646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1625384799912488960",
+              "start": 0,
+              "username": "yasha_tear"
+            },
+            {
+              "end": 22,
+              "id": "1127777338907774976",
+              "start": 12,
+              "username": "luogesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073286967274684646",
+        "in_reply_to_user_id": "1625384799912488960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073257545230344623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yasha_tear @luogesama (*ﾟｪﾟ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625384799912488960",
+        "conversation_id": "2072857975761596690",
+        "created_at": "2026-07-04T04:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073257545230344623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 20,
+              "id": "1127777338907774976",
+              "start": 10,
+              "username": "luogesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073257545230344623",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073204485367976030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @luogesama 摸摸头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3063,
+          "following_count": 52,
+          "like_count": 11290,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 1617
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T06:41:59.000Z",
+        "description": "收女M｜医疗调教爱好者，重呼吸控制、气管插管、胃管洗胃、强度刺激\n上海优先，男的仅聊天不实践\n耐受强、喜欢被主导的女生私信说说你的极限\n纯医疗无性，先聊底线/safe word\n#医疗调教 #气管插管 #胃管 #breathplay #intubation #呼吸控制 #medicalPlay",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "医疗调教"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "气管插管"
+              },
+              {
+                "end": 104,
+                "start": 101,
+                "tag": "胃管"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "breathplay"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "intubation"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "呼吸控制"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "tag": "medicalPlay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+nSP1_QmxcEo3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+nSP1_QmxcEo3ZjFl",
+                "start": 0,
+                "url": "https://t.co/ideWDkXpOG"
+              }
+            ]
+          }
+        },
+        "id": "1625384799912488960",
+        "name": "Cotta_T",
+        "pinned_tweet_id": "2017453668186939441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017551110794579969/pbvp_J9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 444,
+          "like_count": 180,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/ideWDkXpOG",
+        "username": "yasha_tear",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T03:27:25.000Z",
+        "description": "器械工具定制｜咨询｜树洞｜\n自用梯子：https://t.co/A7GESQTN1c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=VQ9azGQm",
+                "start": 19,
+                "url": "https://t.co/A7GESQTN1c"
+              }
+            ]
+          }
+        },
+        "id": "1127777338907774976",
+        "name": "洛敋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564493350430199810/mRnUN5xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102523,
+          "following_count": 1301,
+          "like_count": 1316,
+          "listed_count": 425,
+          "media_count": 89,
+          "tweet_count": 1524
+        },
+        "url": "",
+        "username": "luogesama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1999353987427156170",
+    "created_at": "2025-12-12T08:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999390896073388332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747662054595715074",
+          "start": 0,
+          "username": "GX010913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999390896073388332",
+    "in_reply_to_user_id": "1747662054595715074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999388108307968188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GX010913 留置针我用的威高洁瑞的，北仑河注射器最开始品质比威高都好诶，我最近冲管都用的塑料安瓿的10ml氯化钠，配完药用配药注射器抽一只冲完再抽一只，输完再封管，比用威高预充便宜一半(ฅ′ω`ฅ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1999353987427156170",
+        "created_at": "2025-12-12T08:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999390896073388332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747662054595715074",
+              "start": 0,
+              "username": "GX010913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999390896073388332",
+        "in_reply_to_user_id": "1747662054595715074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999388108307968188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GX010913 留置针我用的威高洁瑞的，北仑河注射器最开始品质比威高都好诶，我最近冲管都用的塑料安瓿的10ml氯化钠，配完药用配药注射器抽一只冲完再抽一只，输完再封管，比用威高预充便宜一半(ฅ′ω`ฅ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747662054595715074",
+        "conversation_id": "1999353987427156170",
+        "created_at": "2025-12-12T07:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999388108307968188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999388108307968188",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999353987427156170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 去买洁瑞（威高高分子）吧，价格小贵但是质量可靠，封管液也不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你2.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 7,
+          "like_count": 923,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 370
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T16:48:10.000Z",
+        "description": "性别男，坐标0731，有打算这方面发展想法了解较多，应该能还原不错的体验，想收个女犯，重口勿扰，CD勿扰（非性别歧视，xp问题）",
+        "id": "1747662054595715074",
+        "name": "Z.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747709438130298880/uqdoIHSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 81,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "GX010913",
+        "verified": false
+      }
+    ]
+  }
+}

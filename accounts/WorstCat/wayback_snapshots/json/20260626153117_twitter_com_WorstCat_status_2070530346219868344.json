@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2070484016529371298",
+    "created_at": "2026-06-26T15:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070530346219868344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070530346219868344",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070484016529371298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ 不要喹硫平，度洛西汀和pr治疗慢性疼痛倒是有用但是snri影响品鉴诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2070484016529371298",
+        "created_at": "2026-06-26T15:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070530346219868344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070530346219868344",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070484016529371298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ 不要喹硫平，度洛西汀和pr治疗慢性疼痛倒是有用但是snri影响品鉴诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350788438300114952",
+        "conversation_id": "2070484016529371298",
+        "created_at": "2026-06-26T12:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070484016529371298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070484016529371298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要被带去精神科点菜（悲）或许喹硫平、托莫西汀、劳拉西泮、普瑞巴林、度洛西汀、安非他酮，或者什么别的新的药。\n一直很抗拒被大人陪着去医院，不过自己去也点不到阿片或者致幻解离麻醉或者LSD裸盖菇的，起床了孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 36,
+          "like_count": 9875,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 1502
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我总有一天会想起来编辑这个bio的！",
+        "id": "1350788438300114952",
+        "name": "Ra11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 242,
+          "like_count": 3146,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "Meeeauw_",
+        "verified": false
+      }
+    ]
+  }
+}

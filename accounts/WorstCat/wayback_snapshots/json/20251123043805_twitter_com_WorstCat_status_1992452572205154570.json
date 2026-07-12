@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1987240109494956129",
+    "created_at": "2025-11-23T04:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992452572205154570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865275462152523776",
+          "start": 0,
+          "username": "kTwjozqg9C75173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992452572205154570",
+    "in_reply_to_user_id": "1865275462152523776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992450915891359831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kTwjozqg9C75173 我计划的方案是这样的\n静滴间苯三酚、头孢曲松钠、替硝唑，然后开始操作，之后疼的话肌注双氯芬酸钠止疼，想吐的话加昂丹司琼，这些药都有，还要用麻药吗，我只有利多卡因，瑞舒吗这些也买不到呀，并且阿片类的我掉血压还会吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1987240109494956129",
+        "created_at": "2025-11-23T04:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992452572205154570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865275462152523776",
+              "start": 0,
+              "username": "kTwjozqg9C75173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992452572205154570",
+        "in_reply_to_user_id": "1865275462152523776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992450915891359831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kTwjozqg9C75173 我计划的方案是这样的\n静滴间苯三酚、头孢曲松钠、替硝唑，然后开始操作，之后疼的话肌注双氯芬酸钠止疼，想吐的话加昂丹司琼，这些药都有，还要用麻药吗，我只有利多卡因，瑞舒吗这些也买不到呀，并且阿片类的我掉血压还会吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865275462152523776",
+        "conversation_id": "1987240109494956129",
+        "created_at": "2025-11-23T04:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992450915891359831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992450915891359831",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992450432430710862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 你有麻药吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 7,
+          "like_count": 415,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 266
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T06:01:47.000Z",
+        "description": "「医院最乖的男护士｜下班后是她的专属宠物｜白大褂下全是她留下的痕迹｜“院长夫人让我加班到天亮…我没办法拒绝”」",
+        "id": "1865275462152523776",
+        "location": "🇨🇳",
+        "name": "和霸道女总裁做爱被迫当M🌚",
+        "pinned_tweet_id": "1966732000297185615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992258081959657473/FVZ26HUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 26,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1633
+        },
+        "username": "kTwjozqg9C75173",
+        "verified": false
+      }
+    ]
+  }
+}

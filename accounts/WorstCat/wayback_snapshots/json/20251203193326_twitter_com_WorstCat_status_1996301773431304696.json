@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1996195072359190851",
+    "created_at": "2025-12-03T19:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T20:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996301773431304696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996301773431304696",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996195072359190851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 中式教育总喜欢制造洪水猛兽让不知情的更觉得可怕不敢去了解触碰，像极了性教育，只堵不疏，只批评不细讲，而学校既不教逻辑又缺乏常识教育，现在最流行的: 吸毒＝让缉毒白牺牲，因此 吸毒＝毒贩，所以吸毒者＝不可原谅，成为回归社会的很大障碍，这种不当类比强加因果的思维方式你怎么能沟通呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1996195072359190851",
+        "created_at": "2025-12-03T19:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T20:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996301773431304696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996301773431304696",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996195072359190851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 中式教育总喜欢制造洪水猛兽让不知情的更觉得可怕不敢去了解触碰，像极了性教育，只堵不疏，只批评不细讲，而学校既不教逻辑又缺乏常识教育，现在最流行的: 吸毒＝让缉毒白牺牲，因此 吸毒＝毒贩，所以吸毒者＝不可原谅，成为回归社会的很大障碍，这种不当类比强加因果的思维方式你怎么能沟通呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1996195072359190851",
+        "created_at": "2025-12-03T12:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996195072359190851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/prechaska/status/1996151879777329427",
+              "start": 124,
+              "url": "https://t.co/bPHSLqxpQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996195072359190851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2360,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996151879777329427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一问恐毒人结果发现毒品的基础分类都不知道，别说阿片迷幻解离了大多数人连hard soft都分不清，更以为毒品就一定是成瘾物质。\n但我可以理解因为数年前别人要是问我封建迷信我也不知道东西占学四柱星盘紫微斗数塔罗雷诺曼的区别，只会说算命都是心理骗术🤣 https://t.co/bPHSLqxpQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 7,
+          "like_count": 751,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 348
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛绝赞病b小心染病❤️同类fo必回-漏fo请大力戳俺！爱互关宝宝❤️点赞评论bot-讨厌私信！请勿打扰！♡喜欢sex与drug♡不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 1312,
+          "like_count": 3905,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3619
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2056720693371502799",
+    "created_at": "2026-05-20T03:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056946860410200104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056946860410200104",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056720693371502799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 坚定不移贯彻落实保护非义务教育学段高度自治管理权，温馨提醒孝内不受法律法规保护不遵守日内瓦公约，进门生死自负。以孝为先，孝服就是宗教服饰，孝规就是生命线，孝长就是天父，不敬神明必将降下神罚。感恩美好孝园生活，自觉维护权威，凡是孝规就是对的凡是孝长要求做的就要始终不渝的遵循( º﹃º )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056720684588601344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrwkM8aEAAFX47.jpg",
+        "width": 1161
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2056720693371502799",
+        "created_at": "2026-05-20T03:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056946860410200104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056946860410200104",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056720693371502799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 坚定不移贯彻落实保护非义务教育学段高度自治管理权，温馨提醒孝内不受法律法规保护不遵守日内瓦公约，进门生死自负。以孝为先，孝服就是宗教服饰，孝规就是生命线，孝长就是天父，不敬神明必将降下神罚。感恩美好孝园生活，自觉维护权威，凡是孝规就是对的凡是孝长要求做的就要始终不渝的遵循( º﹃º )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056720684588601344"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2056720693371502799",
+        "created_at": "2026-05-19T12:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056720693371502799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0GTLdQ7Gq",
+              "end": 41,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2056720693371502799/photo/1",
+              "media_key": "3_2056720684588601344",
+              "start": 18,
+              "url": "https://t.co/O0GTLdQ7Gq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056720693371502799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 60109,
+          "like_count": 354,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "reply_settings": "other",
+        "text": "校规高于生命，高于法律，高于一切！ https://t.co/O0GTLdQ7Gq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 19,
+          "like_count": 5873,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1107
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3788,
+          "following_count": 840,
+          "like_count": 20914,
+          "listed_count": 9,
+          "media_count": 1109,
+          "tweet_count": 6214
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

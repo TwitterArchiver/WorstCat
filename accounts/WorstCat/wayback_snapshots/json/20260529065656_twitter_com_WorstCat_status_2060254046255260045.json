@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2060254046255260045",
+    "created_at": "2026-05-29T06:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060254046255260045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4x6xa/status/2…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/4x6xa/status/2059964960202236074",
+          "start": 34,
+          "url": "https://t.co/JIt4Bthf33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060254046255260045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059964960202236074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Σ( ° △ °|||)︴评论区刷怪了，好多监狱网评员，风味太浓了 https://t.co/JIt4Bthf33"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2060254046255260045",
+        "created_at": "2026-05-29T06:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060254046255260045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4x6xa/status/2…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/4x6xa/status/2059964960202236074",
+              "start": 34,
+              "url": "https://t.co/JIt4Bthf33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060254046255260045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059964960202236074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Σ( ° △ °|||)︴评论区刷怪了，好多监狱网评员，风味太浓了 https://t.co/JIt4Bthf33"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050276668066111488",
+        "conversation_id": "2059964960202236074",
+        "created_at": "2026-05-28T11:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059964960202236074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059964960202236074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 142803,
+          "like_count": 695,
+          "quote_count": 9,
+          "reply_count": 610,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "上海って、中国の中でも安全って聞くから、親も許してくれそう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 22,
+          "like_count": 6960,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 1293
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T18:11:08.000Z",
+        "description": "06 ⌇英文学科2年⌇二外🇨🇳 ⌇三外🇩🇪 ⌇INFP",
+        "id": "2050276668066111488",
+        "name": "浪たりー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058648090790494208/uQz_FsT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 406,
+          "like_count": 2368,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 403
+        },
+        "username": "4x6xa",
+        "verified": false
+      }
+    ]
+  }
+}

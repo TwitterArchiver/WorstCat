@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048756012367466497",
+        "3_2048756019908706304",
+        "3_2048756026581921792"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2048756029715079405",
+    "created_at": "2026-04-27T13:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048756029715079405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fGdDnc5Jvg",
+          "end": 78,
+          "expanded_url": "https://x.com/WorstCat/status/2048756029715079405/photo/1",
+          "media_key": "3_2048756012367466497",
+          "start": 55,
+          "url": "https://t.co/fGdDnc5Jvg"
+        },
+        {
+          "display_url": "pic.x.com/fGdDnc5Jvg",
+          "end": 78,
+          "expanded_url": "https://x.com/WorstCat/status/2048756029715079405/photo/1",
+          "media_key": "3_2048756019908706304",
+          "start": 55,
+          "url": "https://t.co/fGdDnc5Jvg"
+        },
+        {
+          "display_url": "pic.x.com/fGdDnc5Jvg",
+          "end": 78,
+          "expanded_url": "https://x.com/WorstCat/status/2048756029715079405/photo/1",
+          "media_key": "3_2048756026581921792",
+          "start": 55,
+          "url": "https://t.co/fGdDnc5Jvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048756029715079405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么金贝印包装如此简陋连个塑料套也没有，也没有编号，是假货吗🥺刃上能擦下来好多黑乎乎的东西，倒是也还算锋利 https://t.co/fGdDnc5Jvg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048756012367466497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6kvQyb0AEW-50.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048756019908706304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6kvs4aAAAtUww.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048756026581921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6kwFvbMAAmagb.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048756012367466497",
+            "3_2048756019908706304",
+            "3_2048756026581921792"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048756029715079405",
+        "created_at": "2026-04-27T13:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048756029715079405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGdDnc5Jvg",
+              "end": 78,
+              "expanded_url": "https://x.com/WorstCat/status/2048756029715079405/photo/1",
+              "media_key": "3_2048756012367466497",
+              "start": 55,
+              "url": "https://t.co/fGdDnc5Jvg"
+            },
+            {
+              "display_url": "pic.x.com/fGdDnc5Jvg",
+              "end": 78,
+              "expanded_url": "https://x.com/WorstCat/status/2048756029715079405/photo/1",
+              "media_key": "3_2048756019908706304",
+              "start": 55,
+              "url": "https://t.co/fGdDnc5Jvg"
+            },
+            {
+              "display_url": "pic.x.com/fGdDnc5Jvg",
+              "end": 78,
+              "expanded_url": "https://x.com/WorstCat/status/2048756029715079405/photo/1",
+              "media_key": "3_2048756026581921792",
+              "start": 55,
+              "url": "https://t.co/fGdDnc5Jvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048756029715079405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么金贝印包装如此简陋连个塑料套也没有，也没有编号，是假货吗🥺刃上能擦下来好多黑乎乎的东西，倒是也还算锋利 https://t.co/fGdDnc5Jvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 9,
+          "like_count": 3619,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 836
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

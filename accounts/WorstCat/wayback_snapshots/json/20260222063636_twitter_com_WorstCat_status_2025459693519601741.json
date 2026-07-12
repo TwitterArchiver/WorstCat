@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2025458418014691329",
+    "created_at": "2026-02-22T06:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025459693519601741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596405792315691008",
+          "start": 0,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025459693519601741",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025458418014691329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0502railgun1949 丙泊酚属于麻醉诱导药品，没有列管，也不按麻醉药品管理，不需要专用处方，只是普通处方药呀，有时候诱导用的瑞马唑仑反而是按精二管的。这个药也没有滥用价值，没人盯着气道塌陷容易出事，外周静脉输注还挺疼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2025458418014691329",
+        "created_at": "2026-02-22T06:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025459693519601741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025459693519601741",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025458418014691329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 丙泊酚属于麻醉诱导药品，没有列管，也不按麻醉药品管理，不需要专用处方，只是普通处方药呀，有时候诱导用的瑞马唑仑反而是按精二管的。这个药也没有滥用价值，没人盯着气道塌陷容易出事，外周静脉输注还挺疼的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2025458418014691329",
+        "created_at": "2026-02-22T06:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025458418014691329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一、为加强麻醉药品、精神药品处方开具、使用、保存管理，保证正常医疗需要，防止流入非法渠道，根据《麻醉药品和精神药品管理条例》和《处方管理办法（试行）》，制定本规定。 二、开具麻醉药品、精神药品使用专用处方。 三、具有处方权的医师在为患者首次开具麻醉药品、第一类精神药品处方时，应当亲自诊查患者，为其建立相应的病历，留存患者身份证明复印件，要求其签署《知情同意书》（附后）。病历由医疗机构保管。 四、麻醉药品注射剂仅限于医疗机构内使用，或者由医疗机构派医务人员出诊至患者家中使用。 五、医疗机构应当要求使用麻醉药品非注射剂型和第一类精神药品的患者每4个月复诊或者随诊1次。 六、麻醉药品非注射剂型和第一类精神药品需要带出医疗机构外使用时，具有处方权的医师在患者或者其代办人出示下列材料后方可开具麻醉药品、第一类精神药品处方： （一）二级以上医院开具的诊断证明； （二）患者户籍簿、身份证或者其他相关身份证明； （三）代办人员身份证明。 医疗机构应当在患者门诊病历中留 存代办人员身份证明复印件。 七、麻醉药品、精神药品处方格式由3部分组成： （一）前记：医疗机构名称、处方编号、患者姓名、性别、年龄、身份证明编号、门诊病历号",
+              "display_url": "gov.cn/gongbao/conten…",
+              "end": 64,
+              "expanded_url": "https://www.gov.cn/gongbao/content/2006/content_401230.htm",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2025458466194640896/BuaAg1vm?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025458466194640896/BuaAg1vm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "卫生部关于印发《麻醉药品、精神药品处方管理规定》的通知 麻醉药品、精神药品处方管理规定__2006年第28号国务院公报_中国政府网",
+              "unwound_url": "https://www.gov.cn/gongbao/content/2006/content_401230.htm",
+              "url": "https://t.co/1lhMsoad5z"
+            },
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/WorstCat/status/2025456237949977040",
+              "start": 65,
+              "url": "https://t.co/QV2TxvujwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025458418014691329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025456237949977040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麻醉药品注射剂仅限于医疗机构内使用，或者由医疗机构派医务人员出诊至患者家中使用。\nhttps://t.co/1lhMsoad5z https://t.co/QV2TxvujwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 7,
+          "like_count": 1833,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 696
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 610,
+          "like_count": 10732,
+          "listed_count": 3,
+          "media_count": 1171,
+          "tweet_count": 8290
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2042619832999514173",
+    "created_at": "2026-04-11T09:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042892352889798773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505596113813876736",
+          "start": 0,
+          "username": "chrorine_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042892352889798773",
+    "in_reply_to_user_id": "1505596113813876736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042889918368846051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chrorine_17 半数以上基层一级医疗机构，只承担基础卫生保健职能，还没有日常储备止吐药呢(多潘立酮不算)，少数也只有甲氧，甚至有的二级医院昂丹司琼也只有注射剂没有口服剂型。昂丹司琼一类的止吐药目前也是超说明书范围使用，这个药从专利集中过期到广泛使用也没几年，老资历oder不少偏向于用甲氧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2042619832999514173",
+        "created_at": "2026-04-11T09:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042892352889798773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505596113813876736",
+              "start": 0,
+              "username": "chrorine_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042892352889798773",
+        "in_reply_to_user_id": "1505596113813876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042889918368846051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chrorine_17 半数以上基层一级医疗机构，只承担基础卫生保健职能，还没有日常储备止吐药呢(多潘立酮不算)，少数也只有甲氧，甚至有的二级医院昂丹司琼也只有注射剂没有口服剂型。昂丹司琼一类的止吐药目前也是超说明书范围使用，这个药从专利集中过期到广泛使用也没几年，老资历oder不少偏向于用甲氧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505596113813876736",
+        "conversation_id": "2042619832999514173",
+        "created_at": "2026-04-11T08:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042889918368846051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042889918368846051",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042888827761758526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我不明白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2698,
+          "following_count": 7,
+          "like_count": 2878,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 860
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "朝霞與晚霞都消失不見",
+        "id": "1505596113813876736",
+        "location": "昨天",
+        "name": "chrorinEVE",
+        "pinned_tweet_id": "2031610320180097292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984829376392044544/-Bz5LJl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 242,
+          "like_count": 16837,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 6088
+        },
+        "username": "chrorine_17",
+        "verified": false
+      }
+    ]
+  }
+}

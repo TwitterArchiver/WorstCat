@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2021050970738917740",
+    "created_at": "2026-02-10T02:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T03:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021050972932616485"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021050972932616485",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021050970738917740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主人还说直接夏季高考，我有那个本事吗，当年就没考上现在就能考上了嘛，现在数理化加起来恐怕也考不了50分，就算勉强凑齐分数，那种正经大专也不太好找关系办工读不是10年前那么容易买证了，让我腆着老脸去和年轻人一起去上课我接受不了，后悔10年前没跟着买了那时候交了钱等几年拿证什么都不用操心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2021050970738917740",
+        "created_at": "2026-02-10T02:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021050972932616485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021050972932616485",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021050970738917740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主人还说直接夏季高考，我有那个本事吗，当年就没考上现在就能考上了嘛，现在数理化加起来恐怕也考不了50分，就算勉强凑齐分数，那种正经大专也不太好找关系办工读不是10年前那么容易买证了，让我腆着老脸去和年轻人一起去上课我接受不了，后悔10年前没跟着买了那时候交了钱等几年拿证什么都不用操心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2021050970738917740",
+        "created_at": "2026-02-10T02:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021050970738917740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021050970738917740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近有个想法找个中专买个临床毕业证本升专考助理医师玩玩，为什么不买大专是因为现在高中和中专成绩单学信网可查，假证报春季高考恐怕会被查我还没老到01年以前取得学历，并且卖证的只剩下民办的大概8万以前公办的只卖2万。中医师承买卖市场化报价可我是中医中药黑呀，徇证中医和辩证唯物我都不相信🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你29.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 7,
+          "like_count": 1536,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 631
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

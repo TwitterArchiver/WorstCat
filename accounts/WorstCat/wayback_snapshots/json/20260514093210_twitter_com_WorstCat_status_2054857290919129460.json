@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2054833099268362542",
+    "created_at": "2026-05-14T09:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054857290919129460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2028790074301984769",
+          "start": 0,
+          "username": "fox_udon_oksr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054857290919129460",
+    "in_reply_to_user_id": "2028790074301984769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054856006581223595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fox_udon_oksr 600-1200mg pregabalin&amp;10-20mg baclofen,顕著な効果が得られる場合もあります。しかし、単独での使用は推奨されません。baclofenは重度の離脱症状を引き起こす可能性があるため、頻繁に使用すべきではありません。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2054833099268362542",
+        "created_at": "2026-05-14T09:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054857290919129460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2028790074301984769",
+              "start": 0,
+              "username": "fox_udon_oksr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054857290919129460",
+        "in_reply_to_user_id": "2028790074301984769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054856006581223595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fox_udon_oksr 600-1200mg pregabalin&amp;10-20mg baclofen,顕著な効果が得られる場合もあります。しかし、単独での使用は推奨されません。baclofenは重度の離脱症状を引き起こす可能性があるため、頻繁に使用すべきではありません。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028790074301984769",
+        "conversation_id": "2054833099268362542",
+        "created_at": "2026-05-14T09:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054856006581223595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054856006581223595",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054851840156868861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat バクロフェン気になるー"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 7,
+          "like_count": 5324,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1024
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T11:10:30.000Z",
+        "description": "中2 きつねです 凍結されました\nフォロバ100% 質問等 気軽にDMどうぞ\nフォロバ漏れはDMください\n大好きなにこいち→ @_lucayyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "_lucayyy"
+              }
+            ]
+          }
+        },
+        "id": "2028790074301984769",
+        "location": "ケモナー兼不登校病みヤク中垢(笑)",
+        "name": "きつね🦊💊",
+        "pinned_tweet_id": "2051555936809238947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051555502367383553/reYsMz8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 468,
+          "like_count": 268,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 249
+        },
+        "username": "fox_udon_oksr",
+        "verified": false
+      }
+    ]
+  }
+}

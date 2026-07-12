@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2018450933491892673",
+    "created_at": "2026-02-03T11:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018651628904321424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018651628904321424",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018450933491892673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 正常急救流程开放气道或者建立人工气道，心肺复苏，推注肾上腺素和扩容，肾上腺素可以每几分钟重复1mg，确认o过可以推注纳洛酮和氟马西尼，必要时可以碳酸氢钠纠酸，视情况使用胺碘酮或者除颤，使用肾上腺素本身就是正常急救流程没有错误吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2018450933491892673",
+        "created_at": "2026-02-03T11:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018651628904321424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018651628904321424",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018450933491892673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 正常急救流程开放气道或者建立人工气道，心肺复苏，推注肾上腺素和扩容，肾上腺素可以每几分钟重复1mg，确认o过可以推注纳洛酮和氟马西尼，必要时可以碳酸氢钠纠酸，视情况使用胺碘酮或者除颤，使用肾上腺素本身就是正常急救流程没有错误吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2018450933491892673",
+        "created_at": "2026-02-02T22:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T23:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018450933491892673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018450933491892673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4974,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "凌晨看到大家都在吵，误用肾上腺素救人，最后人死了(更准确地来说是没救活)，到底该不该为此事负责。由于死者的某些瓜，甚至还有人指责她是不尊重生命的人渣\n\n但是，死者对此不该负一点责任吗?知道这么做危险却还要做，死者自身应该负主要责任。就算救人者有责任，你最多骂她蠢、不懂，远不至人渣阿🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 7,
+          "like_count": 1387,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 596
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 792,
+          "like_count": 18449,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 5210
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

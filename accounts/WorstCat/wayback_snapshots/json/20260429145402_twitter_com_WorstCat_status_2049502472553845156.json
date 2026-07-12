@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2049398296452710712",
+    "created_at": "2026-04-29T14:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049502472553845156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600811336010674176",
+          "start": 0,
+          "username": "Chu9w0ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049502472553845156",
+    "in_reply_to_user_id": "1600811336010674176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049398296452710712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu9w0ww pr最好间隔4天吧，这样耐受值增加的很慢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2049398296452710712",
+        "created_at": "2026-04-29T14:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049502472553845156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600811336010674176",
+              "start": 0,
+              "username": "Chu9w0ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049502472553845156",
+        "in_reply_to_user_id": "1600811336010674176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049398296452710712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu9w0ww pr最好间隔4天吧，这样耐受值增加的很慢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600811336010674176",
+        "conversation_id": "2049398296452710712",
+        "created_at": "2026-04-29T08:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049398296452710712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049398296452710712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2691,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实个人感觉pr不太容易产生耐药性\n只需要严格遵守服药前8h+服药后2h空腹即可产生比较理想的效果\n同时，两次服药应间隔48h以上，如果感觉耐药了可以尝试断药7天再服用，间隔7天的效果最好\n最佳剂量8t，再增加药量没有任何意义，只会浪费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 9,
+          "like_count": 3770,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 873
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T11:15:53.000Z",
+        "description": "",
+        "id": "1600811336010674176",
+        "name": "Chu9w0ww",
+        "pinned_tweet_id": "1951923527482790305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653423862753935360/WRP832Lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 33,
+          "like_count": 6391,
+          "listed_count": 13,
+          "media_count": 9,
+          "tweet_count": 58
+        },
+        "username": "Chu9w0ww",
+        "verified": false
+      }
+    ]
+  }
+}

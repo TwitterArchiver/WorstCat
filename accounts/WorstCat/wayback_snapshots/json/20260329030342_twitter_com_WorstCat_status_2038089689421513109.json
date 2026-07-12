@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2038065098644935154",
+    "created_at": "2026-03-29T03:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T04:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038089689421513109"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038089689421513109",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038065098644935154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用企业管理员账号登上了，但是无法使用部分个人功能，包括进出境邮件 快件 旅客通关，另外发现拼多多上香港发货的护肤品也没有进境记录，拼多多让我上传的身份证照片拿去干嘛了?不管9610还是9810都应该有记录的，除非是大飞通关或者深圳发货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2038065098644935154",
+        "created_at": "2026-03-29T03:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038089689421513109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038089689421513109",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038065098644935154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用企业管理员账号登上了，但是无法使用部分个人功能，包括进出境邮件 快件 旅客通关，另外发现拼多多上香港发货的护肤品也没有进境记录，拼多多让我上传的身份证照片拿去干嘛了?不管9610还是9810都应该有记录的，除非是大飞通关或者深圳发货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2038065098644935154",
+        "created_at": "2026-03-29T01:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038065098644935154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038065098644935154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡bug了诶，自从去年注册中国电子口岸企业用户以后，手机号再也无法登录掌上海关app，重新注册也不成功，原来的用户名都没了，我想看看买的白兔有没有报关都看不到🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 7,
+          "like_count": 2540,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 803
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

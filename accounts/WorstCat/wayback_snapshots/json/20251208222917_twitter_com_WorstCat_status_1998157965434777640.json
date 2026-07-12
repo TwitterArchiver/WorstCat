@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998157959810211840"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1998157965434777640",
+    "created_at": "2025-12-08T22:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T23:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998157965434777640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Dqj4VQ2ja",
+          "end": 65,
+          "expanded_url": "https://x.com/WorstCat/status/1998157965434777640/photo/1",
+          "media_key": "3_1998157959810211840",
+          "start": 42,
+          "url": "https://t.co/7Dqj4VQ2ja"
+        },
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/WorstCat/status/1995567489225539883",
+          "start": 66,
+          "url": "https://t.co/Ni51ampmsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998157965434777640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995567489225539883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这一套买了好久了，一直很懒不想动，今天才泡碱水去油清洗，洗碗机坏了洗什么都好麻烦🥺 https://t.co/7Dqj4VQ2ja https://t.co/Ni51ampmsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1998157959810211840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7riE-ebYAAmGTS.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1995567483131179008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GuDY1asAAw6ic.jpg",
+        "width": 2327
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998157959810211840"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1998157965434777640",
+        "created_at": "2025-12-08T22:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T23:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998157965434777640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Dqj4VQ2ja",
+              "end": 65,
+              "expanded_url": "https://x.com/WorstCat/status/1998157965434777640/photo/1",
+              "media_key": "3_1998157959810211840",
+              "start": 42,
+              "url": "https://t.co/7Dqj4VQ2ja"
+            },
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/WorstCat/status/1995567489225539883",
+              "start": 66,
+              "url": "https://t.co/Ni51ampmsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998157965434777640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995567489225539883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一套买了好久了，一直很懒不想动，今天才泡碱水去油清洗，洗碗机坏了洗什么都好麻烦🥺 https://t.co/7Dqj4VQ2ja https://t.co/Ni51ampmsR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995567483131179008"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995567489225539883",
+        "created_at": "2025-12-01T18:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T19:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995567489225539883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNOBNYHMLF",
+              "end": 113,
+              "expanded_url": "https://x.com/WorstCat/status/1995567489225539883/photo/1",
+              "media_key": "3_1995567483131179008",
+              "start": 90,
+              "url": "https://t.co/TNOBNYHMLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995567489225539883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6022,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又买了几把单独的器械，打算灭菌个简易缝合包备用，不和平时用的那一堆器械混用，简易包每15天高压蒸汽灭菌一次，万一哪天割的太开心收不住，还能自己10分钟内准备好缝回去继续当乖猫呢🥺 https://t.co/TNOBNYHMLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你2.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 7,
+          "like_count": 873,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 362
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2007630862012293179",
+    "created_at": "2026-01-04T05:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T06:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007685749483942161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1778301554984124416",
+          "start": 0,
+          "username": "DopamineProzac"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Please excuse the bad 3d printing job. My PETG isn't very good (the purple PETG) and it wasn't completely dry.I used the following to make these:Purple PETG for cheekplates and spring.Black Carbon Fiber PETG (3DXTech, much better than the purple that I have) for shackle and pawl.Blue PLA+ for everything else (could be other materials, but I didn't want to reprint anything. The double lock bar should be of something somewhat flexible though.)14 M2x20mm flat head screws 2 M2x16mm flat head screws for key pin16 M2 nuts2 M4x20mm screws2 M4 nuts1 M4 swivel such as this.A metal handcuff key, of course. :)I didn't use supports on anything except the shackle to preserve the chamfer at the end. You'll need to mirror the parts in your slicer to make the other cuff.I plan to redesign these so that the swivel can't be levered against the retention mechanism.",
+          "display_url": "thingiverse.com/thing:6478581",
+          "end": 76,
+          "expanded_url": "https://www.thingiverse.com/thing:6478581",
+          "images": [
+            {
+              "height": 472,
+              "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=orig",
+              "width": 628
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "Handcuffs by WebCatX",
+          "unwound_url": "https://www.thingiverse.com/thing:6478581",
+          "url": "https://t.co/ro6fzgE4cR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007685749483942161",
+    "in_reply_to_user_id": "1778301554984124416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007681359708627055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DopamineProzac Handcuffs by WebCatX on Thingiverse: https://t.co/ro6fzgE4cR\n这个是作者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2007630862012293179",
+        "created_at": "2026-01-04T05:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007685749483942161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1778301554984124416",
+              "start": 0,
+              "username": "DopamineProzac"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Please excuse the bad 3d printing job. My PETG isn't very good (the purple PETG) and it wasn't completely dry.I used the following to make these:Purple PETG for cheekplates and spring.Black Carbon Fiber PETG (3DXTech, much better than the purple that I have) for shackle and pawl.Blue PLA+ for everything else (could be other materials, but I didn't want to reprint anything. The double lock bar should be of something somewhat flexible though.)14 M2x20mm flat head screws 2 M2x16mm flat head screws for key pin16 M2 nuts2 M4x20mm screws2 M4 nuts1 M4 swivel such as this.A metal handcuff key, of course. :)I didn't use supports on anything except the shackle to preserve the chamfer at the end. You'll need to mirror the parts in your slicer to make the other cuff.I plan to redesign these so that the swivel can't be levered against the retention mechanism.",
+              "display_url": "thingiverse.com/thing:6478581",
+              "end": 76,
+              "expanded_url": "https://www.thingiverse.com/thing:6478581",
+              "images": [
+                {
+                  "height": 472,
+                  "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=orig",
+                  "width": 628
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "Handcuffs by WebCatX",
+              "unwound_url": "https://www.thingiverse.com/thing:6478581",
+              "url": "https://t.co/ro6fzgE4cR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007685749483942161",
+        "in_reply_to_user_id": "1778301554984124416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007681359708627055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DopamineProzac Handcuffs by WebCatX on Thingiverse: https://t.co/ro6fzgE4cR\n这个是作者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778301554984124416",
+        "conversation_id": "2007630862012293179",
+        "created_at": "2026-01-04T05:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T06:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007681359708627055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007681359708627055",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007630862012293179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 自己做的么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 7,
+          "like_count": 1604,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 477
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T05:58:37.000Z",
+        "description": "",
+        "id": "1778301554984124416",
+        "name": "Dopamine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778301800975925248/ScyWyAxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 149,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 138
+        },
+        "username": "DopamineProzac",
+        "verified": false
+      }
+    ]
+  }
+}

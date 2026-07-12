@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2035693605021757723",
+    "created_at": "2026-03-23T21:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036189248278372778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "Kikunashi30712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036189248278372778",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035693605021757723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikunashi30712 真的话去医院公众号截图电子处方 病历 支付记录，用老年头像，桃子莲藕九州通也会直接开的，多多用月卡金币13%抵扣，京东用省钱卡红包+券，淘宝用淘金币大额抵扣+省钱卡 或者签到红包，美团直接买就是29两盒ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2035693605021757723",
+        "created_at": "2026-03-23T21:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036189248278372778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "Kikunashi30712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036189248278372778",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035693605021757723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikunashi30712 真的话去医院公众号截图电子处方 病历 支付记录，用老年头像，桃子莲藕九州通也会直接开的，多多用月卡金币13%抵扣，京东用省钱卡红包+券，淘宝用淘金币大额抵扣+省钱卡 或者签到红包，美团直接买就是29两盒ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "2035693605021757723",
+        "created_at": "2026-03-22T12:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035693605021757723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035693605021757723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7081,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你们买pr80的真的够了我拿着真处方也是真一点都开不出来了\n拍张照说我凭证无效就算了 老娘还拍了个视频拿着处方晃了晃给他看都不给开是药剂吧干啥\n而且我真他妈不是拿来o的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 7,
+          "like_count": 2406,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 794
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kikunashi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kikunashi",
+                "start": 0,
+                "url": "https://t.co/5udd6ZSL5y"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015768177091936256/sDXcJM8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 209,
+          "like_count": 24643,
+          "listed_count": 3,
+          "media_count": 672,
+          "tweet_count": 13492
+        },
+        "url": "https://t.co/5udd6ZSL5y",
+        "username": "Kikunashi30712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047950382207479810"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2047950385491689828",
+    "created_at": "2026-04-25T08:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047950385491689828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8QcFpjOnFx",
+          "end": 101,
+          "expanded_url": "https://x.com/WorstCat/status/2047950385491689828/photo/1",
+          "media_key": "3_2047950382207479810",
+          "start": 78,
+          "url": "https://t.co/8QcFpjOnFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047950385491689828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然发现欧可平也是抑制cyp3a4的，加上它是强大的nk1止吐效果好又能和5ht3司琼类的联用，感觉像是挺好的玉米伴侣，现在看到水溶c就想吐ꉂ(ˊᗜˋ*) https://t.co/8QcFpjOnFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2047950382207479810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvIBakaMAIj1-J.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047950382207479810"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2047950385491689828",
+        "created_at": "2026-04-25T08:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047950385491689828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QcFpjOnFx",
+              "end": 101,
+              "expanded_url": "https://x.com/WorstCat/status/2047950385491689828/photo/1",
+              "media_key": "3_2047950382207479810",
+              "start": 78,
+              "url": "https://t.co/8QcFpjOnFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047950385491689828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现欧可平也是抑制cyp3a4的，加上它是强大的nk1止吐效果好又能和5ht3司琼类的联用，感觉像是挺好的玉米伴侣，现在看到水溶c就想吐ꉂ(ˊᗜˋ*) https://t.co/8QcFpjOnFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 8,
+          "like_count": 3415,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 805
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

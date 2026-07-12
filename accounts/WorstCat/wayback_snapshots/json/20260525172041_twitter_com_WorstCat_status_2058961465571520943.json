@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058427926497161562",
+    "created_at": "2026-05-25T17:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058961465571520943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898080033740292096",
+          "start": 0,
+          "username": "wuzidigua"
+        },
+        {
+          "end": 19,
+          "id": "1695314246735892480",
+          "start": 11,
+          "username": "szfx123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058961465571520943",
+    "in_reply_to_user_id": "1898080033740292096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058833014994456884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuzidigua @szfx123 Σ( ° △ °|||)︴盯着看就过分了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058427926497161562",
+        "created_at": "2026-05-25T17:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058961465571520943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898080033740292096",
+              "start": 0,
+              "username": "wuzidigua"
+            },
+            {
+              "end": 19,
+              "id": "1695314246735892480",
+              "start": 11,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058961465571520943",
+        "in_reply_to_user_id": "1898080033740292096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058833014994456884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuzidigua @szfx123 Σ( ° △ °|||)︴盯着看就过分了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898080033740292096",
+        "conversation_id": "2058427926497161562",
+        "created_at": "2026-05-25T08:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058833014994456884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 18,
+              "id": "1695314246735892480",
+              "start": 10,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058833014994456884",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058819776458432720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @szfx123 她就搬了把椅子坐在门口看我表演……\n我那时没有正经绳子，用的是一卷松紧带，所以左右扭扭就褪下去了，可以不看到绳子飞舞……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3028,
+          "following_count": 22,
+          "like_count": 6566,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1234
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T18:35:58.000Z",
+        "description": "",
+        "id": "1898080033740292096",
+        "name": "无糖地瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919890767285235712/zCv_18bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 183,
+          "like_count": 3762,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 935
+        },
+        "username": "wuzidigua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 148,
+          "like_count": 9362,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 338
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

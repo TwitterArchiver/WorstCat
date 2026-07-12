@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1989974382069125532",
+    "created_at": "2025-11-16T08:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T09:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989974382069125532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989974382069125532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遇到一个120好医生，o多以后经常被照顾包扎投喂，直到他被外派偏远地区义诊，回来找不到我最后在戒毒所找到了我还愿意调岗来🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1989974382069125532",
+        "created_at": "2025-11-16T08:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T09:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989974382069125532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989974382069125532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到一个120好医生，o多以后经常被照顾包扎投喂，直到他被外派偏远地区义诊，回来找不到我最后在戒毒所找到了我还愿意调岗来🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 6,
+          "like_count": 274,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 202
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

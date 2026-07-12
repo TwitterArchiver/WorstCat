@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2026140876410700006",
+    "created_at": "2026-02-24T08:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026211394509746602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026211394509746602",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026140876410700006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska 这个超微剂量是什么单位呢，ug还是ng，从拨动flna到封死mor的平衡点怎么把握呢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2026140876410700006",
+        "created_at": "2026-02-24T08:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026211394509746602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026211394509746602",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026140876410700006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 这个超微剂量是什么单位呢，ug还是ng，从拨动flna到封死mor的平衡点怎么把握呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2026140876410700006",
+        "created_at": "2026-02-24T03:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026140876410700006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/prechaska/status/2026139241408016870",
+              "start": 155,
+              "url": "https://t.co/9WwWkS5ZoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026140876410700006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 120,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026139241408016870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其中，在MOR招募G蛋白时，正是FLNA作为一种细胞骨架蛋白协助稳定MOR和抑制性G蛋白Gi/o的结合，而长期滥用阿片导致的耐受和戒断可以被解释为FLNA发生了改变使MOR更优先和兴奋性的Gs结合，导致与抑制相反的痛觉敏化。而“超微剂量纳曲酮能够降低耐受减轻戒断反应”就是在这里发挥作用，通过优先与FLNA的 https://t.co/9WwWkS5ZoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2667,
+          "following_count": 7,
+          "like_count": 1909,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 714
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 119,
+          "like_count": 2321,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1424
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

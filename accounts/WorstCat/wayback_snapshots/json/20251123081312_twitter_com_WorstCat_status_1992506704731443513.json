@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1992296868286705940",
+    "created_at": "2025-11-23T08:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992506704731443513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1881389527404826625",
+          "start": 0,
+          "username": "Elc3Ww4Pu553611"
+        },
+        {
+          "end": 28,
+          "id": "1974688655513096192",
+          "start": 17,
+          "username": "lin_dialog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992506704731443513",
+    "in_reply_to_user_id": "1881389527404826625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992500676816220565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elc3Ww4Pu553611 @lin_dialog gemini是偏执狂诶，最后拒绝回答问题只会整段的复读很讨厌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1992296868286705940",
+        "created_at": "2025-11-23T08:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992506704731443513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1881389527404826625",
+              "start": 0,
+              "username": "Elc3Ww4Pu553611"
+            },
+            {
+              "end": 28,
+              "id": "1974688655513096192",
+              "start": 17,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992506704731443513",
+        "in_reply_to_user_id": "1881389527404826625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992500676816220565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elc3Ww4Pu553611 @lin_dialog gemini是偏执狂诶，最后拒绝回答问题只会整段的复读很讨厌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881389527404826625",
+        "conversation_id": "1992296868286705940",
+        "created_at": "2025-11-23T07:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992500676816220565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 21,
+              "id": "1974688655513096192",
+              "start": 10,
+              "username": "lin_dialog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992500676816220565",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992496412995748153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @lin_dialog 不如去玩gemini3 刚升级没有降智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 7,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 274
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T17:14:05.000Z",
+        "description": "人若不为形所累，眼前便是大罗天。",
+        "id": "1881389527404826625",
+        "name": "清尘墨雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991669632042954756/g0wNRSFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 34,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "Elc3Ww4Pu553611",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 17 they/them｜shedtwt odtwt｜bmi16.9 (o^^o) ♡｜need more moots!｜抽烟喝酒自残od｜LGBTQ+🏳️‍🌈全友好^^｜查成分回fo｜单机转线上 尝试恢复社交能力中…",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "1989295399740510238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 133,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 450
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

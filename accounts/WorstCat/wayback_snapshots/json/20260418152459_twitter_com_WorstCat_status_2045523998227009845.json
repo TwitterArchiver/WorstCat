@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2045523998227009845",
+    "created_at": "2026-04-18T15:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045523998227009845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045523998227009845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦里干爹带我出去玩，走路太急把昂丹司琼撒了一地，旁边药店卖的一粒有瓶盖那么大吃不了，把我气的想哭🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2045523998227009845",
+        "created_at": "2026-04-18T15:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045523998227009845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045523998227009845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦里干爹带我出去玩，走路太急把昂丹司琼撒了一地，旁边药店卖的一粒有瓶盖那么大吃不了，把我气的想哭🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 6,
+          "like_count": 3077,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 784
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

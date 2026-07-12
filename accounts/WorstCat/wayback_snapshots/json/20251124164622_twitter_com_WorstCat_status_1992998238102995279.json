@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1992857138595791330",
+    "created_at": "2025-11-24T16:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992998238102995279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "728537952",
+          "start": 0,
+          "username": "qwer_1234443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992998238102995279",
+    "in_reply_to_user_id": "728537952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992983140647002208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwer_1234443 你要是有平台优惠最低应该是14.92"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1992857138595791330",
+        "created_at": "2025-11-24T16:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992998238102995279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "728537952",
+              "start": 0,
+              "username": "qwer_1234443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992998238102995279",
+        "in_reply_to_user_id": "728537952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992983140647002208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwer_1234443 你要是有平台优惠最低应该是14.92"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "728537952",
+        "conversation_id": "1992857138595791330",
+        "created_at": "2025-11-24T15:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992983140647002208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992983140647002208",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992857138595791330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 居然只要19.9-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 7,
+          "like_count": 489,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 292
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-31T14:43:52.000Z",
+        "description": "",
+        "id": "728537952",
+        "name": "WqW_123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527824705931350016/Mq_Dzv3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 60,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "qwer_1234443",
+        "verified": false
+      }
+    ]
+  }
+}

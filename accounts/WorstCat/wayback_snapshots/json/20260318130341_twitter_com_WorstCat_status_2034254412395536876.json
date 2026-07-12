@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2034254397140791296"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2034250218506793121",
+    "created_at": "2026-03-18T13:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T14:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034254412395536876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g230Pytdy7",
+          "end": 93,
+          "expanded_url": "https://x.com/WorstCat/status/2034254412395536876/photo/1",
+          "media_key": "16_2034254397140791296",
+          "start": 70,
+          "url": "https://t.co/g230Pytdy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034254412395536876",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034250218506793121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一向玩不起的垃圾银行，被限额5万的金葵花，问我什么工作一个月流水那么多，我说财务，还让多存才给调限额，要不要同行代发手续费低就注销了😡 https://t.co/g230Pytdy7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2034254397140791296",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDsfmKRacAAISol.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDsfmKRacAAISol.mp4"
+          }
+        ],
+        "width": 240
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2034250215524564992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsbywiagAAjnTs.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2034254397140791296"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2034250218506793121",
+        "created_at": "2026-03-18T13:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034254412395536876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g230Pytdy7",
+              "end": 93,
+              "expanded_url": "https://x.com/WorstCat/status/2034254412395536876/photo/1",
+              "media_key": "16_2034254397140791296",
+              "start": 70,
+              "url": "https://t.co/g230Pytdy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034254412395536876",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034250218506793121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一向玩不起的垃圾银行，被限额5万的金葵花，问我什么工作一个月流水那么多，我说财务，还让多存才给调限额，要不要同行代发手续费低就注销了😡 https://t.co/g230Pytdy7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034250215524564992"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2034250218506793121",
+        "created_at": "2026-03-18T12:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034250218506793121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvhyZ8gusE",
+              "end": 105,
+              "expanded_url": "https://x.com/WorstCat/status/2034250218506793121/photo/1",
+              "media_key": "3_2034250215524564992",
+              "start": 82,
+              "url": "https://t.co/tvhyZ8gusE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034250218506793121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "工行被9921非柜以后，中行日限额被限到1万，提了3次才到20，工行说对方账户问题，中行什么也不说，到底哪个谁账户有问题给我转账连累了我Σ( ° △ °|||)︴ https://t.co/tvhyZ8gusE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 7,
+          "like_count": 2303,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 782
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

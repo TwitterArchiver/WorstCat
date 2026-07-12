@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022724064029347842",
+        "3_2022724062791995392"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2022724069070909664",
+    "created_at": "2026-02-14T17:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022724069070909664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlfCA3RsDY",
+          "end": 63,
+          "expanded_url": "https://x.com/WorstCat/status/2022724069070909664/photo/1",
+          "media_key": "3_2022724064029347842",
+          "start": 40,
+          "url": "https://t.co/zlfCA3RsDY"
+        },
+        {
+          "display_url": "pic.x.com/zlfCA3RsDY",
+          "end": 63,
+          "expanded_url": "https://x.com/WorstCat/status/2022724069070909664/photo/1",
+          "media_key": "3_2022724062791995392",
+          "start": 40,
+          "url": "https://t.co/zlfCA3RsDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022724069070909664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "微量泵的说明书说严禁用泵的充电器给手机充电会弄坏手机，所以想换手机了就用这个呗 https://t.co/zlfCA3RsDY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2022724064029347842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIo0cMakAISzYY.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2022724062791995392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIo0XlaEAA2bNj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022724064029347842",
+            "3_2022724062791995392"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2022724069070909664",
+        "created_at": "2026-02-14T17:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022724069070909664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlfCA3RsDY",
+              "end": 63,
+              "expanded_url": "https://x.com/WorstCat/status/2022724069070909664/photo/1",
+              "media_key": "3_2022724064029347842",
+              "start": 40,
+              "url": "https://t.co/zlfCA3RsDY"
+            },
+            {
+              "display_url": "pic.x.com/zlfCA3RsDY",
+              "end": 63,
+              "expanded_url": "https://x.com/WorstCat/status/2022724069070909664/photo/1",
+              "media_key": "3_2022724062791995392",
+              "start": 40,
+              "url": "https://t.co/zlfCA3RsDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022724069070909664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微量泵的说明书说严禁用泵的充电器给手机充电会弄坏手机，所以想换手机了就用这个呗 https://t.co/zlfCA3RsDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 7,
+          "like_count": 1616,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 651
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

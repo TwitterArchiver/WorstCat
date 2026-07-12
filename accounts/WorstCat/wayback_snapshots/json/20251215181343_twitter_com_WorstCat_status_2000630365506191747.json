@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2000436773210738829",
+    "created_at": "2025-12-15T18:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T19:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000630365506191747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982052343110840320",
+          "start": 0,
+          "username": "Snegur0chk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000630365506191747",
+    "in_reply_to_user_id": "1982052343110840320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000628899206873256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snegur0chk pr80自己打印的就能用，不可能列管的神经痛一线用药，最多就是网络禁售，但是依然可以用预约留药的模式卖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2000436773210738829",
+        "created_at": "2025-12-15T18:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T19:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000630365506191747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982052343110840320",
+              "start": 0,
+              "username": "Snegur0chk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000630365506191747",
+        "in_reply_to_user_id": "1982052343110840320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000628899206873256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snegur0chk pr80自己打印的就能用，不可能列管的神经痛一线用药，最多就是网络禁售，但是依然可以用预约留药的模式卖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982052343110840320",
+        "conversation_id": "2000436773210738829",
+        "created_at": "2025-12-15T18:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T19:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000628899206873256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000628899206873256",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000628306362970506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 你这话给14岁的我说我真会当真去试试 我看着右美被封  普瑞严查  我一粒都没吃过   心里一百个mmp   \n有点钱全他妈买晚安和美金刚了  便宜啊   我在我装性玩具的箱子里都能找到一瓶晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 7,
+          "like_count": 1089,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 403
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T11:51:36.000Z",
+        "description": "",
+        "id": "1982052343110840320",
+        "name": "Snegurochka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989554384880242689/VVb0X7cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "Snegur0chk",
+        "verified": false
+      }
+    ]
+  }
+}

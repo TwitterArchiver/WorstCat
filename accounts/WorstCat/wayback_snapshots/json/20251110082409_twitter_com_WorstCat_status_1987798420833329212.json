@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987798415582060544"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1987798420833329212",
+    "created_at": "2025-11-10T08:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T09:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987798420833329212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t1nv1l3x91",
+          "end": 77,
+          "expanded_url": "https://x.com/WorstCat/status/1987798420833329212/photo/1",
+          "media_key": "3_1987798415582060544",
+          "start": 54,
+          "url": "https://t.co/t1nv1l3x91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987798420833329212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种小杯子好讨厌会自己乱跑，卖大杯子的神经卖家每次拍透明的发黑的，拍黑的还是发黑的，总是得换一次才给正确的 https://t.co/t1nv1l3x91"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1987798415582060544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YUII3aYAALpND.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987798415582060544"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987798420833329212",
+        "created_at": "2025-11-10T08:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987798420833329212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1nv1l3x91",
+              "end": 77,
+              "expanded_url": "https://x.com/WorstCat/status/1987798420833329212/photo/1",
+              "media_key": "3_1987798415582060544",
+              "start": 54,
+              "url": "https://t.co/t1nv1l3x91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987798420833329212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种小杯子好讨厌会自己乱跑，卖大杯子的神经卖家每次拍透明的发黑的，拍黑的还是发黑的，总是得换一次才给正确的 https://t.co/t1nv1l3x91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 3,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 121
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

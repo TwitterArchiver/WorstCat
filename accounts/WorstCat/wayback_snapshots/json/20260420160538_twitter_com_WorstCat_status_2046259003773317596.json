@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2046070584812114346",
+    "created_at": "2026-04-20T16:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046259003773317596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1899000381830524928",
+          "start": 0,
+          "username": "BillrealChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046259003773317596",
+    "in_reply_to_user_id": "1899000381830524928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046207773676089676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BillrealChinese 对呀，eve只是布洛芬+咖啡因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2046070584812114346",
+        "created_at": "2026-04-20T16:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046259003773317596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1899000381830524928",
+              "start": 0,
+              "username": "BillrealChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046259003773317596",
+        "in_reply_to_user_id": "1899000381830524928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046207773676089676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BillrealChinese 对呀，eve只是布洛芬+咖啡因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899000381830524928",
+        "conversation_id": "2046070584812114346",
+        "created_at": "2026-04-20T12:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046207773676089676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046207773676089676",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046070584812114346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 止痛效果超过eve止痛药吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 6,
+          "like_count": 3133,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 796
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T07:32:41.000Z",
+        "description": "",
+        "id": "1899000381830524928",
+        "name": "BAo Yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913063767560331264/0n01isXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 159,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 363
+        },
+        "username": "BillrealChinese",
+        "verified": false
+      }
+    ]
+  }
+}

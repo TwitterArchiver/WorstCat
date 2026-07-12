@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2025128796488433975",
+    "created_at": "2026-02-22T06:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025458337073258998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916824571128287232",
+          "start": 0,
+          "username": "Spr1ngWlnd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025458337073258998",
+    "in_reply_to_user_id": "1916824571128287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025128796488433975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spr1ngWlnd 不能o也不是钓鱼，医药公司和小医院用诊所资质，通过便民买药 预约留药模式零售药品，和各地互联网医院在线开方是一个时期遗留的便民服务，方便小诊所特别是牙科 耳鼻喉和美容诊所 以及居家零星少量购药，dex 丙泊 肾上 去甲 异丙 纳洛酮都是不列管的普通处方药，也没有滥用的价值自己用没人照护还危险"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2025128777551151108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqz5MJbgAQ2yXJ.jpg",
+        "width": 720
+      },
+      {
+        "height": 1344,
+        "media_key": "3_2025128777555345410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqz5MKbgAIvJ4B.jpg",
+        "width": 720
+      },
+      {
+        "height": 1147,
+        "media_key": "3_2025128778801016832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqz5Qza8AAMIxP.jpg",
+        "width": 720
+      },
+      {
+        "height": 1099,
+        "media_key": "3_2025128779384029184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqz5S-bAAA-J1r.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2025128796488433975",
+        "created_at": "2026-02-22T06:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025458337073258998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "Spr1ngWlnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025458337073258998",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025128796488433975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spr1ngWlnd 不能o也不是钓鱼，医药公司和小医院用诊所资质，通过便民买药 预约留药模式零售药品，和各地互联网医院在线开方是一个时期遗留的便民服务，方便小诊所特别是牙科 耳鼻喉和美容诊所 以及居家零星少量购药，dex 丙泊 肾上 去甲 异丙 纳洛酮都是不列管的普通处方药，也没有滥用的价值自己用没人照护还危险"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025128777551151108",
+            "3_2025128777555345410",
+            "3_2025128778801016832",
+            "3_2025128779384029184"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2025128796488433975",
+        "created_at": "2026-02-21T08:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025128796488433975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rAw20todsZ",
+              "end": 47,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025128796488433975/photo/1",
+              "media_key": "3_2025128777551151108",
+              "start": 24,
+              "url": "https://t.co/rAw20todsZ"
+            },
+            {
+              "display_url": "pic.x.com/rAw20todsZ",
+              "end": 47,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025128796488433975/photo/1",
+              "media_key": "3_2025128777555345410",
+              "start": 24,
+              "url": "https://t.co/rAw20todsZ"
+            },
+            {
+              "display_url": "pic.x.com/rAw20todsZ",
+              "end": 47,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025128796488433975/photo/1",
+              "media_key": "3_2025128778801016832",
+              "start": 24,
+              "url": "https://t.co/rAw20todsZ"
+            },
+            {
+              "display_url": "pic.x.com/rAw20todsZ",
+              "end": 47,
+              "expanded_url": "https://x.com/Spr1ngWlnd/status/2025128796488433975/photo/1",
+              "media_key": "3_2025128779384029184",
+              "start": 24,
+              "url": "https://t.co/rAw20todsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025128796488433975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15348,
+          "like_count": 86,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "牛奶 肾上腺素 纳洛酮 右美托咪定\n上架京东了 https://t.co/rAw20todsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 7,
+          "like_count": 1833,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 695
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "谨以此号，纪念我的童年，那是一段小有遗憾的幸福时光...",
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "Spring风#物质研究",
+        "pinned_tweet_id": "2023996995975684451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 57,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 57
+        },
+        "username": "Spr1ngWlnd",
+        "verified": false
+      }
+    ]
+  }
+}

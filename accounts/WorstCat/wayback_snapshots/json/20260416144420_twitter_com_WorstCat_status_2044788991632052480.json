@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2044726655101604176",
+    "created_at": "2026-04-16T14:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044788991632052480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044788991632052480",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044726655101604176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 全科门诊点菜呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2044726655101604176",
+        "created_at": "2026-04-16T14:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044788991632052480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044788991632052480",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044726655101604176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 全科门诊点菜呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2044726655101604176",
+        "created_at": "2026-04-16T10:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044726655101604176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044726655101604176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2454,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在好了网上买不到普瑞巴林了，有没有可能我真有神经痛，每次睡前如果洗头发没吹干净第二天就会头痛，之前吃普瑞巴林+谷维素+维生素B1的，现在只能吃布洛芬了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 6,
+          "like_count": 3028,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 773
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "是初中生！^ω^ 目前在准备中考\n\n@hobartr6 猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "hobartr6"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🇯🇵🍥🍬私信→",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040727260039352320/FmBMGIu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 792,
+          "like_count": 3378,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

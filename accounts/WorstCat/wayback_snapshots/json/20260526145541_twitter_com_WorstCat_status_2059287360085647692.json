@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059287135480672256"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2059287360085647692",
+    "created_at": "2026-05-26T14:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059287360085647692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vH3W74BUtq",
+          "end": 38,
+          "expanded_url": "https://x.com/WorstCat/status/2059287360085647692/photo/1",
+          "media_key": "3_2059287135480672256",
+          "start": 15,
+          "url": "https://t.co/vH3W74BUtq"
+        },
+        {
+          "display_url": "x.com/TweetsOfHamste…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/TweetsOfHamster/status/2059123859039924679",
+          "start": 39,
+          "url": "https://t.co/WuadqnGIKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059287360085647692",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059123859039924679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇哇哇蜜雪冰鼠鼠王耶ᓚᘏᕗ、 https://t.co/vH3W74BUtq https://t.co/WuadqnGIKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2059287135480672256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQOvTjbcAAK2Ri.jpg",
+        "width": 901
+      },
+      {
+        "duration_ms": 5333,
+        "height": 934,
+        "media_key": "7_2059123848382185472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059123848382185472/pu/img/fn381nal6CaIKllc.jpg",
+        "public_metrics": {
+          "view_count": 15235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059123848382185472/pu/vid/avc1/320x426/ZBTgzmpgUwrfQbvE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059123848382185472/pu/vid/avc1/480x640/vC081aynFtl_Ldml.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059123848382185472/pu/vid/avc1/700x934/hu04wsq0mblOX_4y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059123848382185472/pu/pl/ULHswJk7ZdSojNMk.m3u8"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059287135480672256"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2059287360085647692",
+        "created_at": "2026-05-26T14:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059287360085647692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vH3W74BUtq",
+              "end": 38,
+              "expanded_url": "https://x.com/WorstCat/status/2059287360085647692/photo/1",
+              "media_key": "3_2059287135480672256",
+              "start": 15,
+              "url": "https://t.co/vH3W74BUtq"
+            },
+            {
+              "display_url": "x.com/TweetsOfHamste…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/TweetsOfHamster/status/2059123859039924679",
+              "start": 39,
+              "url": "https://t.co/WuadqnGIKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059287360085647692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059123859039924679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇哇哇蜜雪冰鼠鼠王耶ᓚᘏᕗ、 https://t.co/vH3W74BUtq https://t.co/WuadqnGIKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059123848382185472"
+          ]
+        },
+        "author_id": "1756337790760124416",
+        "conversation_id": "2059123859039924679",
+        "created_at": "2026-05-26T04:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059123859039924679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wpm8hYtyvF",
+              "end": 23,
+              "expanded_url": "https://x.com/TweetsOfHamster/status/2059123859039924679/video/1",
+              "media_key": "7_2059123848382185472",
+              "start": 0,
+              "url": "https://t.co/wpm8hYtyvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059123859039924679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 56331,
+          "like_count": 2891,
+          "quote_count": 21,
+          "reply_count": 2,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wpm8hYtyvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 22,
+          "like_count": 6737,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 1260
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T15:22:51.000Z",
+        "description": "Tweeting all things mouse hamster!",
+        "id": "1756337790760124416",
+        "location": "🐹",
+        "name": "Tweets Of Hamster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913121909853868032/Az1xvA7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111988,
+          "following_count": 11,
+          "like_count": 27237,
+          "listed_count": 322,
+          "media_count": 18960,
+          "tweet_count": 21036
+        },
+        "username": "TweetsOfHamster",
+        "verified": true
+      }
+    ]
+  }
+}

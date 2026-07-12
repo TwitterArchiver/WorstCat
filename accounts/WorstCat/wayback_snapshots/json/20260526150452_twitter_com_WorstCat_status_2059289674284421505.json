@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2059283217497403521",
+    "created_at": "2026-05-26T15:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059289674284421505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059289674284421505",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059289258322694213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ 很好奇…鱼鱼的paco2中度增加也会有神经系统快感吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2059283217497403521",
+        "created_at": "2026-05-26T15:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059289674284421505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059289674284421505",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059289258322694213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ 很好奇…鱼鱼的paco2中度增加也会有神经系统快感吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350788438300114952",
+        "conversation_id": "2059283217497403521",
+        "created_at": "2026-05-26T15:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059289258322694213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059289258322694213",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059288113076453852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 开着啦开着啦 今天它们跳缸就是因为换了个增氧机然后它突然不运作了 我现在又换回旧的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 22,
+          "like_count": 6737,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 1263
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我总有一天会想起来编辑这个bio的！",
+        "id": "1350788438300114952",
+        "name": "小r换个名字吧先",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 242,
+          "like_count": 2166,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 826
+        },
+        "username": "Meeeauw_",
+        "verified": false
+      }
+    ]
+  }
+}

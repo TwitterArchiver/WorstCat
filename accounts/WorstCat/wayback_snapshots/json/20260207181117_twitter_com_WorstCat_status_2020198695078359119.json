@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2017903489729638448",
+    "created_at": "2026-02-07T18:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T19:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020198695078359119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465204975919849473",
+          "start": 0,
+          "username": "fangruiqi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020198695078359119",
+    "in_reply_to_user_id": "1465204975919849473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020186664837279847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangruiqi1 这个是小厂的便宜呀有活动不到两千，迈瑞 宝莱特 理邦的要五六千起，二手的都是用了很多年修过的拼好机，几百到几千都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2017903489729638448",
+        "created_at": "2026-02-07T18:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T19:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020198695078359119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465204975919849473",
+              "start": 0,
+              "username": "fangruiqi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020198695078359119",
+        "in_reply_to_user_id": "1465204975919849473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020186664837279847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangruiqi1 这个是小厂的便宜呀有活动不到两千，迈瑞 宝莱特 理邦的要五六千起，二手的都是用了很多年修过的拼好机，几百到几千都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465204975919849473",
+        "conversation_id": "2017903489729638448",
+        "created_at": "2026-02-07T17:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020186664837279847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020186664837279847",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017903489729638448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 一台多少马内呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 7,
+          "like_count": 1519,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 623
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T06:24:47.000Z",
+        "description": "最爱导尿",
+        "id": "1465204975919849473",
+        "name": "Fulutsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559055169072930816/xcwI0T_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 476,
+          "like_count": 99,
+          "listed_count": 8,
+          "media_count": 2,
+          "tweet_count": 161
+        },
+        "username": "fangruiqi1",
+        "verified": false
+      }
+    ]
+  }
+}

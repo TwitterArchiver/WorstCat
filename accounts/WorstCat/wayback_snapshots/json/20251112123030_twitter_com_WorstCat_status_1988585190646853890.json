@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1988475625154507099",
+    "created_at": "2025-11-12T12:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988585190646853890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971612341600206848",
+          "start": 0,
+          "username": "bk_ga31843bnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988585190646853890",
+    "in_reply_to_user_id": "1971612341600206848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988475625154507099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bk_ga31843bnb 天冷了神经性头疼没看清说明书吃的太多了，没有自伤想法也不想伤害别人伤口是很久之前的，回答要冷静安静陈述，不要激动不要骂人，不然小心转封闭🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1988475625154507099",
+        "created_at": "2025-11-12T12:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988585190646853890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971612341600206848",
+              "start": 0,
+              "username": "bk_ga31843bnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988585190646853890",
+        "in_reply_to_user_id": "1971612341600206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988475625154507099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bk_ga31843bnb 天冷了神经性头疼没看清说明书吃的太多了，没有自伤想法也不想伤害别人伤口是很久之前的，回答要冷静安静陈述，不要激动不要骂人，不然小心转封闭🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971612341600206848",
+        "conversation_id": "1988475625154507099",
+        "created_at": "2025-11-12T05:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988475625154507099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988475625154507099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1286,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊卧槽我吃太多药我进icu了。医院还报警了 说我吃那么多是吸毒 我只是头疼而已😭🥺❓❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 3,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 144
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T16:26:39.000Z",
+        "description": "",
+        "id": "1971612341600206848",
+        "location": "天堂",
+        "name": "亞不拉鼠",
+        "pinned_tweet_id": "1988505731927339030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987360801301405699/sMbJqs2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 102,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 194
+        },
+        "username": "bk_ga31843bnb",
+        "verified": false
+      }
+    ]
+  }
+}

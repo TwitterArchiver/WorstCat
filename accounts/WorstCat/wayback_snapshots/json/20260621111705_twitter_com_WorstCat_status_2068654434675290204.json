@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2068414245352661003",
+    "created_at": "2026-06-21T11:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068654434675290204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068654434675290204",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068414245352661003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 喵生如戏全靠演技 (&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2068414245352661003",
+        "created_at": "2026-06-21T11:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068654434675290204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068654434675290204",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068414245352661003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 喵生如戏全靠演技 (&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2068414245352661003",
+        "created_at": "2026-06-20T19:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068414245352661003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068414245352661003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1589,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们羟考酮和曲马多怎么开到的_(:з」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 33,
+          "like_count": 9377,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1461
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2065286836793061621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1121,
+          "like_count": 6822,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 6936
+        },
+        "url": "",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

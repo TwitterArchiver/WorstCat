@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1992516054548152772",
+    "created_at": "2025-11-23T08:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992516054548152772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1496243522374098947",
+          "start": 3,
+          "username": "cheese_ju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992516054548152772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992464764363260090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheese_ju: 昨晚等主人等到都睡着了\n原来笨笨主人是去买烧烤迷路了\n没有流量不能打车就不能在路边招手吗\n刚想哈气抗议…就被塞了好多肉\n还被允许喝了啤啤\n好久好久没有尝过酒了\n脑袋晕乎乎的…后爪还被锁着\n被主人抱进被窝一起睡了\n烧烤味的主人真的好香\n睡了8小时才想…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1992464073439719424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6anhK0aMAARjEq.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1992464089076080640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aniFEaIAA1Yb1.jpg",
+        "width": 1044
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1992464111113007105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6anjXKa8AEYqxN.jpg",
+        "width": 1385
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1992516054548152772",
+        "created_at": "2025-11-23T08:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992516054548152772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1496243522374098947",
+              "start": 3,
+              "username": "cheese_ju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992516054548152772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992464764363260090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheese_ju: 昨晚等主人等到都睡着了\n原来笨笨主人是去买烧烤迷路了\n没有流量不能打车就不能在路边招手吗\n刚想哈气抗议…就被塞了好多肉\n还被允许喝了啤啤\n好久好久没有尝过酒了\n脑袋晕乎乎的…后爪还被锁着\n被主人抱进被窝一起睡了\n烧烤味的主人真的好香\n睡了8小时才想…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992464073439719424",
+            "3_1992464089076080640",
+            "3_1992464111113007105"
+          ]
+        },
+        "author_id": "1496243522374098947",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992464764363260090",
+        "created_at": "2025-11-23T05:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992464764363260090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBBRTFP9p7",
+              "end": 163,
+              "expanded_url": "https://x.com/cheese_ju/status/1992464764363260090/photo/1",
+              "media_key": "3_1992464073439719424",
+              "start": 140,
+              "url": "https://t.co/tBBRTFP9p7"
+            },
+            {
+              "display_url": "pic.x.com/tBBRTFP9p7",
+              "end": 163,
+              "expanded_url": "https://x.com/cheese_ju/status/1992464764363260090/photo/1",
+              "media_key": "3_1992464089076080640",
+              "start": 140,
+              "url": "https://t.co/tBBRTFP9p7"
+            },
+            {
+              "display_url": "pic.x.com/tBBRTFP9p7",
+              "end": 163,
+              "expanded_url": "https://x.com/cheese_ju/status/1992464764363260090/photo/1",
+              "media_key": "3_1992464111113007105",
+              "start": 140,
+              "url": "https://t.co/tBBRTFP9p7"
+            },
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/WorstCat/status/1992203465721049371",
+              "start": 164,
+              "url": "https://t.co/HVEYrcFKo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992464764363260090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3733,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992203465721049371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚等主人等到都睡着了\n原来笨笨主人是去买烧烤迷路了\n没有流量不能打车就不能在路边招手吗\n刚想哈气抗议…就被塞了好多肉\n还被允许喝了啤啤\n好久好久没有尝过酒了\n脑袋晕乎乎的…后爪还被锁着\n被主人抱进被窝一起睡了\n烧烤味的主人真的好香\n睡了8小时才想起来衣服没有晾\n重新又洗了一遍 https://t.co/tBBRTFP9p7 https://t.co/HVEYrcFKo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 7,
+          "like_count": 428,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 276
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T22:00:51.000Z",
+        "description": "壓倒炕的大橘貓，現實中的乖阿姨 #brat #abdlgirl 思覺失調\n👉#lesbian 有對🐘不約！不找主人！不加q不加v 再問拉黑👈\n繩子 金屬束縛 醫療 戀痛 輕度接受breathplay 正在被 #圈養⛓️\n隨緣發癲，經常失踪，发癫小号@WorstCat 一起来发癫~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "brat"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "abdlgirl"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "lesbian"
+              },
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "圈養"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 133,
+                "start": 124,
+                "username": "WorstCat"
+              }
+            ]
+          }
+        },
+        "id": "1496243522374098947",
+        "location": "距您0.2KM",
+        "name": "呆橘橘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505140580015538176/Nqdai30l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19795,
+          "following_count": 321,
+          "like_count": 1915,
+          "listed_count": 53,
+          "media_count": 112,
+          "tweet_count": 619
+        },
+        "username": "cheese_ju",
+        "verified": false
+      }
+    ]
+  }
+}

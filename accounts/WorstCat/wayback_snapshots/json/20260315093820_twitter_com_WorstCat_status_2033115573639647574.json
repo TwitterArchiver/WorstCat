@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2033086252506034690",
+    "created_at": "2026-03-15T09:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033115573639647574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033115573639647574",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033086252506034690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 要有影像学诊断呼吸科才考虑用替代品众多的dxm，糯米宝宝有原发痛经对吧，吃吲哚美辛双氯芬酸胃疼塞来昔布也不好用，解挛的东莨菪碱间苯三酚也效果一般，得早起去挂三甲人山人海的疼痛科开codeiηe或者trαmadol，以后就可以在全科或者方便门诊直接续，疼痛都是可以控制的，没必要忍着太辛苦了ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2033086252506034690",
+        "created_at": "2026-03-15T09:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033115573639647574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033115573639647574",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033086252506034690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 要有影像学诊断呼吸科才考虑用替代品众多的dxm，糯米宝宝有原发痛经对吧，吃吲哚美辛双氯芬酸胃疼塞来昔布也不好用，解挛的东莨菪碱间苯三酚也效果一般，得早起去挂三甲人山人海的疼痛科开codeiηe或者trαmadol，以后就可以在全科或者方便门诊直接续，疼痛都是可以控制的，没必要忍着太辛苦了ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2033086252506034690",
+        "created_at": "2026-03-15T07:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033086252506034690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033086252506034690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1464,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问问大家能开到单方右美沙芬的都是怎么糊弄医生的啊ʚ( º º )ɞ还有阿片止痛的都是怎么骗到药的有什么检查是查不出原因但是要给你开阿片的吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 7,
+          "like_count": 2229,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 767
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类fo会回-没品b我也回-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug @Numiouo1备用我上号就会回fo♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 2081,
+          "like_count": 8238,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 6875
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

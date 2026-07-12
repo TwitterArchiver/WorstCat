@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1987519152240857152",
+    "created_at": "2025-11-12T02:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988438621184266688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1429333287177134080",
+          "start": 0,
+          "username": "MxPZ8BDuelmkeTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988438621184266688",
+    "in_reply_to_user_id": "1429333287177134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988351601078399066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MxPZ8BDuelmkeTO 这是发癫小号~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1987519152240857152",
+        "created_at": "2025-11-12T02:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988438621184266688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1429333287177134080",
+              "start": 0,
+              "username": "MxPZ8BDuelmkeTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988438621184266688",
+        "in_reply_to_user_id": "1429333287177134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988351601078399066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MxPZ8BDuelmkeTO 这是发癫小号~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429333287177134080",
+        "conversation_id": "1987519152240857152",
+        "created_at": "2025-11-11T21:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988351601078399066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988351601078399066",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987519152240857152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 哪家良民这身打扮，你跟大橘猫是同一人还是两个人哦，好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 3,
+          "like_count": 150,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 139
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T06:43:15.000Z",
+        "description": "36岁",
+        "id": "1429333287177134080",
+        "name": "另一个我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954449950093266944/Fv0eK1ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 307,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 138
+        },
+        "username": "MxPZ8BDuelmkeTO",
+        "verified": false
+      }
+    ]
+  }
+}

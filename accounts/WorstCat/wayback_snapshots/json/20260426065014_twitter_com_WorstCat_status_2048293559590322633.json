@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2048270031080042872",
+    "created_at": "2026-04-26T06:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048293559590322633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048293559590322633",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048270031080042872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 预言一下吧🥺\n精神二类药品203x年新增:加巴喷丁 巴氯芬 美金刚 晚安 苯海拉明 苯海索 奈福平 布洛芬 对乙酰氨基酚 克利加巴林 美洛加巴林 可待因 伪麻黄碱 可乐定 托莫西汀 酸奶葡萄 山莨菪碱 颠茄的单方及复方制剂，扑尔敏 咖啡因 ys ys浸出物的复方制剂\n精神一类药品203x年新增:pr dxm 晚安 sns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048270005385773056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzqt7sbQAAbNZq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2048270031080042872",
+        "created_at": "2026-04-26T06:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048293559590322633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048293559590322633",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048270031080042872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 预言一下吧🥺\n精神二类药品203x年新增:加巴喷丁 巴氯芬 美金刚 晚安 苯海拉明 苯海索 奈福平 布洛芬 对乙酰氨基酚 克利加巴林 美洛加巴林 可待因 伪麻黄碱 可乐定 托莫西汀 酸奶葡萄 山莨菪碱 颠茄的单方及复方制剂，扑尔敏 咖啡因 ys ys浸出物的复方制剂\n精神一类药品203x年新增:pr dxm 晚安 sns"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048270005385773056"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048270031080042872",
+        "created_at": "2026-04-26T05:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048270031080042872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVzO1flpWm",
+              "end": 30,
+              "expanded_url": "https://x.com/Strf_9040C/status/2048270031080042872/photo/1",
+              "media_key": "3_2048270005385773056",
+              "start": 7,
+              "url": "https://t.co/qVzO1flpWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048270031080042872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迟早有一天… https://t.co/qVzO1flpWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 8,
+          "like_count": 3475,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 806
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 1870,
+          "like_count": 8518,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2073482795704361108",
+    "created_at": "2026-07-04T23:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T00:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073557103512580518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054233823899160576",
+          "start": 0,
+          "username": "omggggsad"
+        },
+        {
+          "end": 21,
+          "id": "1898080033740292096",
+          "start": 11,
+          "username": "wuzidigua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073557103512580518",
+    "in_reply_to_user_id": "2054233823899160576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073550654937673804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omggggsad @wuzidigua 如果一个人过量补钾补到高血钾，可能会发生传导阻滞，比如pr间期延长，qrs波变宽，然后心率慢慢的降低还可能发生逸搏，再之后就是室速或者室颤完全失去泵血能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2073482795704361108",
+        "created_at": "2026-07-04T23:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073557103512580518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054233823899160576",
+              "start": 0,
+              "username": "omggggsad"
+            },
+            {
+              "end": 21,
+              "id": "1898080033740292096",
+              "start": 11,
+              "username": "wuzidigua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073557103512580518",
+        "in_reply_to_user_id": "2054233823899160576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073550654937673804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omggggsad @wuzidigua 如果一个人过量补钾补到高血钾，可能会发生传导阻滞，比如pr间期延长，qrs波变宽，然后心率慢慢的降低还可能发生逸搏，再之后就是室速或者室颤完全失去泵血能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054233823899160576",
+        "conversation_id": "2073482795704361108",
+        "created_at": "2026-07-04T23:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T00:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073550654937673804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898080033740292096",
+              "start": 0,
+              "username": "wuzidigua"
+            },
+            {
+              "end": 20,
+              "id": "467659726",
+              "start": 11,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073550654937673804",
+        "in_reply_to_user_id": "1898080033740292096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073537847852675577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuzidigua @WorstCat 我不知道 我学的兽医 我在网课上看到的 老师说过量钾导致心肌兴奋降低 是安乐死的一种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 54,
+          "like_count": 11402,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T16:15:29.000Z",
+        "description": "🚪28 没有任何黄色内容只是加微信好友一起玩哦 可以看朋友圈然后偶尔聊聊天 收门槛是因为我想吃小蛋糕 女孩可以免费加",
+        "id": "2054233823899160576",
+        "name": "Sadday",
+        "pinned_tweet_id": "2066903988688351508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071077099876843520/RZZrmLE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 106,
+          "like_count": 1918,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "omggggsad",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T18:35:58.000Z",
+        "description": "",
+        "id": "1898080033740292096",
+        "name": "无糖地瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919890767285235712/zCv_18bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 196,
+          "like_count": 4413,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1025
+        },
+        "url": "",
+        "username": "wuzidigua",
+        "verified": false
+      }
+    ]
+  }
+}

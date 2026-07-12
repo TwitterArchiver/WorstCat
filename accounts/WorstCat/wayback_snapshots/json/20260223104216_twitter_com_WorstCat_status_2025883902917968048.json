@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025883665910403072"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2025883902917968048",
+    "created_at": "2026-02-23T10:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025883902917968048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sNF6pS9FU3",
+          "end": 35,
+          "expanded_url": "https://x.com/WorstCat/status/2025883902917968048/photo/1",
+          "media_key": "3_2025883665910403072",
+          "start": 12,
+          "url": "https://t.co/sNF6pS9FU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025883902917968048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正常发货降价榜第1名😿 https://t.co/sNF6pS9FU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025883665910403072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1idebbEAAFDZQ.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025883665910403072"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2025883902917968048",
+        "created_at": "2026-02-23T10:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025883902917968048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNF6pS9FU3",
+              "end": 35,
+              "expanded_url": "https://x.com/WorstCat/status/2025883902917968048/photo/1",
+              "media_key": "3_2025883665910403072",
+              "start": 12,
+              "url": "https://t.co/sNF6pS9FU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025883902917968048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正常发货降价榜第1名😿 https://t.co/sNF6pS9FU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 7,
+          "like_count": 1894,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 708
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

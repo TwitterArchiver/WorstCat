@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2053365446561423520",
+    "created_at": "2026-05-10T07:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053380535100277188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053380535100277188",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053365446561423520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 多多有时候半价50g扶他林只要20，久光100mg*7洛索洛芬贴膏只要6.9ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2053364321678499840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8D-KwboAAXmXS.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2053365446561423520",
+        "created_at": "2026-05-10T07:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053380535100277188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053380535100277188",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053365446561423520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 多多有时候半价50g扶他林只要20，久光100mg*7洛索洛芬贴膏只要6.9ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053364321678499840"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2053365446561423520",
+        "created_at": "2026-05-10T06:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053365446561423520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9EbCZokjDz",
+              "end": 118,
+              "expanded_url": "https://x.com/amecandy_x/status/2053365446561423520/photo/1",
+              "media_key": "3_2053364321678499840",
+              "start": 95,
+              "url": "https://t.co/9EbCZokjDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053365446561423520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 690,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实大部分所谓的“中医镇痛膏”的有效成分都是西药\n\n如图所示，“麝香镇痛膏”的有效成分其实就是薄荷脑，冰片和水杨酸甲酯\n所以各位oder腰腿痛真不如买双氯芬酸钠乳膏，便宜、有效还没有副作用 https://t.co/9EbCZokjDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 9,
+          "like_count": 4929,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 976
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药物咨询https://t.co/z6NWnM8mXv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 66,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 43,
+                "url": "https://t.co/z6NWnM8mXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2053359050512040106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6359,
+          "following_count": 2131,
+          "like_count": 27085,
+          "listed_count": 16,
+          "media_count": 1436,
+          "tweet_count": 10195
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

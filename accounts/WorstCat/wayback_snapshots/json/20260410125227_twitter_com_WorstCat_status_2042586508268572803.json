@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2042556212663980145",
+    "created_at": "2026-04-10T12:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042586508268572803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        },
+        {
+          "end": 20,
+          "id": "1271512602145730560",
+          "start": 10,
+          "username": "Akino_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042586508268572803",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042556212663980145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ @Akino_QwQ Σ( ° △ °|||)︴😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042556162210672640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFieAfJaMAArHXU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2042556212663980145",
+        "created_at": "2026-04-10T12:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042586508268572803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            },
+            {
+              "end": 20,
+              "id": "1271512602145730560",
+              "start": 10,
+              "username": "Akino_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042586508268572803",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042556212663980145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ @Akino_QwQ Σ( ° △ °|||)︴😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042556162210672640"
+          ]
+        },
+        "author_id": "1350788438300114952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042556212663980145",
+        "created_at": "2026-04-10T10:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042556212663980145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1271512602145730560",
+              "start": 12,
+              "username": "Akino_QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iukzrsUnB9",
+              "end": 48,
+              "expanded_url": "https://x.com/Meeeauw_/status/2042556212663980145/photo/1",
+              "media_key": "3_2042556162210672640",
+              "start": 25,
+              "url": "https://t.co/iukzrsUnB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042556212663980145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一张很珍贵的室颤来自银喵@Akino_QwQ 喵 https://t.co/iukzrsUnB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 7,
+          "like_count": 2830,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 848
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我上网就是来发疯的",
+        "id": "1350788438300114952",
+        "name": "Ra11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 208,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 393
+        },
+        "username": "Meeeauw_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！持证含？/友跨顺男/收破烂的/Maimai DX/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/拆机/LLer/火车迷/mc原版/化学已退坑/ADHD/想od/不键政!/对象(不混圈)/主人@HoshinoMako0131/妹妹@banzaixyg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "HoshinoMako0131"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "banzaixyg"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "华立科技展厅",
+        "name": "一定不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 889,
+          "like_count": 17108,
+          "listed_count": 6,
+          "media_count": 608,
+          "tweet_count": 3531
+        },
+        "username": "Akino_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

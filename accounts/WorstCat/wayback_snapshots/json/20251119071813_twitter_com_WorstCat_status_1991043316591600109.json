@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1990615963545575652",
+    "created_at": "2025-11-19T07:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991043316591600109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1025203422566305792",
+          "start": 0,
+          "username": "JhllcsglqLC39mK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991043316591600109",
+    "in_reply_to_user_id": "1025203422566305792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991040233715216651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JhllcsglqLC39mK 1688上的黑帝，直接买就行了，需要改尺寸也可以找客服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1990615963545575652",
+        "created_at": "2025-11-19T07:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991043316591600109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1025203422566305792",
+              "start": 0,
+              "username": "JhllcsglqLC39mK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991043316591600109",
+        "in_reply_to_user_id": "1025203422566305792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991040233715216651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JhllcsglqLC39mK 1688上的黑帝，直接买就行了，需要改尺寸也可以找客服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1025203422566305792",
+        "conversation_id": "1990615963545575652",
+        "created_at": "2025-11-19T07:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991040233715216651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991040233715216651",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990615963545575652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 在哪定制的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 6,
+          "like_count": 315,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 228
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-03T02:15:18.000Z",
+        "description": "",
+        "id": "1025203422566305792",
+        "name": "上课时间教室啦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920403191352397824/faomfTCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 6139,
+          "like_count": 58921,
+          "listed_count": 16,
+          "media_count": 23,
+          "tweet_count": 2400
+        },
+        "username": "JhllcsglqLC39mK",
+        "verified": false
+      }
+    ]
+  }
+}

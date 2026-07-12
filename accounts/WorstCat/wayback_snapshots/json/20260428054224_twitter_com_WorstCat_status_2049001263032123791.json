@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2048980697763996073",
+    "created_at": "2026-04-28T05:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049001263032123791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049001263032123791",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048980697763996073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 有mri 达芬奇这种复合手术室的医院真不多，好多省会也就一两个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2048980697763996073",
+        "created_at": "2026-04-28T05:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049001263032123791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049001263032123791",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048980697763996073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 有mri 达芬奇这种复合手术室的医院真不多，好多省会也就一两个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2048980697763996073",
+        "created_at": "2026-04-28T04:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048980697763996073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingyhn11/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/jingyhn11/status/2048826584816369734",
+              "start": 142,
+              "url": "https://t.co/vOSapUFFZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048980697763996073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "您的意思是，这些串通好的医护在医院里越级于融合手术室开展肺部手术\n开胸开一半又把颅开了，在没有术前头部MRI成像与方案规划的情况下做了个术中核磁，然后现场寻思了个方案就给局部脑功能区做了个消融术而且患者恢复后认知功能居然一点都没受损?!\n🤯\n神外峰会没这个神奇的团队狐是绝对不认可的\n这才叫「上帝的柳叶刀」呢，别人切个区区脑瘤算啥🧐"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1412,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048826584816369734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您的意思是，这些串通好的医护在医院里越级于融合手术室开展肺部手术\n开胸开一半又把颅开了，在没有术前头部MRI成像与方案规划的情况下做了个术中核磁，然后现场寻思了个方案就给局部脑功能区做了个消融术而且患者恢复后认知功能居然一点都没受损?!\n🤯\n神外峰会没这个神奇的团队狐是绝对不认可的 https://t.co/vOSapUFFZg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 9,
+          "like_count": 3705,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 863
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1504,
+          "like_count": 17579,
+          "listed_count": 4,
+          "media_count": 614,
+          "tweet_count": 5573
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

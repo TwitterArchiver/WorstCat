@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2054833099268362542",
+    "created_at": "2026-05-14T09:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054851840156868861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2028790074301984769",
+          "start": 0,
+          "username": "fox_udon_oksr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054851840156868861",
+    "in_reply_to_user_id": "2028790074301984769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054850034047619346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fox_udon_oksr なるほど。ご説明ありがとうございます。中国ではオンダンセトロンとバクロフェンを使用しています。私はQT延長の問題がないグラニセトロンの方が好きです。プロメタジンはクロルプロマジンよりも錐体外路症状を起こしにくいです。アメリカと日本の麻酔科医はプロメタジンを好む傾向があります。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2054833099268362542",
+        "created_at": "2026-05-14T09:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054851840156868861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2028790074301984769",
+              "start": 0,
+              "username": "fox_udon_oksr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054851840156868861",
+        "in_reply_to_user_id": "2028790074301984769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054850034047619346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fox_udon_oksr なるほど。ご説明ありがとうございます。中国ではオンダンセトロンとバクロフェンを使用しています。私はQT延長の問題がないグラニセトロンの方が好きです。プロメタジンはクロルプロマジンよりも錐体外路症状を起こしにくいです。アメリカと日本の麻酔科医はプロメタジンを好む傾向があります。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028790074301984769",
+        "conversation_id": "2054833099268362542",
+        "created_at": "2026-05-14T09:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054850034047619346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054850034047619346",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054849535684571435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat プロメタジンには軽いドパミンD2拮抗作用とヒスタミンH1受容体拮抗作用で吐き気止め効果があります\nプリミドンは即効性が低いのでプレガバリンの効果を強める目的で使うのは難しいと思います"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 7,
+          "like_count": 5317,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1021
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T11:10:30.000Z",
+        "description": "中2 きつねです 凍結されました\nフォロバ100% 質問等 気軽にDMどうぞ\nフォロバ漏れはDMください\n大好きなにこいち→ @_lucayyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "_lucayyy"
+              }
+            ]
+          }
+        },
+        "id": "2028790074301984769",
+        "location": "ケモナー兼不登校病みヤク中垢(笑)",
+        "name": "きつね🦊💊",
+        "pinned_tweet_id": "2051555936809238947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051555502367383553/reYsMz8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 468,
+          "like_count": 267,
+          "listed_count": 3,
+          "media_count": 28,
+          "tweet_count": 248
+        },
+        "username": "fox_udon_oksr",
+        "verified": false
+      }
+    ]
+  }
+}

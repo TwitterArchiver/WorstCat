@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046745915277676544"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2046745917689298952",
+    "created_at": "2026-04-22T00:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T01:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046745917689298952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6GbNpwF8t",
+          "end": 37,
+          "expanded_url": "https://x.com/WorstCat/status/2046745917689298952/photo/1",
+          "media_key": "3_2046745915277676544",
+          "start": 14,
+          "url": "https://t.co/t6GbNpwF8t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046745917689298952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买不到药焦虑的血压都高了🥺 https://t.co/t6GbNpwF8t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2046745915277676544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeAkNmbkAA1BwH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046745915277676544"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2046745917689298952",
+        "created_at": "2026-04-22T00:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046745917689298952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6GbNpwF8t",
+              "end": 37,
+              "expanded_url": "https://x.com/WorstCat/status/2046745917689298952/photo/1",
+              "media_key": "3_2046745915277676544",
+              "start": 14,
+              "url": "https://t.co/t6GbNpwF8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046745917689298952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买不到药焦虑的血压都高了🥺 https://t.co/t6GbNpwF8t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 6,
+          "like_count": 3240,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 810
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

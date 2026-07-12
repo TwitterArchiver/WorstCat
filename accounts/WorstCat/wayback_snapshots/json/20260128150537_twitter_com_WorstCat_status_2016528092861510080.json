@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016528087899316224",
+        "3_2016528089489055744"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2016528092861510080",
+    "created_at": "2026-01-28T15:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T16:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016528092861510080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K2Et5oRS9z",
+          "end": 133,
+          "expanded_url": "https://x.com/WorstCat/status/2016528092861510080/photo/1",
+          "media_key": "3_2016528087899316224",
+          "start": 110,
+          "url": "https://t.co/K2Et5oRS9z"
+        },
+        {
+          "display_url": "pic.x.com/K2Et5oRS9z",
+          "end": 133,
+          "expanded_url": "https://x.com/WorstCat/status/2016528092861510080/photo/1",
+          "media_key": "3_2016528089489055744",
+          "start": 110,
+          "url": "https://t.co/K2Et5oRS9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016528092861510080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用临时会话一点点诱导它，gpt也能回答一些正式对话里拒绝回答的问题诶。(严肃提醒:短时间练习目的将双水平无创呼吸机用于有创通气也是不规范行为，必须有经验的人在场监督发现不对立即处置，否则二氧化碳蓄积无法自救有生命危险) https://t.co/K2Et5oRS9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2016528087899316224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wlnKbWIAAZILE.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2016528089489055744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wlnQWXoAAmxVB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016528087899316224",
+            "3_2016528089489055744"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2016528092861510080",
+        "created_at": "2026-01-28T15:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016528092861510080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2Et5oRS9z",
+              "end": 133,
+              "expanded_url": "https://x.com/WorstCat/status/2016528092861510080/photo/1",
+              "media_key": "3_2016528087899316224",
+              "start": 110,
+              "url": "https://t.co/K2Et5oRS9z"
+            },
+            {
+              "display_url": "pic.x.com/K2Et5oRS9z",
+              "end": 133,
+              "expanded_url": "https://x.com/WorstCat/status/2016528092861510080/photo/1",
+              "media_key": "3_2016528089489055744",
+              "start": 110,
+              "url": "https://t.co/K2Et5oRS9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016528092861510080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用临时会话一点点诱导它，gpt也能回答一些正式对话里拒绝回答的问题诶。(严肃提醒:短时间练习目的将双水平无创呼吸机用于有创通气也是不规范行为，必须有经验的人在场监督发现不对立即处置，否则二氧化碳蓄积无法自救有生命危险) https://t.co/K2Et5oRS9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 7,
+          "like_count": 1308,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 567
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

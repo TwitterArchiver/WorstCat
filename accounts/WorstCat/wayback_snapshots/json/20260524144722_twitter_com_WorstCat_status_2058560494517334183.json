@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058109253442015696",
+    "created_at": "2026-05-24T14:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058560494517334183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1284687761887227904",
+          "start": 0,
+          "username": "gu38027655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058560494517334183",
+    "in_reply_to_user_id": "1284687761887227904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058382165902230012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu38027655 网址后面的/直接输对方原来的账号就行，它那个搜索只能搜到还存在的账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058109253442015696",
+        "created_at": "2026-05-24T14:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058560494517334183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1284687761887227904",
+              "start": 0,
+              "username": "gu38027655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058560494517334183",
+        "in_reply_to_user_id": "1284687761887227904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058382165902230012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu38027655 网址后面的/直接输对方原来的账号就行，它那个搜索只能搜到还存在的账号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1284687761887227904",
+        "conversation_id": "2058109253442015696",
+        "created_at": "2026-05-24T02:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058382165902230012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058382165902230012",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5217,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058109253442015696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 蹲蹲，两位老师发的链接我都搜不到，还有别的方法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 22,
+          "like_count": 6401,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1200
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-19T03:13:41.000Z",
+        "description": "/发点碎碎念/\n@qy1259609",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "qy1259609"
+              }
+            ]
+          }
+        },
+        "id": "1284687761887227904",
+        "name": "omtokou_y",
+        "pinned_tweet_id": "1592100767133229056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872870311278063616/cdW0vlhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 332,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1121
+        },
+        "username": "gu38027655",
+        "verified": false
+      }
+    ]
+  }
+}

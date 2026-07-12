@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1998044455220470071",
+    "created_at": "2025-12-08T14:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T15:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998044455220470071"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998044455220470071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用淘宝红包1.9买了5个无菌旋塞……\n被极兔弄破2个\n问卖家为啥要用袋子发货呀\n卖家秒转2块钱\n等于白拿3个，还赚了1毛钱…\n罪恶感直接爆棚\n立刻又下单一整盒\n祈祷这一单别再破了呜呜🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1998044455220470071",
+        "created_at": "2025-12-08T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998044455220470071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998044455220470071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用淘宝红包1.9买了5个无菌旋塞……\n被极兔弄破2个\n问卖家为啥要用袋子发货呀\n卖家秒转2块钱\n等于白拿3个，还赚了1毛钱…\n罪恶感直接爆棚\n立刻又下单一整盒\n祈祷这一单别再破了呜呜🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你2.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 7,
+          "like_count": 870,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 361
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

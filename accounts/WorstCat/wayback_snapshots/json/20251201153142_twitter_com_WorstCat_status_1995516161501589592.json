@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995515811222679552"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995516161501589592",
+    "created_at": "2025-12-01T15:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995516161501589592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWMQ4IGYeD",
+          "end": 122,
+          "expanded_url": "https://x.com/WorstCat/status/1995516161501589592/photo/1",
+          "media_key": "3_1995515811222679552",
+          "start": 99,
+          "url": "https://t.co/yWMQ4IGYeD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995516161501589592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大半夜…主人让去把快递拿了\n委屈巴巴戴着脚镣去了菜鼠驿站\n28个！整整一大快递袋！\n连拖带拽回来以后直接瘫成猫饼\n主人就摸摸头说乖\n摸一下就想打发我吗\n至少…至少再给坏猫揉揉肩膀～\n累死了累死了🥹 https://t.co/yWMQ4IGYeD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1995515811222679552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7F_Dr-acAAwtnr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995515811222679552"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995516161501589592",
+        "created_at": "2025-12-01T15:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995516161501589592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWMQ4IGYeD",
+              "end": 122,
+              "expanded_url": "https://x.com/WorstCat/status/1995516161501589592/photo/1",
+              "media_key": "3_1995515811222679552",
+              "start": 99,
+              "url": "https://t.co/yWMQ4IGYeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995516161501589592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜…主人让去把快递拿了\n委屈巴巴戴着脚镣去了菜鼠驿站\n28个！整整一大快递袋！\n连拖带拽回来以后直接瘫成猫饼\n主人就摸摸头说乖\n摸一下就想打发我吗\n至少…至少再给坏猫揉揉肩膀～\n累死了累死了🥹 https://t.co/yWMQ4IGYeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 7,
+          "like_count": 681,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 341
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

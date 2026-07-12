@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1988953746068693454",
+    "created_at": "2025-11-14T08:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989255028314677608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "840860307652194305",
+          "start": 0,
+          "username": "shj80900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989255028314677608",
+    "in_reply_to_user_id": "840860307652194305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989246467043909713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shj80900 别人都用镜子就可以完成的事情能有多难呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1988953746068693454",
+        "created_at": "2025-11-14T08:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989255028314677608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "840860307652194305",
+              "start": 0,
+              "username": "shj80900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989255028314677608",
+        "in_reply_to_user_id": "840860307652194305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989246467043909713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shj80900 别人都用镜子就可以完成的事情能有多难呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840860307652194305",
+        "conversation_id": "1988953746068693454",
+        "created_at": "2025-11-14T08:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989246467043909713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989246467043909713",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988953746068693454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 其实我还在想这个自己怎么能独立完成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 5,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 182
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-12T09:41:34.000Z",
+        "description": "",
+        "id": "840860307652194305",
+        "location": "Shanghai",
+        "name": "shj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1039066447287267328/S7V56myo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 1934,
+          "like_count": 1315,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 330
+        },
+        "username": "shj80900",
+        "verified": false
+      }
+    ]
+  }
+}

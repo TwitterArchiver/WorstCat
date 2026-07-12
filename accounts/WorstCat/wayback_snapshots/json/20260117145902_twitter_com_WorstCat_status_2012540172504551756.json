@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2012467731786764415",
+    "created_at": "2026-01-17T14:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012540172504551756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1502898539117961218",
+          "start": 0,
+          "username": "xiaohui0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012540172504551756",
+    "in_reply_to_user_id": "1502898539117961218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012527331236073503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohui0_0 bd苏州版便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2012467731786764415",
+        "created_at": "2026-01-17T14:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012540172504551756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1502898539117961218",
+              "start": 0,
+              "username": "xiaohui0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012540172504551756",
+        "in_reply_to_user_id": "1502898539117961218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012527331236073503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohui0_0 bd苏州版便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502898539117961218",
+        "conversation_id": "2012467731786764415",
+        "created_at": "2026-01-17T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012527331236073503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012527331236073503",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012467731786764415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 默默想着研究研究进口的有没有便宜货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 7,
+          "like_count": 1199,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 499
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T06:45:39.000Z",
+        "description": "叶公好龙版囚犯奴隶。",
+        "id": "1502898539117961218",
+        "name": "小灰",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 491,
+          "like_count": 4340,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 2588
+        },
+        "username": "xiaohui0_0",
+        "verified": false
+      }
+    ]
+  }
+}

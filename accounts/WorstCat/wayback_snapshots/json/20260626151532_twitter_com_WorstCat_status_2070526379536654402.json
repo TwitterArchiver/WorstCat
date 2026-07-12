@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070526011335417856",
+        "3_2070526016087601153",
+        "3_2070526021624025089"
+      ],
+      "media_source_tweet_id": [
+        "2070526024065171765",
+        "2070526024065171765",
+        "2070526024065171765"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2070526379536654402",
+    "created_at": "2026-06-26T15:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070526379536654402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1496243522374098947",
+          "start": 3,
+          "username": "cheese_ju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVqBaglqyM",
+          "end": 95,
+          "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+          "media_key": "3_2070526011335417856",
+          "start": 72,
+          "url": "https://t.co/VVqBaglqyM"
+        },
+        {
+          "display_url": "pic.x.com/VVqBaglqyM",
+          "end": 95,
+          "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+          "media_key": "3_2070526016087601153",
+          "start": 72,
+          "url": "https://t.co/VVqBaglqyM"
+        },
+        {
+          "display_url": "pic.x.com/VVqBaglqyM",
+          "end": 95,
+          "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+          "media_key": "3_2070526021624025089",
+          "start": 72,
+          "url": "https://t.co/VVqBaglqyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070526379536654402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070526024065171765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheese_ju: 6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/VVqBaglqyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070526011335417856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv8b-vaoAA60U0.jpg",
+        "width": 740
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070526016087601153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv8cQcbMAEuy2i.jpg",
+        "width": 657
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2070526021624025089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv8clEaUAEwyqa.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070526011335417856",
+            "3_2070526016087601153",
+            "3_2070526021624025089"
+          ],
+          "media_source_tweet_id": [
+            "2070526024065171765",
+            "2070526024065171765",
+            "2070526024065171765"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070526379536654402",
+        "created_at": "2026-06-26T15:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070526379536654402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1496243522374098947",
+              "start": 3,
+              "username": "cheese_ju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVqBaglqyM",
+              "end": 95,
+              "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+              "media_key": "3_2070526011335417856",
+              "start": 72,
+              "url": "https://t.co/VVqBaglqyM"
+            },
+            {
+              "display_url": "pic.x.com/VVqBaglqyM",
+              "end": 95,
+              "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+              "media_key": "3_2070526016087601153",
+              "start": 72,
+              "url": "https://t.co/VVqBaglqyM"
+            },
+            {
+              "display_url": "pic.x.com/VVqBaglqyM",
+              "end": 95,
+              "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+              "media_key": "3_2070526021624025089",
+              "start": 72,
+              "url": "https://t.co/VVqBaglqyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070526379536654402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070526024065171765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheese_ju: 6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/VVqBaglqyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070526011335417856",
+            "3_2070526016087601153",
+            "3_2070526021624025089"
+          ]
+        },
+        "author_id": "1496243522374098947",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070526024065171765",
+        "created_at": "2026-06-26T15:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070526024065171765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVqBaglqyM",
+              "end": 80,
+              "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+              "media_key": "3_2070526011335417856",
+              "start": 57,
+              "url": "https://t.co/VVqBaglqyM"
+            },
+            {
+              "display_url": "pic.x.com/VVqBaglqyM",
+              "end": 80,
+              "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+              "media_key": "3_2070526016087601153",
+              "start": 57,
+              "url": "https://t.co/VVqBaglqyM"
+            },
+            {
+              "display_url": "pic.x.com/VVqBaglqyM",
+              "end": 80,
+              "expanded_url": "https://x.com/cheese_ju/status/2070526024065171765/photo/1",
+              "media_key": "3_2070526021624025089",
+              "start": 57,
+              "url": "https://t.co/VVqBaglqyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070526024065171765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/VVqBaglqyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 36,
+          "like_count": 9874,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 1501
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T22:00:51.000Z",
+        "description": "壓倒炕的大橘貓，現實中的乖阿姨 #brat #abdlgirl \n👉#lesbian 有對🐘不約！不找主人！不加q不加v 再問拉黑👈\n繩子 金屬束縛 醫療 戀痛 輕度接受breathplay 正在被 #圈養⛓️\n隨緣發癲，經常失踪，發癫小號@WorstCat 一起来發癫~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "brat"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "abdlgirl"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "lesbian"
+              },
+              {
+                "end": 103,
+                "start": 100,
+                "tag": "圈養"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "WorstCat"
+              }
+            ]
+          }
+        },
+        "id": "1496243522374098947",
+        "location": "距您1.1KM",
+        "name": "呆橘橘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525044935598080/5VNMH3vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20816,
+          "following_count": 317,
+          "like_count": 3752,
+          "listed_count": 53,
+          "media_count": 126,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "cheese_ju",
+        "verified": false
+      }
+    ]
+  }
+}

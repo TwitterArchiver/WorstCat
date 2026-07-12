@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1983782203982221328",
+    "created_at": "2025-10-31T02:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T03:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984084929953853713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1819977611336163328",
+          "start": 0,
+          "username": "XZLT1206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984084929953853713",
+    "in_reply_to_user_id": "1819977611336163328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984070996161392743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZLT1206 不是姐姐，这是卖家发的宣传照片呀，我不是卖囚服的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1983782203982221328",
+        "created_at": "2025-10-31T02:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T03:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984084929953853713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1819977611336163328",
+              "start": 0,
+              "username": "XZLT1206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984084929953853713",
+        "in_reply_to_user_id": "1819977611336163328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984070996161392743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZLT1206 不是姐姐，这是卖家发的宣传照片呀，我不是卖囚服的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819977611336163328",
+        "conversation_id": "1983782203982221328",
+        "created_at": "2025-10-31T01:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984070996161392743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984070996161392743",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984068780168040783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 哇塞！等到咱喵自己能够独立生活了就买哦！感觉真的好漂亮哦！还有谢谢你喵！到时候找你买喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 2,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 48
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T06:04:26.000Z",
+        "description": "咱喵是女孩子哦！（只不过有把而已呜呜呜……）",
+        "id": "1819977611336163328",
+        "location": "Tokyo-to, Japan",
+        "name": "Yuki～nya🏳️‍⚧️",
+        "pinned_tweet_id": "1965637996289704377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889616857550008320/ob4VQLuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 1481,
+          "like_count": 4050,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 579
+        },
+        "username": "XZLT1206",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1993357594795397410",
+    "created_at": "2025-11-25T16:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993357594795397410"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993357594795397410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把自己缩成最小的那一团…只要足够小，小到没人看得见，就不会疼了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1993357594795397410",
+        "created_at": "2025-11-25T16:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993357594795397410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993357594795397410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把自己缩成最小的那一团…只要足够小，小到没人看得见，就不会疼了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 7,
+          "like_count": 529,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 302
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

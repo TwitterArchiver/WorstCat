@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2044739556122255612",
+    "created_at": "2026-04-16T14:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044781925920067974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044781925920067974",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044739556122255612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 人类医生的话不同医生治疗偏好不一样的，药都是那些，但是有些邪修总是喜欢与众不同。双相精分的多数药都是养猪的，不能只用抗抑郁药不用心境稳定剂，常规门诊路数是看医生做量表吃药再调整换药，找小🍠或者朋友推荐的正常医生，记得不要让医生给你下双相诊断，不然会上报卫健委和公安的系统对生活不利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2044739556122255612",
+        "created_at": "2026-04-16T14:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044781925920067974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044781925920067974",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044739556122255612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 人类医生的话不同医生治疗偏好不一样的，药都是那些，但是有些邪修总是喜欢与众不同。双相精分的多数药都是养猪的，不能只用抗抑郁药不用心境稳定剂，常规门诊路数是看医生做量表吃药再调整换药，找小🍠或者朋友推荐的正常医生，记得不要让医生给你下双相诊断，不然会上报卫健委和公安的系统对生活不利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687566770763071489",
+        "conversation_id": "2044739556122255612",
+        "created_at": "2026-04-16T11:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044739556122255612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044739556122255612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1025,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想做个小调查，有宝宝配合吗？\n您是否有双相情感障碍？有的话选一下，可以的话想了解一下对应的治疗方式！(可以评论可以私发)谢谢大家！结束可以领取可爱表情包("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 6,
+          "like_count": 3028,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 772
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定/百合厨/二次元/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040796432937193472/o7B7VSgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 515,
+          "like_count": 24863,
+          "listed_count": 0,
+          "media_count": 906,
+          "tweet_count": 3114
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042121193667620868"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2041952920216989784",
+    "created_at": "2026-04-09T06:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042121197627027576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484014954529591298",
+          "start": 0,
+          "username": "zdt77005518"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZGaVhYyxY",
+          "end": 36,
+          "expanded_url": "https://x.com/WorstCat/status/2042121197627027576/photo/1",
+          "media_key": "3_2042121193667620868",
+          "start": 13,
+          "url": "https://t.co/HZGaVhYyxY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042121197627027576",
+    "in_reply_to_user_id": "1484014954529591298",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042098699401359521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zdt77005518 https://t.co/HZGaVhYyxY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2042121193667620868",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcSZ_Da8AQlCfx.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042121193667620868"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2041952920216989784",
+        "created_at": "2026-04-09T06:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042121197627027576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484014954529591298",
+              "start": 0,
+              "username": "zdt77005518"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZGaVhYyxY",
+              "end": 36,
+              "expanded_url": "https://x.com/WorstCat/status/2042121197627027576/photo/1",
+              "media_key": "3_2042121193667620868",
+              "start": 13,
+              "url": "https://t.co/HZGaVhYyxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042121197627027576",
+        "in_reply_to_user_id": "1484014954529591298",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042098699401359521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zdt77005518 https://t.co/HZGaVhYyxY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484014954529591298",
+        "conversation_id": "2041952920216989784",
+        "created_at": "2026-04-09T04:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042098699401359521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042098699401359521",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041952920216989784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 鉴定为被关太久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 7,
+          "like_count": 2769,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 849
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T04:08:52.000Z",
+        "description": "努力想办法，圈养一条小狗",
+        "id": "1484014954529591298",
+        "name": "白千寻",
+        "pinned_tweet_id": "1991140373100671009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484015045457903617/O8P4EbIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 35,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "zdt77005518",
+        "verified": false
+      }
+    ]
+  }
+}

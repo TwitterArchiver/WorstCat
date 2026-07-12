@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2008558744238723096",
+    "created_at": "2026-01-06T15:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008562011475767537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008562011475767537",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008558744238723096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 我也是，蹭到耳朵会很难受必须调整"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2008558744238723096",
+        "created_at": "2026-01-06T15:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008562011475767537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008562011475767537",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008558744238723096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 我也是，蹭到耳朵会很难受必须调整"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2008558744238723096",
+        "created_at": "2026-01-06T15:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008558744238723096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008558744238723096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受，感官过载硬生生把我快乐的躁狂心境扭转成躁郁发作了，我穿着一件衣服开暖气仍然手脚冰凉，我的头发时不时碰到耳朵会引起我巨大的不适，我的肩部颈部以及耳朵和脸都非常敏感不能碰到任何头发或者衣服，每天睡觉正睡侧睡都耳朵疼还因为感受到肉被挤压所以很困也睡不着\n一切都让我发疯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 7,
+          "like_count": 1142,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 475
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关宝宝们(っ˘зʕ•̫͡•ʔ纯血精神病-同类回fo-爱点赞爱评论-讨厌私信请勿扰♡喜欢sex & drug♡不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️popo🎣4️⃣⭕➕",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 1511,
+          "like_count": 4922,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 4627
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

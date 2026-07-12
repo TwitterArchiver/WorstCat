@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1848537502736650241",
+    "conversation_id": "1939500172628599107",
+    "created_at": "2025-06-30T01:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T02:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939500172628599107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2335644942",
+          "start": 3,
+          "username": "WimShakespeare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939500172628599107",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939029303221739734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WimShakespeare: إن أرادوا ضرك ، وأراد الله منفعتك ، سيجعل الله في ضرهم نفعك.\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848537502736650241",
+        "conversation_id": "1939500172628599107",
+        "created_at": "2025-06-30T01:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T02:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939500172628599107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2335644942",
+              "start": 3,
+              "username": "WimShakespeare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939500172628599107",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939029303221739734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WimShakespeare: إن أرادوا ضرك ، وأراد الله منفعتك ، سيجعل الله في ضرهم نفعك.\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2335644942",
+        "conversation_id": "1939029303221739734",
+        "created_at": "2025-06-28T18:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T19:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939029303221739734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939029303221739734",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 80712,
+          "like_count": 1458,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "إن أرادوا ضرك ، وأراد الله منفعتك ، سيجعل الله في ضرهم نفعك.\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-22T01:31:20.000Z",
+        "description": "cool",
+        "id": "1848537502736650241",
+        "name": "نوال",
+        "pinned_tweet_id": "1853313314358526089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934083578922717184/nIW2Q-aQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 119,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 127
+        },
+        "username": "worstcat",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-09T20:50:07.000Z",
+        "description": "شاعر وكاتب مسرحي إنجليزي بارز في الأدب الإنجليزي خاصة والأدب العالمي عامة، سمي بــ\"شاعر الوطنية\" و\"شاعر افون الملحمي\" .",
+        "id": "2335644942",
+        "name": "وليم شكسبير",
+        "pinned_tweet_id": "1301186198862524416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1293119649429757952/T5RgeLxp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6120511,
+          "following_count": 6,
+          "like_count": 11805,
+          "listed_count": 1102,
+          "media_count": 4,
+          "tweet_count": 13174
+        },
+        "username": "WimShakespeare",
+        "verified": true
+      }
+    ]
+  }
+}

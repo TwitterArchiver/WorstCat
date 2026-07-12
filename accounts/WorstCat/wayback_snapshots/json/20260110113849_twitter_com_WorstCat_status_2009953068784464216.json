@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009953063721938949"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2009953068784464216",
+    "created_at": "2026-01-10T11:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009953068784464216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MDK3KskTo",
+          "end": 171,
+          "expanded_url": "https://x.com/WorstCat/status/2009953068784464216/photo/1",
+          "media_key": "3_2009953063721938949",
+          "start": 148,
+          "url": "https://t.co/1MDK3KskTo"
+        },
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 195,
+          "expanded_url": "https://twitter.com/WorstCat/status/2009664042047254593",
+          "start": 172,
+          "url": "https://t.co/ByeWfZI2dt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009953068784464216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009664042047254593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "专业的宝宝就是厉害，一个小时就给我修好了。\n原来有一种芯片叫做EPPROM阳寿很短，但是故意设计的使劲折磨它，用完不关机就会一直折磨它，过保就会坏掉，阳寿到了就会忘记自己是谁开不了机，破芯片只能重置一次，下次就得换主板得花好几百，怪我贪便宜1800买老型号。\n再坏了就直接把它砍了吧｢(ﾟﾍﾟ) https://t.co/1MDK3KskTo https://t.co/ByeWfZI2dt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009953068784464216].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009953068784464216",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009953068784464216"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2009953063721938949",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TJqYpasAUdsTX.jpg",
+        "width": 3072
+      },
+      {
+        "duration_ms": 2431,
+        "height": 1280,
+        "media_key": "7_2009664016222986241",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2009664016222986241/pu/img/h8zdmOpzkWrKpD_D.jpg",
+        "public_metrics": {
+          "view_count": 226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009664016222986241/pu/vid/avc1/320x568/nbqnrYxUmkOHsEo7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009664016222986241/pu/vid/avc1/480x852/MyFhkr5rNCqUsNcG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2009664016222986241/pu/vid/avc1/720x1280/9iV_-KbN-CSrBwlm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2009664016222986241/pu/pl/QgLu415dH5vyIf_h.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2009664016222986241"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2009664042047254593",
+        "created_at": "2026-01-09T16:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009664042047254593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fv9p8qJeYg",
+              "end": 65,
+              "expanded_url": "https://x.com/WorstCat/status/2009664042047254593/video/1",
+              "media_key": "7_2009664016222986241",
+              "start": 42,
+              "url": "https://t.co/fv9p8qJeYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009664042047254593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里打印机因为过保，被下病毒锁定不能用了，肯定是本地售后干的，怎么会有这么坏的人😡 https://t.co/fv9p8qJeYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 7,
+          "like_count": 1174,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 486
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

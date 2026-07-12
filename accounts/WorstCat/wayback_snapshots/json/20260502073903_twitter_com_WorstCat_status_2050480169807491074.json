@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2050225983945666838",
+    "created_at": "2026-05-02T07:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050480169807491074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1645796884777426947",
+          "start": 0,
+          "username": "KokokO9cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050480169807491074",
+    "in_reply_to_user_id": "1645796884777426947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050225983945666838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KokokO9cc 曲普坦，普瑞巴林，氟桂利嗪，曲马多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2050225983945666838",
+        "created_at": "2026-05-02T07:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050480169807491074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1645796884777426947",
+              "start": 0,
+              "username": "KokokO9cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050480169807491074",
+        "in_reply_to_user_id": "1645796884777426947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050225983945666838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KokokO9cc 曲普坦，普瑞巴林，氟桂利嗪，曲马多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645796884777426947",
+        "conversation_id": "2050225983945666838",
+        "created_at": "2026-05-01T14:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050225983945666838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050225983945666838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2015,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃的问个问题：有没有针对偏头痛的药，有时候痛起来直接吐了，吃布洛芬没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 9,
+          "like_count": 4105,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 906
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T14:32:19.000Z",
+        "description": "没什么好说的｜不yp｜私信看着回",
+        "id": "1645796884777426947",
+        "name": "KokO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042656571231211521/Mupkk7-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 18,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 57
+        },
+        "username": "KokokO9cc",
+        "verified": false
+      }
+    ]
+  }
+}

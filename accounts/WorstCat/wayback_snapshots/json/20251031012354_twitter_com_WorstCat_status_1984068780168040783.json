@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1983782203982221328",
+    "created_at": "2025-10-31T01:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T02:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984068780168040783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1819977611336163328",
+          "start": 0,
+          "username": "XZLT1206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984068780168040783",
+    "in_reply_to_user_id": "1819977611336163328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984052092076748814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZLT1206 是给犯犯穿的，但是每次中标都有质保预留，最后剩下的就零售卖掉，所以能随缘买到不同省份不同要求的版本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1983782203982221328",
+        "created_at": "2025-10-31T01:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984068780168040783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1819977611336163328",
+              "start": 0,
+              "username": "XZLT1206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984068780168040783",
+        "in_reply_to_user_id": "1819977611336163328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984052092076748814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZLT1206 是给犯犯穿的，但是每次中标都有质保预留，最后剩下的就零售卖掉，所以能随缘买到不同省份不同要求的版本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819977611336163328",
+        "conversation_id": "1983782203982221328",
+        "created_at": "2025-10-31T00:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984052092076748814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984052092076748814",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984047518502809777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 咱喵现在还没钱，不过以后会买的！这个是真的给犯犯穿的还是外面做的喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 2,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 44
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T06:04:26.000Z",
+        "description": "咱喵是女孩子哦！（只不过有把而已呜呜呜……）",
+        "id": "1819977611336163328",
+        "location": "Tokyo-to, Japan",
+        "name": "Yuki～nya🏳️‍⚧️",
+        "pinned_tweet_id": "1965637996289704377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889616857550008320/ob4VQLuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1481,
+          "like_count": 4051,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 578
+        },
+        "username": "XZLT1206",
+        "verified": false
+      }
+    ]
+  }
+}

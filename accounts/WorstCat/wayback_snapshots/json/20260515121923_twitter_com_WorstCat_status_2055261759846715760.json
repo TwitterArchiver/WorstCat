@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2055089546296246491",
+    "created_at": "2026-05-15T12:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055261759846715760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        },
+        {
+          "end": 20,
+          "id": "1679727720610283525",
+          "start": 10,
+          "username": "xas681961"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055261759846715760",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055146397901766958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ @xas681961 20年大金链子去武汉的那天，我坐公交车去火车站，平时15分钟的路走了1个小时，大路上每个路口全是红灯，平时没有车的小路上全是车堵的走不动，最后晚到了30秒诶就不让进了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2055089546296246491",
+        "created_at": "2026-05-15T12:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055261759846715760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            },
+            {
+              "end": 20,
+              "id": "1679727720610283525",
+              "start": 10,
+              "username": "xas681961"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055261759846715760",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055146397901766958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ @xas681961 20年大金链子去武汉的那天，我坐公交车去火车站，平时15分钟的路走了1个小时，大路上每个路口全是红灯，平时没有车的小路上全是车堵的走不动，最后晚到了30秒诶就不让进了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350788438300114952",
+        "conversation_id": "2055089546296246491",
+        "created_at": "2026-05-15T04:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055146397901766958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1679727720610283525",
+              "start": 0,
+              "username": "xas681961"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055146397901766958",
+        "in_reply_to_user_id": "1679727720610283525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055141318226289055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xas681961 堵爆了 交通管制(╥﹏╥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 7,
+          "like_count": 5492,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 1047
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我上网就是来发疯的",
+        "id": "1350788438300114952",
+        "name": "Ra11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 237,
+          "like_count": 1949,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 753
+        },
+        "username": "Meeeauw_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T05:41:24.000Z",
+        "description": "恋の癖 世界は美しくないが、生活も平穏である",
+        "id": "1679727720610283525",
+        "name": "Su GaHe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053913200958246912/bMNIJkFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "xas681961",
+        "verified": false
+      }
+    ]
+  }
+}

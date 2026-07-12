@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1990991554379653152",
+    "created_at": "2025-11-19T07:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991044994447388778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1224511200605556736",
+          "start": 0,
+          "username": "76To6Ayyy4xUPEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991044994447388778",
+    "in_reply_to_user_id": "1224511200605556736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991017484678299802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@76To6Ayyy4xUPEs 我自己就可以灭菌(121度30分钟)，不需要消毒供应中心，它们一个包可贵了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1990991554379653152",
+        "created_at": "2025-11-19T07:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991044994447388778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1224511200605556736",
+              "start": 0,
+              "username": "76To6Ayyy4xUPEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991044994447388778",
+        "in_reply_to_user_id": "1224511200605556736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991017484678299802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@76To6Ayyy4xUPEs 我自己就可以灭菌(121度30分钟)，不需要消毒供应中心，它们一个包可贵了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224511200605556736",
+        "conversation_id": "1990991554379653152",
+        "created_at": "2025-11-19T05:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991017484678299802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991017484678299802",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990991554379653152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 这个是送消毒的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 6,
+          "like_count": 315,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 229
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T01:53:41.000Z",
+        "description": "",
+        "id": "1224511200605556736",
+        "name": "就是一大家子",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 26,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 59
+        },
+        "username": "76To6Ayyy4xUPEs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2054825724696215612",
+    "created_at": "2026-05-14T08:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054847567587168677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054847567587168677",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054825724696215612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 可能磨豆机和胶囊会好一点吧，我买了两单3盒的还没开始吃，看着那么大就有点害怕ヾ(•ω•`)o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054825709470883840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQ1GIhaIAA9lTo.jpg",
+        "width": 878
+      },
+      {
+        "height": 2132,
+        "media_key": "3_2054825709470965760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQ1GIhbYAA-dQO.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2054825724696215612",
+        "created_at": "2026-05-14T08:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054847567587168677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054847567587168677",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054825724696215612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 可能磨豆机和胶囊会好一点吧，我买了两单3盒的还没开始吃，看着那么大就有点害怕ヾ(•ω•`)o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054825709470883840",
+            "3_2054825709470965760"
+          ]
+        },
+        "author_id": "1912916776519954432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054825724696215612",
+        "created_at": "2026-05-14T07:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054825724696215612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/74zv23WfG1",
+              "end": 23,
+              "expanded_url": "https://x.com/liu_lu43456/status/2054825724696215612/photo/1",
+              "media_key": "3_2054825709470883840",
+              "start": 0,
+              "url": "https://t.co/74zv23WfG1"
+            },
+            {
+              "display_url": "pic.x.com/74zv23WfG1",
+              "end": 23,
+              "expanded_url": "https://x.com/liu_lu43456/status/2054825724696215612/photo/1",
+              "media_key": "3_2054825709470965760",
+              "start": 0,
+              "url": "https://t.co/74zv23WfG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054825724696215612",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/74zv23WfG1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 7,
+          "like_count": 5308,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1018
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2032181190757634518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568491171610625/R3Z2flJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 146,
+          "like_count": 429,
+          "listed_count": 3,
+          "media_count": 371,
+          "tweet_count": 2474
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

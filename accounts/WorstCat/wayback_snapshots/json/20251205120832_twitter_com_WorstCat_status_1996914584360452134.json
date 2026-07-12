@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996914581269340160"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1996914584360452134",
+    "created_at": "2025-12-05T12:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996914584360452134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5E5P1eqetU",
+          "end": 38,
+          "expanded_url": "https://x.com/WorstCat/status/1996914584360452134/photo/1",
+          "media_key": "3_1996914581269340160",
+          "start": 15,
+          "url": "https://t.co/5E5P1eqetU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996914584360452134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拉黑我半年的评价返现又有了🥺 https://t.co/5E5P1eqetU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_1996914581269340160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Z3O0dbYAA2eoX.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996914581269340160"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1996914584360452134",
+        "created_at": "2025-12-05T12:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996914584360452134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5E5P1eqetU",
+              "end": 38,
+              "expanded_url": "https://x.com/WorstCat/status/1996914584360452134/photo/1",
+              "media_key": "3_1996914581269340160",
+              "start": 15,
+              "url": "https://t.co/5E5P1eqetU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996914584360452134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拉黑我半年的评价返现又有了🥺 https://t.co/5E5P1eqetU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 7,
+          "like_count": 808,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 356
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

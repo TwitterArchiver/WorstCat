@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1987834629630705815",
+    "created_at": "2025-11-11T08:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T09:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988161330663330064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887864488973791232",
+          "start": 0,
+          "username": "06auser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988161330663330064",
+    "in_reply_to_user_id": "1887864488973791232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987834629630705815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@06auser reddit有教程但是不要学，相思汤就是完全的badtrip，敢喝就会经历此生最恐怖的无穷的梦魇，得到的只有创伤，不要学不要试不要喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1987834629630705815",
+        "created_at": "2025-11-11T08:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988161330663330064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887864488973791232",
+              "start": 0,
+              "username": "06auser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988161330663330064",
+        "in_reply_to_user_id": "1887864488973791232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987834629630705815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@06auser reddit有教程但是不要学，相思汤就是完全的badtrip，敢喝就会经历此生最恐怖的无穷的梦魇，得到的只有创伤，不要学不要试不要喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887864488973791232",
+        "conversation_id": "1987834629630705815",
+        "created_at": "2025-11-10T10:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T11:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987834629630705815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987834629630705815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 971,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相思树皮有关的详细教程在哪里有，我找了好久没找到\n\n求教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 3,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 135
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T14:02:59.000Z",
+        "description": "07年,173cm,52kg  \n\n双相情感障碍//三级ASD//极度缺爱//广泛性焦虑障碍//重度社交障碍\n       不定时发疯     「疯狂找寻致幻剂中...」",
+        "id": "1887864488973791232",
+        "name": "yice​ ​🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1986425274259677591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974991767977316353/5ulQ2MRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 170,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 123
+        },
+        "username": "06auser",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1991875805014904908",
+    "created_at": "2025-11-22T09:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T10:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992166776013250614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1473461287883583500",
+          "start": 0,
+          "username": "hdbxhsihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992166776013250614",
+    "in_reply_to_user_id": "1473461287883583500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991875805014904908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hdbxhsihd 量少，卖的好了还换配料表是最恶心人的，质地都变了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1991875805014904908",
+        "created_at": "2025-11-22T09:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992166776013250614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1473461287883583500",
+              "start": 0,
+              "username": "hdbxhsihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992166776013250614",
+        "in_reply_to_user_id": "1473461287883583500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991875805014904908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hdbxhsihd 量少，卖的好了还换配料表是最恶心人的，质地都变了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473461287883583500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "1991875805014904908",
+        "created_at": "2025-11-21T14:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991875805014904908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991875805014904908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8789,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想支持国货彩妆，，特么的克数又少质量又差而且国内又没有关税凭啥卖这么贵，，没有支持国货的理由，，虽然也有买一些但是有的牌子真的很贱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 7,
+          "like_count": 378,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 248
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T01:12:34.000Z",
+        "description": "没妈的骂我 骂我的没妈",
+        "id": "1473461287883583500",
+        "name": "渚",
+        "pinned_tweet_id": "1986327037712474557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982074929496424448/3yNHSKqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4933,
+          "following_count": 87,
+          "like_count": 3559,
+          "listed_count": 8,
+          "media_count": 144,
+          "tweet_count": 2309
+        },
+        "username": "hdbxhsihd",
+        "verified": false
+      }
+    ]
+  }
+}

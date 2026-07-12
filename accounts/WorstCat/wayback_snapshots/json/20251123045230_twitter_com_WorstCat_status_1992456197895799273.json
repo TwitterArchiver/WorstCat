@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1992203465721049371",
+    "created_at": "2025-11-23T04:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992456197895799273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1700038264781230080",
+          "start": 0,
+          "username": "RGW90"
+        },
+        {
+          "end": 19,
+          "id": "1690721268373581824",
+          "start": 7,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992456197895799273",
+    "in_reply_to_user_id": "1700038264781230080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992455780487119294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RGW90 @Celsius233C 蟹蟹(｡･ω･｡)ﾉ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1992203465721049371",
+        "created_at": "2025-11-23T04:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992456197895799273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1700038264781230080",
+              "start": 0,
+              "username": "RGW90"
+            },
+            {
+              "end": 19,
+              "id": "1690721268373581824",
+              "start": 7,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992456197895799273",
+        "in_reply_to_user_id": "1700038264781230080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992455780487119294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RGW90 @Celsius233C 蟹蟹(｡･ω･｡)ﾉ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700038264781230080",
+        "conversation_id": "1992203465721049371",
+        "created_at": "2025-11-23T04:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992455780487119294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 22,
+              "id": "1690721268373581824",
+              "start": 10,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992455780487119294",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992438500218839528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @Celsius233C 玩得開心😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 7,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 267
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T06:49:55.000Z",
+        "description": "♂ | @libertyelysium 的 🐶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "libertyelysium"
+              }
+            ]
+          }
+        },
+        "id": "1700038264781230080",
+        "name": "MATADOR",
+        "pinned_tweet_id": "1955099688430186557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915448137826918402/3MR5Gyur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11241,
+          "following_count": 570,
+          "like_count": 26171,
+          "listed_count": 54,
+          "media_count": 4370,
+          "tweet_count": 27726
+        },
+        "username": "RGW90",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5531,
+          "following_count": 891,
+          "like_count": 21493,
+          "listed_count": 23,
+          "media_count": 134,
+          "tweet_count": 2329
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2061457549543760042",
+    "created_at": "2026-06-01T16:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061480835241677293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        },
+        {
+          "end": 22,
+          "id": "1500855672480489475",
+          "start": 10,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061480835241677293",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061477854412718572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ @Science_010 稍微低效率一点的工艺路线里，右美左美都是一个池子里的产物美沙芬，只是手性不同，用不同手性的酸捞出来就可以，用氢溴酸捞出来的就是右美😋，而左美比吗啡还要强一点呼吸抑制也强但是没有合法医学用途，药厂都是捞完右美以后再还原再合成再捞反复循环的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2061457549543760042",
+        "created_at": "2026-06-01T16:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061480835241677293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            },
+            {
+              "end": 22,
+              "id": "1500855672480489475",
+              "start": 10,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061480835241677293",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061477854412718572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ @Science_010 稍微低效率一点的工艺路线里，右美左美都是一个池子里的产物美沙芬，只是手性不同，用不同手性的酸捞出来就可以，用氢溴酸捞出来的就是右美😋，而左美比吗啡还要强一点呼吸抑制也强但是没有合法医学用途，药厂都是捞完右美以后再还原再合成再捞反复循环的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350788438300114952",
+        "conversation_id": "2061457549543760042",
+        "created_at": "2026-06-01T15:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061477854412718572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061477854412718572",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061457549543760042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Science_010 这个我还真好奇查过嘞，左美沙芬Levomethorphan是类似阿片类的东西…超严格管制的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 23,
+          "like_count": 7386,
+          "listed_count": 5,
+          "media_count": 236,
+          "tweet_count": 1345
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我总有一天会想起来编辑这个bio的！",
+        "id": "1350788438300114952",
+        "name": "小r换个名字吧先",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 236,
+          "like_count": 2292,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 851
+        },
+        "username": "Meeeauw_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\n080519/男/173 65/哦滴/术力口 平泽进/双/自我厌恶/cs2 gal 明日方舟/欢迎聊天/东方/疑似ENFP/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "2045916676081025099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 894,
+          "like_count": 3963,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 2486
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1991608362812023195",
+    "created_at": "2025-11-20T22:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T23:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991635377011281941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898080033740292096",
+          "start": 0,
+          "username": "wuzidigua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991635377011281941",
+    "in_reply_to_user_id": "1898080033740292096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991624996251398616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuzidigua 在另一只爪上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1991608362812023195",
+        "created_at": "2025-11-20T22:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T23:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991635377011281941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898080033740292096",
+              "start": 0,
+              "username": "wuzidigua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991635377011281941",
+        "in_reply_to_user_id": "1898080033740292096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991624996251398616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuzidigua 在另一只爪上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898080033740292096",
+        "conversation_id": "1991608362812023195",
+        "created_at": "2025-11-20T21:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T22:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991624996251398616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991624996251398616",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991608362812023195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 另一头在栏杆上吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 7,
+          "like_count": 351,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 237
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T18:35:58.000Z",
+        "description": "",
+        "id": "1898080033740292096",
+        "name": "无籽地瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919890767285235712/zCv_18bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 127,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 598
+        },
+        "username": "wuzidigua",
+        "verified": false
+      }
+    ]
+  }
+}

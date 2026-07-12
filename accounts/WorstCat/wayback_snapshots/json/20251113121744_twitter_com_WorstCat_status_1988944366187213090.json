@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around Fashion",
+          "id": "1006277139233103872",
+          "name": "Behavior around fashion"
+        }
+      }
+    ],
+    "conversation_id": "1988699766914707556",
+    "created_at": "2025-11-13T12:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988944366187213090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1455493170666553348",
+          "start": 0,
+          "username": "Sir_Inkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988944366187213090",
+    "in_reply_to_user_id": "1455493170666553348",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988786251936460892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sir_Inkd this is a crowded markets… wasn't wearing a skirt so without shackles"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          }
+        ],
+        "conversation_id": "1988699766914707556",
+        "created_at": "2025-11-13T12:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988944366187213090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1455493170666553348",
+              "start": 0,
+              "username": "Sir_Inkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988944366187213090",
+        "in_reply_to_user_id": "1455493170666553348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988786251936460892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sir_Inkd this is a crowded markets… wasn't wearing a skirt so without shackles"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455493170666553348",
+        "conversation_id": "1988699766914707556",
+        "created_at": "2025-11-13T01:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T02:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988786251936460892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988786251936460892",
+        "in_reply_to_user_id": "467659726",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988699766914707556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat No shackles?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 3,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 162
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T11:13:20.000Z",
+        "description": "I produce bondage, bdsm, impact, shibari, and pantyhose/tights content. See my website for all my work. 59K on IG - @_boundcrazy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 116,
+                "username": "_boundcrazy_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boundcrazy.com",
+                "end": 23,
+                "expanded_url": "http://boundcrazy.com",
+                "start": 0,
+                "url": "https://t.co/N6BLv7uX3W"
+              }
+            ]
+          }
+        },
+        "id": "1455493170666553348",
+        "location": "Virginia, USA",
+        "name": "Boundcrazy — 🖤⛓️WEBSITE IS LIVE!! ⛓️🖤 59K on IG",
+        "pinned_tweet_id": "1632102729630855168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689077943870398465/stR69IsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 298,
+          "like_count": 1396,
+          "listed_count": 4,
+          "media_count": 507,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/N6BLv7uX3W",
+        "username": "Sir_Inkd",
+        "verified": false
+      }
+    ]
+  }
+}

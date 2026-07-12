@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2048590816030208496",
+    "created_at": "2026-04-27T02:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048597473544097805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048597473544097805",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048590816030208496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 可是多多那个auvelity是印度的，印度药厂和相关实体生产的默认劣药，不用印度药是对自己负责吧。用盐野义配的话3片10块，安非他酮一片2块，每天成本12，躁期混合期禁用。用缓释糖浆配的话，成本是6+2=8，用玉米配的话，能买的前提下按药店零售价算成本是3+2=5。国内上市遥遥无期的，国外渠道随时中断🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2048590816030208496",
+        "created_at": "2026-04-27T02:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048597473544097805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048597473544097805",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048590816030208496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 可是多多那个auvelity是印度的，印度药厂和相关实体生产的默认劣药，不用印度药是对自己负责吧。用盐野义配的话3片10块，安非他酮一片2块，每天成本12，躁期混合期禁用。用缓释糖浆配的话，成本是6+2=8，用玉米配的话，能买的前提下按药店零售价算成本是3+2=5。国内上市遥遥无期的，国外渠道随时中断🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2048590816030208496",
+        "created_at": "2026-04-27T02:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048590816030208496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048590816030208496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在酸奶葡萄真拿来被我抗抑郁了（试一下效果…）在思考盐野义和auvelity买哪个回来备用（Disclaimer: Legal jurisdiction, legal platform, legal medication. Strictly oppose the incitement of negative content.)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 8,
+          "like_count": 3530,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 815
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "成分请看大号@Numiouo @Numiouo2 \n同类都会回 关注限制只能一批批回\n致举报者：你大可以继续当老鼠偷偷视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "Numiouo"
+              },
+              {
+                "end": 24,
+                "start": 15,
+                "username": "Numiouo2"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米2.0（句末为叠甲 同类请无视）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 304,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 133
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

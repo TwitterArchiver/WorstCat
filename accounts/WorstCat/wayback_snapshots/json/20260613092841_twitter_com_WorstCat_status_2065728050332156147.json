@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2065707972437958884",
+    "created_at": "2026-06-13T09:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065728050332156147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065728050332156147",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065707972437958884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ 宝宝太优秀啦ヾ(≧∇≦*)ゝ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2065707964179365888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrecuabQAAC-ug.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2065707972437958884",
+        "created_at": "2026-06-13T09:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065728050332156147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065728050332156147",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065707972437958884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ 宝宝太优秀啦ヾ(≧∇≦*)ゝ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065707964179365888"
+          ]
+        },
+        "author_id": "1350788438300114952",
+        "conversation_id": "2065707972437958884",
+        "created_at": "2026-06-13T08:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065707972437958884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ykvy2AAHdF",
+              "end": 86,
+              "expanded_url": "https://x.com/Meeeauw_/status/2065707972437958884/photo/1",
+              "media_key": "3_2065707964179365888",
+              "start": 63,
+              "url": "https://t.co/Ykvy2AAHdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065707972437958884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校在统计实践学分 毕业需要修9分 光第一大项我能拿68分（略得意）\n再加上论文 音乐会 大创 排练 资格证 学术研讨什么的 https://t.co/Ykvy2AAHdF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3033,
+          "following_count": 28,
+          "like_count": 8408,
+          "listed_count": 5,
+          "media_count": 241,
+          "tweet_count": 1418
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我总有一天会想起来编辑这个bio的！",
+        "id": "1350788438300114952",
+        "name": "Ra11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 232,
+          "like_count": 2662,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 938
+        },
+        "username": "Meeeauw_",
+        "verified": false
+      }
+    ]
+  }
+}

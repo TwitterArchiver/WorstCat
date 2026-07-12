@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2059201062616347115",
+    "created_at": "2026-05-26T12:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059256381639901524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057748416529068032",
+          "start": 0,
+          "username": "yuyu1396169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059256381639901524",
+    "in_reply_to_user_id": "2057748416529068032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059201062616347115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu1396169 吃药，保持呼吸请问呼气长一点告诉自己没有事，如果可以的话给别人打电话聊天转移注意力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2059201062616347115",
+        "created_at": "2026-05-26T12:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059256381639901524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057748416529068032",
+              "start": 0,
+              "username": "yuyu1396169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059256381639901524",
+        "in_reply_to_user_id": "2057748416529068032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059201062616347115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu1396169 吃药，保持呼吸请问呼气长一点告诉自己没有事，如果可以的话给别人打电话聊天转移注意力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057748416529068032",
+        "conversation_id": "2059201062616347115",
+        "created_at": "2026-05-26T09:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059201062616347115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "不安症"
+            },
+            {
+              "end": 42,
+              "start": 28,
+              "tag": "病み垢さんと仲良くなりたい"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059201062616347115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道焦虑症发作的时候做什么会缓解一些ㅠㅅㅠ\n#不安症 #病み垢さんと仲良くなりたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3028,
+          "following_count": 22,
+          "like_count": 6651,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1251
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T09:01:25.000Z",
+        "description": "日常用┆雑多垢┆💤引きこもりです_(ˇωˇ」∠)_           でも友達欲しい、猫と可愛いものが好き。慢速自学日语中。",
+        "id": "2057748416529068032",
+        "name": "yuyu_",
+        "pinned_tweet_id": "2058566097222369599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057749754852093952/Vmj6eo_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 22,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 65
+        },
+        "username": "yuyu1396169",
+        "verified": false
+      }
+    ]
+  }
+}

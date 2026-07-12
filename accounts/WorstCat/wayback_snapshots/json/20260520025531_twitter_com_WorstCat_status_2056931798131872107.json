@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2056909025867096245",
+    "created_at": "2026-05-20T02:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056931798131872107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056931798131872107",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056909025867096245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ 我怎么感觉像连续使用dex引起的反跳行撤销反应呢，要是用可乐定有用的话恐怕就是了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2056909025867096245",
+        "created_at": "2026-05-20T02:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056931798131872107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056931798131872107",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056909025867096245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ 我怎么感觉像连续使用dex引起的反跳行撤销反应呢，要是用可乐定有用的话恐怕就是了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350788438300114952",
+        "conversation_id": "2056909025867096245",
+        "created_at": "2026-05-20T01:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056909025867096245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056909025867096245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要站着心率就130+ 爬个楼更是160+ 好几天了 又是我身体的啥在抽风(･･;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 19,
+          "like_count": 5864,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1100
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我上网就是来发疯的",
+        "id": "1350788438300114952",
+        "name": "小r换个名字吧先",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 243,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 783
+        },
+        "username": "Meeeauw_",
+        "verified": false
+      }
+    ]
+  }
+}

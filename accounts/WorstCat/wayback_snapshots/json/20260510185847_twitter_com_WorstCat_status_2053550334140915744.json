@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053550329166483456"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2053483716060889559",
+    "created_at": "2026-05-10T18:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053550334140915744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "ObserveDiary_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t1p42uOv1s",
+          "end": 164,
+          "expanded_url": "https://x.com/WorstCat/status/2053550334140915744/photo/1",
+          "media_key": "3_2053550329166483456",
+          "start": 141,
+          "url": "https://t.co/t1p42uOv1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053550334140915744",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053483716060889559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObserveDiary_ 不是给oder加的，加愈创木酚比愈创甘油刺激性更小。\n云药和惠菲宣的玉米片 止咳句号的分散片 日新的止咳含片都是愈创木酚，新康泰克的玉米片 亚邦宁舒的玉米胶囊都是愈创甘油，但是愈创木酚的味道更恶心。\n来自《协和临床用药速查手册第2版》P134-135 https://t.co/t1p42uOv1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2053550329166483456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-tJOpa0AAccCW.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053550329166483456"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2053483716060889559",
+        "created_at": "2026-05-10T18:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053550334140915744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "ObserveDiary_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1p42uOv1s",
+              "end": 164,
+              "expanded_url": "https://x.com/WorstCat/status/2053550334140915744/photo/1",
+              "media_key": "3_2053550329166483456",
+              "start": 141,
+              "url": "https://t.co/t1p42uOv1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053550334140915744",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053483716060889559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObserveDiary_ 不是给oder加的，加愈创木酚比愈创甘油刺激性更小。\n云药和惠菲宣的玉米片 止咳句号的分散片 日新的止咳含片都是愈创木酚，新康泰克的玉米片 亚邦宁舒的玉米胶囊都是愈创甘油，但是愈创木酚的味道更恶心。\n来自《协和临床用药速查手册第2版》P134-135 https://t.co/t1p42uOv1s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2053483716060889559",
+        "created_at": "2026-05-10T14:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053483716060889559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053483716060889559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "到底是怎样才会觉得会为了oder往药里加催吐剂啊，药物本身就有各种不良反应还故意加催吐剂普通患者别活了呗，，，冷知识愈美片那个愈创木酚是化痰的不是催吐的，只是不良反应有想吐，本末倒置，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 6,
+          "like_count": 5003,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 984
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051344177783586816/0KHe0bIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 676,
+          "like_count": 15643,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 3105
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

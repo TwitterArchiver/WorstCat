@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2047513708482686997",
+    "created_at": "2026-04-24T03:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047513708482686997"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047513708482686997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我20日把工商和海关年报公示了以后，主人的手机这几天又被打爆了，睡着觉不停的有电话ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2047513708482686997",
+        "created_at": "2026-04-24T03:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047513708482686997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047513708482686997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我20日把工商和海关年报公示了以后，主人的手机这几天又被打爆了，睡着觉不停的有电话ꉂ(ˊᗜˋ*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 7,
+          "like_count": 3354,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 805
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

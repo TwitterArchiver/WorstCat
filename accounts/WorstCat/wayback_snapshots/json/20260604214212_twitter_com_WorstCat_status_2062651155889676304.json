@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2062043582123700624",
+    "created_at": "2026-06-04T21:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062651155889676304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048402283797381120",
+          "start": 0,
+          "username": "MiraiPure40605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062651155889676304",
+    "in_reply_to_user_id": "2048402283797381120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062600065756410340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiraiPure40605 以后推文不给坏人留把柄🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2062043582123700624",
+        "created_at": "2026-06-04T21:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062651155889676304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048402283797381120",
+              "start": 0,
+              "username": "MiraiPure40605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062651155889676304",
+        "in_reply_to_user_id": "2048402283797381120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062600065756410340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiraiPure40605 以后推文不给坏人留把柄🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048402283797381120",
+        "conversation_id": "2062043582123700624",
+        "created_at": "2026-06-04T18:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062600065756410340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062600065756410340",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062596164944588978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我把带这字的几乎都删了 没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 28,
+          "like_count": 7823,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1372
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T14:02:36.000Z",
+        "description": "镇静药物全是梦2.0 \n备用\n叫我Mirai未来",
+        "id": "2048402283797381120",
+        "name": "MiraiPure",
+        "pinned_tweet_id": "2062043582123700624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048402464530112513/TaBGRpVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 34,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "MiraiPure40605",
+        "verified": false
+      }
+    ]
+  }
+}

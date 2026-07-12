@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2073035836346806405",
+    "created_at": "2026-07-03T17:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073090538497343701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350788438300114952",
+          "start": 0,
+          "username": "Meeeauw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073090538497343701",
+    "in_reply_to_user_id": "1350788438300114952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073035836346806405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeauw_ 过期最麻烦的是银行卡会被停用然后一家一家的更新好麻烦(*☉౪⊙*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073035821322846209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTnGJibwAE7qVp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2073035836346806405",
+        "created_at": "2026-07-03T17:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073090538497343701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350788438300114952",
+              "start": 0,
+              "username": "Meeeauw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073090538497343701",
+        "in_reply_to_user_id": "1350788438300114952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073035836346806405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeauw_ 过期最麻烦的是银行卡会被停用然后一家一家的更新好麻烦(*☉౪⊙*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073035821322846209"
+          ]
+        },
+        "author_id": "1350788438300114952",
+        "conversation_id": "2073035836346806405",
+        "created_at": "2026-07-03T13:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073035836346806405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjVzt2tJFv",
+              "end": 34,
+              "expanded_url": "https://x.com/Meeeauw_/status/2073035836346806405/photo/1",
+              "media_key": "3_2073035821322846209",
+              "start": 11,
+              "url": "https://t.co/VjVzt2tJFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073035836346806405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 664,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于 暂时不是黑户了 https://t.co/VjVzt2tJFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3061,
+          "following_count": 50,
+          "like_count": 11110,
+          "listed_count": 5,
+          "media_count": 250,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T12:54:02.000Z",
+        "description": "我总有一天会想起来编辑这个bio的！",
+        "id": "1350788438300114952",
+        "name": "Ra11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 245,
+          "like_count": 3223,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "Meeeauw_",
+        "verified": false
+      }
+    ]
+  }
+}

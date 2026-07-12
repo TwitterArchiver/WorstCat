@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1993295340255264992",
+    "created_at": "2025-11-26T03:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993519462503596147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1969323161335578624",
+          "start": 0,
+          "username": "bu_xiang8627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993519462503596147",
+    "in_reply_to_user_id": "1969323161335578624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993295340255264992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bu_xiang8627 用医用多酶清洗液好用，凝固血渍用35-40度温水浸泡，1L水加20ml多酶清洗液泡20分钟，有蛋白酶去掉凝固血液很有帮助，淘宝20左右一瓶，洗的时候记得要戴手套(ฅ′ω`ฅ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1993295340255264992",
+        "created_at": "2025-11-26T03:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993519462503596147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1969323161335578624",
+              "start": 0,
+              "username": "bu_xiang8627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993519462503596147",
+        "in_reply_to_user_id": "1969323161335578624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993295340255264992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bu_xiang8627 用医用多酶清洗液好用，凝固血渍用35-40度温水浸泡，1L水加20ml多酶清洗液泡20分钟，有蛋白酶去掉凝固血液很有帮助，淘宝20左右一瓶，洗的时候记得要戴手套(ฅ′ω`ฅ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969323161335578624",
+        "conversation_id": "1993295340255264992",
+        "created_at": "2025-11-25T12:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993295340255264992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993295340255264992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6920,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有办法能洗掉血渍的呀 我的新内裤！！我真的哭泣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 7,
+          "like_count": 538,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 304
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T08:50:21.000Z",
+        "description": "INFP/心碎小狗/嘴臭 谨言慎行 小心被骂/我爱脂包肌 大奶子男妈妈/无🚪/不尊重女性的男的唧唧直接缩进去/健身、唱歌博主（bushi）/173/ Sub/M/小号@MoLi47690只过互关熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "MoLi47690"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmmmm46426",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mmmmm46426",
+                "start": 0,
+                "url": "https://t.co/G3k0xUXCb7"
+              }
+            ]
+          }
+        },
+        "id": "1969323161335578624",
+        "location": "距离1公里",
+        "name": "不想被人认出来",
+        "pinned_tweet_id": "1975600650974380517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969324028516319233/LLKbW6v4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 198,
+          "like_count": 9530,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2246
+        },
+        "url": "https://t.co/G3k0xUXCb7",
+        "username": "bu_xiang8627",
+        "verified": false
+      }
+    ]
+  }
+}

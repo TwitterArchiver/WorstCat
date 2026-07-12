@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1987759655989461023",
+    "created_at": "2025-11-10T05:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987759655989461023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987759655989461023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦里伪装成毒枭失散多年的妹妹想要黑吃黑结果被发现了，大哥不忍心杀我把我困在一个像岳阳楼的木头楼上，每天给我吃好多好吃的都养成猪了，直到快过年了开始磨刀并且唱着:肥🐷赛大象，就是鼻子短，全村杀一头，一人好几碗😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1987759655989461023",
+        "created_at": "2025-11-10T05:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987759655989461023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987759655989461023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦里伪装成毒枭失散多年的妹妹想要黑吃黑结果被发现了，大哥不忍心杀我把我困在一个像岳阳楼的木头楼上，每天给我吃好多好吃的都养成猪了，直到快过年了开始磨刀并且唱着:肥🐷赛大象，就是鼻子短，全村杀一头，一人好几碗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 3,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 116
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

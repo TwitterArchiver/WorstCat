@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2069346128580292950",
+    "created_at": "2026-06-25T04:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070006417394991564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070006417394991564",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069346128580292950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 因为宝宝你说三叉神经痛所以医生才开的奥卡西平呀，这个是卡马西平升级版不会有严重皮炎的副作用，对三叉神经痛效果很好，对双相躁狂期也有用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069346107210264578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfLUhWa8AI-4Ih.jpg",
+        "width": 2036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2069346128580292950",
+        "created_at": "2026-06-25T04:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070006417394991564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070006417394991564",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069346128580292950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 因为宝宝你说三叉神经痛所以医生才开的奥卡西平呀，这个是卡马西平升级版不会有严重皮炎的副作用，对三叉神经痛效果很好，对双相躁狂期也有用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069346107210264578"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2069346128580292950",
+        "created_at": "2026-06-23T09:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069346128580292950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I85sUMj85P",
+              "end": 74,
+              "expanded_url": "https://x.com/uixxixu/status/2069346128580292950/photo/1",
+              "media_key": "3_2069346107210264578",
+              "start": 51,
+              "url": "https://t.co/I85sUMj85P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069346128580292950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1610,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁没了 （虽然我没想要\n就给我开了奥卡西平 那是啥\n但是复诊直接可以开pr 医生真的好好啊！！ https://t.co/I85sUMj85P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 35,
+          "like_count": 9516,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1468
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 515,
+          "like_count": 6262,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 3933
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

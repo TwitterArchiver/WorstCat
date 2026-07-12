@@ -1,0 +1,101 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2050835162058170368"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2050835178810216896",
+    "created_at": "2026-05-03T07:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050835178810216896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oOn3P4W8Do",
+          "end": 92,
+          "expanded_url": "https://x.com/WorstCat/status/2050835178810216896/photo/1",
+          "media_key": "16_2050835162058170368",
+          "start": 69,
+          "url": "https://t.co/oOn3P4W8Do"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050835178810216896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太君五一放假攒了5单没给我发货，求求了再给我发一盒吧就一盒求求了，我浑身感觉都有小鼠🐭不停的在爬，每天盯着发货状态看，我已急哭(╥﹏╥) https://t.co/oOn3P4W8Do"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050835178810216896].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050835178810216896",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050835178810216896"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "16_2050835162058170368",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHYHts9boAA584P.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHYHts9boAA584P.mp4"
+          }
+        ],
+        "width": 338
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 9,
+          "like_count": 4206,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 911
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

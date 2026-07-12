@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992856566752784384",
+        "3_1992856566694051840",
+        "3_1992856586596093952",
+        "3_1992856607118831616"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1992857138595791330",
+    "created_at": "2025-11-24T07:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992857138595791330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZyU5lTRTtA",
+          "end": 179,
+          "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+          "media_key": "3_1992856566752784384",
+          "start": 156,
+          "url": "https://t.co/ZyU5lTRTtA"
+        },
+        {
+          "display_url": "pic.x.com/ZyU5lTRTtA",
+          "end": 179,
+          "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+          "media_key": "3_1992856566694051840",
+          "start": 156,
+          "url": "https://t.co/ZyU5lTRTtA"
+        },
+        {
+          "display_url": "pic.x.com/ZyU5lTRTtA",
+          "end": 179,
+          "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+          "media_key": "3_1992856586596093952",
+          "start": 156,
+          "url": "https://t.co/ZyU5lTRTtA"
+        },
+        {
+          "display_url": "pic.x.com/ZyU5lTRTtA",
+          "end": 179,
+          "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+          "media_key": "3_1992856607118831616",
+          "start": 156,
+          "url": "https://t.co/ZyU5lTRTtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992857138595791330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏猫的新睡衣到啦～pdd19.9的快乐～ 这身驼色囚服也太有犯犯感觉了！\n条纹比普通的那种细，穿上像从香港越狱失败的小笨猫(｀ω´*)♡  \n面料软乎乎～大概70%棉，室温23-26℃正好，蹭来蹭去一点都不闷\n应该是鑫意达/豪豪那家做的，S码超大，还送了个丑丑的化纤小帽子，戴上瞬间从坏猫降级成呆猫(｀ω´*) https://t.co/ZyU5lTRTtA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1992856566752784384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gMfSWasAA3Dxu.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1992856566694051840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gMfSIagAA2qqT.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1992856586596093952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gMgcRbkAAt_2i.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1992856607118831616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gMhoubsAAt412.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992856566752784384",
+            "3_1992856566694051840",
+            "3_1992856586596093952",
+            "3_1992856607118831616"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1992857138595791330",
+        "created_at": "2025-11-24T07:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992857138595791330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZyU5lTRTtA",
+              "end": 179,
+              "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+              "media_key": "3_1992856566752784384",
+              "start": 156,
+              "url": "https://t.co/ZyU5lTRTtA"
+            },
+            {
+              "display_url": "pic.x.com/ZyU5lTRTtA",
+              "end": 179,
+              "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+              "media_key": "3_1992856566694051840",
+              "start": 156,
+              "url": "https://t.co/ZyU5lTRTtA"
+            },
+            {
+              "display_url": "pic.x.com/ZyU5lTRTtA",
+              "end": 179,
+              "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+              "media_key": "3_1992856586596093952",
+              "start": 156,
+              "url": "https://t.co/ZyU5lTRTtA"
+            },
+            {
+              "display_url": "pic.x.com/ZyU5lTRTtA",
+              "end": 179,
+              "expanded_url": "https://x.com/WorstCat/status/1992857138595791330/photo/1",
+              "media_key": "3_1992856607118831616",
+              "start": 156,
+              "url": "https://t.co/ZyU5lTRTtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992857138595791330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏猫的新睡衣到啦～pdd19.9的快乐～ 这身驼色囚服也太有犯犯感觉了！\n条纹比普通的那种细，穿上像从香港越狱失败的小笨猫(｀ω´*)♡  \n面料软乎乎～大概70%棉，室温23-26℃正好，蹭来蹭去一点都不闷\n应该是鑫意达/豪豪那家做的，S码超大，还送了个丑丑的化纤小帽子，戴上瞬间从坏猫降级成呆猫(｀ω´*) https://t.co/ZyU5lTRTtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 7,
+          "like_count": 482,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 284
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

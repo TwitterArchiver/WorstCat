@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2016127111833194777",
+    "created_at": "2026-01-27T14:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016159561401663677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999004442704883716",
+          "start": 0,
+          "username": "lbtuan25_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016159561401663677",
+    "in_reply_to_user_id": "1999004442704883716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016127111833194777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25_1 好恶心啊啊啊啊啊啊啊啊为什么要让我晚饭前看到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2016127111833194777",
+        "created_at": "2026-01-27T14:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016159561401663677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999004442704883716",
+              "start": 0,
+              "username": "lbtuan25_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016159561401663677",
+        "in_reply_to_user_id": "1999004442704883716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016127111833194777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25_1 好恶心啊啊啊啊啊啊啊啊为什么要让我晚饭前看到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999004442704883716",
+        "conversation_id": "2016127111833194777",
+        "created_at": "2026-01-27T12:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016127111833194777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiamimaodashu/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jiamimaodashu/status/2015654073564094937",
+              "start": 11,
+              "url": "https://t.co/aBi6g0VYKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016127111833194777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015654073564094937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助眠在哪\n抗抑郁在哪 https://t.co/aBi6g0VYKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 7,
+          "like_count": 1294,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 555
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:33:21.000Z",
+        "description": "我会找回你们的…一个不少...｜逃生舱指路：https://t.co/IbzozcM3co｜反马家族基本教义：马斯克就是傻X｜自我提升...自我实现...自我毁灭...",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lbtuan…",
+                "end": 45,
+                "expanded_url": "https://bsky.app/profile/lbtuan25.bsky.social",
+                "start": 22,
+                "url": "https://t.co/IbzozcM3co"
+              }
+            ]
+          }
+        },
+        "id": "1999004442704883716",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "✦团子✦（黑暗面",
+        "pinned_tweet_id": "1999008615441777032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999195912481177601/wGruwk5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 330,
+          "like_count": 2601,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 749
+        },
+        "username": "lbtuan25_1",
+        "verified": false
+      }
+    ]
+  }
+}

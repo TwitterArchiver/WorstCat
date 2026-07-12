@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2022724069070909664",
+    "created_at": "2026-02-17T17:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T18:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023815246495052148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1357268985817960449",
+          "start": 0,
+          "username": "Hotaru__112233"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Please excuse the bad 3d printing job. My PETG isn't very good (the purple PETG) and it wasn't completely dry.I used the following to make these:Purple PETG for cheekplates and spring.Black Carbon Fiber PETG (3DXTech, much better than the purple that I have) for shackle and pawl.Blue PLA+ for everything else (could be other materials, but I didn't want to reprint anything. The double lock bar should be of something somewhat flexible though.)14 M2x20mm flat head screws 2 M2x16mm flat head screws for key pin16 M2 nuts2 M4x20mm screws2 M4 nuts1 M4 swivel such as this.A metal handcuff key, of course. :)I didn't use supports on anything except the shackle to preserve the chamfer at the end. You'll need to mirror the parts in your slicer to make the other cuff.I plan to redesign these so that the swivel can't be levered against the retention mechanism.",
+          "display_url": "thingiverse.com/thing:6478581",
+          "end": 39,
+          "expanded_url": "https://www.thingiverse.com/thing:6478581",
+          "images": [
+            {
+              "height": 472,
+              "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=orig",
+              "width": 628
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Handcuffs by WebCatX",
+          "unwound_url": "https://www.thingiverse.com/thing:6478581",
+          "url": "https://t.co/ro6fzgE4cR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023815246495052148",
+    "in_reply_to_user_id": "1357268985817960449",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023309409359900691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hotaru__112233 https://t.co/ro6fzgE4cR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2022724069070909664",
+        "created_at": "2026-02-17T17:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023815246495052148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1357268985817960449",
+              "start": 0,
+              "username": "Hotaru__112233"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Please excuse the bad 3d printing job. My PETG isn't very good (the purple PETG) and it wasn't completely dry.I used the following to make these:Purple PETG for cheekplates and spring.Black Carbon Fiber PETG (3DXTech, much better than the purple that I have) for shackle and pawl.Blue PLA+ for everything else (could be other materials, but I didn't want to reprint anything. The double lock bar should be of something somewhat flexible though.)14 M2x20mm flat head screws 2 M2x16mm flat head screws for key pin16 M2 nuts2 M4x20mm screws2 M4 nuts1 M4 swivel such as this.A metal handcuff key, of course. :)I didn't use supports on anything except the shackle to preserve the chamfer at the end. You'll need to mirror the parts in your slicer to make the other cuff.I plan to redesign these so that the swivel can't be levered against the retention mechanism.",
+              "display_url": "thingiverse.com/thing:6478581",
+              "end": 39,
+              "expanded_url": "https://www.thingiverse.com/thing:6478581",
+              "images": [
+                {
+                  "height": 472,
+                  "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=orig",
+                  "width": 628
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Handcuffs by WebCatX",
+              "unwound_url": "https://www.thingiverse.com/thing:6478581",
+              "url": "https://t.co/ro6fzgE4cR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023815246495052148",
+        "in_reply_to_user_id": "1357268985817960449",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023309409359900691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hotaru__112233 https://t.co/ro6fzgE4cR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357268985817960449",
+        "conversation_id": "2022724069070909664",
+        "created_at": "2026-02-16T08:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023309409359900691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023309409359900691",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023309125112000694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 啊啊可以！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 7,
+          "like_count": 1703,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 671
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T10:05:28.000Z",
+        "description": "喵喵喵",
+        "id": "1357268985817960449",
+        "name": "Hotaru萤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357269132350136321/LelB_yd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 392,
+          "like_count": 4962,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 839
+        },
+        "username": "Hotaru__112233",
+        "verified": false
+      }
+    ]
+  }
+}

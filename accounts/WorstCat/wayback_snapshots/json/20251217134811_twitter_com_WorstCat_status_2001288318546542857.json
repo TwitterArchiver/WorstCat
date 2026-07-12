@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2001257169405272218",
+    "created_at": "2025-12-17T13:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001288318546542857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999004442704883716",
+          "start": 0,
+          "username": "lbtuan25_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001288318546542857",
+    "in_reply_to_user_id": "1999004442704883716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001257169405272218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25_1 银行重点看偿还能力所以得有稳定工作。上次给新入职应届生开了工作证明让去招行办工资卡标注仅限用于开设储蓄账户，开证明是让就近办的时候不被刁难，人家接着中午就在最远的公司开户行办了信用卡下午旷工3小时，也不知道怎么找到那的，隔天就收到银行电话问是不是员工，再过了一天就看到在炫耀卡面👻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2001257169405272218",
+        "created_at": "2025-12-17T13:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001288318546542857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999004442704883716",
+              "start": 0,
+              "username": "lbtuan25_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001288318546542857",
+        "in_reply_to_user_id": "1999004442704883716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001257169405272218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25_1 银行重点看偿还能力所以得有稳定工作。上次给新入职应届生开了工作证明让去招行办工资卡标注仅限用于开设储蓄账户，开证明是让就近办的时候不被刁难，人家接着中午就在最远的公司开户行办了信用卡下午旷工3小时，也不知道怎么找到那的，隔天就收到银行电话问是不是员工，再过了一天就看到在炫耀卡面👻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999004442704883716",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2001257169405272218",
+        "created_at": "2025-12-17T11:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001257169405272218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lbtuan25_1/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/lbtuan25_1/status/2001227537398014286",
+              "start": 58,
+              "url": "https://t.co/MfAdIUXhle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001257169405272218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001227537398014286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实在不理解你中的金融政策\n银行拼命给老登推荐信用卡人家根本不理你的\n我们小登这么能爆米每天拼命消费反倒不给办一张😇 https://t.co/MfAdIUXhle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 7,
+          "like_count": 1172,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 422
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:33:21.000Z",
+        "description": "我不是星野源…｜我会找回你们的…一个不少...｜逃生舱指路：https://t.co/IbzozcM3co｜反马家族基本教义：马斯克就是傻X｜自我提升...自我实现...自我毁灭...",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lbtuan…",
+                "end": 53,
+                "expanded_url": "https://bsky.app/profile/lbtuan25.bsky.social",
+                "start": 30,
+                "url": "https://t.co/IbzozcM3co"
+              }
+            ]
+          }
+        },
+        "id": "1999004442704883716",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "✦团子✦（黑暗面",
+        "pinned_tweet_id": "1999008615441777032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999195912481177601/wGruwk5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 179,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 171
+        },
+        "username": "lbtuan25_1",
+        "verified": false
+      }
+    ]
+  }
+}

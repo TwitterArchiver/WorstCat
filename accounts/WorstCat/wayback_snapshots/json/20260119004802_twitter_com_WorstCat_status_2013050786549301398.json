@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013050780522037248"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013050786549301398",
+    "created_at": "2026-01-19T00:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T01:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013050786549301398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QlXUdlKwOc",
+          "end": 61,
+          "expanded_url": "https://x.com/WorstCat/status/2013050786549301398/photo/1",
+          "media_key": "3_2013050780522037248",
+          "start": 38,
+          "url": "https://t.co/QlXUdlKwOc"
+        },
+        {
+          "display_url": "x.com/cheese_ju/stat…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/cheese_ju/status/1963645819359470037",
+          "start": 62,
+          "url": "https://t.co/PHshcK1k8H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013050786549301398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963645819359470037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新版罪犯一卡通，支持芯片/磁条/非接触交易，方便犯犯在监狱小超市买好吃的🥺 https://t.co/QlXUdlKwOc https://t.co/PHshcK1k8H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2013050780522037248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_LBO_WwAAnCpZ.jpg",
+        "width": 2304
+      },
+      {
+        "alt_text": "胸牌，24年9月版",
+        "height": 1632,
+        "media_key": "3_1963645285596618752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0BE-8DbYAAHHRc.jpg",
+        "width": 1300
+      },
+      {
+        "alt_text": "佩戴效果",
+        "height": 1520,
+        "media_key": "3_1963645753768968192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0BFaMIagAAHB4j.jpg",
+        "width": 803
+      },
+      {
+        "alt_text": "淘宝店：宁波永磁工厂店",
+        "height": 1920,
+        "media_key": "3_1963644348199051264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0BEIX-boAANeIq.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013050780522037248"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013050786549301398",
+        "created_at": "2026-01-19T00:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013050786549301398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QlXUdlKwOc",
+              "end": 61,
+              "expanded_url": "https://x.com/WorstCat/status/2013050786549301398/photo/1",
+              "media_key": "3_2013050780522037248",
+              "start": 38,
+              "url": "https://t.co/QlXUdlKwOc"
+            },
+            {
+              "display_url": "x.com/cheese_ju/stat…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/cheese_ju/status/1963645819359470037",
+              "start": 62,
+              "url": "https://t.co/PHshcK1k8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013050786549301398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963645819359470037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新版罪犯一卡通，支持芯片/磁条/非接触交易，方便犯犯在监狱小超市买好吃的🥺 https://t.co/QlXUdlKwOc https://t.co/PHshcK1k8H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963645285596618752",
+            "3_1963645753768968192",
+            "3_1963644348199051264"
+          ]
+        },
+        "author_id": "1496243522374098947",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963645819359470037",
+        "created_at": "2025-09-04T16:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963645819359470037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IWQWx8Ci8",
+              "end": 61,
+              "expanded_url": "https://x.com/cheese_ju/status/1963645819359470037/photo/1",
+              "media_key": "3_1963645285596618752",
+              "start": 38,
+              "url": "https://t.co/9IWQWx8Ci8"
+            },
+            {
+              "display_url": "pic.x.com/9IWQWx8Ci8",
+              "end": 61,
+              "expanded_url": "https://x.com/cheese_ju/status/1963645819359470037/photo/1",
+              "media_key": "3_1963645753768968192",
+              "start": 38,
+              "url": "https://t.co/9IWQWx8Ci8"
+            },
+            {
+              "display_url": "pic.x.com/9IWQWx8Ci8",
+              "end": 61,
+              "expanded_url": "https://x.com/cheese_ju/status/1963645819359470037/photo/1",
+              "media_key": "3_1963644348199051264",
+              "start": 38,
+              "url": "https://t.co/9IWQWx8Ci8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963645819359470037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 62035,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有问新胸牌样式的，是这种磁吸的，吸力贼强。既不会让衣领皱巴，出门也不会掉~ https://t.co/9IWQWx8Ci8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 7,
+          "like_count": 1207,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 500
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T22:00:51.000Z",
+        "description": "壓倒炕的大橘貓，現實中的乖阿姨 #brat #abdlgirl \n👉#lesbian 有對🐘不約！不找主人！不加q不加v 再問拉黑👈\n繩子 金屬束縛 醫療 戀痛 輕度接受breathplay 正在被 #圈養⛓️\n隨緣發癲，經常失踪，发癫小号@WorstCat 一起来发癫~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "brat"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "abdlgirl"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "lesbian"
+              },
+              {
+                "end": 103,
+                "start": 100,
+                "tag": "圈養"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "WorstCat"
+              }
+            ]
+          }
+        },
+        "id": "1496243522374098947",
+        "location": "距您3.2KM",
+        "name": "呆橘橘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525044935598080/5VNMH3vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20079,
+          "following_count": 319,
+          "like_count": 2595,
+          "listed_count": 51,
+          "media_count": 116,
+          "tweet_count": 665
+        },
+        "username": "cheese_ju",
+        "verified": false
+      }
+    ]
+  }
+}

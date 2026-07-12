@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1990435602001469592",
+    "created_at": "2025-11-17T15:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990435602001469592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990435602001469592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年左边右边上边下边的邻居全都蹭暖，今天气温零下以后，室温26度，地板冷冷的只有24度，好冷好冷好冷🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1990435602001469592",
+        "created_at": "2025-11-17T15:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990435602001469592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990435602001469592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年左边右边上边下边的邻居全都蹭暖，今天气温零下以后，室温26度，地板冷冷的只有24度，好冷好冷好冷🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 6,
+          "like_count": 290,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 213
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

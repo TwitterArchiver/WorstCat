@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2036045549628240031",
+    "created_at": "2026-03-23T23:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T00:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036228636379160708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036228636379160708",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036045549628240031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 我用的浙江百代的沙丁胺醇没感觉特殊味道，吸太快还会手抖烦躁ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2036045549628240031",
+        "created_at": "2026-03-23T23:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T00:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036228636379160708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036228636379160708",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036045549628240031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 我用的浙江百代的沙丁胺醇没感觉特殊味道，吸太快还会手抖烦躁ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2036045549628240031",
+        "created_at": "2026-03-23T11:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:30:41.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036042950598410528",
+          "2036043261945766274",
+          "2036045549628240031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2035729252306567328",
+              "start": 139,
+              "url": "https://t.co/KsMRC41H1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036045549628240031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035729252306567328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再开一条吸入药物榜\n红榜:\n吸入用七氟烷(香香甜甜不刺激，温柔的意识丧失)\n扬州三药 硫酸沙丁胺醇气雾剂(香香的凉凉的，很清爽的有机溶剂味)\n乙醚(香香的，很温和，但是味道不如七氟烷)\n黑榜:\n布地奈德雾化溶液(咸! 巨咸! 恶心的那种咸)\n亚硝酸异戊酯吸入剂(怪味，不好闻) https://t.co/KsMRC41H1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 7,
+          "like_count": 2415,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 786
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 1420,
+          "like_count": 15019,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 4653
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

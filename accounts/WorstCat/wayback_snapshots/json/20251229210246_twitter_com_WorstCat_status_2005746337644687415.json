@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005745966473965568"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2005746337644687415",
+    "created_at": "2025-12-29T21:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T22:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005746337644687415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuhAUvvvD5",
+          "end": 48,
+          "expanded_url": "https://x.com/WorstCat/status/2005746337644687415/photo/1",
+          "media_key": "3_2005745966473965568",
+          "start": 25,
+          "url": "https://t.co/vuhAUvvvD5"
+        },
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/WorstCat/status/2004995964726329671",
+          "start": 49,
+          "url": "https://t.co/D5ysoU7iwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005746337644687415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004995964726329671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用ai能考及格，比百度搜题快多了，5分钟就结束了 https://t.co/vuhAUvvvD5 https://t.co/D5ysoU7iwm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 217,
+        "media_key": "3_2005745966473965568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9XXVGFacAAWNkX.png",
+        "width": 710
+      },
+      {
+        "height": 536,
+        "media_key": "3_2004995961761005568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MtNEzbgAA3VB1.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005745966473965568"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2005746337644687415",
+        "created_at": "2025-12-29T21:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T22:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005746337644687415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuhAUvvvD5",
+              "end": 48,
+              "expanded_url": "https://x.com/WorstCat/status/2005746337644687415/photo/1",
+              "media_key": "3_2005745966473965568",
+              "start": 25,
+              "url": "https://t.co/vuhAUvvvD5"
+            },
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/WorstCat/status/2004995964726329671",
+              "start": 49,
+              "url": "https://t.co/D5ysoU7iwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005746337644687415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004995964726329671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用ai能考及格，比百度搜题快多了，5分钟就结束了 https://t.co/vuhAUvvvD5 https://t.co/D5ysoU7iwm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004995961761005568"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2004995964726329671",
+        "created_at": "2025-12-27T19:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004995964726329671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBcg2M432o",
+              "end": 41,
+              "expanded_url": "https://x.com/WorstCat/status/2004995964726329671/photo/1",
+              "media_key": "3_2004995961761005568",
+              "start": 18,
+              "url": "https://t.co/mBcg2M432o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004995964726329671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1427,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年继续教育只有这个贱兮兮的平台😡 https://t.co/mBcg2M432o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你1.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 7,
+          "like_count": 1504,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 451
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

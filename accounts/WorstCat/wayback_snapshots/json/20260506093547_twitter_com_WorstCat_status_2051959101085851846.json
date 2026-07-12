@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2051905942263054359",
+    "created_at": "2026-05-06T09:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051959101085851846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051959101085851846",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051905942263054359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyronANNO 用转运呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2051905942263054359",
+        "created_at": "2026-05-06T09:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051959101085851846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051959101085851846",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051905942263054359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO 用转运呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "conversation_id": "2051905942263054359",
+        "created_at": "2026-05-06T06:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051905942263054359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051905942263054359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想买一些仅日本发售的周边，都可以网上付款但不能邮寄到中国大陆\n\n要是有朋友愿意帮我收一下就好了，我不介意付一笔保管费或者邮寄费，因为再怎么说也比转运保险，毕竟是认识的人接手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 9,
+          "like_count": 4508,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 930
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | チュウマイ | \nDM⇒フォロバ | アイコン→@LQSeYlU20w87883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "LQSeYlU20w87883"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051275409053159424/QLZJZ89E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445,
+          "following_count": 901,
+          "like_count": 194713,
+          "listed_count": 0,
+          "media_count": 5027,
+          "tweet_count": 21011
+        },
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

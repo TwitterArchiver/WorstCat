@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2073446428899434551",
+    "created_at": "2026-07-05T06:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073660338952876270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1385462127100669958",
+          "start": 0,
+          "username": "DDDddddduuuucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073660338952876270",
+    "in_reply_to_user_id": "1385462127100669958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073446428899434551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDDddddduuuucky 碘伏规则怪谈\n碘伏要买大厂的，不要买4字海开头厂商的，需要避光保存，启封后每次用完都要拧紧瓶盖，启封后最多可使用1个月到期丢弃，自然干燥前不可进行操作此时消毒效力不够，不要使用瓶盖量取或浸泡容易污染，不要把除未使用的无菌棉签以外的东西插入瓶内否则视为污染需要丢弃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2073446428899434551",
+        "created_at": "2026-07-05T06:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073660338952876270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1385462127100669958",
+              "start": 0,
+              "username": "DDDddddduuuucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073660338952876270",
+        "in_reply_to_user_id": "1385462127100669958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073446428899434551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDDddddduuuucky 碘伏规则怪谈\n碘伏要买大厂的，不要买4字海开头厂商的，需要避光保存，启封后每次用完都要拧紧瓶盖，启封后最多可使用1个月到期丢弃，自然干燥前不可进行操作此时消毒效力不够，不要使用瓶盖量取或浸泡容易污染，不要把除未使用的无菌棉签以外的东西插入瓶内否则视为污染需要丢弃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385462127100669958",
+        "conversation_id": "2073446428899434551",
+        "created_at": "2026-07-04T16:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073446428899434551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073446428899434551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又買到國產劣質碘伏😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 54,
+          "like_count": 11460,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 1633
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T05:15:07.000Z",
+        "description": "ロータリー中毒者🍙 永遠に18歳のままです✨ 無言フォロー失礼します🙇‍♀️ 日本人ではない、迷惑ならごめんなさい🙇‍♀️ 六弦ベース練習継続中🎸",
+        "id": "1385462127100669958",
+        "location": "不運な",
+        "name": "疲労の社畜鴨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831168640475074560/7rGxJDij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 3533,
+          "like_count": 208367,
+          "listed_count": 19,
+          "media_count": 1144,
+          "tweet_count": 29731
+        },
+        "url": "",
+        "username": "DDDddddduuuucky",
+        "verified": false
+      }
+    ]
+  }
+}

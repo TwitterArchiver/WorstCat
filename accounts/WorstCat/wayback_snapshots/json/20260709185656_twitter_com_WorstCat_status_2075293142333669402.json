@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2075251156620619923",
+    "created_at": "2026-07-09T18:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075293142333669402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075293142333669402",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075251156620619923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 老资历的胶囊吃法(*☉౪⊙*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075251110080598016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzF47QW0AAGtSd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075251110038712320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzF47GXsAANW47.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075251109388505088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzF44rWUAAm3mS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075251111112355841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzF4_GWMAEmHZ5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2075251156620619923",
+        "created_at": "2026-07-09T18:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075293142333669402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075293142333669402",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075251156620619923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 老资历的胶囊吃法(*☉౪⊙*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075251110080598016",
+            "3_2075251110038712320",
+            "3_2075251109388505088",
+            "3_2075251111112355841"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075251156620619923",
+        "created_at": "2026-07-09T16:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075251156620619923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VnXnW7DPf",
+              "end": 92,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2075251156620619923/photo/1",
+              "media_key": "3_2075251110080598016",
+              "start": 69,
+              "url": "https://t.co/7VnXnW7DPf"
+            },
+            {
+              "display_url": "pic.x.com/7VnXnW7DPf",
+              "end": 92,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2075251156620619923/photo/1",
+              "media_key": "3_2075251110038712320",
+              "start": 69,
+              "url": "https://t.co/7VnXnW7DPf"
+            },
+            {
+              "display_url": "pic.x.com/7VnXnW7DPf",
+              "end": 92,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2075251156620619923/photo/1",
+              "media_key": "3_2075251109388505088",
+              "start": 69,
+              "url": "https://t.co/7VnXnW7DPf"
+            },
+            {
+              "display_url": "pic.x.com/7VnXnW7DPf",
+              "end": 92,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2075251156620619923/photo/1",
+              "media_key": "3_2075251111112355841",
+              "start": 69,
+              "url": "https://t.co/7VnXnW7DPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075251156620619923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 338,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜宵:38t*15mg dxm(18t玉米+20t盐)\n盐野义小小一颗好可爱🥰🤤🥵\n\n吞完感觉食道和胃烫烫的..🥺\n吃点东西缓解一下！😋 https://t.co/7VnXnW7DPf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 57,
+          "like_count": 11980,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 1654
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟｜本质intj 概率会套皮｜哦哦滴｜艺术美感狂热｜称呼指代任意｜接受所有 认同所有 非必要不吵架🥺｜随缘回fo｜喜欢我就多多与我互动哦🥰｜不会主动维护关系..因为没有精力&能力维护..并不是不喜欢各位！君子之交淡如水嘛~｜超绝喜欢生物化学｜https://t.co/bv14LDsSaV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gar1andd2",
+                "end": 151,
+                "expanded_url": "https://ngl.link/gar1andd2",
+                "start": 128,
+                "url": "https://t.co/bv14LDsSaV"
+              }
+            ]
+          }
+        },
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2062054686677663984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 440,
+          "like_count": 30701,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2549
+        },
+        "url": "",
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

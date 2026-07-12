@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037314260083343360",
+        "3_2037314264525160448"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2037314266911609126",
+    "created_at": "2026-03-26T23:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T00:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037314266911609126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KDGC4Yl4X5",
+          "end": 109,
+          "expanded_url": "https://x.com/WorstCat/status/2037314266911609126/photo/1",
+          "media_key": "3_2037314260083343360",
+          "start": 86,
+          "url": "https://t.co/KDGC4Yl4X5"
+        },
+        {
+          "display_url": "pic.x.com/KDGC4Yl4X5",
+          "end": 109,
+          "expanded_url": "https://x.com/WorstCat/status/2037314266911609126/photo/1",
+          "media_key": "3_2037314264525160448",
+          "start": 86,
+          "url": "https://t.co/KDGC4Yl4X5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037314266911609126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还得是睿鹤劲更大，优惠后15一盒 多多刷到7折平台优惠就是13，阿里健康平均10秒内拒绝关闭问诊最快3秒，桃子5连开方阿里6连拒方，换了个老年头像和岁月静好昵称才开出来🥺 https://t.co/KDGC4Yl4X5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037314260083343360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEX-hoAbAAAusxT.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2037314264525160448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEX-h4jbwAAbKf3.jpg",
+        "width": 481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037314260083343360",
+            "3_2037314264525160448"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2037314266911609126",
+        "created_at": "2026-03-26T23:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T00:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037314266911609126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDGC4Yl4X5",
+              "end": 109,
+              "expanded_url": "https://x.com/WorstCat/status/2037314266911609126/photo/1",
+              "media_key": "3_2037314260083343360",
+              "start": 86,
+              "url": "https://t.co/KDGC4Yl4X5"
+            },
+            {
+              "display_url": "pic.x.com/KDGC4Yl4X5",
+              "end": 109,
+              "expanded_url": "https://x.com/WorstCat/status/2037314266911609126/photo/1",
+              "media_key": "3_2037314264525160448",
+              "start": 86,
+              "url": "https://t.co/KDGC4Yl4X5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037314266911609126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还得是睿鹤劲更大，优惠后15一盒 多多刷到7折平台优惠就是13，阿里健康平均10秒内拒绝关闭问诊最快3秒，桃子5连开方阿里6连拒方，换了个老年头像和岁月静好昵称才开出来🥺 https://t.co/KDGC4Yl4X5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 7,
+          "like_count": 2488,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 795
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

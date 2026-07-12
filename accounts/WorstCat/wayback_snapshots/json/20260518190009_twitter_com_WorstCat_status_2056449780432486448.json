@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2055957139353735394",
+    "created_at": "2026-05-18T19:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056449780432486448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056449780432486448",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055957139353735394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 买不到鼻吸的，但是有舌下的更方便用，也是0.4mg的φ(*￣0￣)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055957135952125952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIg6H0nbIAAa0rC.jpg",
+        "width": 1707
+      },
+      {
+        "height": 1341,
+        "media_key": "3_2055957131481006083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIg6Hj9bQAMyhJ0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1739,
+        "media_key": "3_2055957135142637568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIg6HxmbUAAooEG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2055957139353735394",
+        "created_at": "2026-05-18T19:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056449780432486448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056449780432486448",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055957139353735394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 买不到鼻吸的，但是有舌下的更方便用，也是0.4mg的φ(*￣0￣)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055957135952125952",
+            "3_2055957131481006083",
+            "3_2055957135142637568"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2055957139353735394",
+        "created_at": "2026-05-17T10:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055957139353735394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvUESerZ0i",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055957139353735394/photo/1",
+              "media_key": "3_2055957135952125952",
+              "start": 158,
+              "url": "https://t.co/FvUESerZ0i"
+            },
+            {
+              "display_url": "pic.x.com/FvUESerZ0i",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055957139353735394/photo/1",
+              "media_key": "3_2055957131481006083",
+              "start": 158,
+              "url": "https://t.co/FvUESerZ0i"
+            },
+            {
+              "display_url": "pic.x.com/FvUESerZ0i",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2055957139353735394/photo/1",
+              "media_key": "3_2055957135142637568",
+              "start": 158,
+              "url": "https://t.co/FvUESerZ0i"
+            },
+            {
+              "display_url": "x.com/Strf_9040C/sta…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/Strf_9040C/status/2055946484147970172",
+              "start": 182,
+              "url": "https://t.co/cnEm62zATN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055957139353735394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1896,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055946484147970172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🔍 基础信息\n- 成分： 盐酸纳洛酮\n​- 规格： 1ml : 0.4mg\n 🧬 药理\n- 身份： 阿片受体竞争性拮抗剂\n⚠️ 细节：\n失效极快：患者醒后可能会再次陷入昏迷，必须监护\n戒断冲击：对于依赖阿片类药物的人，纳洛酮会导致强烈的急性戒断反应\n它在急性酒精中毒导致的意识障碍救治中也是常客，帮助醉酒者加速清醒 https://t.co/FvUESerZ0i https://t.co/cnEm62zATN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 14,
+          "like_count": 5682,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 1066
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 2083,
+          "like_count": 10323,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

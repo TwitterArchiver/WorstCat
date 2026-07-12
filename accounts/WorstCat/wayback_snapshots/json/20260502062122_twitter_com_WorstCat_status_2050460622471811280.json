@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2050444410274615468",
+    "created_at": "2026-05-02T06:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050460622471811280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050460622471811280",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050444410274615468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 这个时候最适合用パブロンゴールドA啦，可待因麻黄碱扑尔敏apap还有大家最熟悉的愈创甘油醚ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2050444410274615468",
+        "created_at": "2026-05-02T06:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050460622471811280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050460622471811280",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050444410274615468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 这个时候最适合用パブロンゴールドA啦，可待因麻黄碱扑尔敏apap还有大家最熟悉的愈创甘油醚ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050444410274615468",
+        "created_at": "2026-05-02T05:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050444410274615468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050444410274615468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈感冒剧烈发烧，我现在根本不需要吃药就自带解离。将严肃品尝感康，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 9,
+          "like_count": 4082,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 905
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 131,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 88
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

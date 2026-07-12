@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2073228940156788791",
+    "created_at": "2026-07-05T00:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T01:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073565862980927833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1284763665242025985",
+          "start": 0,
+          "username": "psenY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073565862980927833",
+    "in_reply_to_user_id": "1284763665242025985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073228940156788791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psenY7 gemini的水平越来越难以捉摸，它没有人类的身体也没人类的情感，自然也不能第一时间想到需要的水都是人类胃最大容量的几倍了吧，更何况奥氮平+地塞米松+阿瑞匹坦+托烷司琼也不可能阻止呕吐反应的，成功率太低最后只能面对icu5-6位数的账单生气吧（＞Ａく）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073228348298522624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWWMsaacAANcmp.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073228936654516224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWWu8NacAAlTYS.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073228935001980928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWWu2DawAAJXrN.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073228936440582144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWWu7aaEAA-unf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2073228940156788791",
+        "created_at": "2026-07-05T00:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073565862980927833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1284763665242025985",
+              "start": 0,
+              "username": "psenY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073565862980927833",
+        "in_reply_to_user_id": "1284763665242025985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073228940156788791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psenY7 gemini的水平越来越难以捉摸，它没有人类的身体也没人类的情感，自然也不能第一时间想到需要的水都是人类胃最大容量的几倍了吧，更何况奥氮平+地塞米松+阿瑞匹坦+托烷司琼也不可能阻止呕吐反应的，成功率太低最后只能面对icu5-6位数的账单生气吧（＞Ａく）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073228348298522624",
+            "3_2073228936654516224",
+            "3_2073228935001980928",
+            "3_2073228936440582144"
+          ]
+        },
+        "author_id": "1284763665242025985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073228940156788791",
+        "created_at": "2026-07-04T02:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073228940156788791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6H7J2XoMJ",
+              "end": 48,
+              "expanded_url": "https://x.com/psenY7/status/2073228940156788791/photo/1",
+              "media_key": "3_2073228348298522624",
+              "start": 25,
+              "url": "https://t.co/B6H7J2XoMJ"
+            },
+            {
+              "display_url": "pic.x.com/B6H7J2XoMJ",
+              "end": 48,
+              "expanded_url": "https://x.com/psenY7/status/2073228940156788791/photo/1",
+              "media_key": "3_2073228936654516224",
+              "start": 25,
+              "url": "https://t.co/B6H7J2XoMJ"
+            },
+            {
+              "display_url": "pic.x.com/B6H7J2XoMJ",
+              "end": 48,
+              "expanded_url": "https://x.com/psenY7/status/2073228940156788791/photo/1",
+              "media_key": "3_2073228935001980928",
+              "start": 25,
+              "url": "https://t.co/B6H7J2XoMJ"
+            },
+            {
+              "display_url": "pic.x.com/B6H7J2XoMJ",
+              "end": 48,
+              "expanded_url": "https://x.com/psenY7/status/2073228940156788791/photo/1",
+              "media_key": "3_2073228936440582144",
+              "start": 25,
+              "url": "https://t.co/B6H7J2XoMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073228940156788791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有亚硝酸钠\n酒精+玉玉药+右美\n应该也活不了？ https://t.co/B6H7J2XoMJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 54,
+          "like_count": 11430,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 1627
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-19T08:15:11.000Z",
+        "description": "07年/大一/HRT 2023.9.9/小证含糖/四川成都",
+        "id": "1284763665242025985",
+        "name": "Y7丶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783691084830552064/6uv9pmag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 801,
+          "like_count": 4481,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "psenY7",
+        "verified": false
+      }
+    ]
+  }
+}

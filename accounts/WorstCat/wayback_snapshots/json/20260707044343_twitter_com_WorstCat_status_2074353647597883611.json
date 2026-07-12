@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2074349626803781899",
+    "created_at": "2026-07-07T04:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074353647597883611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94999172",
+          "start": 0,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074353647597883611",
+    "in_reply_to_user_id": "94999172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074349626803781899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toukorina 我没一天能把药吃全的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2074349626803781899",
+        "created_at": "2026-07-07T04:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074353647597883611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074353647597883611",
+        "in_reply_to_user_id": "94999172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074349626803781899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina 我没一天能把药吃全的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2074349626803781899",
+        "created_at": "2026-07-07T04:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074349626803781899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toukorina/stat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/toukorina/status/2074258896332763480",
+              "start": 51,
+              "url": "https://t.co/EV7FBrSSqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074349626803781899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074258896332763480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃4mg胍法辛+2mg氯硝脑袋才能正常一点感觉自己在现实中存在 但我总是忘记吃氯硝 这脑袋还有救吗 https://t.co/EV7FBrSSqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 54,
+          "like_count": 11593,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7367,
+          "following_count": 969,
+          "like_count": 175442,
+          "listed_count": 18,
+          "media_count": 1520,
+          "tweet_count": 44353
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065636375882579968"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2065634996665385167",
+    "created_at": "2026-06-13T03:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065636378294317507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/COcpnAhDIb",
+          "end": 173,
+          "expanded_url": "https://x.com/WorstCat/status/2065636378294317507/photo/1",
+          "media_key": "3_2065636375882579968",
+          "start": 150,
+          "url": "https://t.co/COcpnAhDIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065636378294317507",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065634996665385167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "黄思琪，现任《南方周末》绿色新闻部记者，曾就读于中国人民大学新闻学专业。在学生时期，黄思琪便与绿色新闻结缘。她在本科阶段关注广东阳春的毒铜泥事件并深入探讨了土壤污染问题，在研究生时期与团队携手打造健康话题的数据新闻作品斩获2022大学新闻奖（Campus News Awards)最佳新闻报道冠军。 https://t.co/COcpnAhDIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2065636375882579968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqdVvObQAAa7VZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065636375882579968"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2065634996665385167",
+        "created_at": "2026-06-13T03:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065636378294317507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COcpnAhDIb",
+              "end": 173,
+              "expanded_url": "https://x.com/WorstCat/status/2065636378294317507/photo/1",
+              "media_key": "3_2065636375882579968",
+              "start": 150,
+              "url": "https://t.co/COcpnAhDIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065636378294317507",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065634996665385167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黄思琪，现任《南方周末》绿色新闻部记者，曾就读于中国人民大学新闻学专业。在学生时期，黄思琪便与绿色新闻结缘。她在本科阶段关注广东阳春的毒铜泥事件并深入探讨了土壤污染问题，在研究生时期与团队携手打造健康话题的数据新闻作品斩获2022大学新闻奖（Campus News Awards)最佳新闻报道冠军。 https://t.co/COcpnAhDIb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2065634996665385167",
+        "created_at": "2026-06-13T03:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065634996665385167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "南方周末",
+              "display_url": "infzm.com/wap/#/content/…",
+              "end": 157,
+              "expanded_url": "https://www.infzm.com/wap/#/content/323443",
+              "start": 134,
+              "status": 200,
+              "title": "南方周末",
+              "unwound_url": "https://www.infzm.com/wap/#/content/323443",
+              "url": "https://t.co/D4HhjjWcI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065634996665385167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是想不到南方周末能发表如此水平低劣错误百出的文章，想过有些记者文化水平低但是没想到那么低。\n这头不会翻墙记者通篇聚焦抖人q群一个敢编一个敢信，一盒90\"片\"的pr，片和粒分不清，5块钱的ym，说的鄙视链没看到链在哪里，槽点实在太多了吧，这就是调查记者的业务水平吗？\nhttps://t.co/D4HhjjWcI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 27,
+          "like_count": 8193,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 1397
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

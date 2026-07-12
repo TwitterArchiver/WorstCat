@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2020834622670819668",
+    "created_at": "2026-02-17T16:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023798464598147513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1008056746391232512",
+          "start": 0,
+          "username": "XINSHu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023798464598147513",
+    "in_reply_to_user_id": "1008056746391232512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023769921055031684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XINSHu233 你也太厉害了，口水可以买一个手动吸痰器和一包吸痰管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2020834622670819668",
+        "created_at": "2026-02-17T16:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023798464598147513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1008056746391232512",
+              "start": 0,
+              "username": "XINSHu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023798464598147513",
+        "in_reply_to_user_id": "1008056746391232512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023769921055031684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XINSHu233 你也太厉害了，口水可以买一个手动吸痰器和一包吸痰管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008056746391232512",
+        "conversation_id": "2020834622670819668",
+        "created_at": "2026-02-17T14:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023769921055031684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023769921055031684",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022400015944343733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我已经能无麻和镇静插喉罩了 只要胃里够空吐不出来东西 能硬抗半小时左右吧 但是口水咽不下去会流的到处都是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 7,
+          "like_count": 1695,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 670
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-16T18:40:31.000Z",
+        "description": "是抖s 颜控 脾气很差！ 有一堆奇奇怪怪的玩具 xp广泛 机械奸/拘束衣/完全拘束/排泄管理/灌肠/abdl/医疗调教/石膏拘束  不是男同！ 推特内容禁止转载到国内平台",
+        "id": "1008056746391232512",
+        "location": "阿根廷",
+        "name": "心树",
+        "pinned_tweet_id": "1880823953821979099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432194902327115778/jndxhZr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8656,
+          "following_count": 948,
+          "like_count": 9988,
+          "listed_count": 35,
+          "media_count": 32,
+          "tweet_count": 1825
+        },
+        "username": "XINSHu233",
+        "verified": false
+      }
+    ]
+  }
+}

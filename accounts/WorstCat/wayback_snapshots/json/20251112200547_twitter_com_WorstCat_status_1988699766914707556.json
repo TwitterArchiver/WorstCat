@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988699335136366592"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1988699766914707556",
+    "created_at": "2025-11-12T20:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T21:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988699766914707556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LRu5rH3nj3",
+          "end": 57,
+          "expanded_url": "https://x.com/WorstCat/status/1988699766914707556/photo/1",
+          "media_key": "3_1988699335136366592",
+          "start": 34,
+          "url": "https://t.co/LRu5rH3nj3"
+        },
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/WorstCat/status/1986815902227296612",
+          "start": 58,
+          "url": "https://t.co/WhNemPYCST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988699766914707556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986815902227296612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人超多的步行街，人超多的商场，人超多的超市，穿着囚鞋还是挺羞耻的😳 https://t.co/LRu5rH3nj3 https://t.co/WhNemPYCST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1988699335136366592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5lHgjvb0AAbAqn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1095,
+        "media_key": "3_1986815761562927105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KWaJYbAAEXZ_h.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988699335136366592"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1988699766914707556",
+        "created_at": "2025-11-12T20:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T21:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988699766914707556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRu5rH3nj3",
+              "end": 57,
+              "expanded_url": "https://x.com/WorstCat/status/1988699766914707556/photo/1",
+              "media_key": "3_1988699335136366592",
+              "start": 34,
+              "url": "https://t.co/LRu5rH3nj3"
+            },
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/WorstCat/status/1986815902227296612",
+              "start": 58,
+              "url": "https://t.co/WhNemPYCST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988699766914707556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986815902227296612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人超多的步行街，人超多的商场，人超多的超市，穿着囚鞋还是挺羞耻的😳 https://t.co/LRu5rH3nj3 https://t.co/WhNemPYCST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986815761562927105"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1986815902227296612",
+        "created_at": "2025-11-07T15:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986815902227296612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Xw3Owmpba",
+              "end": 33,
+              "expanded_url": "https://x.com/WorstCat/status/1986815902227296612/photo/1",
+              "media_key": "3_1986815761562927105",
+              "start": 10,
+              "url": "https://t.co/4Xw3Owmpba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986815902227296612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2611,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反光的囚鞋好羞耻~ https://t.co/4Xw3Owmpba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 3,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 155
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

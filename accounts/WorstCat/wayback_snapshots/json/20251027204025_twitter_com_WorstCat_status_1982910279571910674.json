@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982910253449785346",
+        "3_1982910265546158080"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1982910279571910674",
+    "created_at": "2025-10-27T20:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T21:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982910279571910674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jDHLc3fseL",
+          "end": 46,
+          "expanded_url": "https://x.com/WorstCat/status/1982910279571910674/video/1",
+          "media_key": "7_1982910253449785346",
+          "start": 23,
+          "url": "https://t.co/jDHLc3fseL"
+        },
+        {
+          "display_url": "pic.x.com/jDHLc3fseL",
+          "end": 46,
+          "expanded_url": "https://x.com/WorstCat/status/1982910279571910674/video/1",
+          "media_key": "3_1982910265546158080",
+          "start": 23,
+          "url": "https://t.co/jDHLc3fseL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982910279571910674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "声音很小睡着了不一定能听到，但是灯光很阴间🙄 https://t.co/jDHLc3fseL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3847,
+        "height": 1280,
+        "media_key": "7_1982910253449785346",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982910253449785346/pu/img/-RyBlZjEyp5tFFN4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982910253449785346/pu/vid/avc1/320x568/uVLthX89LgB1Lnml.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982910253449785346/pu/vid/avc1/480x852/xGsPVqtzLyATcw3n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982910253449785346/pu/vid/avc1/720x1280/ctATuDHyFM718Dcv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982910253449785346/pu/pl/Wu_LRW2BWtHl4Wkd.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1982910265546158080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4S2YW9asAA-M4X.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982910253449785346",
+            "3_1982910265546158080"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1982910279571910674",
+        "created_at": "2025-10-27T20:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T21:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982910279571910674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDHLc3fseL",
+              "end": 46,
+              "expanded_url": "https://x.com/WorstCat/status/1982910279571910674/video/1",
+              "media_key": "7_1982910253449785346",
+              "start": 23,
+              "url": "https://t.co/jDHLc3fseL"
+            },
+            {
+              "display_url": "pic.x.com/jDHLc3fseL",
+              "end": 46,
+              "expanded_url": "https://x.com/WorstCat/status/1982910279571910674/video/1",
+              "media_key": "3_1982910265546158080",
+              "start": 23,
+              "url": "https://t.co/jDHLc3fseL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982910279571910674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声音很小睡着了不一定能听到，但是灯光很阴间🙄 https://t.co/jDHLc3fseL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 2,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 22
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

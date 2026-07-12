@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058109253442015696",
+    "created_at": "2026-05-25T07:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058815822920048849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1284687761887227904",
+          "start": 0,
+          "username": "gu38027655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058815822920048849",
+    "in_reply_to_user_id": "1284687761887227904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058770946404548956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu38027655 不知道账号的话就没办法了诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058109253442015696",
+        "created_at": "2026-05-25T07:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058815822920048849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1284687761887227904",
+              "start": 0,
+              "username": "gu38027655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058815822920048849",
+        "in_reply_to_user_id": "1284687761887227904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058770946404548956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu38027655 不知道账号的话就没办法了诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1284687761887227904",
+        "conversation_id": "2058109253442015696",
+        "created_at": "2026-05-25T04:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058770946404548956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058770946404548956",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058560494517334183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 唉那就不行了，我需要搜一个近期被冻结的账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 22,
+          "like_count": 6459,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1213
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-19T03:13:41.000Z",
+        "description": "/发点碎碎念/\n@qy1259609",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "qy1259609"
+              }
+            ]
+          }
+        },
+        "id": "1284687761887227904",
+        "name": "omtokou_y",
+        "pinned_tweet_id": "1592100767133229056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872870311278063616/cdW0vlhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 330,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1122
+        },
+        "username": "gu38027655",
+        "verified": false
+      }
+    ]
+  }
+}

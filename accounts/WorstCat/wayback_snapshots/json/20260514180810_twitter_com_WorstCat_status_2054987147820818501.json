@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2048720303946158330",
+    "created_at": "2026-05-14T18:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054987147820818501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512114573108822020",
+          "start": 0,
+          "username": "EpsOrionis"
+        },
+        {
+          "end": 22,
+          "id": "3888271693",
+          "start": 12,
+          "username": "HuohuoSan"
+        },
+        {
+          "end": 37,
+          "id": "1119565585992392704",
+          "start": 23,
+          "username": "Carina_boutme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054987147820818501",
+    "in_reply_to_user_id": "1512114573108822020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054928835687415920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EpsOrionis @HuohuoSan @Carina_boutme 还有人吃了浑身皮疹更惨，但是这个药各科比较通用，其实术后止疼用氨酚双氢codeine或者酪咯酸(没有消化道溃疡史)比较好，副作用会小一点吧，全麻术后恶心很常见可以找医生要昂丹司琼。其实tramadol也有妙妙的体验，就是看个体耐受和止吐配合吧ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2048720303946158330",
+        "created_at": "2026-05-14T18:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054987147820818501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512114573108822020",
+              "start": 0,
+              "username": "EpsOrionis"
+            },
+            {
+              "end": 22,
+              "id": "3888271693",
+              "start": 12,
+              "username": "HuohuoSan"
+            },
+            {
+              "end": 37,
+              "id": "1119565585992392704",
+              "start": 23,
+              "username": "Carina_boutme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054987147820818501",
+        "in_reply_to_user_id": "1512114573108822020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054928835687415920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EpsOrionis @HuohuoSan @Carina_boutme 还有人吃了浑身皮疹更惨，但是这个药各科比较通用，其实术后止疼用氨酚双氢codeine或者酪咯酸(没有消化道溃疡史)比较好，副作用会小一点吧，全麻术后恶心很常见可以找医生要昂丹司琼。其实tramadol也有妙妙的体验，就是看个体耐受和止吐配合吧ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512114573108822020",
+        "conversation_id": "2048720303946158330",
+        "created_at": "2026-05-14T14:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054928835687415920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 20,
+              "id": "3888271693",
+              "start": 10,
+              "username": "HuohuoSan"
+            },
+            {
+              "end": 35,
+              "id": "1119565585992392704",
+              "start": 21,
+              "username": "Carina_boutme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054928835687415920",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054881883843158057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @HuohuoSan @Carina_boutme 我很庆幸当时选择了忍痛而不是吃了这个...\n现在回想术后当晚根本不怎么疼但是最难受的就是恶心😥😥😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 7,
+          "like_count": 5400,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 1035
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T17:06:32.000Z",
+        "description": "ENFP-A//mtf//SRS2026.3.31//Master of Engineering\n科学技术爱好者/光机电自动化/天文学/生命科学//\ncosplay/latex胶衣/sub/m//超爱大姐姐的les// 本命真希波玛丽 喵～",
+        "id": "1512114573108822020",
+        "location": "Toronto, Ontario",
+        "name": "Kagurazaka Mari🍥",
+        "pinned_tweet_id": "1985437173034705163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006953216395649024/kMuScctj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 787,
+          "like_count": 2406,
+          "listed_count": 10,
+          "media_count": 46,
+          "tweet_count": 555
+        },
+        "username": "EpsOrionis",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-14T05:07:42.000Z",
+        "description": "〇某非专业医学狗－目前在长沙\n〇死肥宅猛男一只〇欢迎线下抓我\n〇脑子只有mtf和色色〇上班上班上班上班 要s掉了\nvchat：huohuocyan1\nqq：1485381906",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huohuocyan",
+                "end": 23,
+                "expanded_url": "http://t.me/huohuocyan",
+                "start": 0,
+                "url": "https://t.co/evQmBe59fr"
+              }
+            ]
+          }
+        },
+        "id": "3888271693",
+        "location": "American Fork, UT",
+        "name": "火火さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021894967707537408/1HQ-WYay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 425,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/evQmBe59fr",
+        "username": "HuohuoSan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T11:36:51.000Z",
+        "description": "She/her. 两猫宝妈（？？？）.姛.",
+        "id": "1119565585992392704",
+        "name": "Clara😈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452211803761614852/7qA9LnXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 2933,
+          "like_count": 53975,
+          "listed_count": 12,
+          "media_count": 72,
+          "tweet_count": 1591
+        },
+        "username": "Carina_boutme",
+        "verified": false
+      }
+    ]
+  }
+}

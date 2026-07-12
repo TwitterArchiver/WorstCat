@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2064315822282359074",
+    "created_at": "2026-06-09T13:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064343127549452301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975011089088950272",
+          "start": 0,
+          "username": "Cardiac_520"
+        },
+        {
+          "end": 25,
+          "id": "1466301287998185481",
+          "start": 13,
+          "username": "YCYYICIYUAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064343127549452301",
+    "in_reply_to_user_id": "1975011089088950272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064315822282359074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cardiac_520 @YCYYICIYUAN 哇哇哇心率好快呀150多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 203400,
+        "height": 720,
+        "media_key": "13_2064315644263415808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064315644263415808/img/mOaYIfGcIM2-WqAU.jpg",
+        "public_metrics": {
+          "view_count": 3224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064315644263415808/vid/avc1/480x270/V7w4RPbj2AFwHF1p.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064315644263415808/vid/avc1/640x360/4QlxBCrmw1RQAleP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064315644263415808/vid/avc1/1280x720/221xNkkMCp2NYzZo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064315644263415808/pl/RrUvPeAY90k8427K.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2064315822282359074",
+        "created_at": "2026-06-09T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064343127549452301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975011089088950272",
+              "start": 0,
+              "username": "Cardiac_520"
+            },
+            {
+              "end": 25,
+              "id": "1466301287998185481",
+              "start": 13,
+              "username": "YCYYICIYUAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064343127549452301",
+        "in_reply_to_user_id": "1975011089088950272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064315822282359074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cardiac_520 @YCYYICIYUAN 哇哇哇心率好快呀150多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064315644263415808"
+          ]
+        },
+        "author_id": "1975011089088950272",
+        "conversation_id": "2064315822282359074",
+        "created_at": "2026-06-09T11:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064315822282359074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 142,
+              "id": "1466301287998185481",
+              "start": 130,
+              "username": "YCYYICIYUAN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lS6OEht0Er",
+              "end": 166,
+              "expanded_url": "https://x.com/Cardiac_520/status/2064315822282359074/video/1",
+              "media_key": "13_2064315644263415808",
+              "start": 143,
+              "url": "https://t.co/lS6OEht0Er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064315822282359074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 2977,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "役次元灌肠器挑战2000ml成功🎉\n从开始灌注心率就没有低于130过🥹\n（乳胶管顺着股沟延伸进后穴，充气肛塞卡在扩张到极限的穴口边缘，液体持续往里灌，小腹已经明显鼓起来，乳头震动器开着最低档，整根管子跟着身体一起颤抖，后穴自动绞紧又松开，把液体含得更深。）\n\n@YCYYICIYUAN https://t.co/lS6OEht0Er"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 27,
+          "like_count": 8131,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1390
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T01:32:07.000Z",
+        "description": "xp:医疗 不建议和鼓励任何人模仿 推广自辨",
+        "id": "1975011089088950272",
+        "name": "许许",
+        "pinned_tweet_id": "2021257669244535044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975011273537679360/pZ6xYlVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16611,
+          "following_count": 124,
+          "like_count": 398,
+          "listed_count": 54,
+          "media_count": 64,
+          "tweet_count": 124
+        },
+        "username": "Cardiac_520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T07:00:49.000Z",
+        "description": "BDSM成人品牌\n创新玩具，超级刺激 \n🎈自信自爱，方得自由🎈\n ✉合作推广、寄拍测评请私信（1w粉以上） \n❤欢迎宝子们返图和视频捏❤ \napp下载链接：https://t.co/K3HHyJSkEl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suo.jiushu1234.com/m/#/pages/down…",
+                "end": 101,
+                "expanded_url": "https://suo.jiushu1234.com/m/#/pages/download/download",
+                "start": 78,
+                "url": "https://t.co/K3HHyJSkEl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/38ssfkwp",
+                "end": 23,
+                "expanded_url": "https://tinyurl.com/38ssfkwp",
+                "start": 0,
+                "url": "https://t.co/SEfce1zVlJ"
+              }
+            ]
+          }
+        },
+        "id": "1466301287998185481",
+        "name": "役次元",
+        "pinned_tweet_id": "2062127156793122914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996773145668390912/zCZSoPya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63839,
+          "following_count": 512,
+          "like_count": 410,
+          "listed_count": 119,
+          "media_count": 264,
+          "tweet_count": 1402
+        },
+        "url": "https://t.co/SEfce1zVlJ",
+        "username": "YCYYICIYUAN",
+        "verified": true
+      }
+    ]
+  }
+}

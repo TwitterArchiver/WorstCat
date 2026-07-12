@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2019228525518286849"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2019228577095643493",
+    "created_at": "2026-02-05T01:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T02:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019228577095643493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rZJjLbZhae",
+          "end": 170,
+          "expanded_url": "https://x.com/WorstCat/status/2019228577095643493/video/1",
+          "media_key": "7_2019228525518286849",
+          "start": 147,
+          "url": "https://t.co/rZJjLbZhae"
+        },
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 194,
+          "expanded_url": "https://twitter.com/WorstCat/status/2018331233739284806",
+          "start": 171,
+          "url": "https://t.co/6NKBpJ67mS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019228577095643493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018331233739284806",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死南昌骗子终于肯承认我要的没有货，还狡辩JLA100就是JLE080，一个是特快血管剪一个是特快手术剪，分明是两种东西好吧。乱发的这把在等快递来的时候随便试了试，发现还是个坏的，剪不了薄膜的剪刀归宿应该是垃圾桶，剪刀越锋利刀尖就更不会黏住薄膜。而剪纸不能判断是不是还能用，并且剪纸会磨损剪刀😡 https://t.co/rZJjLbZhae https://t.co/6NKBpJ67mS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7592,
+        "height": 1280,
+        "media_key": "7_2019228525518286849",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019228525518286849/pu/img/XX9dZcDoG_BxW6H4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019228525518286849/pu/vid/avc1/320x568/Kgx1ewLTtMshDiqY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019228525518286849/pu/vid/avc1/480x852/1lNBsZ10kpkoPdft.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019228525518286849/pu/vid/avc1/720x1280/Eq31oA4RoC99kj7s.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019228525518286849/pu/pl/bra2USqzYgzH822m.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2018331228261466113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKNjvuaQAEsZww.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2018331226273353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKNjoUaEAAx_tp.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019228525518286849"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2019228577095643493",
+        "created_at": "2026-02-05T01:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T02:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019228577095643493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZJjLbZhae",
+              "end": 170,
+              "expanded_url": "https://x.com/WorstCat/status/2019228577095643493/video/1",
+              "media_key": "7_2019228525518286849",
+              "start": 147,
+              "url": "https://t.co/rZJjLbZhae"
+            },
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/WorstCat/status/2018331233739284806",
+              "start": 171,
+              "url": "https://t.co/6NKBpJ67mS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019228577095643493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018331233739284806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死南昌骗子终于肯承认我要的没有货，还狡辩JLA100就是JLE080，一个是特快血管剪一个是特快手术剪，分明是两种东西好吧。乱发的这把在等快递来的时候随便试了试，发现还是个坏的，剪不了薄膜的剪刀归宿应该是垃圾桶，剪刀越锋利刀尖就更不会黏住薄膜。而剪纸不能判断是不是还能用，并且剪纸会磨损剪刀😡 https://t.co/rZJjLbZhae https://t.co/6NKBpJ67mS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018331228261466113",
+            "3_2018331226273353728"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018331233739284806",
+        "created_at": "2026-02-02T14:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018331233739284806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sr9EpG0onh",
+              "end": 169,
+              "expanded_url": "https://x.com/WorstCat/status/2018331233739284806/photo/1",
+              "media_key": "3_2018331228261466113",
+              "start": 146,
+              "url": "https://t.co/sr9EpG0onh"
+            },
+            {
+              "display_url": "pic.x.com/sr9EpG0onh",
+              "end": 169,
+              "expanded_url": "https://x.com/WorstCat/status/2018331233739284806/photo/1",
+              "media_key": "3_2018331226273353728",
+              "start": 146,
+              "url": "https://t.co/sr9EpG0onh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018331233739284806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3269,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好生气呀，南昌贩子没货不说乱发，买了两把小血管剪给我发一把手术剪还装不知道，面单上2/2一天就两个快递能搞错吗🤬\n临沂贩子说好发新日期，我买了20盒药有6盒都是临期的，还都是肾上 去甲 地塞米松 阿托品 呋塞米这些备用的，过段时间还得重新买，不愧是上某东当龟公每一次用这假冒伪劣平台都踩雷😡 https://t.co/sr9EpG0onh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 7,
+          "like_count": 1431,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 611
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2019964689728622827",
+    "created_at": "2026-02-14T20:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T21:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022766552345645375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022766552345645375",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022763187464982590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos 好吧，很多客服都不知道自己卖的是什么东西，翻了翻淘宝对话这家客服说不支持回放，有创血压没有三证只能兽用，10和12两个型号区别是12计算主板是独立的更准确别的不知道，前后十多家吧只有一家中微泽的代理说支持波形回放要么就是不支持不知道也不愿意给问🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2019964689728622827",
+        "created_at": "2026-02-14T20:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022766552345645375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022766552345645375",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022763187464982590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 好吧，很多客服都不知道自己卖的是什么东西，翻了翻淘宝对话这家客服说不支持回放，有创血压没有三证只能兽用，10和12两个型号区别是12计算主板是独立的更准确别的不知道，前后十多家吧只有一家中微泽的代理说支持波形回放要么就是不支持不知道也不愿意给问🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502654786453204994",
+        "conversation_id": "2019964689728622827",
+        "created_at": "2026-02-14T20:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022763187464982590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022763187464982590",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022759635216929017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 咪咪喵喵，猫这个似乎可以回放波形，但猫非常不安分所以波形大多数时间都是偏差的咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 7,
+          "like_count": 1621,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 654
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@‖药学毕业/医学生/护理学毕业/心理学二专‖INTP野生水母‖里推：@不告诉你！ ‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "零食捋夺者Mon5🍥【猫在上推】🏴【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019460786918187008/17h89gFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 296,
+          "like_count": 33701,
+          "listed_count": 1,
+          "media_count": 1213,
+          "tweet_count": 8833
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": false
+      }
+    ]
+  }
+}

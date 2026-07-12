@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2057362658492555736",
+    "created_at": "2026-05-21T10:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057413881358856215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057413881358856215",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057362658492555736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 家里常备纳洛酮舌下片感觉不对立马含服，然后决定是否打120，但是不要自己使用氟马西尼，癫痫和抽搐风险会更高🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_2057362653434298368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI04btQbQAAX86h.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2057362658492555736",
+        "created_at": "2026-05-21T10:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057413881358856215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057413881358856215",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057362658492555736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 家里常备纳洛酮舌下片感觉不对立马含服，然后决定是否打120，但是不要自己使用氟马西尼，癫痫和抽搐风险会更高🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057362653434298368"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2057362658492555736",
+        "created_at": "2026-05-21T07:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:25:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057362052369494159",
+          "2057362658492555736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bu6keDcNvR",
+              "end": 90,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2057362658492555736/photo/1",
+              "media_key": "3_2057362653434298368",
+              "start": 67,
+              "url": "https://t.co/Bu6keDcNvR"
+            },
+            {
+              "display_url": "x.com/chiyuyu520/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/chiyuyu520/status/2057089029372621237",
+              "start": 91,
+              "url": "https://t.co/wKfHvhKQCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057362658492555736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057089029372621237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "o了点白兔，忘记自己在氯硝药效里了\n意识到的时候晚了，已经开始药物相互作用了\n然后直接全吐掉了，后面凌晨缓解了\n目前没事了 人活着😇 https://t.co/Bu6keDcNvR https://t.co/wKfHvhKQCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 19,
+          "like_count": 6041,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 1136
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4014,
+          "following_count": 1290,
+          "like_count": 6757,
+          "listed_count": 8,
+          "media_count": 393,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

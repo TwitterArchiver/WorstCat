@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061179337781784576"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2061179340709417235",
+    "created_at": "2026-05-31T20:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T21:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061179340709417235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0nXckvArom",
+          "end": 23,
+          "expanded_url": "https://x.com/WorstCat/status/2061179340709417235/photo/1",
+          "media_key": "3_2061179337781784576",
+          "start": 0,
+          "url": "https://t.co/0nXckvArom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061179340709417235",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0nXckvArom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2061179337781784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJrHr-bbsAABrHT.jpg",
+        "width": 1347
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061179337781784576"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2061179340709417235",
+        "created_at": "2026-05-31T20:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061179340709417235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nXckvArom",
+              "end": 23,
+              "expanded_url": "https://x.com/WorstCat/status/2061179340709417235/photo/1",
+              "media_key": "3_2061179337781784576",
+              "start": 0,
+              "url": "https://t.co/0nXckvArom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061179340709417235",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0nXckvArom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 23,
+          "like_count": 7278,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 1335
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

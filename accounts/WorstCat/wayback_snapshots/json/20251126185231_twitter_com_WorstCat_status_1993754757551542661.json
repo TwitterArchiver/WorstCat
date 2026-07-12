@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1993655257155694985",
+    "created_at": "2025-11-26T18:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993754757551542661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975011089088950272",
+          "start": 0,
+          "username": "Cardiac_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993754757551542661",
+    "in_reply_to_user_id": "1975011089088950272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993700602510254576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cardiac_520 ヾﾉ≧^≦)っ谢谢宝宝的暖心回复，爱你❤～香菇多糖下单试试看，我也一直在吃复合vb锌铜d3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1993655257155694985",
+        "created_at": "2025-11-26T18:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993754757551542661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975011089088950272",
+              "start": 0,
+              "username": "Cardiac_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993754757551542661",
+        "in_reply_to_user_id": "1975011089088950272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993700602510254576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cardiac_520 ヾﾉ≧^≦)っ谢谢宝宝的暖心回复，爱你❤～香菇多糖下单试试看，我也一直在吃复合vb锌铜d3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975011089088950272",
+        "conversation_id": "1993655257155694985",
+        "created_at": "2025-11-26T15:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993700602510254576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993700602510254576",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993668042988113925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 抱抱你呢，可以考虑一下香菇多糖，提高免疫力，我们科里老登也是提高免疫力的思路或者就是就按照指南推荐的泼尼松封闭治疗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 7,
+          "like_count": 560,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 317
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T01:32:07.000Z",
+        "description": "xp:医疗 私信拉黑 不建议和鼓励任何人模仿",
+        "id": "1975011089088950272",
+        "name": "许许",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975011273537679360/pZ6xYlVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 56,
+          "like_count": 85,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 46
+        },
+        "username": "Cardiac_520",
+        "verified": false
+      }
+    ]
+  }
+}

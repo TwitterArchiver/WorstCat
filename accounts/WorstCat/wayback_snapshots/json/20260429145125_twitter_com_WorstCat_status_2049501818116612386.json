@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2049440088938180630",
+    "created_at": "2026-04-29T14:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049501818116612386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556279645502427136",
+          "start": 0,
+          "username": "tianxiao0502"
+        },
+        {
+          "end": 27,
+          "id": "1802704441961017344",
+          "start": 14,
+          "username": "misumikaede3"
+        },
+        {
+          "end": 41,
+          "id": "1327197298930028544",
+          "start": 28,
+          "username": "Psydrugswiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049501818116612386",
+    "in_reply_to_user_id": "1556279645502427136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049487333578391772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiao0502 @misumikaede3 @Psydrugswiki 这个只能算个例吧，没有依据能证明丙戊酸盐会长期影响dxmpr，丙戊酸盐短期压制情绪愉悦顶峰降低是有可能的，住院本身就会做一些物理治疗和使用抗精神病性药物，不一定是什么导致的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2049440088938180630",
+        "created_at": "2026-04-29T14:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049501818116612386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            },
+            {
+              "end": 27,
+              "id": "1802704441961017344",
+              "start": 14,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 41,
+              "id": "1327197298930028544",
+              "start": 28,
+              "username": "Psydrugswiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049501818116612386",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049487333578391772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 @misumikaede3 @Psydrugswiki 这个只能算个例吧，没有依据能证明丙戊酸盐会长期影响dxmpr，丙戊酸盐短期压制情绪愉悦顶峰降低是有可能的，住院本身就会做一些物理治疗和使用抗精神病性药物，不一定是什么导致的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556279645502427136",
+        "conversation_id": "2049440088938180630",
+        "created_at": "2026-04-29T13:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049487333578391772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 27,
+              "id": "1327197298930028544",
+              "start": 14,
+              "username": "Psydrugswiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049487333578391772",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049483316840321379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaede3 @Psydrugswiki 丙戊酸对受体有什么影响可以细说吗）我没研究"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 9,
+          "like_count": 3768,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 872
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "PsydrugsWiki编辑/叫我天晓/pdw官号@Psydrugswiki/里推@maimai_Prism_│🍐妈妈@Kikunashi30712 /kr @KrvyScorpii/苦力怕@Akinoyo_desu/彻子@aokitetsu111/叶子@WinbornN94577/苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "Kikunashi30712"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2015445624033051032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 190,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（大嘘）！enby 🏳️‍⚧️2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🍥#尾宿八",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1082,
+          "like_count": 30616,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 9254
+        },
+        "username": "misumikaede3",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏  Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普 一个神奇的工作台 https://t.co/5yfyOKiE0A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 57,
+                "expanded_url": "https://psydrugs.org",
+                "start": 34,
+                "url": "https://t.co/CB9yLA9IjF"
+              },
+              {
+                "display_url": "generator.psydrugs.org",
+                "end": 100,
+                "expanded_url": "http://generator.psydrugs.org",
+                "start": 77,
+                "url": "https://t.co/5yfyOKiE0A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2034229162811293768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 221,
+          "like_count": 6263,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1296
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false
+      }
+    ]
+  }
+}

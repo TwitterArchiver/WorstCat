@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996747591254790149"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996747593427440056",
+    "created_at": "2025-12-05T01:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T02:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996747593427440056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ns2PHTJUmJ",
+          "end": 40,
+          "expanded_url": "https://x.com/WorstCat/status/1996747593427440056/photo/1",
+          "media_key": "3_1996747591254790149",
+          "start": 17,
+          "url": "https://t.co/Ns2PHTJUmJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996747593427440056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也许疼痛与救赎，是应该在一起的吧 https://t.co/Ns2PHTJUmJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1996747591254790149",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7XfWuLb0AUYSZG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996747591254790149"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996747593427440056",
+        "created_at": "2025-12-05T01:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996747593427440056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ns2PHTJUmJ",
+              "end": 40,
+              "expanded_url": "https://x.com/WorstCat/status/1996747593427440056/photo/1",
+              "media_key": "3_1996747591254790149",
+              "start": 17,
+              "url": "https://t.co/Ns2PHTJUmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996747593427440056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也许疼痛与救赎，是应该在一起的吧 https://t.co/Ns2PHTJUmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 7,
+          "like_count": 796,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 355
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2018815153878581610",
+    "created_at": "2026-02-04T09:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018976142229983628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018976142229983628",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018815153878581610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 心境稳定剂，增肥神药不能o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2018815137143279617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HARFq8ybUAECVdu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2018815153878581610",
+        "created_at": "2026-02-04T09:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018976142229983628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018976142229983628",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018815153878581610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 心境稳定剂，增肥神药不能o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018815137143279617"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018815153878581610",
+        "created_at": "2026-02-03T22:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T23:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018815153878581610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUChdXn00b",
+              "end": 111,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2018815153878581610/photo/1",
+              "media_key": "3_2018815137143279617",
+              "start": 88,
+              "url": "https://t.co/gUChdXn00b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018815153878581610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么药？\n主播几年前住了段时间精卫，出来的时候医生开了一堆这玩意还有舍曲林，虽然主播后面全都扔了（\n今天在床头柜里发现的，看着还有一个月就过期了，不知道能不能o（无敌了） https://t.co/gUChdXn00b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 7,
+          "like_count": 1406,
+          "listed_count": 3,
+          "media_count": 159,
+          "tweet_count": 602
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "幸せになりたい",
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性🐾🎸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 343,
+          "like_count": 44838,
+          "listed_count": 3,
+          "media_count": 1423,
+          "tweet_count": 8123
+        },
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

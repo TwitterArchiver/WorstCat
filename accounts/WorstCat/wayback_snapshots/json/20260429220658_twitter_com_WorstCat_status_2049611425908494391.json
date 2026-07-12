@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049611423844872192"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2049611425908494391",
+    "created_at": "2026-04-29T22:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T23:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049611425908494391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nBnQIk7QgQ",
+          "end": 63,
+          "expanded_url": "https://x.com/WorstCat/status/2049611425908494391/photo/1",
+          "media_key": "3_2049611423844872192",
+          "start": 40,
+          "url": "https://t.co/nBnQIk7QgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049611425908494391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实在不想吃既碰多巴胺d2又用cyp3a4的药，我的多巴胺很敏感很容易锥体外系🥺 https://t.co/nBnQIk7QgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049611423844872192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHGuuw3bMAA4bSG.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049611423844872192"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2049611425908494391",
+        "created_at": "2026-04-29T22:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049611425908494391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBnQIk7QgQ",
+              "end": 63,
+              "expanded_url": "https://x.com/WorstCat/status/2049611425908494391/photo/1",
+              "media_key": "3_2049611423844872192",
+              "start": 40,
+              "url": "https://t.co/nBnQIk7QgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049611425908494391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实在不想吃既碰多巴胺d2又用cyp3a4的药，我的多巴胺很敏感很容易锥体外系🥺 https://t.co/nBnQIk7QgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 9,
+          "like_count": 3826,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 878
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2004957470587081169",
+    "created_at": "2026-01-01T16:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T17:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006758705900224941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1415355333661265922",
+          "start": 0,
+          "username": "haixingjun"
+        },
+        {
+          "end": 28,
+          "id": "1734311627829211136",
+          "start": 12,
+          "username": "AlexanderQ54813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006758705900224941",
+    "in_reply_to_user_id": "1415355333661265922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006748761960370481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haixingjun @AlexanderQ54813 监护仪呀，我还以为那种小动态心电图呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2004957470587081169",
+        "created_at": "2026-01-01T16:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006758705900224941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1415355333661265922",
+              "start": 0,
+              "username": "haixingjun"
+            },
+            {
+              "end": 28,
+              "id": "1734311627829211136",
+              "start": 12,
+              "username": "AlexanderQ54813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006758705900224941",
+        "in_reply_to_user_id": "1415355333661265922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006748761960370481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haixingjun @AlexanderQ54813 监护仪呀，我还以为那种小动态心电图呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415355333661265922",
+        "conversation_id": "2004957470587081169",
+        "created_at": "2026-01-01T15:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006748761960370481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 26,
+              "id": "1734311627829211136",
+              "start": 10,
+              "username": "AlexanderQ54813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006748761960370481",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005226631594709314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @AlexanderQ54813 左上角那个小监护，诶，看着就是个监护仪，我查了一下，采购价都3.5w（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你1.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 7,
+          "like_count": 1585,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 459
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T17:01:17.000Z",
+        "description": "BME/业余摄影师/ENTP-T/♂/明日方舟 大部分情况下我会装的像个正常人一点，但我来这里就是为了涩涩。请不要把推的内容带入墙内，让我在互联网穿条裤子",
+        "id": "1415355333661265922",
+        "name": "Haixingjun",
+        "pinned_tweet_id": "1860764352841671008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504530114620575745/V6xXEhA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 2241,
+          "like_count": 57708,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 2238
+        },
+        "username": "haixingjun",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T20:38:22.000Z",
+        "description": "",
+        "id": "1734311627829211136",
+        "location": "Los Angeles, CA",
+        "name": "乌萨奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849639529424076800/vRCkEH5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 206,
+          "like_count": 6783,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "username": "AlexanderQ54813",
+        "verified": false
+      }
+    ]
+  }
+}

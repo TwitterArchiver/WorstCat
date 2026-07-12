@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1987534601410191657",
+    "created_at": "2025-11-10T06:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T07:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987764060545511641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987764060545511641",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987534601410191657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 既然苏糖酸镁的苏糖酸没有活性只是靠镁离子的话，甘氨酸镁是不是也是一样的效果呢，我刚做了几百个胶囊还没吃呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_1987530378551214080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UgWVHXwAAAF6K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1987534601410191657",
+        "created_at": "2025-11-10T06:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987764060545511641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987764060545511641",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987534601410191657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 既然苏糖酸镁的苏糖酸没有活性只是靠镁离子的话，甘氨酸镁是不是也是一样的效果呢，我刚做了几百个胶囊还没吃呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987530378551214080"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1987534601410191657",
+        "created_at": "2025-11-09T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987534601410191657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTkG76Am8N",
+              "end": 183,
+              "expanded_url": "https://x.com/SalviaSWC/status/1987534601410191657/photo/1",
+              "media_key": "3_1987530378551214080",
+              "start": 160,
+              "url": "https://t.co/VTkG76Am8N"
+            },
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1987112226352996770",
+              "start": 184,
+              "url": "https://t.co/qwApMx85co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987534601410191657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1496,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987112226352996770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃苏镁吃的👇\n冷知识:\n所谓“反解离剂”苏糖酸镁由两部分组成，一个是苏糖酸，即(2R,3S)-2,3,4-三羟基丁酸根，另一个是有活性的镁离子\n其中，前者无活性，仅作为配位剂；后者镁离子具有精神活性，可以拮抗NMDA受体，属于如假包换的天然*解离剂*\n不信?看看psywiki\n“镁剂可以增效任何解离剂，包括右美沙芬” https://t.co/VTkG76Am8N https://t.co/qwApMx85co"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 3,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 117
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 672,
+          "like_count": 10976,
+          "listed_count": 6,
+          "media_count": 160,
+          "tweet_count": 3436
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

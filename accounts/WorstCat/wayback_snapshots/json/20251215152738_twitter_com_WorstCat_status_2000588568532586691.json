@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1999894687466041656",
+    "created_at": "2025-12-15T15:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000588568532586691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1222973052486483969",
+          "start": 0,
+          "username": "BSDjsy123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000588568532586691",
+    "in_reply_to_user_id": "1222973052486483969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999978724830466471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BSDjsy123 没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1999894687466041656",
+        "created_at": "2025-12-15T15:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000588568532586691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1222973052486483969",
+              "start": 0,
+              "username": "BSDjsy123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000588568532586691",
+        "in_reply_to_user_id": "1222973052486483969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999978724830466471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BSDjsy123 没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222973052486483969",
+        "conversation_id": "1999894687466041656",
+        "created_at": "2025-12-13T23:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999978724830466471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999978724830466471",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2098,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999894687466041656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 所以插进去了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 7,
+          "like_count": 1046,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 392
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T20:01:19.000Z",
+        "description": "Gin",
+        "id": "1222973052486483969",
+        "name": "Gin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222973158434594816/_CONeW_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1215,
+          "like_count": 6053,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "BSDjsy123",
+        "verified": false
+      }
+    ]
+  }
+}

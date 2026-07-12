@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2057379099921072133",
+    "created_at": "2026-05-22T03:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057658363438383286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057658363438383286",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057379099921072133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 源自于邪教和黑帮组织的忠诚度测试，在金融行业尤其恶臭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2057379099921072133",
+        "created_at": "2026-05-22T03:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057658363438383286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057658363438383286",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057379099921072133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 源自于邪教和黑帮组织的忠诚度测试，在金融行业尤其恶臭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573704119516176384",
+        "conversation_id": "2057379099921072133",
+        "created_at": "2026-05-21T08:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T09:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057379099921072133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057379099921072133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 72269,
+          "like_count": 1061,
+          "quote_count": 10,
+          "reply_count": 92,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "真的特别讨厌酒桌文化，，，说白了，这不就是聚众od吗，然后还要强迫不od的人陪他一起o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 19,
+          "like_count": 6081,
+          "listed_count": 5,
+          "media_count": 223,
+          "tweet_count": 1148
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 口令红包",
+        "name": "草莓泡芙🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94975,
+          "following_count": 902,
+          "like_count": 5608,
+          "listed_count": 211,
+          "media_count": 110,
+          "tweet_count": 1761
+        },
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

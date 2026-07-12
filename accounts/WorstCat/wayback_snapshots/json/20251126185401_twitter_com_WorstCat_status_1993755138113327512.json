@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1993699803407233097",
+    "created_at": "2025-11-26T18:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993755138113327512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533418235927793665",
+          "start": 0,
+          "username": "Zxcloveprison"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993755138113327512",
+    "in_reply_to_user_id": "1533418235927793665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993703169503948877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxcloveprison 没事，拿快递的是主人，驿站还贴心的给把十几个快递用胶带缠好提回来的😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1993699803407233097",
+        "created_at": "2025-11-26T18:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993755138113327512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533418235927793665",
+              "start": 0,
+              "username": "Zxcloveprison"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993755138113327512",
+        "in_reply_to_user_id": "1533418235927793665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993703169503948877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxcloveprison 没事，拿快递的是主人，驿站还贴心的给把十几个快递用胶带缠好提回来的😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533418235927793665",
+        "conversation_id": "1993699803407233097",
+        "created_at": "2025-11-26T15:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993703169503948877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993703169503948877",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993699803407233097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 这可太社死了 哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 7,
+          "like_count": 560,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 318
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T11:59:39.000Z",
+        "description": "喜欢囚服",
+        "id": "1533418235927793665",
+        "name": "Zxc",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 290,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "Zxcloveprison",
+        "verified": false
+      }
+    ]
+  }
+}

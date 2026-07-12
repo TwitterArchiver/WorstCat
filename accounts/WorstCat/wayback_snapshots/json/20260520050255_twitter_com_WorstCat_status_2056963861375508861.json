@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2056822325736325243",
+    "created_at": "2026-05-20T05:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056963861375508861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056963861375508861",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056822325736325243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ 药店被清汤大姥爷和多管闲事的记者整应激了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2056822325736325243",
+        "created_at": "2026-05-20T05:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056963861375508861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056963861375508861",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056822325736325243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 药店被清汤大姥爷和多管闲事的记者整应激了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667129907795886081",
+        "conversation_id": "2056822325736325243",
+        "created_at": "2026-05-19T19:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056822325736325243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056822325736325243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去问了药房，有货都不敢卖，要求三天内的处方且盖章的（普瑞）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 19,
+          "like_count": 5892,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 1111
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "常用id：mods999/网友夏顺亚，基本都会回fo.成分Oder/🎌自由意志，其他自行判断，键政的傻逼东西自觉屏蔽我别恶心你野爹",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "网友夏顺亚",
+        "pinned_tweet_id": "2037120174533579253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040975317486186496/Dx6Wt3_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 477,
+          "like_count": 37241,
+          "listed_count": 2,
+          "media_count": 1435,
+          "tweet_count": 6347
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}

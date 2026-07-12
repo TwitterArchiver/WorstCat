@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2048590816030208496",
+    "created_at": "2026-04-27T07:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048673212968710227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048673212968710227",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048666693506109523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 从好多评论区的讨论来看，自配方案dxm即释和缓释效果区别不大，单纯靠45mg dxm本来就没什么作用主要依赖安非他酮抑制cyp2d6不让转换成dxo以提高血药浓度到几何倍的水平，auvelity之所以是缓释还是因为安非他酮必须得缓释给药即释太猛了诶很多人身体受不了所以就放在一颗缓释壳子里了ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2048590816030208496",
+        "created_at": "2026-04-27T07:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048673212968710227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048673212968710227",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048666693506109523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 从好多评论区的讨论来看，自配方案dxm即释和缓释效果区别不大，单纯靠45mg dxm本来就没什么作用主要依赖安非他酮抑制cyp2d6不让转换成dxo以提高血药浓度到几何倍的水平，auvelity之所以是缓释还是因为安非他酮必须得缓释给药即释太猛了诶很多人身体受不了所以就放在一颗缓释壳子里了ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2048590816030208496",
+        "created_at": "2026-04-27T07:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048666693506109523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048666693506109523",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048658638252933599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我靠咋这样！自配好像是在缓释方面比较难搞呢TT好诶贴贴猫儿！我也去试试不同的方案看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 8,
+          "like_count": 3573,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 828
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "成分请看@Numiouo @Numiouo2 \n同类都会回 关注限制只能一批批回\n致举报者：你大可以继续当老鼠偷偷视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "Numiouo"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Numiouo2"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米2.0（句末为叠甲 同类请无视）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 352,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 162
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

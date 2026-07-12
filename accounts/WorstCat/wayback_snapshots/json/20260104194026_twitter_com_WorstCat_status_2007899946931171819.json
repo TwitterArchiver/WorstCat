@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2007630862012293179",
+    "created_at": "2026-01-04T19:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T20:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007899946931171819"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Handcuffs",
+          "probability": 0.8179,
+          "start": 12,
+          "type": "Other"
+        },
+        {
+          "end": 31,
+          "normalized_text": "WebCatX",
+          "probability": 0.8697,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "Thingiverse",
+          "probability": 0.9428,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440242494109667343",
+          "start": 0,
+          "username": "hanxiaoruo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Please excuse the bad 3d printing job. My PETG isn't very good (the purple PETG) and it wasn't completely dry.I used the following to make these:Purple PETG for cheekplates and spring.Black Carbon Fiber PETG (3DXTech, much better than the purple that I have) for shackle and pawl.Blue PLA+ for everything else (could be other materials, but I didn't want to reprint anything. The double lock bar should be of something somewhat flexible though.)14 M2x20mm flat head screws 2 M2x16mm flat head screws for key pin16 M2 nuts2 M4x20mm screws2 M4 nuts1 M4 swivel such as this.A metal handcuff key, of course. :)I didn't use supports on anything except the shackle to preserve the chamfer at the end. You'll need to mirror the parts in your slicer to make the other cuff.I plan to redesign these so that the swivel can't be levered against the retention mechanism.",
+          "display_url": "thingiverse.com/thing:6478581",
+          "end": 72,
+          "expanded_url": "http://thingiverse.com/thing:6478581",
+          "images": [
+            {
+              "height": 472,
+              "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=orig",
+              "width": 628
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "Handcuffs by WebCatX",
+          "unwound_url": "https://www.thingiverse.com/thing:6478581",
+          "url": "https://t.co/SWuz05T4KP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007899946931171819",
+    "in_reply_to_user_id": "1440242494109667343",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007781725984985583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanxiaoruo Handcuffs by WebCatX on Thingiverse: https://t.co/SWuz05T4KP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2007630862012293179",
+        "created_at": "2026-01-04T19:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T20:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007899946931171819"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Handcuffs",
+              "probability": 0.8179,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "WebCatX",
+              "probability": 0.8697,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "Thingiverse",
+              "probability": 0.9428,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440242494109667343",
+              "start": 0,
+              "username": "hanxiaoruo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Please excuse the bad 3d printing job. My PETG isn't very good (the purple PETG) and it wasn't completely dry.I used the following to make these:Purple PETG for cheekplates and spring.Black Carbon Fiber PETG (3DXTech, much better than the purple that I have) for shackle and pawl.Blue PLA+ for everything else (could be other materials, but I didn't want to reprint anything. The double lock bar should be of something somewhat flexible though.)14 M2x20mm flat head screws 2 M2x16mm flat head screws for key pin16 M2 nuts2 M4x20mm screws2 M4 nuts1 M4 swivel such as this.A metal handcuff key, of course. :)I didn't use supports on anything except the shackle to preserve the chamfer at the end. You'll need to mirror the parts in your slicer to make the other cuff.I plan to redesign these so that the swivel can't be levered against the retention mechanism.",
+              "display_url": "thingiverse.com/thing:6478581",
+              "end": 72,
+              "expanded_url": "http://thingiverse.com/thing:6478581",
+              "images": [
+                {
+                  "height": 472,
+                  "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=orig",
+                  "width": 628
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007685749798469632/Cfh5TbIG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "Handcuffs by WebCatX",
+              "unwound_url": "https://www.thingiverse.com/thing:6478581",
+              "url": "https://t.co/SWuz05T4KP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007899946931171819",
+        "in_reply_to_user_id": "1440242494109667343",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007781725984985583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanxiaoruo Handcuffs by WebCatX on Thingiverse: https://t.co/SWuz05T4KP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440242494109667343",
+        "conversation_id": "2007630862012293179",
+        "created_at": "2026-01-04T11:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007781725984985583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007781725984985583",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007779018482110572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 蹲个模型链接试试看）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 7,
+          "like_count": 1621,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 484
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T09:12:39.000Z",
+        "description": "0898欢迎贴贴~随便发发~只有推，奇怪图片达咩，喜战雷，窝窝屎，飞飞机｜志琦桦音激推",
+        "id": "1440242494109667343",
+        "location": "100m",
+        "name": "涵小若Offical",
+        "pinned_tweet_id": "1718471184709546475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755861136682127360/mxwcVXW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 327,
+          "like_count": 648,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 529
+        },
+        "username": "hanxiaoruo",
+        "verified": false
+      }
+    ]
+  }
+}

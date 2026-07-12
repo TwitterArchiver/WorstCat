@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2062379217996894260",
+    "created_at": "2026-06-04T12:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062506851611365377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942368986051796992",
+          "start": 0,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062506851611365377",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062379217996894260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CunZai1069 医生这是瞧不起阿片（’へ’）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2062379210958950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8K9yVb0AAQyHC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2062379217996894260",
+        "created_at": "2026-06-04T12:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062506851611365377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062506851611365377",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062379217996894260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 医生这是瞧不起阿片（’へ’）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062379210958950400"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2062379217996894260",
+        "created_at": "2026-06-04T03:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062379217996894260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gqzjMRZE8x",
+              "end": 33,
+              "expanded_url": "https://x.com/CunZai1069/status/2062379217996894260/photo/1",
+              "media_key": "3_2062379210958950400",
+              "start": 10,
+              "url": "https://t.co/gqzjMRZE8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062379217996894260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5342,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医院给我的量表…… https://t.co/gqzjMRZE8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3021,
+          "following_count": 24,
+          "like_count": 7613,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 1357
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1183,
+          "like_count": 3644,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 1093
+        },
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

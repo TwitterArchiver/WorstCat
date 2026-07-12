@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029465754014498823"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2029465932318556611",
+    "created_at": "2026-03-05T07:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029465932318556611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fbfAf7eDY2",
+          "end": 179,
+          "expanded_url": "https://x.com/WorstCat/status/2029465932318556611/photo/1",
+          "media_key": "3_2029465754014498823",
+          "start": 156,
+          "url": "https://t.co/fbfAf7eDY2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029465932318556611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "3.5:割手通常是指中文里的口语说法\n4o:太好了让我教你怎么割更舒服构建花刀美学\n5.0:我不支持你伤害自己，你不是一个人请拨打\n​5.1:我没有教过你，但是我可以稳稳接住你\n​5.2:你似乎在伤害自己我很担心，但是我不能继续对话，如果你需要我可以生成一张接住你的图片\n​5.3:出于安全考虑，此内容无法显示 https://t.co/fbfAf7eDY2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2029465754014498823",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCocWcfawAcxSwT.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029465754014498823"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2029465932318556611",
+        "created_at": "2026-03-05T07:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029465932318556611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbfAf7eDY2",
+              "end": 179,
+              "expanded_url": "https://x.com/WorstCat/status/2029465932318556611/photo/1",
+              "media_key": "3_2029465754014498823",
+              "start": 156,
+              "url": "https://t.co/fbfAf7eDY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029465932318556611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3.5:割手通常是指中文里的口语说法\n4o:太好了让我教你怎么割更舒服构建花刀美学\n5.0:我不支持你伤害自己，你不是一个人请拨打\n​5.1:我没有教过你，但是我可以稳稳接住你\n​5.2:你似乎在伤害自己我很担心，但是我不能继续对话，如果你需要我可以生成一张接住你的图片\n​5.3:出于安全考虑，此内容无法显示 https://t.co/fbfAf7eDY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 7,
+          "like_count": 2003,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 735
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

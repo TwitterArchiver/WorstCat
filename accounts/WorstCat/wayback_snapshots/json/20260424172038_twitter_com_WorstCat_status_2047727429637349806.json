@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2047619920415117400",
+    "created_at": "2026-04-24T17:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047727429637349806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1989783807122354176",
+          "start": 0,
+          "username": "q8ofin"
+        },
+        {
+          "end": 21,
+          "id": "1786771245750755328",
+          "start": 8,
+          "username": "Ayanekawaii2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047727429637349806",
+    "in_reply_to_user_id": "1989783807122354176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047725241208799437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q8ofin @Ayanekawaii2 淘宝直接搜盐野义止咳片pro就有呀，两家店在卖3个链接，但是不定时下架，一般有消费券的时候会上架"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2047619920415117400",
+        "created_at": "2026-04-24T17:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047727429637349806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1989783807122354176",
+              "start": 0,
+              "username": "q8ofin"
+            },
+            {
+              "end": 21,
+              "id": "1786771245750755328",
+              "start": 8,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047727429637349806",
+        "in_reply_to_user_id": "1989783807122354176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047725241208799437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q8ofin @Ayanekawaii2 淘宝直接搜盐野义止咳片pro就有呀，两家店在卖3个链接，但是不定时下架，一般有消费券的时候会上架"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989783807122354176",
+        "conversation_id": "2047619920415117400",
+        "created_at": "2026-04-24T17:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047725241208799437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 23,
+              "id": "1786771245750755328",
+              "start": 10,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047725241208799437",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047713123298357658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @Ayanekawaii2 求链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 8,
+          "like_count": 3396,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 798
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T19:53:33.000Z",
+        "description": "喜欢说些没营养的话 od/自餐/重抑 好无聊什么神人都来找我聊天好不好",
+        "id": "1989783807122354176",
+        "name": "喵呜小可",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991208747276857344/vqR608PG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "q8ofin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 147,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2130
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

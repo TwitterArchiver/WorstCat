@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2046206490651046100",
+    "created_at": "2026-04-20T15:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046252740062728295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "qii1969243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046252740062728295",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046206490651046100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qii1969243 神经痛是很主观的病，哪怕以后精二也没法拒绝呀，顶多限制到1-2周最大处方量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2046206490651046100",
+        "created_at": "2026-04-20T15:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046252740062728295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "qii1969243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046252740062728295",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046206490651046100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qii1969243 神经痛是很主观的病，哪怕以后精二也没法拒绝呀，顶多限制到1-2周最大处方量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2046206490651046100",
+        "created_at": "2026-04-20T12:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046206490651046100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046206490651046100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "pr和ym禁售了以后还能o啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 6,
+          "like_count": 3132,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 795
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之/友跨/泛性恋/我割我抽/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520  我没有🚪觉得我以后会在推上发点什么的不要关注我了还是 只有绿色健康小清新",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044769767119270351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039490693140549632/hYgO0Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 233,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1063
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}

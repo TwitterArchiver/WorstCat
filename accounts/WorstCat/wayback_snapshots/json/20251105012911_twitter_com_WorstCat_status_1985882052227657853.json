@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1985385216228409694",
+    "created_at": "2025-11-05T01:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T02:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985882052227657853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1101631118976012288",
+          "start": 0,
+          "username": "monsterr_party"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985882052227657853",
+    "in_reply_to_user_id": "1101631118976012288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985385216228409694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@monsterr_party 还真是这样🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_1985385211258159110",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42BVKNbQAYvKaX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1985385216228409694",
+        "created_at": "2025-11-05T01:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T02:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985882052227657853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1101631118976012288",
+              "start": 0,
+              "username": "monsterr_party"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985882052227657853",
+        "in_reply_to_user_id": "1101631118976012288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985385216228409694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monsterr_party 还真是这样🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985385211258159110"
+          ]
+        },
+        "author_id": "1101631118976012288",
+        "conversation_id": "1985385216228409694",
+        "created_at": "2025-11-03T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985385216228409694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4rIvvLGzn",
+              "end": 45,
+              "expanded_url": "https://x.com/monsterr_party/status/1985385216228409694/photo/1",
+              "media_key": "3_1985385211258159110",
+              "start": 22,
+              "url": "https://t.co/G4rIvvLGzn"
+            },
+            {
+              "display_url": "x.com/whotfisjovana/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/whotfisjovana/status/1985127686164087243",
+              "start": 46,
+              "url": "https://t.co/IwxBBGec8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985385216228409694",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20164,
+          "impression_count": 27044322,
+          "like_count": 467459,
+          "quote_count": 1965,
+          "reply_count": 880,
+          "retweet_count": 27170
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985127686164087243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I think its like this https://t.co/G4rIvvLGzn https://t.co/IwxBBGec8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 2,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 80
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-01T23:51:40.000Z",
+        "description": "♠︎ SFW ♥︎ Taxidermist ♣ Monster Hunter & paleo nerd ◆︎ CA fursuit & plush maker/cosplayer ♠︎ CWs in strawpage ♥︎ #yumetwt ♣ PLUR ◆︎ toonfur & kidfur ₍^. .^₎⟆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 113,
+                "tag": "yumetwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "monsterrparty.straw.page",
+                "end": 23,
+                "expanded_url": "https://monsterrparty.straw.page",
+                "start": 0,
+                "url": "https://t.co/bjyxct6qFg"
+              }
+            ]
+          }
+        },
+        "id": "1101631118976012288",
+        "location": "it/he 🏳️‍⚧️ -⃝⃤ ⚝ ⚣ ⭕️♿️🦮 ",
+        "name": "♠️ Seven/Raiden 🔜 MH ORCHESTRA ♠️",
+        "pinned_tweet_id": "1981521718473879896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982953763901210624/3_7pflg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 781,
+          "like_count": 204314,
+          "listed_count": 5,
+          "media_count": 1550,
+          "tweet_count": 21784
+        },
+        "url": "https://t.co/bjyxct6qFg",
+        "username": "monsterr_party",
+        "verified": false
+      }
+    ]
+  }
+}

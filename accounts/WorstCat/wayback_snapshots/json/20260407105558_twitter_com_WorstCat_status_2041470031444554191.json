@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2041308001907429404",
+    "created_at": "2026-04-07T10:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041470031444554191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041470031444554191",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041308001907429404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 用什么能快速下机呢，劳拉还是喹硫平，我好像没什么快乐的回忆🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 635,
+        "media_key": "3_2041307956923498496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQuxYGagAAbzJ8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041307958110515200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQuxcha8AAmrZB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041307958374699008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQuxdgaEAA0rGh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041307958576123904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQuxeQbkAAd2Hl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2041308001907429404",
+        "created_at": "2026-04-07T10:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041470031444554191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041470031444554191",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041308001907429404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 用什么能快速下机呢，劳拉还是喹硫平，我好像没什么快乐的回忆🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041307956923498496",
+            "3_2041307958110515200",
+            "3_2041307958374699008",
+            "3_2041307958576123904"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "conversation_id": "2041308001907429404",
+        "created_at": "2026-04-07T00:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041308001907429404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHSvy6mNGN",
+              "end": 116,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2041308001907429404/photo/1",
+              "media_key": "3_2041307956923498496",
+              "start": 93,
+              "url": "https://t.co/WHSvy6mNGN"
+            },
+            {
+              "display_url": "pic.x.com/WHSvy6mNGN",
+              "end": 116,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2041308001907429404/photo/1",
+              "media_key": "3_2041307958110515200",
+              "start": 93,
+              "url": "https://t.co/WHSvy6mNGN"
+            },
+            {
+              "display_url": "pic.x.com/WHSvy6mNGN",
+              "end": 116,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2041308001907429404/photo/1",
+              "media_key": "3_2041307958374699008",
+              "start": 93,
+              "url": "https://t.co/WHSvy6mNGN"
+            },
+            {
+              "display_url": "pic.x.com/WHSvy6mNGN",
+              "end": 116,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2041308001907429404/photo/1",
+              "media_key": "3_2041307958576123904",
+              "start": 93,
+              "url": "https://t.co/WHSvy6mNGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041308001907429404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 969,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你患有严重的cptsd或者能回忆起来的东西只有深刻的痛苦的话，我不建议你使用任何的致幻剂。因为有可能你会跟我一样在所有的trip中闪回，重复经历所有创伤然后应激，并且被迫快速下机。 https://t.co/WHSvy6mNGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 7,
+          "like_count": 2704,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 831
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "我想",
+        "id": "1176077981099446272",
+        "name": "Hereditarystupidity #鬼宿三",
+        "pinned_tweet_id": "1894651753678999699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 742,
+          "like_count": 30912,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 2846
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

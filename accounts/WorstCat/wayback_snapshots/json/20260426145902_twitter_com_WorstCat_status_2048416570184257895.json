@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048416564907745281"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2048416570184257895",
+    "created_at": "2026-04-26T14:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048416570184257895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "不正事案の発生等に伴う医薬品の供給不足や創薬環境の変化等の状況に対応し、引き続き品質の確保された医薬品等を国民に迅速かつ 適正に提供していくため、医薬品等の品質及び安全性の確保の強化、医療用医薬品等の安定供給体制の強化等、より活発な創薬が行われ る環境の整備、国民への医薬品の適正な提供のための薬局機能の強化等を行うため、薬機法を改正し、制度の見直しを行いました。 　法改正とともに、必要な政省令改正・通知の発出について、お知らせいたします。",
+          "display_url": "mhlw.go.jp/stf/newpage_58…",
+          "end": 163,
+          "expanded_url": "https://www.mhlw.go.jp/stf/newpage_58083.html",
+          "start": 140,
+          "status": 200,
+          "title": "令和７年の医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（薬機法）等の一部改正について",
+          "unwound_url": "https://www.mhlw.go.jp/stf/newpage_58083.html",
+          "url": "https://t.co/jJgZ3PXSNH"
+        },
+        {
+          "display_url": "pic.x.com/8bkzXOzuxj",
+          "end": 187,
+          "expanded_url": "https://x.com/WorstCat/status/2048416570184257895/photo/1",
+          "media_key": "3_2048416564907745281",
+          "start": 164,
+          "url": "https://t.co/8bkzXOzuxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048416570184257895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "厚生省:2026年5月1日实施有关“指定滥用预防药品”的新规定。含有下列成分、其水合物及其盐类作为活性成分的制剂:\n麻黄碱 可待因 二氢可待因 苯海拉明 dxm 伪麻黄碱 丙戊酰脲 甲麻黄碱\n大包装的未成年禁售，成年人网络禁售，小包装的未成年网络禁售。\n成年人网购盐野义不受影响\nhttps://t.co/jJgZ3PXSNH https://t.co/8bkzXOzuxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_2048416564907745281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1wA0daIAEV5H3.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048416564907745281"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2048416570184257895",
+        "created_at": "2026-04-26T14:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048416570184257895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "不正事案の発生等に伴う医薬品の供給不足や創薬環境の変化等の状況に対応し、引き続き品質の確保された医薬品等を国民に迅速かつ 適正に提供していくため、医薬品等の品質及び安全性の確保の強化、医療用医薬品等の安定供給体制の強化等、より活発な創薬が行われ る環境の整備、国民への医薬品の適正な提供のための薬局機能の強化等を行うため、薬機法を改正し、制度の見直しを行いました。 　法改正とともに、必要な政省令改正・通知の発出について、お知らせいたします。",
+              "display_url": "mhlw.go.jp/stf/newpage_58…",
+              "end": 163,
+              "expanded_url": "https://www.mhlw.go.jp/stf/newpage_58083.html",
+              "start": 140,
+              "status": 200,
+              "title": "令和７年の医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（薬機法）等の一部改正について",
+              "unwound_url": "https://www.mhlw.go.jp/stf/newpage_58083.html",
+              "url": "https://t.co/jJgZ3PXSNH"
+            },
+            {
+              "display_url": "pic.x.com/8bkzXOzuxj",
+              "end": 187,
+              "expanded_url": "https://x.com/WorstCat/status/2048416570184257895/photo/1",
+              "media_key": "3_2048416564907745281",
+              "start": 164,
+              "url": "https://t.co/8bkzXOzuxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048416570184257895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厚生省:2026年5月1日实施有关“指定滥用预防药品”的新规定。含有下列成分、其水合物及其盐类作为活性成分的制剂:\n麻黄碱 可待因 二氢可待因 苯海拉明 dxm 伪麻黄碱 丙戊酰脲 甲麻黄碱\n大包装的未成年禁售，成年人网络禁售，小包装的未成年网络禁售。\n成年人网购盐野义不受影响\nhttps://t.co/jJgZ3PXSNH https://t.co/8bkzXOzuxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 8,
+          "like_count": 3524,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 814
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

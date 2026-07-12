@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995864829840818180",
+        "3_1995864823347949568"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1995864836048408796",
+    "created_at": "2025-12-02T14:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995864836048408796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CPcoZiagqb",
+          "end": 91,
+          "expanded_url": "https://x.com/WorstCat/status/1995864836048408796/photo/1",
+          "media_key": "3_1995864829840818180",
+          "start": 68,
+          "url": "https://t.co/CPcoZiagqb"
+        },
+        {
+          "display_url": "pic.x.com/CPcoZiagqb",
+          "end": 91,
+          "expanded_url": "https://x.com/WorstCat/status/1995864836048408796/photo/1",
+          "media_key": "3_1995864823347949568",
+          "start": 68,
+          "url": "https://t.co/CPcoZiagqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995864836048408796",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "满心欢喜买了31G超细可调长度小针头…想着可以换着花样扎着玩，结果包装写着“清洁产品”，合着不是无菌的，本猫都傻了，很失望(￣^￣)ゞ https://t.co/CPcoZiagqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1995864829840818180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7K8fPpbgAQrBHp.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1995864823347949568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7K8e3daMAA_wfu.jpg",
+        "width": 3106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995864829840818180",
+            "3_1995864823347949568"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1995864836048408796",
+        "created_at": "2025-12-02T14:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995864836048408796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPcoZiagqb",
+              "end": 91,
+              "expanded_url": "https://x.com/WorstCat/status/1995864836048408796/photo/1",
+              "media_key": "3_1995864829840818180",
+              "start": 68,
+              "url": "https://t.co/CPcoZiagqb"
+            },
+            {
+              "display_url": "pic.x.com/CPcoZiagqb",
+              "end": 91,
+              "expanded_url": "https://x.com/WorstCat/status/1995864836048408796/photo/1",
+              "media_key": "3_1995864823347949568",
+              "start": 68,
+              "url": "https://t.co/CPcoZiagqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995864836048408796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "满心欢喜买了31G超细可调长度小针头…想着可以换着花样扎着玩，结果包装写着“清洁产品”，合着不是无菌的，本猫都傻了，很失望(￣^￣)ゞ https://t.co/CPcoZiagqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 7,
+          "like_count": 717,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 345
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

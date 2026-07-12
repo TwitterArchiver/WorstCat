@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2045685925011980608",
+    "created_at": "2026-04-19T02:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045695669764346107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1480168806765174792",
+          "start": 0,
+          "username": "jingjing202009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045695669764346107",
+    "in_reply_to_user_id": "1480168806765174792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045685925011980608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing202009 好疼好疼好疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2045685913993588736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGO8gBGbsAALqun.jpg",
+        "width": 1285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2045685925011980608",
+        "created_at": "2026-04-19T02:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045695669764346107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1480168806765174792",
+              "start": 0,
+              "username": "jingjing202009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045695669764346107",
+        "in_reply_to_user_id": "1480168806765174792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045685925011980608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing202009 好疼好疼好疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045685913993588736"
+          ]
+        },
+        "author_id": "1480168806765174792",
+        "conversation_id": "2045685925011980608",
+        "created_at": "2026-04-19T02:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045685925011980608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7OysdexQr",
+              "end": 23,
+              "expanded_url": "https://x.com/jingjing202009/status/2045685925011980608/photo/1",
+              "media_key": "3_2045685913993588736",
+              "start": 0,
+              "url": "https://t.co/P7OysdexQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045685925011980608",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P7OysdexQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 6,
+          "like_count": 3089,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 785
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-09T13:25:45.000Z",
+        "description": "近期发现有人在微信上冒充我，具体目的不明。晶晶在此友情提示，晶晶不会在微信上添加任何人作为好友，所有微信上用晶晶图片的都是冒充的。晶晶的QQ没有实名，不可能接受任何人的红包，不会有任何的索要红包，请大家不要上当！",
+        "id": "1480168806765174792",
+        "name": "晶晶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495347318815477760/oiEuX__7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36106,
+          "following_count": 877,
+          "like_count": 923,
+          "listed_count": 112,
+          "media_count": 204,
+          "tweet_count": 822
+        },
+        "username": "jingjing202009",
+        "verified": false
+      }
+    ]
+  }
+}

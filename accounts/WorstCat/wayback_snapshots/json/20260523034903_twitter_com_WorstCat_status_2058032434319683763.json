@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058032434319683763",
+    "created_at": "2026-05-23T03:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058032434319683763"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058032434319683763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Σ( ° △ °|||)︴哇靠11点我在呼呼大睡做猫咪大梦的时候，晶格使劲框框砸门把我吵醒了，手不疼吗，看到是一个人就没害怕问的是别的事然后就走了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058032434319683763",
+        "created_at": "2026-05-23T03:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058032434319683763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058032434319683763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Σ( ° △ °|||)︴哇靠11点我在呼呼大睡做猫咪大梦的时候，晶格使劲框框砸门把我吵醒了，手不疼吗，看到是一个人就没害怕问的是别的事然后就走了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 20,
+          "like_count": 6194,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 1176
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

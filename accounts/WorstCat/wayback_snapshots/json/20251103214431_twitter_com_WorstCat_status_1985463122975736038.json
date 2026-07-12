@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1985463122975736038",
+    "created_at": "2025-11-03T21:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T22:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985463122975736038"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985463122975736038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃完一片集采的佐匹克隆以后发癫一个多小时了还是眼睛瞪得像铜铃ฅ●ω●ฅ，在镇静类药品中能不能给底层医药消费者原研的选择权，而生产劣药的厂商只是被取消中选资格，前阵子还有两家生产氟尿嘧啶劣药的，一分钟几滴煎熬的滴了假化疗药的人得有多绝望，还有某腹透液灭菌问题导致一堆得腹膜炎的😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1985463122975736038",
+        "created_at": "2025-11-03T21:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T22:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985463122975736038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985463122975736038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完一片集采的佐匹克隆以后发癫一个多小时了还是眼睛瞪得像铜铃ฅ●ω●ฅ，在镇静类药品中能不能给底层医药消费者原研的选择权，而生产劣药的厂商只是被取消中选资格，前阵子还有两家生产氟尿嘧啶劣药的，一分钟几滴煎熬的滴了假化疗药的人得有多绝望，还有某腹透液灭菌问题导致一堆得腹膜炎的😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 2,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 74
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2037423197478703349",
+    "created_at": "2026-03-27T06:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037423197478703349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037423197478703349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去附近三甲报菜名结果神内没人全科的没权限，去旁边二甲医院结果主任抢救病人没成功忙着呢，接诊的是中医方向的住院医，给我把脉大半天劝我喝中药汤，要了一盒αlprazolam溜了，还教我每天念太上老君清净经我试试吧。最近好焦虑诶不去精卫还吃不到正经药，只能继续用pr了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2037423197478703349",
+        "created_at": "2026-03-27T06:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037423197478703349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037423197478703349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去附近三甲报菜名结果神内没人全科的没权限，去旁边二甲医院结果主任抢救病人没成功忙着呢，接诊的是中医方向的住院医，给我把脉大半天劝我喝中药汤，要了一盒αlprazolam溜了，还教我每天念太上老君清净经我试试吧。最近好焦虑诶不去精卫还吃不到正经药，只能继续用pr了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 7,
+          "like_count": 2510,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 797
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

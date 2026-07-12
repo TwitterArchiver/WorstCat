@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058109253442015696",
+    "created_at": "2026-05-24T14:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058561962594980063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016584419755380736",
+          "start": 0,
+          "username": "lu_fafa86756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058561962594980063",
+    "in_reply_to_user_id": "2016584419755380736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058491784154771590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu_fafa86756 这种免费的网站广告比较多，弹就立马关掉，多点几次就行，或者复制网址，把/ 后面替换成要看的账户名也行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058109253442015696",
+        "created_at": "2026-05-24T14:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058561962594980063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016584419755380736",
+              "start": 0,
+              "username": "lu_fafa86756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058561962594980063",
+        "in_reply_to_user_id": "2016584419755380736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058491784154771590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_fafa86756 这种免费的网站广告比较多，弹就立马关掉，多点几次就行，或者复制网址，把/ 后面替换成要看的账户名也行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016584419755380736",
+        "conversation_id": "2058109253442015696",
+        "created_at": "2026-05-24T10:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058491784154771590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058491784154771590",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1830,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058109310627098736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 一直在跳转广告，也没办法搜索呀...😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 22,
+          "like_count": 6412,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1204
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T18:49:54.000Z",
+        "description": "",
+        "id": "2016584419755380736",
+        "name": "fafa lu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "lu_fafa86756",
+        "verified": false
+      }
+    ]
+  }
+}

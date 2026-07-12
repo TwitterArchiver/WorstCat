@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2072857975761596690",
+    "created_at": "2026-07-04T00:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T01:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073204485367976030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1127777338907774976",
+          "start": 0,
+          "username": "luogesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073204485367976030",
+    "in_reply_to_user_id": "1127777338907774976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073184829102026928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luogesama 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2072857975761596690",
+        "created_at": "2026-07-04T00:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073204485367976030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1127777338907774976",
+              "start": 0,
+              "username": "luogesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073204485367976030",
+        "in_reply_to_user_id": "1127777338907774976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073184829102026928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luogesama 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127777338907774976",
+        "conversation_id": "2072857975761596690",
+        "created_at": "2026-07-03T23:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073184829102026928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073184829102026928",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072857975761596690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 给你骂爽了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 52,
+          "like_count": 11248,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 1610
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T03:27:25.000Z",
+        "description": "器械工具定制｜咨询｜树洞｜\n自用梯子：https://t.co/A7GESQTN1c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=VQ9azGQm",
+                "start": 19,
+                "url": "https://t.co/A7GESQTN1c"
+              }
+            ]
+          }
+        },
+        "id": "1127777338907774976",
+        "name": "洛敋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564493350430199810/mRnUN5xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102521,
+          "following_count": 1300,
+          "like_count": 1316,
+          "listed_count": 425,
+          "media_count": 89,
+          "tweet_count": 1524
+        },
+        "url": "",
+        "username": "luogesama",
+        "verified": false
+      }
+    ]
+  }
+}

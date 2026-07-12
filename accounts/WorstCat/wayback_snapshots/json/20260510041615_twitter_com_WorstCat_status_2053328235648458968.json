@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053328231026380800"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2053328235648458968",
+    "created_at": "2026-05-10T04:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053328235648458968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KHHdpm7z57",
+          "end": 56,
+          "expanded_url": "https://x.com/WorstCat/status/2053328235648458968/photo/1",
+          "media_key": "3_2053328231026380800",
+          "start": 33,
+          "url": "https://t.co/KHHdpm7z57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053328235648458968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Σ( ° △ °|||)︴什么雷霆怪物吓到我了，就这还叫优质版👻 https://t.co/KHHdpm7z57"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2053328231026380800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7jJamb0AA-Xmt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053328231026380800"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2053328235648458968",
+        "created_at": "2026-05-10T04:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053328235648458968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHHdpm7z57",
+              "end": 56,
+              "expanded_url": "https://x.com/WorstCat/status/2053328235648458968/photo/1",
+              "media_key": "3_2053328231026380800",
+              "start": 33,
+              "url": "https://t.co/KHHdpm7z57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053328235648458968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Σ( ° △ °|||)︴什么雷霆怪物吓到我了，就这还叫优质版👻 https://t.co/KHHdpm7z57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 9,
+          "like_count": 4912,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 969
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

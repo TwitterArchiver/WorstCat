@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058075471854866942",
+    "created_at": "2026-05-23T13:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058174873672048915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589404587760701441",
+          "start": 0,
+          "username": "401WENZI"
+        },
+        {
+          "end": 26,
+          "id": "1880947070837964800",
+          "start": 10,
+          "username": "Guillermin45548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058174873672048915",
+    "in_reply_to_user_id": "1589404587760701441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058131866138313197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@401WENZI @Guillermin45548 海阳3456机组是国产，距离26公里，不在意这个话海阳乳山都挺不错的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058075471854866942",
+        "created_at": "2026-05-23T13:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058174873672048915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589404587760701441",
+              "start": 0,
+              "username": "401WENZI"
+            },
+            {
+              "end": 26,
+              "id": "1880947070837964800",
+              "start": 10,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058174873672048915",
+        "in_reply_to_user_id": "1589404587760701441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058131866138313197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@401WENZI @Guillermin45548 海阳3456机组是国产，距离26公里，不在意这个话海阳乳山都挺不错的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589404587760701441",
+        "conversation_id": "2058075471854866942",
+        "created_at": "2026-05-23T10:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058131866138313197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947070837964800",
+              "start": 0,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058131866138313197",
+        "in_reply_to_user_id": "1880947070837964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1817,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058131209130262642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guillermin45548 乳山（县级市）银滩（类似镇），这边有很多房子。\n在大学这边，生活非常便利超市非常多，也有歌厅、舞厅、商场、医院、学校。费用也很便宜。1000~6000/年都有。\n感兴趣的话，可以加我好友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 22,
+          "like_count": 6280,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1191
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T23:49:32.000Z",
+        "description": "关注罗伯特议事规则、奥派经济学、逻辑学、教育学的个体主义作者。曾获议事专家认证。\nTg:@wenzi401\n奥派经济学是研究社会学原中人们的手段能否的达到目标；现代组织学-罗伯特议事规则是通过协作手段/方法来更优的达到目标；逻辑、教育学是基础知识，组织学必备;个体主义是集体主义价值观的反面，从个人视角做思考起点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "wenzi401"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "401wenzi.popsy.site",
+                "end": 23,
+                "expanded_url": "https://401wenzi.popsy.site/",
+                "start": 0,
+                "url": "https://t.co/ArP8NvqiUL"
+              }
+            ]
+          }
+        },
+        "id": "1589404587760701441",
+        "location": "North Holland, The Netherlands",
+        "name": "401文子",
+        "pinned_tweet_id": "1599026244389330946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893267703747723264/z1PLapeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 150,
+          "like_count": 11554,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 3692
+        },
+        "url": "https://t.co/ArP8NvqiUL",
+        "username": "401WENZI",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "07年中专不读生，辍学后无社交试图在网上找些存在感，日常记录碎碎念，大家的情绪垃圾桶，祝天天开心～",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2058075471854866942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008146294750240768/atsWlS0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17851,
+          "following_count": 100,
+          "like_count": 1057,
+          "listed_count": 15,
+          "media_count": 430,
+          "tweet_count": 1932
+        },
+        "username": "Guillermin45548",
+        "verified": false
+      }
+    ]
+  }
+}

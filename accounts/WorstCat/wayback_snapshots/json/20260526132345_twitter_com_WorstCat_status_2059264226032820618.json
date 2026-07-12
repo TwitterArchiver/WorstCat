@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2059101415620931636",
+    "created_at": "2026-05-26T13:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059264226032820618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699282667424907264",
+          "start": 0,
+          "username": "acd136714781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059264226032820618",
+    "in_reply_to_user_id": "1699282667424907264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059101415620931636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acd136714781 cc老师推的阀门要用呀🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2059101415620931636",
+        "created_at": "2026-05-26T13:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059264226032820618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699282667424907264",
+              "start": 0,
+              "username": "acd136714781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059264226032820618",
+        "in_reply_to_user_id": "1699282667424907264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059101415620931636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acd136714781 cc老师推的阀门要用呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699282667424907264",
+        "conversation_id": "2059101415620931636",
+        "created_at": "2026-05-26T02:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:25:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059098476139434301",
+          "2059101415620931636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059101415620931636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 61327,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩导尿管最恐怖的事还是发生了，塞子掉了，尿不受控制的流了一裤子😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3028,
+          "following_count": 22,
+          "like_count": 6678,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1254
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:47:10.000Z",
+        "description": "美东喔时差-12，i人留学生…xp小众，男的直的，gay别找我啊😧",
+        "id": "1699282667424907264",
+        "name": "JoeXwX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043000923929157632/GlfJ_8qN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4054,
+          "following_count": 806,
+          "like_count": 651,
+          "listed_count": 7,
+          "media_count": 32,
+          "tweet_count": 270
+        },
+        "username": "acd136714781",
+        "verified": true
+      }
+    ]
+  }
+}

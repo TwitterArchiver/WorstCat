@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2075517119689900240",
+    "created_at": "2026-07-10T09:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075518108232765635"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075518108232765635",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075517119689900240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真是见识到内科写病历的功力了，问多少我说多少写多少，写了一千字废话了还不打住呢，我知道你很闲一下午没几个人，摸鱼到不知道在玩啥也不看电脑也不叫号害我白等半小时，可是我要是把精神科病历掏出来你今天还回家吃饭吗(*☉౪⊙*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2075517119689900240",
+        "created_at": "2026-07-10T09:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075518108232765635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075518108232765635",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075517119689900240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是见识到内科写病历的功力了，问多少我说多少写多少，写了一千字废话了还不打住呢，我知道你很闲一下午没几个人，摸鱼到不知道在玩啥也不看电脑也不叫号害我白等半小时，可是我要是把精神科病历掏出来你今天还回家吃饭吗(*☉౪⊙*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2075517119689900240",
+        "created_at": "2026-07-10T09:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075517119689900240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075517119689900240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两天胳膊上戳仨眼，每次按20分钟都出血，血小板也正常不知道为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 57,
+          "like_count": 12038,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1985419999931220209",
+    "created_at": "2025-11-03T19:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T20:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985424164493385802"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985424164493385802",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985419999931220209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么21年成立小作坊的连烟台噶酒的水平都不如还敢卖25磅怎么不去抢呢，伏特加本质就是降低损失的几乎只有苦味的廉价买醉物，在英国只有在蒸馏厂空闲没有订单不生产威士忌和金酒的时候，无奈生产的工业品，纯谷物甚至是代粮做的，除了调酒以外难以下咽没有任何风味可言还嘚瑟上了消费遇到困难的人没良心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3654,
+        "media_key": "3_1985419995980169216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42g95ZbAAAxDwa.jpg",
+        "width": 2472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1985419999931220209",
+        "created_at": "2025-11-03T19:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985424164493385802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985424164493385802",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985419999931220209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么21年成立小作坊的连烟台噶酒的水平都不如还敢卖25磅怎么不去抢呢，伏特加本质就是降低损失的几乎只有苦味的廉价买醉物，在英国只有在蒸馏厂空闲没有订单不生产威士忌和金酒的时候，无奈生产的工业品，纯谷物甚至是代粮做的，除了调酒以外难以下咽没有任何风味可言还嘚瑟上了消费遇到困难的人没良心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985419995980169216"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1985419999931220209",
+        "created_at": "2025-11-03T18:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T19:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985419999931220209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3eit6TBA4",
+              "end": 113,
+              "expanded_url": "https://x.com/WorstCat/status/1985419999931220209/photo/1",
+              "media_key": "3_1985419995980169216",
+              "start": 90,
+              "url": "https://t.co/r3eit6TBA4"
+            },
+            {
+              "display_url": "x.com/rickygervais/s…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/rickygervais/status/1985325594754629880",
+              "start": 114,
+              "url": "https://t.co/it71fkBexN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985419999931220209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985325594754629880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是无耻的厂商消费脆弱的人对世界最后的犹豫，明明卖的是害人的难喝的劣酒还腆着脸道德绑架羞辱人，我站在开放的站台都有想跳下去的冲动，可是每次靠近都有人凶狠的张牙舞爪的呵斥我离远点🥺 https://t.co/r3eit6TBA4 https://t.co/it71fkBexN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 2,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 70
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

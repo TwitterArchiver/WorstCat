@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995202352018796544"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1995202354556379273",
+    "created_at": "2025-11-30T18:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T19:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995202354556379273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UZLtHiHMPl",
+          "end": 145,
+          "expanded_url": "https://x.com/WorstCat/status/1995202354556379273/photo/1",
+          "media_key": "3_1995202352018796544",
+          "start": 122,
+          "url": "https://t.co/UZLtHiHMPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995202354556379273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "\"一杯水饺\"\n疼了一天没吃东西了不想吃外卖\n主人黑着脸骂骂咧咧煮了速冻水饺\n打包盒在灶台旁边看不到\n把热腾腾的水饺塞进冷饮杯里了\n杯杯变形了水饺也委屈地挤成一团\n还是乖乖捧着杯子小口小口吃\n一边吃一边掉眼泪一边写小作文…\n(小声)其实也好吃🥺 https://t.co/UZLtHiHMPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1995202352018796544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Bh99casAAWdF-.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995202352018796544"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1995202354556379273",
+        "created_at": "2025-11-30T18:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T19:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995202354556379273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZLtHiHMPl",
+              "end": 145,
+              "expanded_url": "https://x.com/WorstCat/status/1995202354556379273/photo/1",
+              "media_key": "3_1995202352018796544",
+              "start": 122,
+              "url": "https://t.co/UZLtHiHMPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995202354556379273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "\"一杯水饺\"\n疼了一天没吃东西了不想吃外卖\n主人黑着脸骂骂咧咧煮了速冻水饺\n打包盒在灶台旁边看不到\n把热腾腾的水饺塞进冷饮杯里了\n杯杯变形了水饺也委屈地挤成一团\n还是乖乖捧着杯子小口小口吃\n一边吃一边掉眼泪一边写小作文…\n(小声)其实也好吃🥺 https://t.co/UZLtHiHMPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 7,
+          "like_count": 657,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 339
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

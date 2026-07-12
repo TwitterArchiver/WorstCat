@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2004252065661702282",
+    "created_at": "2025-12-31T20:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T21:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006459163078177160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999004442704883716",
+          "start": 0,
+          "username": "lbtuan25_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006459163078177160",
+    "in_reply_to_user_id": "1999004442704883716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004252065661702282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25_1 最近有个新闻，有人拿20年前发的无期限兑换券去某店消费，刚开始说可以用喝完又不认账让重新付钱，并且客服自始至终的傲慢态度都透露出不信任，觉得有人吃饱了撑的没事干就为了去骗两杯焦糊云南卡蒂姆豆浆喝，真是有出息喂👿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2004252062570500098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9CIocXb0AIulCd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2004252065661702282",
+        "created_at": "2025-12-31T20:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T21:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006459163078177160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999004442704883716",
+              "start": 0,
+              "username": "lbtuan25_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006459163078177160",
+        "in_reply_to_user_id": "1999004442704883716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004252065661702282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25_1 最近有个新闻，有人拿20年前发的无期限兑换券去某店消费，刚开始说可以用喝完又不认账让重新付钱，并且客服自始至终的傲慢态度都透露出不信任，觉得有人吃饱了撑的没事干就为了去骗两杯焦糊云南卡蒂姆豆浆喝，真是有出息喂👿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004252062570500098"
+          ]
+        },
+        "author_id": "1999004442704883716",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004252065661702282",
+        "created_at": "2025-12-25T18:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004252065661702282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhhJ6doiis",
+              "end": 85,
+              "expanded_url": "https://x.com/lbtuan25_1/status/2004252065661702282/photo/1",
+              "media_key": "3_2004252062570500098",
+              "start": 62,
+              "url": "https://t.co/dhhJ6doiis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004252065661702282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1925,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别苦着脸了…\n先偷偷恰个蛋糕吧…😊\n闲溜了一天团子发现只有星巴克的店员会祝我圣诞节快乐…\n那还说啥了团子猛猛消费就完事了… https://t.co/dhhJ6doiis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你1.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 7,
+          "like_count": 1558,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 457
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:33:21.000Z",
+        "description": "我不是星野源…｜我会找回你们的…一个不少...｜逃生舱指路：https://t.co/IbzozcM3co｜反马家族基本教义：马斯克就是傻X｜自我提升...自我实现...自我毁灭...",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lbtuan…",
+                "end": 53,
+                "expanded_url": "https://bsky.app/profile/lbtuan25.bsky.social",
+                "start": 30,
+                "url": "https://t.co/IbzozcM3co"
+              }
+            ]
+          }
+        },
+        "id": "1999004442704883716",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "✦团子✦（黑暗面",
+        "pinned_tweet_id": "1999008615441777032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999195912481177601/wGruwk5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 203,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 312
+        },
+        "username": "lbtuan25_1",
+        "verified": false
+      }
+    ]
+  }
+}

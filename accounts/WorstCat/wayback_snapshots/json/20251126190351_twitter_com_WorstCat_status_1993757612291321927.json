@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1993699803407233097",
+    "created_at": "2025-11-26T19:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T20:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993757612291321927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1183089941917523968",
+          "start": 0,
+          "username": "wangrui991014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993757612291321927",
+    "in_reply_to_user_id": "1183089941917523968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993755228546716167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangrui991014 还好啦驿站很忙的不会认真看的除非丢了，拼多多阿里巴巴卖囚鞋卖囚袜的也都是直接写名称的，反正一般都是主人拿尴尬的不是我。有次买了20把手铐钥匙然后丢了卖家催件，给我打了好几个电话直接都是买的手铐钥匙还没有收到对吗，过了半个月吧我才收到脏的不像话的快递👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1993699803407233097",
+        "created_at": "2025-11-26T19:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993757612291321927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1183089941917523968",
+              "start": 0,
+              "username": "wangrui991014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993757612291321927",
+        "in_reply_to_user_id": "1183089941917523968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993755228546716167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangrui991014 还好啦驿站很忙的不会认真看的除非丢了，拼多多阿里巴巴卖囚鞋卖囚袜的也都是直接写名称的，反正一般都是主人拿尴尬的不是我。有次买了20把手铐钥匙然后丢了卖家催件，给我打了好几个电话直接都是买的手铐钥匙还没有收到对吗，过了半个月吧我才收到脏的不像话的快递👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183089941917523968",
+        "conversation_id": "1993699803407233097",
+        "created_at": "2025-11-26T18:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993755228546716167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993755228546716167",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993699803407233097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 这个面单太恐怖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 7,
+          "like_count": 561,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 320
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T18:40:05.000Z",
+        "description": "",
+        "id": "1183089941917523968",
+        "location": "6.9km",
+        "name": "niceday",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978159833334607872/nW468efR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 639,
+          "like_count": 264,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 527
+        },
+        "username": "wangrui991014",
+        "verified": false
+      }
+    ]
+  }
+}

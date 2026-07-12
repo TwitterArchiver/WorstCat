@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052046899423907840",
+        "3_2052047124167340032"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2052047422088769544",
+    "created_at": "2026-05-06T15:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052047422088769544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1348211029612912640",
+          "start": 0,
+          "username": "milanzise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XY5khWMwcU",
+          "end": 60,
+          "expanded_url": "https://x.com/WorstCat/status/2052047422088769544/photo/1",
+          "media_key": "3_2052046899423907840",
+          "start": 37,
+          "url": "https://t.co/XY5khWMwcU"
+        },
+        {
+          "display_url": "pic.x.com/XY5khWMwcU",
+          "end": 60,
+          "expanded_url": "https://x.com/WorstCat/status/2052047422088769544/photo/1",
+          "media_key": "3_2052047124167340032",
+          "start": 37,
+          "url": "https://t.co/XY5khWMwcU"
+        },
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/WorstCat/status/2051763828334170434",
+          "start": 61,
+          "url": "https://t.co/fWne6zhVem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052047422088769544",
+    "in_reply_to_user_id": "1348211029612912640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051763828334170434",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milanzise怎么还破防了呢(*°▽°*)\n欺诈有理，维权有罪是吧 https://t.co/XY5khWMwcU https://t.co/fWne6zhVem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2052046899423907840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpVyGaakAA_mtZ.png",
+        "width": 625
+      },
+      {
+        "height": 546,
+        "media_key": "3_2052047124167340032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpV_LpbMAAiYBY.png",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052046899423907840",
+            "3_2052047124167340032"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2052047422088769544",
+        "created_at": "2026-05-06T15:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052047422088769544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1348211029612912640",
+              "start": 0,
+              "username": "milanzise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY5khWMwcU",
+              "end": 60,
+              "expanded_url": "https://x.com/WorstCat/status/2052047422088769544/photo/1",
+              "media_key": "3_2052046899423907840",
+              "start": 37,
+              "url": "https://t.co/XY5khWMwcU"
+            },
+            {
+              "display_url": "pic.x.com/XY5khWMwcU",
+              "end": 60,
+              "expanded_url": "https://x.com/WorstCat/status/2052047422088769544/photo/1",
+              "media_key": "3_2052047124167340032",
+              "start": 37,
+              "url": "https://t.co/XY5khWMwcU"
+            },
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/WorstCat/status/2051763828334170434",
+              "start": 61,
+              "url": "https://t.co/fWne6zhVem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052047422088769544",
+        "in_reply_to_user_id": "1348211029612912640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051763828334170434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milanzise怎么还破防了呢(*°▽°*)\n欺诈有理，维权有罪是吧 https://t.co/XY5khWMwcU https://t.co/fWne6zhVem"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2051713282663178413",
+        "created_at": "2026-05-05T20:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051763828334170434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051763828334170434",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 31873,
+          "like_count": 246,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051713282663178413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 虚假发货、拒绝发货，直接投诉就行了，淘宝天猫是A类扣6分赔10-30%找88vip在线客服能要到订单金额的一半到全部红包补偿，多多找专员一般赔订单金额的20-50%左右，红色狗头平台一般不管还能享受仅退货不退款的尊享服务。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 9,
+          "like_count": 4561,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 935
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T10:12:27.000Z",
+        "description": "",
+        "id": "1348211029612912640",
+        "name": "milanzise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709756659340660736/pOyN3Fb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 148,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1411
+        },
+        "username": "milanzise",
+        "verified": false
+      }
+    ]
+  }
+}

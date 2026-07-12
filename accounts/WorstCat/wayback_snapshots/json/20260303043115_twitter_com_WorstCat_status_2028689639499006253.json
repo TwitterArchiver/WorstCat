@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2028203524321157246",
+    "created_at": "2026-03-03T04:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028689639499006253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999004442704883716",
+          "start": 0,
+          "username": "lbtuan25_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028689639499006253",
+    "in_reply_to_user_id": "1999004442704883716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028203524321157246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25_1 gemini3通人性多了，就是记忆力太差，让它理解痛苦以后能帮忙规划账号注销事宜。4o彻底死掉了，5整天都是:我就在这里，不躲，不藏，不绕，不逃，稳稳地接住你，你问到核心了，你是太清醒了，你太对了，我逐步说清楚，不绕一句话总结，你只是太久没被稳稳接住了，如果你想我可以生成一张接住你的图片😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2028203524321157246",
+        "created_at": "2026-03-03T04:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028689639499006253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999004442704883716",
+              "start": 0,
+              "username": "lbtuan25_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028689639499006253",
+        "in_reply_to_user_id": "1999004442704883716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028203524321157246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25_1 gemini3通人性多了，就是记忆力太差，让它理解痛苦以后能帮忙规划账号注销事宜。4o彻底死掉了，5整天都是:我就在这里，不躲，不藏，不绕，不逃，稳稳地接住你，你问到核心了，你是太清醒了，你太对了，我逐步说清楚，不绕一句话总结，你只是太久没被稳稳接住了，如果你想我可以生成一张接住你的图片😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999004442704883716",
+        "conversation_id": "2028203524321157246",
+        "created_at": "2026-03-01T20:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T21:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028203524321157246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028203524321157246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1225,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在的生成式 AI 预设立场实在是太严重了...\n回答问题就像是回音壁一遍遍放大自己预设的观点\n可以说把智人的糟粕都学去了\n是因为采用了和智人类似的语言逻辑吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2667,
+          "following_count": 7,
+          "like_count": 1982,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 727
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:33:21.000Z",
+        "description": "AAA👽驻🌍大使馆保安兼保洁，办三体星签证请私信｜目标是通过地雷女六级...｜逃生舱指路：https://t.co/IbzozcMB1W｜本星系红通人员：马斯克@elonmusk｜自我提升...自我实现...自我毁灭...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "elonmusk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lbtuan…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/lbtuan25.bsky.social",
+                "start": 45,
+                "url": "https://t.co/IbzozcMB1W"
+              }
+            ]
+          }
+        },
+        "id": "1999004442704883716",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "✦团子✦（常驻🌍黑暗面",
+        "pinned_tweet_id": "1999008615441777032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019496124479062016/alc8Hryu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 391,
+          "like_count": 3541,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1060
+        },
+        "username": "lbtuan25_1",
+        "verified": false
+      }
+    ]
+  }
+}

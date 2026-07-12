@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1996914584360452134",
+    "created_at": "2025-12-05T14:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T15:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996947575522709756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975011089088950272",
+          "start": 0,
+          "username": "Cardiac_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996947575522709756",
+    "in_reply_to_user_id": "1975011089088950272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996918142543782029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cardiac_520 第一次买申基的以前买的多多常年5折的治宇´•ᴥ•`"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1996914584360452134",
+        "created_at": "2025-12-05T14:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996947575522709756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975011089088950272",
+              "start": 0,
+              "username": "Cardiac_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996947575522709756",
+        "in_reply_to_user_id": "1975011089088950272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996918142543782029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cardiac_520 第一次买申基的以前买的多多常年5折的治宇´•ᴥ•`"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975011089088950272",
+        "conversation_id": "1996914584360452134",
+        "created_at": "2025-12-05T12:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996918142543782029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996918142543782029",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996914584360452134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 这个面膜我们科室同款🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 7,
+          "like_count": 809,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 360
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T01:32:07.000Z",
+        "description": "xp:医疗 私信拉黑 不建议和鼓励任何人模仿",
+        "id": "1975011089088950272",
+        "name": "许许",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975011273537679360/pZ6xYlVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5093,
+          "following_count": 66,
+          "like_count": 123,
+          "listed_count": 12,
+          "media_count": 20,
+          "tweet_count": 52
+        },
+        "username": "Cardiac_520",
+        "verified": false
+      }
+    ]
+  }
+}

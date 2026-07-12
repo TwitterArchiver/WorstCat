@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2022237563860435253",
+    "created_at": "2026-02-13T12:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022285968540332208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022285968540332208",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022237563860435253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox Σ(ﾟ∀ﾟﾉ)ﾉ这个对脑雾有用吗？苯丙胺 莫达非尼 哌甲酯一类的效果更好但是都难买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2022237560521871360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBuWNZb0AAD1yG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2022237563860435253",
+        "created_at": "2026-02-13T12:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022285968540332208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022285968540332208",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022237563860435253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox Σ(ﾟ∀ﾟﾉ)ﾉ这个对脑雾有用吗？苯丙胺 莫达非尼 哌甲酯一类的效果更好但是都难买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022237560521871360"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022237563860435253",
+        "created_at": "2026-02-13T09:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022237563860435253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "69280655",
+              "start": 11,
+              "username": "paipaipaitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTewUwFUDn",
+              "end": 49,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2022237563860435253/photo/1",
+              "media_key": "3_2022237560521871360",
+              "start": 26,
+              "url": "https://t.co/mTewUwFUDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022237563860435253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 700,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我们开始征服脑雾😋\n@paipaipaitang https://t.co/mTewUwFUDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你11.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 7,
+          "like_count": 1605,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 646
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1337,
+          "like_count": 13335,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 4032
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

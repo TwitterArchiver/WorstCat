@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2049441984444833960",
+    "created_at": "2026-04-30T04:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049712038260437369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1643934829514493952",
+          "start": 0,
+          "username": "nmudm1"
+        },
+        {
+          "end": 24,
+          "id": "1897309588699168768",
+          "start": 8,
+          "username": "right_drugs_knl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049712038260437369",
+    "in_reply_to_user_id": "1643934829514493952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049553721559048605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmudm1 @right_drugs_knl 谢谢你，查了都没有，都是只有胶囊，问了12345也说没有，有的省的还得有本省医保才能看，我明明记得以前有个本地药店在拼多多的卖溶液的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2049441984444833960",
+        "created_at": "2026-04-30T04:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049712038260437369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643934829514493952",
+              "start": 0,
+              "username": "nmudm1"
+            },
+            {
+              "end": 24,
+              "id": "1897309588699168768",
+              "start": 8,
+              "username": "right_drugs_knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049712038260437369",
+        "in_reply_to_user_id": "1643934829514493952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049553721559048605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmudm1 @right_drugs_knl 谢谢你，查了都没有，都是只有胶囊，问了12345也说没有，有的省的还得有本省医保才能看，我明明记得以前有个本地药店在拼多多的卖溶液的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643934829514493952",
+        "conversation_id": "2049441984444833960",
+        "created_at": "2026-04-29T18:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049553721559048605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 26,
+              "id": "1897309588699168768",
+              "start": 10,
+              "username": "right_drugs_knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049553721559048605",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049535687494688855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @right_drugs_knl 您好，用微信搜索本省医保，可以查到药店医院是否采购了普瑞巴林口服溶液"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 9,
+          "like_count": 3833,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 879
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T11:13:08.000Z",
+        "description": "做最幸福的人",
+        "id": "1643934829514493952",
+        "name": "最悲惨的人",
+        "pinned_tweet_id": "2042425623885594767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049003911080800256/16Kbb6XL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "nmudm1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:34:16.000Z",
+        "description": "每天至少一条正确的药物知识介绍，对抗简中网上的错误垃圾信息\n\n10年💊经验/已基本戒除\n\n高度了解大麻/LSD/Meth/MDMA/Coke/蘑菇/2cb/N2O/右美/普瑞……\n\n个人账号\n\n相信你们一看就知道这里都是正确的\n\n祝大家早日戒毒",
+        "id": "1897309588699168768",
+        "name": "正确药物知识",
+        "pinned_tweet_id": "1897316944988307728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897310227135107072/qqKL1C9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 71,
+          "like_count": 12,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 199
+        },
+        "username": "right_drugs_knl",
+        "verified": false
+      }
+    ]
+  }
+}

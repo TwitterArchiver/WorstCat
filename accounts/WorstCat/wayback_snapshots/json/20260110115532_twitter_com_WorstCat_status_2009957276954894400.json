@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009957271284207617"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2009953068784464216",
+    "created_at": "2026-01-10T11:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009957276954894400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2343584586",
+          "start": 0,
+          "username": "AS17676"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1rHdqzvtRL",
+          "end": 135,
+          "expanded_url": "https://x.com/WorstCat/status/2009957276954894400/photo/1",
+          "media_key": "3_2009957271284207617",
+          "start": 112,
+          "url": "https://t.co/1rHdqzvtRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009957276954894400",
+    "in_reply_to_user_id": "2343584586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009953985701269791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AS17676 那天被惠普的破机器折磨的不行，和主人去店里想买佳能8色的，那个人说这个卖的最多便宜还好用墨水便宜，结果它所谓的便宜墨水是来路不明的，零售的墨水600一套既不便宜也很容易褪色，还不如佳能的800一套的划算🥺 https://t.co/1rHdqzvtRL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2009957271284207617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TNfTCb0AE8Nx6.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009957271284207617"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2009953068784464216",
+        "created_at": "2026-01-10T11:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009957276954894400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2343584586",
+              "start": 0,
+              "username": "AS17676"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rHdqzvtRL",
+              "end": 135,
+              "expanded_url": "https://x.com/WorstCat/status/2009957276954894400/photo/1",
+              "media_key": "3_2009957271284207617",
+              "start": 112,
+              "url": "https://t.co/1rHdqzvtRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009957276954894400",
+        "in_reply_to_user_id": "2343584586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009953985701269791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AS17676 那天被惠普的破机器折磨的不行，和主人去店里想买佳能8色的，那个人说这个卖的最多便宜还好用墨水便宜，结果它所谓的便宜墨水是来路不明的，零售的墨水600一套既不便宜也很容易褪色，还不如佳能的800一套的划算🥺 https://t.co/1rHdqzvtRL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2343584586",
+        "conversation_id": "2009953068784464216",
+        "created_at": "2026-01-10T11:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009953985701269791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009953985701269791",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009953068784464216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 1800还是老型号🙈，哦，六色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 7,
+          "like_count": 1175,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 488
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-14T13:35:42.000Z",
+        "description": "Medical play enthusiast.",
+        "id": "2343584586",
+        "location": "667",
+        "name": "8",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/670235477228687360/XIZcej_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 297,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 89
+        },
+        "username": "AS17676",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1996145420683366545",
+    "created_at": "2025-12-03T15:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996233714599084534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1471191770864435200",
+          "start": 0,
+          "username": "lbtuan25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996233714599084534",
+    "in_reply_to_user_id": "1471191770864435200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996145420683366545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25 宝宝中指好长呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19280,
+        "height": 1280,
+        "media_key": "7_1996145357592670208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996145357592670208/pu/img/u5LpT4aZIioW_9Ox.jpg",
+        "public_metrics": {
+          "view_count": 283
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996145357592670208/pu/vid/avc1/320x568/TB0IXWmn91294J3j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996145357592670208/pu/vid/avc1/480x852/SW9Qr-j7LdpfSx0G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996145357592670208/pu/vid/avc1/720x1280/YEWDQ2FIkK_l7HTY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996145357592670208/pu/pl/zmPo0mdT2cBz8LNM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1996145420683366545",
+        "created_at": "2025-12-03T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996233714599084534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471191770864435200",
+              "start": 0,
+              "username": "lbtuan25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996233714599084534",
+        "in_reply_to_user_id": "1471191770864435200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996145420683366545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25 宝宝中指好长呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996145357592670208"
+          ]
+        },
+        "author_id": "1471191770864435200",
+        "conversation_id": "1996145420683366545",
+        "created_at": "2025-12-03T09:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996145420683366545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvV1XBX9BB",
+              "end": 94,
+              "expanded_url": "https://x.com/lbtuan25/status/1996145420683366545/video/1",
+              "media_key": "7_1996145357592670208",
+              "start": 71,
+              "url": "https://t.co/kvV1XBX9BB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996145420683366545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 537,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看来团子早就脱敏了…\n即使之前有一段时间没有给戴小手铐\n但是又被抓住戴上后也完全没有不适感…\n反倒是有一种从来如此的感觉…\n令人唏嘘…😮‍💨 https://t.co/kvV1XBX9BB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 7,
+          "like_count": 747,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 347
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T18:53:55.000Z",
+        "description": "洁身自好brat，绝无可能是pet！",
+        "id": "1471191770864435200",
+        "location": "North-East Region, Singapore",
+        "name": "☆蓝白团子☆（见过星野源真人版",
+        "pinned_tweet_id": "1910039281823015249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841144934709223424/6Ypv12QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3586,
+          "following_count": 1029,
+          "like_count": 6501,
+          "listed_count": 8,
+          "media_count": 339,
+          "tweet_count": 3937
+        },
+        "username": "lbtuan25",
+        "verified": false
+      }
+    ]
+  }
+}

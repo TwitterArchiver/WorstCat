@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2012467689122312192",
+        "3_2012467711238893569",
+        "3_2012467714124636160"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2012467731786764415",
+    "created_at": "2026-01-17T10:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012467731786764415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4HxFi7zyVA",
+          "end": 50,
+          "expanded_url": "https://x.com/WorstCat/status/2012467731786764415/video/1",
+          "media_key": "7_2012467689122312192",
+          "start": 27,
+          "url": "https://t.co/4HxFi7zyVA"
+        },
+        {
+          "display_url": "pic.x.com/4HxFi7zyVA",
+          "end": 50,
+          "expanded_url": "https://x.com/WorstCat/status/2012467731786764415/video/1",
+          "media_key": "3_2012467711238893569",
+          "start": 27,
+          "url": "https://t.co/4HxFi7zyVA"
+        },
+        {
+          "display_url": "pic.x.com/4HxFi7zyVA",
+          "end": 50,
+          "expanded_url": "https://x.com/WorstCat/status/2012467731786764415/video/1",
+          "media_key": "3_2012467714124636160",
+          "start": 27,
+          "url": "https://t.co/4HxFi7zyVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012467731786764415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "威高留置针里的异物，附着在管外，这个批次是不敢用了🥺 https://t.co/4HxFi7zyVA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4266,
+        "height": 1280,
+        "media_key": "7_2012467689122312192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012467689122312192/pu/img/gVJc6W3Y2g7dhPo3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012467689122312192/pu/vid/avc1/320x568/2HhwGbSBSIVChZ-U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012467689122312192/pu/vid/avc1/480x852/N2A0cQCz5PIuFDG8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012467689122312192/pu/vid/avc1/720x1280/r75_KIa5ROZ3Jj0t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012467689122312192/pu/pl/oRHuZNgZAkytKSd2.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2012467711238893569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-24uIpWcAEdZ7v.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2012467714124636160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-24uTZXYAAKHIb.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012467689122312192",
+            "3_2012467711238893569",
+            "3_2012467714124636160"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2012467731786764415",
+        "created_at": "2026-01-17T10:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012467731786764415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HxFi7zyVA",
+              "end": 50,
+              "expanded_url": "https://x.com/WorstCat/status/2012467731786764415/video/1",
+              "media_key": "7_2012467689122312192",
+              "start": 27,
+              "url": "https://t.co/4HxFi7zyVA"
+            },
+            {
+              "display_url": "pic.x.com/4HxFi7zyVA",
+              "end": 50,
+              "expanded_url": "https://x.com/WorstCat/status/2012467731786764415/video/1",
+              "media_key": "3_2012467711238893569",
+              "start": 27,
+              "url": "https://t.co/4HxFi7zyVA"
+            },
+            {
+              "display_url": "pic.x.com/4HxFi7zyVA",
+              "end": 50,
+              "expanded_url": "https://x.com/WorstCat/status/2012467731786764415/video/1",
+              "media_key": "3_2012467714124636160",
+              "start": 27,
+              "url": "https://t.co/4HxFi7zyVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012467731786764415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "威高留置针里的异物，附着在管外，这个批次是不敢用了🥺 https://t.co/4HxFi7zyVA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 7,
+          "like_count": 1196,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 497
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005283670312325120"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2005284084248097067",
+    "created_at": "2025-12-28T14:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T15:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005284084248097067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1127777338907774976",
+          "start": 14,
+          "username": "luogesama"
+        },
+        {
+          "end": 41,
+          "id": "1869586697446621184",
+          "start": 25,
+          "username": "nuFwAm8Pkb37427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UoLkIJygy8",
+          "end": 65,
+          "expanded_url": "https://x.com/WorstCat/status/2005284084248097067/photo/1",
+          "media_key": "3_2005283670312325120",
+          "start": 42,
+          "url": "https://t.co/UoLkIJygy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005284084248097067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你俩要不要打一架(⊙ˍ⊙)\n@luogesama @nuFwAm8Pkb37427 https://t.co/UoLkIJygy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 193,
+        "media_key": "3_2005283670312325120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Qy36rbkAAiWJg.png",
+        "width": 385
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005283670312325120"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2005284084248097067",
+        "created_at": "2025-12-28T14:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005284084248097067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1127777338907774976",
+              "start": 14,
+              "username": "luogesama"
+            },
+            {
+              "end": 41,
+              "id": "1869586697446621184",
+              "start": 25,
+              "username": "nuFwAm8Pkb37427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoLkIJygy8",
+              "end": 65,
+              "expanded_url": "https://x.com/WorstCat/status/2005284084248097067/photo/1",
+              "media_key": "3_2005283670312325120",
+              "start": 42,
+              "url": "https://t.co/UoLkIJygy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005284084248097067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你俩要不要打一架(⊙ˍ⊙)\n@luogesama @nuFwAm8Pkb37427 https://t.co/UoLkIJygy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你1.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 7,
+          "like_count": 1474,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 450
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T03:27:25.000Z",
+        "description": "器械工具定制｜咨询｜树洞｜\n自用梯子：https://t.co/A7GESQTN1c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=VQ9azGQm",
+                "start": 19,
+                "url": "https://t.co/A7GESQTN1c"
+              }
+            ]
+          }
+        },
+        "id": "1127777338907774976",
+        "name": "洛敋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564493350430199810/mRnUN5xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104647,
+          "following_count": 1307,
+          "like_count": 1271,
+          "listed_count": 436,
+          "media_count": 82,
+          "tweet_count": 1390
+        },
+        "username": "luogesama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T03:33:10.000Z",
+        "description": "0371， 男，乐于尝试一切涩涩的事情。蹲主，侍奉主人，匍匐虔诚敬畏，一切遵从主人安排",
+        "id": "1869586697446621184",
+        "name": "侍奉（男m）",
+        "pinned_tweet_id": "2002023953213116582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878460857652498432/M_gMQj2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 2014,
+          "like_count": 24008,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2191
+        },
+        "username": "nuFwAm8Pkb37427",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025463335991566336"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2025463503985984000",
+    "created_at": "2026-02-22T06:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T07:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025463503985984000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQEZh4sy0h",
+          "end": 47,
+          "expanded_url": "https://x.com/WorstCat/status/2025463503985984000/video/1",
+          "media_key": "13_2025463335991566336",
+          "start": 24,
+          "url": "https://t.co/RQEZh4sy0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025463503985984000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没用过摩卡壶了，味道好淡和瑞幸刷锅水似的🥺 https://t.co/RQEZh4sy0h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10448,
+        "height": 1920,
+        "media_key": "13_2025463335991566336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025463335991566336/img/9IPcSxocfz2YxUCg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025463335991566336/vid/avc1/320x568/ebAD_gSnjlHmw_cO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025463335991566336/vid/avc1/480x852/TYYP7y7ihb3_KzC_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025463335991566336/vid/avc1/720x1280/da0P-jhNps7YNRtO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025463335991566336/pl/o9FYI5L3WtFIKFIC.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025463335991566336"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2025463503985984000",
+        "created_at": "2026-02-22T06:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025463503985984000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQEZh4sy0h",
+              "end": 47,
+              "expanded_url": "https://x.com/WorstCat/status/2025463503985984000/video/1",
+              "media_key": "13_2025463335991566336",
+              "start": 24,
+              "url": "https://t.co/RQEZh4sy0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025463503985984000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没用过摩卡壶了，味道好淡和瑞幸刷锅水似的🥺 https://t.co/RQEZh4sy0h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 7,
+          "like_count": 1834,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 698
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

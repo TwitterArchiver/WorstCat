@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2061164292800684298",
+    "created_at": "2026-05-31T19:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T20:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061164292800684298"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061164292800684298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挑战雪人三项失败了哭唧唧我输了🖐🏻🥺🖐🏻，第二项吃完巧乐兹以后到现在一直心慌心律不齐，静息情况下心率动不动就100多说几句话血氧就掉到95，太可怕了o(╥﹏╥)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2061164292800684298",
+        "created_at": "2026-05-31T19:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061164292800684298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061164292800684298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑战雪人三项失败了哭唧唧我输了🖐🏻🥺🖐🏻，第二项吃完巧乐兹以后到现在一直心慌心律不齐，静息情况下心率动不动就100多说几句话血氧就掉到95，太可怕了o(╥﹏╥)o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 23,
+          "like_count": 7265,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 1334
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

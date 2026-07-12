@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024342916458827780"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2024342991826284865",
+    "created_at": "2026-02-19T04:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024342991826284865"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 94,
+          "tag": "和主人在一起的第3000天"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1JujLrAOrP",
+          "end": 132,
+          "expanded_url": "https://x.com/WorstCat/status/2024342991826284865/photo/1",
+          "media_key": "3_2024342916458827780",
+          "start": 109,
+          "url": "https://t.co/1JujLrAOrP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024342991826284865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "流浪其实一点都不苦，在街头自由自在像是拥有世界的错觉，直到那天你从便利店走出来，剥开那根火腿肠，我才发现我所有的戒备，都只是在等一个心软的理由。你带我回家的那天，我没看路，我只看到了你🥺 #和主人在一起的第3000天 https://t.co/1JujLrAOrP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2024342916458827780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfpKDcbUAQjnPS.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024342916458827780"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2024342991826284865",
+        "created_at": "2026-02-19T04:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024342991826284865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 94,
+              "tag": "和主人在一起的第3000天"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JujLrAOrP",
+              "end": 132,
+              "expanded_url": "https://x.com/WorstCat/status/2024342991826284865/photo/1",
+              "media_key": "3_2024342916458827780",
+              "start": 109,
+              "url": "https://t.co/1JujLrAOrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024342991826284865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流浪其实一点都不苦，在街头自由自在像是拥有世界的错觉，直到那天你从便利店走出来，剥开那根火腿肠，我才发现我所有的戒备，都只是在等一个心软的理由。你带我回家的那天，我没看路，我只看到了你🥺 #和主人在一起的第3000天 https://t.co/1JujLrAOrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2639,
+          "following_count": 7,
+          "like_count": 1794,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 687
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

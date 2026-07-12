@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2025438472950173936",
+    "created_at": "2026-02-22T10:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025513552166166648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025513552166166648",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025498406232461551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir bzd没有用，动态心电图看不出来问题的话，可以换ssris比如舍曲林试试。还有就是查过甲状腺t3t4吗，如果心慌手抖可能是这个低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2025438472950173936",
+        "created_at": "2026-02-22T10:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025513552166166648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025513552166166648",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025498406232461551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir bzd没有用，动态心电图看不出来问题的话，可以换ssris比如舍曲林试试。还有就是查过甲状腺t3t4吗，如果心慌手抖可能是这个低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868203874726887424",
+        "conversation_id": "2025438472950173936",
+        "created_at": "2026-02-22T09:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025498406232461551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025498406232461551",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025493260278640664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 谢谢你，心电图做过好几次了医生说没有事，我是想在焦虑发作的时候吃点试试，劳拉感觉没有用 明天去精卫复查啦谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 7,
+          "like_count": 1858,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 702
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "小倒丨16岁丨顺性别女性丨lesbian丨sub 丨 overdose丨双相情感障碍丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨请多关照",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11179982",
+                "end": 23,
+                "expanded_url": "https://ngl.link/11179982",
+                "start": 0,
+                "url": "https://t.co/pHdQ49rVOA"
+              }
+            ]
+          }
+        },
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 421,
+          "like_count": 1301,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/pHdQ49rVOA",
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

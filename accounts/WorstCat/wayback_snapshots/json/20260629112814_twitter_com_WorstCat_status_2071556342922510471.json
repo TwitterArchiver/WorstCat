@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2071546430884598199",
+    "created_at": "2026-06-29T11:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071556342922510471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "951930939248082944",
+          "start": 0,
+          "username": "Love_OXYcontin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071556342922510471",
+    "in_reply_to_user_id": "951930939248082944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071546430884598199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love_OXYcontin 我都是熬到早上8点多再去点菜(๑◝ᴗ◜๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2071546430884598199",
+        "created_at": "2026-06-29T11:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071556342922510471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "951930939248082944",
+              "start": 0,
+              "username": "Love_OXYcontin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071556342922510471",
+        "in_reply_to_user_id": "951930939248082944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071546430884598199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love_OXYcontin 我都是熬到早上8点多再去点菜(๑◝ᴗ◜๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "951930939248082944",
+        "conversation_id": "2071546430884598199",
+        "created_at": "2026-06-29T10:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071546430884598199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071546430884598199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉睡到现在 我开药的计划泡汤了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 40,
+          "like_count": 10351,
+          "listed_count": 5,
+          "media_count": 247,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTF🏳️‍⚧️ 10年 糖龄3年 ADHD 重度焦虑 IP山东 山东境内交友 -*BZDs/Z drug/opioids*-最爱的药物 欢迎互fo\n*服用的药物皆有医生处方*‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "        ꒰ঌ₊⁺ ♡̶ネット天使降臨♡̶ ₊⁺໒꒱ ",
+        "name": "ฅ ᩚ千雨ちさめ੭ﾞ🐾",
+        "pinned_tweet_id": "2071006996778885214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070266649555722240/vjw9A1mb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 404,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

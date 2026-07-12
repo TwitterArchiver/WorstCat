@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988950832751214592"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988953746068693454",
+    "created_at": "2025-11-13T12:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988953746068693454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qog0CHBzm0",
+          "end": 85,
+          "expanded_url": "https://x.com/WorstCat/status/1988953746068693454/photo/1",
+          "media_key": "3_1988950832751214592",
+          "start": 62,
+          "url": "https://t.co/qog0CHBzm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988953746068693454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很想试试迫害自己，想法有几个月了，但是理智又告诉自己可能会很疼可能会感染可能会有后遗症，害怕玩脱了会社死会成为丁香园病例🥹 https://t.co/qog0CHBzm0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2431,
+        "media_key": "3_1988950832751214592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5osPpXagAAK0yd.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988950832751214592"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988953746068693454",
+        "created_at": "2025-11-13T12:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988953746068693454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qog0CHBzm0",
+              "end": 85,
+              "expanded_url": "https://x.com/WorstCat/status/1988953746068693454/photo/1",
+              "media_key": "3_1988950832751214592",
+              "start": 62,
+              "url": "https://t.co/qog0CHBzm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988953746068693454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很想试试迫害自己，想法有几个月了，但是理智又告诉自己可能会很疼可能会感染可能会有后遗症，害怕玩脱了会社死会成为丁香园病例🥹 https://t.co/qog0CHBzm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 3,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 163
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

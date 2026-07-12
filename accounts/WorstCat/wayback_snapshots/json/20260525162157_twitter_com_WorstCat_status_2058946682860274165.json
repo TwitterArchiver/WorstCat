@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058917557940502887",
+    "created_at": "2026-05-25T16:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058946682860274165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Ayanekawaii2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058946682860274165",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058917557940502887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanekawaii2 去药局直接买盐野义的达利不是更便宜嘛100片的才7000多日元"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058917552672411649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK-mwTbEAE3udR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058917557940502887",
+        "created_at": "2026-05-25T16:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058946682860274165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058946682860274165",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058917557940502887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 去药局直接买盐野义的达利不是更便宜嘛100片的才7000多日元"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058917552672411649"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "conversation_id": "2058917557940502887",
+        "created_at": "2026-05-25T14:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058917557940502887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O49t4rYd1E",
+              "end": 40,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2058917557940502887/photo/1",
+              "media_key": "3_2058917552672411649",
+              "start": 17,
+              "url": "https://t.co/O49t4rYd1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058917557940502887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝一口老母给我从国内寄来的安眠药 https://t.co/O49t4rYd1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3028,
+          "following_count": 22,
+          "like_count": 6556,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1232
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 205,
+          "like_count": 383,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2402
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

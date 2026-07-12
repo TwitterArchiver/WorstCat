@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2051935680645984613",
+    "created_at": "2026-05-06T19:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T20:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052115319607726431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040970554635931648",
+          "start": 0,
+          "username": "Mercyeeua"
+        },
+        {
+          "end": 25,
+          "id": "1891362165317410816",
+          "start": 11,
+          "username": "Kris_Dreammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052115319607726431",
+    "in_reply_to_user_id": "2040970554635931648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051937427699462493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyeeua @Kris_Dreammer 每粒有1mg氯化十六烷基吡啶水合物，没有人类相关研究，gpt根据大鼠推算的明显中毒剂量是1-3mg/kg，ld50是50mg/kg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2051935680645984613",
+        "created_at": "2026-05-06T19:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052115319607726431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040970554635931648",
+              "start": 0,
+              "username": "Mercyeeua"
+            },
+            {
+              "end": 25,
+              "id": "1891362165317410816",
+              "start": 11,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052115319607726431",
+        "in_reply_to_user_id": "2040970554635931648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051937427699462493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyeeua @Kris_Dreammer 每粒有1mg氯化十六烷基吡啶水合物，没有人类相关研究，gpt根据大鼠推算的明显中毒剂量是1-3mg/kg，ld50是50mg/kg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040970554635931648",
+        "conversation_id": "2051935680645984613",
+        "created_at": "2026-05-06T08:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051937427699462493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891362165317410816",
+              "start": 0,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051937427699462493",
+        "in_reply_to_user_id": "1891362165317410816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051935680645984613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kris_Dreammer 这个o不了 我忘记为什么了 听说是含不好的辅料"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 9,
+          "like_count": 4567,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T01:51:40.000Z",
+        "description": "沙比马支克",
+        "id": "2040970554635931648",
+        "location": "能和神打电话の学校天台",
+        "name": "Mercy",
+        "pinned_tweet_id": "2042111686975623246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048592286502797312/PaYFKOGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 217,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "Mercyeeua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "药物滥用重度依赖 \n药圈萌新\n前500关注我的都回关\n目前只o愈美和普瑞（因为没有其他吃的）",
+        "id": "1891362165317410816",
+        "location": "自由",
+        "name": "kris（愈美大王版）",
+        "pinned_tweet_id": "2007887928459165768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 415,
+          "like_count": 3322,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1509
+        },
+        "url": "",
+        "username": "Kris_Dreammer",
+        "verified": false
+      }
+    ]
+  }
+}

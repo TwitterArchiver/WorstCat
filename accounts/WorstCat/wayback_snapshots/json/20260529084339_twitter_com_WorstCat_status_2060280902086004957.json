@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060280899166699520"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2060280902086004957",
+    "created_at": "2026-05-29T08:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060280902086004957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lFGqUaRrJ",
+          "end": 122,
+          "expanded_url": "https://x.com/WorstCat/status/2060280902086004957/photo/1",
+          "media_key": "3_2060280899166699520",
+          "start": 99,
+          "url": "https://t.co/5lFGqUaRrJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060280902086004957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卖膏药起家的山东朱氏药业，我之前平台5折券买的它家半价注射器就感觉不靠谱，袋子太薄了好多被注射器柄磨破的，无菌失效还不容易发现。\n它家留置针敷贴超难用，一点都不黏，两天都用不了，就没见过这么差的🥺 https://t.co/5lFGqUaRrJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2060280899166699520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeWj9xagAAeFSA.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060280899166699520"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2060280902086004957",
+        "created_at": "2026-05-29T08:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060280902086004957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lFGqUaRrJ",
+              "end": 122,
+              "expanded_url": "https://x.com/WorstCat/status/2060280902086004957/photo/1",
+              "media_key": "3_2060280899166699520",
+              "start": 99,
+              "url": "https://t.co/5lFGqUaRrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060280902086004957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖膏药起家的山东朱氏药业，我之前平台5折券买的它家半价注射器就感觉不靠谱，袋子太薄了好多被注射器柄磨破的，无菌失效还不容易发现。\n它家留置针敷贴超难用，一点都不黏，两天都用不了，就没见过这么差的🥺 https://t.co/5lFGqUaRrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 22,
+          "like_count": 6972,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 1296
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

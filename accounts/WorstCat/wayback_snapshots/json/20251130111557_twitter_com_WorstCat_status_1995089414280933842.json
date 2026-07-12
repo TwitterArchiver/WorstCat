@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995089408937308160"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1995089414280933842",
+    "created_at": "2025-11-30T11:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T12:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995089414280933842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/abVdARg7pV",
+          "end": 33,
+          "expanded_url": "https://x.com/WorstCat/status/1995089414280933842/photo/1",
+          "media_key": "3_1995089408937308160",
+          "start": 10,
+          "url": "https://t.co/abVdARg7pV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995089414280933842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉脖子上有个异物 https://t.co/abVdARg7pV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1995089408937308160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_7PzraMAAhBmI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995089408937308160"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1995089414280933842",
+        "created_at": "2025-11-30T11:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995089414280933842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abVdARg7pV",
+              "end": 33,
+              "expanded_url": "https://x.com/WorstCat/status/1995089414280933842/photo/1",
+              "media_key": "3_1995089408937308160",
+              "start": 10,
+              "url": "https://t.co/abVdARg7pV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995089414280933842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉脖子上有个异物 https://t.co/abVdARg7pV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 7,
+          "like_count": 646,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 336
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

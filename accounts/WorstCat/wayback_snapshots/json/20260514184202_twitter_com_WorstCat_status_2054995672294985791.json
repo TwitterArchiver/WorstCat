@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054995670298415104"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2054995672294985791",
+    "created_at": "2026-05-14T18:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054995672294985791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wYYKiXhQtJ",
+          "end": 112,
+          "expanded_url": "https://x.com/WorstCat/status/2054995672294985791/photo/1",
+          "media_key": "3_2054995670298415104",
+          "start": 89,
+          "url": "https://t.co/wYYKiXhQtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054995672294985791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早pr晚pr，一整天攻击性都很强躁的很，超想吵架的时候，在多多买了个2块多的东西用的广发卡，广发有什么大病发消息羞辱恶心我，一边打电话儒雅随和一边在快餐店吃饭好爽ヾﾉ≧∀≦)o https://t.co/wYYKiXhQtJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_2054995670298415104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITPrJ8aUAAKVS9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054995670298415104"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2054995672294985791",
+        "created_at": "2026-05-14T18:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054995672294985791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYYKiXhQtJ",
+              "end": 112,
+              "expanded_url": "https://x.com/WorstCat/status/2054995672294985791/photo/1",
+              "media_key": "3_2054995670298415104",
+              "start": 89,
+              "url": "https://t.co/wYYKiXhQtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054995672294985791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早pr晚pr，一整天攻击性都很强躁的很，超想吵架的时候，在多多买了个2块多的东西用的广发卡，广发有什么大病发消息羞辱恶心我，一边打电话儒雅随和一边在快餐店吃饭好爽ヾﾉ≧∀≦)o https://t.co/wYYKiXhQtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 7,
+          "like_count": 5407,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 1038
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

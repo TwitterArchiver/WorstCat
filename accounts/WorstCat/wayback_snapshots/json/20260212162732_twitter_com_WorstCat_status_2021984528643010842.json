@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2021899414458204393",
+    "created_at": "2026-02-12T16:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021984528643010842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021984528643010842",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021970938896748943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 那就让保险公司别支付，哪家保险公司呀那么怂，让去起诉吧，起诉了再调解或者等判决，它不找律师够折腾的，一万多块的标的找律师至少五千，并且你不存在重大过失律师费不需要你承担，到时候主张的很多费用它就拿出具体凭证不然别想要，再说上了法庭，就不信它的新能源电动车是合规的说不定成了轻型电摩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2021899414458204393",
+        "created_at": "2026-02-12T16:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021984528643010842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021984528643010842",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021970938896748943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 那就让保险公司别支付，哪家保险公司呀那么怂，让去起诉吧，起诉了再调解或者等判决，它不找律师够折腾的，一万多块的标的找律师至少五千，并且你不存在重大过失律师费不需要你承担，到时候主张的很多费用它就拿出具体凭证不然别想要，再说上了法庭，就不信它的新能源电动车是合规的说不定成了轻型电摩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2021899414458204393",
+        "created_at": "2026-02-12T15:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021970938896748943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021970938896748943",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021966707515068421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 谢谢宝宝，应该不是惯犯但是估计背后有人指点（）保险说也没办法因为签字了（虽然保险也跟我一起吐槽），长辈一开始就联系了交警，最主要的问题是没办法证明我没闯红灯TT如果有证据的话就是对方赔我钱了，所以只能自认倒霉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你11.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 7,
+          "like_count": 1584,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 642
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类回fo漏fo可私-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2470,
+          "following_count": 1797,
+          "like_count": 6080,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 5841
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

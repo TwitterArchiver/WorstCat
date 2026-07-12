@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1985463122975736038",
+    "created_at": "2025-11-14T16:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T17:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989371749109305514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804134957117509638",
+          "start": 0,
+          "username": "Seraphina_Ignis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989371749109305514",
+    "in_reply_to_user_id": "1804134957117509638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989347939270197571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seraphina_Ignis 没吃过呢，综合医院能开到吗，不想去精卫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1985463122975736038",
+        "created_at": "2025-11-14T16:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989371749109305514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804134957117509638",
+              "start": 0,
+              "username": "Seraphina_Ignis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989371749109305514",
+        "in_reply_to_user_id": "1804134957117509638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989347939270197571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seraphina_Ignis 没吃过呢，综合医院能开到吗，不想去精卫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804134957117509638",
+        "conversation_id": "1985463122975736038",
+        "created_at": "2025-11-14T15:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989347939270197571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989347939270197571",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985463122975736038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 匹克隆苦，还不如喹硫平呢，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 5,
+          "like_count": 230,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 188
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T12:51:26.000Z",
+        "description": "🧠 ENTP (庄子加持版) - 别信\n🙅‍♀️ 非诚勿扰 / 拒同\n🌐 你已通过人机检测\n❤️ Happy in the Lynx's hunting ground",
+        "id": "1804134957117509638",
+        "location": "谢绝访问",
+        "name": "Seraphina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979862484744810496/CwmKdvHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 175,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 233
+        },
+        "username": "Seraphina_Ignis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2057033746973622494",
+    "created_at": "2026-05-21T14:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057465714924294306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "8956502",
+          "start": 0,
+          "username": "StarKnight"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/premium_sign…",
+          "end": 143,
+          "expanded_url": "https://x.com/i/premium_sign_up?referring_page=grok-post-2057261430030610541",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 120,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/flow/login",
+          "url": "https://t.co/kMynTL4iR1"
+        },
+        {
+          "display_url": "x.com/i/premium_sign…",
+          "end": 219,
+          "expanded_url": "https://x.com/i/premium_sign_up?referring_page=grok-post-2057261430030610541",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 196,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/flow/login",
+          "url": "https://t.co/kMynTL4iR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057465714924294306",
+    "in_reply_to_user_id": "8956502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057033746973622494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarKnight Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://t.co/kMynTL4iR1\nAsk Grok 目前仅面向 Premium 和 Premium+ 订阅用户开放。订阅以解锁此功能：  https://t.co/kMynTL4iR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_2057033735833534464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwNSLtaQAAsp65.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2057033746973622494",
+        "created_at": "2026-05-21T14:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057465714924294306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "8956502",
+              "start": 0,
+              "username": "StarKnight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/premium_sign…",
+              "end": 143,
+              "expanded_url": "https://x.com/i/premium_sign_up?referring_page=grok-post-2057261430030610541",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 120,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/kMynTL4iR1"
+            },
+            {
+              "display_url": "x.com/i/premium_sign…",
+              "end": 219,
+              "expanded_url": "https://x.com/i/premium_sign_up?referring_page=grok-post-2057261430030610541",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057090352788701184/i_zOCo-m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 196,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/kMynTL4iR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057465714924294306",
+        "in_reply_to_user_id": "8956502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057033746973622494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarKnight Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://t.co/kMynTL4iR1\nAsk Grok 目前仅面向 Premium 和 Premium+ 订阅用户开放。订阅以解锁此功能：  https://t.co/kMynTL4iR1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057033735833534464"
+          ]
+        },
+        "author_id": "8956502",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2057033746973622494",
+        "created_at": "2026-05-20T09:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057033746973622494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYQeZkoUDr",
+              "end": 60,
+              "expanded_url": "https://x.com/StarKnight/status/2057033746973622494/photo/1",
+              "media_key": "3_2057033735833534464",
+              "start": 37,
+              "url": "https://t.co/pYQeZkoUDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057033746973622494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 208260,
+          "like_count": 1013,
+          "quote_count": 12,
+          "reply_count": 205,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "大家在推上问Grok“这是真的吗？”次数太多，官方把这个按钮集成进去了😂 https://t.co/pYQeZkoUDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 19,
+          "like_count": 6049,
+          "listed_count": 5,
+          "media_count": 223,
+          "tweet_count": 1141
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2007-09-18T17:50:58.000Z",
+        "description": "人们对我说：你不过是尘与土。可是他们忘了告诉我，那其实是星星的尘埃。時々日本語。两个小朋友的爸爸。",
+        "id": "8956502",
+        "name": "StarKnight",
+        "pinned_tweet_id": "2051597211398770988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014879396814061569/D9PxYnO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91542,
+          "following_count": 3082,
+          "like_count": 33661,
+          "listed_count": 680,
+          "media_count": 9306,
+          "tweet_count": 85628
+        },
+        "username": "StarKnight",
+        "verified": true
+      }
+    ]
+  }
+}

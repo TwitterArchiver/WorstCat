@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2067634858491625525",
+    "created_at": "2026-06-18T15:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067636076995559891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1912063502782812160",
+          "start": 0,
+          "username": "Ekouuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067636076995559891",
+    "in_reply_to_user_id": "1912063502782812160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067634858491625525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ekouuuuuu 啊啊啊啊啊啊啊啊好过分死巫婆无能打学生下地狱太坏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2067634832088395776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG27MvacAA57fo.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2067634839738896384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG27pPb0AAq6B1.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2067634846512611328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG28CeagAA2C2f.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2067634853173170176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG28bSakAApgOl.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2067634858491625525",
+        "created_at": "2026-06-18T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067636076995559891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1912063502782812160",
+              "start": 0,
+              "username": "Ekouuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067636076995559891",
+        "in_reply_to_user_id": "1912063502782812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067634858491625525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ekouuuuuu 啊啊啊啊啊啊啊啊好过分死巫婆无能打学生下地狱太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067634832088395776",
+            "3_2067634839738896384",
+            "3_2067634846512611328",
+            "3_2067634853173170176"
+          ]
+        },
+        "author_id": "1912063502782812160",
+        "conversation_id": "2067634858491625525",
+        "created_at": "2026-06-18T15:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067634858491625525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e30AVSua6g",
+              "end": 73,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2067634858491625525/photo/1",
+              "media_key": "3_2067634832088395776",
+              "start": 50,
+              "url": "https://t.co/e30AVSua6g"
+            },
+            {
+              "display_url": "pic.x.com/e30AVSua6g",
+              "end": 73,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2067634858491625525/photo/1",
+              "media_key": "3_2067634839738896384",
+              "start": 50,
+              "url": "https://t.co/e30AVSua6g"
+            },
+            {
+              "display_url": "pic.x.com/e30AVSua6g",
+              "end": 73,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2067634858491625525/photo/1",
+              "media_key": "3_2067634846512611328",
+              "start": 50,
+              "url": "https://t.co/e30AVSua6g"
+            },
+            {
+              "display_url": "pic.x.com/e30AVSua6g",
+              "end": 73,
+              "expanded_url": "https://x.com/Ekouuuuuu/status/2067634858491625525/photo/1",
+              "media_key": "3_2067634853173170176",
+              "start": 50,
+              "url": "https://t.co/e30AVSua6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067634858491625525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "班導你還記得我嗎，我是那個被你冤枉用戒尺給手臂打破皮流血的女生，我現在手上都還有你毆打我留下的傷疤 https://t.co/e30AVSua6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3034,
+          "following_count": 31,
+          "like_count": 8982,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 1445
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T08:40:51.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖閨蜜@seeFvn‖主人@Shiroko_Li‖LGBTQ+友好‖查主頁成分回fo‖1/7/2026 DXM事變永遠懷念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 35,
+                "username": "seeFvn"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shiroko_Li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "http://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/8kuFPf6U23"
+              }
+            ]
+          }
+        },
+        "id": "1912063502782812160",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一朵 Mandrake",
+        "pinned_tweet_id": "2064040950851404219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783933703823360/nX1HDqhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 344,
+          "like_count": 14015,
+          "listed_count": 1,
+          "media_count": 616,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/8kuFPf6U23",
+        "username": "Ekouuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

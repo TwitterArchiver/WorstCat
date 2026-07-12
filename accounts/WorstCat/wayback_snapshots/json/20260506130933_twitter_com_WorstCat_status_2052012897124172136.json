@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052012789003423744",
+        "3_2052012887993126912"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2051713282663178413",
+    "created_at": "2026-05-06T13:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052012897124172136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1348211029612912640",
+          "start": 0,
+          "username": "milanzise"
+        },
+        {
+          "end": 21,
+          "id": "1368897611672018953",
+          "start": 11,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9vZuAsI8n3",
+          "end": 189,
+          "expanded_url": "https://x.com/WorstCat/status/2052012897124172136/photo/1",
+          "media_key": "3_2052012789003423744",
+          "start": 166,
+          "url": "https://t.co/9vZuAsI8n3"
+        },
+        {
+          "display_url": "pic.x.com/9vZuAsI8n3",
+          "end": 189,
+          "expanded_url": "https://x.com/WorstCat/status/2052012897124172136/photo/1",
+          "media_key": "3_2052012887993126912",
+          "start": 166,
+          "url": "https://t.co/9vZuAsI8n3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052012897124172136",
+    "in_reply_to_user_id": "1348211029612912640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052008521190060291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milanzise @XUEQIUxka 经营平台给与消费者退款的依据为消保法44条见图一。\n如果消费者描述相符则合法，作为商户如果不服平台处理方案可以根据入驻协议到平台所在地起诉平台或者闭店不做，而不是威胁恐吓辱骂消费者。\n如果不符合描述，消费者以欺诈方式获取退款和赔偿，适用于消保法实施条例49条见图二，可按治安管理法处罚。 https://t.co/9vZuAsI8n3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2052012789003423744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo2wnMbkAA2Pl6.png",
+        "width": 933
+      },
+      {
+        "height": 136,
+        "media_key": "3_2052012887993126912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHo22X9akAAPpGS.png",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052012789003423744",
+            "3_2052012887993126912"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2051713282663178413",
+        "created_at": "2026-05-06T13:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052012897124172136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1348211029612912640",
+              "start": 0,
+              "username": "milanzise"
+            },
+            {
+              "end": 21,
+              "id": "1368897611672018953",
+              "start": 11,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vZuAsI8n3",
+              "end": 189,
+              "expanded_url": "https://x.com/WorstCat/status/2052012897124172136/photo/1",
+              "media_key": "3_2052012789003423744",
+              "start": 166,
+              "url": "https://t.co/9vZuAsI8n3"
+            },
+            {
+              "display_url": "pic.x.com/9vZuAsI8n3",
+              "end": 189,
+              "expanded_url": "https://x.com/WorstCat/status/2052012897124172136/photo/1",
+              "media_key": "3_2052012887993126912",
+              "start": 166,
+              "url": "https://t.co/9vZuAsI8n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052012897124172136",
+        "in_reply_to_user_id": "1348211029612912640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052008521190060291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milanzise @XUEQIUxka 经营平台给与消费者退款的依据为消保法44条见图一。\n如果消费者描述相符则合法，作为商户如果不服平台处理方案可以根据入驻协议到平台所在地起诉平台或者闭店不做，而不是威胁恐吓辱骂消费者。\n如果不符合描述，消费者以欺诈方式获取退款和赔偿，适用于消保法实施条例49条见图二，可按治安管理法处罚。 https://t.co/9vZuAsI8n3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1348211029612912640",
+        "conversation_id": "2051713282663178413",
+        "created_at": "2026-05-06T12:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052008521190060291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 20,
+              "id": "1368897611672018953",
+              "start": 10,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052008521190060291",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051763828334170434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @XUEQIUxka 消费者权益保护法还规定，七天无理由退换货，现在穿几个月还能退款，怎么不按规定来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 9,
+          "like_count": 4558,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 933
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T10:12:27.000Z",
+        "description": "",
+        "id": "1348211029612912640",
+        "name": "milanzise",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709756659340660736/pOyN3Fb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 148,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1411
+        },
+        "username": "milanzise",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8133,
+          "following_count": 2186,
+          "like_count": 28725,
+          "listed_count": 26,
+          "media_count": 1169,
+          "tweet_count": 4768
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

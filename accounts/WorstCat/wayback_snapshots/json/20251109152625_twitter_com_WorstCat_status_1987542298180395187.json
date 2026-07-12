@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1987494649494433966",
+    "created_at": "2025-11-09T15:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987542298180395187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987542298180395187",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987494649494433966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo nmda也就氯胺酮 右美和晚安吧，晚安绝对不要用，氯胺酮不止是解离感，带来的梦魇也是很恐怖的，那些树皮一类的需要用maoi来增强，很容易和你正在使用的治疗药物发生不良反应，还是谨慎啦宝宝，还有gemini的用药建议不太可信，它的回答很多情况下不考虑副作用和不良反应🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1987494649494433966",
+        "created_at": "2025-11-09T15:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987542298180395187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987542298180395187",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987494649494433966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo nmda也就氯胺酮 右美和晚安吧，晚安绝对不要用，氯胺酮不止是解离感，带来的梦魇也是很恐怖的，那些树皮一类的需要用maoi来增强，很容易和你正在使用的治疗药物发生不良反应，还是谨慎啦宝宝，还有gemini的用药建议不太可信，它的回答很多情况下不考虑副作用和不良反应🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1987494649494433966",
+        "created_at": "2025-11-09T12:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987494649494433966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987494649494433966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 440,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我得搞点新东西来，有没有啥纯爽的解离麻醉？除了氯胺酮？\n\n蘑菇吃得太幸福了，问Gemini有没有什么物质可以模拟幸福欣快麻醉感，它说蘑菇本身不具备麻醉欣快感，可能是我的体质与蘑菇产生了独特的体验\n\n所以有没有不致幻drug可以模拟我在蘑菇中的体验呀TT主要是psychs和抗精神病药冲突太麻烦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 2,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 109
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "走在违法背德前线💥我是精神病一点就炸💥疯狗狂犬病 和我吵会染病💥接受指正不接受指点❤️不认可就去死💥舞到主页必疯咬💥同类fo必回-漏fo请私-爱我的互关♪点赞评论bot-讨厌闲聊不感兴趣不会回复♡喜欢sex与drug♡勿骚扰不提供咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1987514553568219445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 510,
+          "like_count": 2193,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 980
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

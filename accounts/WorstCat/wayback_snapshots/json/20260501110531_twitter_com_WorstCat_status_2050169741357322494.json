@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2050071881840267423",
+    "created_at": "2026-05-01T11:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050169741357322494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050169741357322494",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050071881840267423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 前年入职我司的小姑娘，我给开了个工作证明让开个招行借记卡发工资方便，然后她中午俩小时跑去网点连信用卡都办了，我刚开始都不知道好吧，直到招行给我打电话问xx是你公司员工吗，我才意识到，果然过了几天就看到拿着kitty卡在那炫耀了ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050071872369475584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNRgZSaQAAbPYI.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2050071881840267423",
+        "created_at": "2026-05-01T11:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050169741357322494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050169741357322494",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050071881840267423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 前年入职我司的小姑娘，我给开了个工作证明让开个招行借记卡发工资方便，然后她中午俩小时跑去网点连信用卡都办了，我刚开始都不知道好吧，直到招行给我打电话问xx是你公司员工吗，我才意识到，果然过了几天就看到拿着kitty卡在那炫耀了ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050071872369475584"
+          ]
+        },
+        "author_id": "2021505488337416192",
+        "conversation_id": "2050071881840267423",
+        "created_at": "2026-05-01T04:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050071881840267423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18slRrXV0Y",
+              "end": 26,
+              "expanded_url": "https://x.com/HuamanX09/status/2050071881840267423/photo/1",
+              "media_key": "3_2050071872369475584",
+              "start": 3,
+              "url": "https://t.co/18slRrXV0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050071881840267423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 933,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语 https://t.co/18slRrXV0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 9,
+          "like_count": 3977,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 894
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "伴侣：@CyberKanjousen🐱\n记录生活｜20岁｜大一｜日语、心理学、精神分析｜ACGN爱好者｜游戏主播｜梗图BOT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "CyberKanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acg.rip",
+                "end": 23,
+                "expanded_url": "http://acg.rip",
+                "start": 0,
+                "url": "https://t.co/SdoBqvZcS0"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Japan",
+        "name": "花漫阳春",
+        "pinned_tweet_id": "2050078089783460146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795042991738880/UMh5OtPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 645,
+          "like_count": 3176,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/SdoBqvZcS0",
+        "username": "HuamanX09",
+        "verified": true
+      }
+    ]
+  }
+}

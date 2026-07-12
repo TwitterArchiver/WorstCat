@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1992412770978148468",
+    "created_at": "2025-11-24T05:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992823408615473545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1471191770864435200",
+          "start": 0,
+          "username": "lbtuan25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992823408615473545",
+    "in_reply_to_user_id": "1471191770864435200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992412770978148468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25 孔老二是宣扬恢复奴隶制反对社会改革的既得利益者，他的有教无类是建立在10条干肉基础上的，他比不过别人骗不到干肉就无理由的杀人，他以貌取人对女性充满歧视偏见，宣扬天命论努力不会有回报不该挣扎，主张尊卑贵贱有别他永远要凌驾于别人之上，反对市场化经济破坏正常市场秩序和文明进程，不是好人😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1992412770978148468",
+        "created_at": "2025-11-24T05:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992823408615473545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1471191770864435200",
+              "start": 0,
+              "username": "lbtuan25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992823408615473545",
+        "in_reply_to_user_id": "1471191770864435200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992412770978148468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25 孔老二是宣扬恢复奴隶制反对社会改革的既得利益者，他的有教无类是建立在10条干肉基础上的，他比不过别人骗不到干肉就无理由的杀人，他以貌取人对女性充满歧视偏见，宣扬天命论努力不会有回报不该挣扎，主张尊卑贵贱有别他永远要凌驾于别人之上，反对市场化经济破坏正常市场秩序和文明进程，不是好人😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471191770864435200",
+        "conversation_id": "1992412770978148468",
+        "created_at": "2025-11-23T01:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992412770978148468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DestinoAqua/st…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/DestinoAqua/status/1991929455946924488",
+              "start": 93,
+              "url": "https://t.co/iWChy1XO6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992412770978148468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 983,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991929455946924488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一个做自媒体的叫张祥前的\n他声称去过外星参观过外星人的社会\n团子就私信问他外星人是不是共产主义社会\n他说是物质资源免费的大同社会…\n给团子感觉他去的这个外星的社会学科技树才点到孔子🤓 https://t.co/iWChy1XO6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 7,
+          "like_count": 480,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 283
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T18:53:55.000Z",
+        "description": "洁身自好brat，绝无可能是pet！",
+        "id": "1471191770864435200",
+        "location": "North-East Region, Singapore",
+        "name": "☆蓝白团子☆（只喝无糖饮料却喝出了三点五颗蛀牙版）",
+        "pinned_tweet_id": "1910039281823015249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841144934709223424/6Ypv12QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3591,
+          "following_count": 1005,
+          "like_count": 6280,
+          "listed_count": 8,
+          "media_count": 329,
+          "tweet_count": 3835
+        },
+        "username": "lbtuan25",
+        "verified": false
+      }
+    ]
+  }
+}

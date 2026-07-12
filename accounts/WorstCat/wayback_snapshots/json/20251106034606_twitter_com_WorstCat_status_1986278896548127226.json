@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1986278896548127226",
+    "created_at": "2025-11-06T03:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T04:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986278896548127226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chawanwan_/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/chawanwan_/status/1986063257799680287",
+          "start": 17,
+          "url": "https://t.co/76jplveOck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986278896548127226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986063257799680287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像极了小时候孤独在医院打针的样子 https://t.co/76jplveOck"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_1986063250879135744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_qAQobwAATfQ4.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1986278896548127226",
+        "created_at": "2025-11-06T03:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986278896548127226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chawanwan_/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/chawanwan_/status/1986063257799680287",
+              "start": 17,
+              "url": "https://t.co/76jplveOck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986278896548127226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986063257799680287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像极了小时候孤独在医院打针的样子 https://t.co/76jplveOck"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986063250879135744"
+          ]
+        },
+        "author_id": "1721863053023789056",
+        "conversation_id": "1986063257799680287",
+        "created_at": "2025-11-05T13:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986063257799680287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQPifqG1vr",
+              "end": 23,
+              "expanded_url": "https://x.com/chawanwan_/status/1986063257799680287/photo/1",
+              "media_key": "3_1986063250879135744",
+              "start": 0,
+              "url": "https://t.co/GQPifqG1vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986063257799680287",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 14373,
+          "like_count": 1109,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GQPifqG1vr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 88
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T12:12:10.000Z",
+        "description": "🐕 @Poly1_i ✉️00poly01@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Poly1_i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "00poly01.wixsite.com/nikki",
+                "end": 23,
+                "expanded_url": "https://00poly01.wixsite.com/nikki",
+                "start": 0,
+                "url": "https://t.co/Z2OovvHSIY"
+              }
+            ]
+          }
+        },
+        "id": "1721863053023789056",
+        "location": "日記です",
+        "name": "救ゐ",
+        "pinned_tweet_id": "1985714415640228025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769003036599517184/W5ZTHuwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 63,
+          "like_count": 4848,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/Z2OovvHSIY",
+        "username": "chawanwan_",
+        "verified": false
+      }
+    ]
+  }
+}

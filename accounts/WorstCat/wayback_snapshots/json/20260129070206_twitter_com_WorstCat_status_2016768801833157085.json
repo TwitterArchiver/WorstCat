@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016768759055470592"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2016768801833157085",
+    "created_at": "2026-01-29T07:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T08:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016768801833157085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZrB4hTF2x",
+          "end": 58,
+          "expanded_url": "https://x.com/WorstCat/status/2016768801833157085/video/1",
+          "media_key": "7_2016768759055470592",
+          "start": 35,
+          "url": "https://t.co/GZrB4hTF2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016768801833157085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主人说等嫌弃我了就把我扔到垃圾桶里，这么大的够不够呢，多多11买的🥺 https://t.co/GZrB4hTF2x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11241,
+        "height": 1280,
+        "media_key": "7_2016768759055470592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016768759055470592/pu/img/2mL6TPrmxK57bt0K.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016768759055470592/pu/vid/avc1/320x568/EE91pHTdxNs09ARs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016768759055470592/pu/vid/avc1/480x852/OfQ-NL-5kwYSOYZB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016768759055470592/pu/vid/avc1/720x1280/d3Q90WAF5FA0VGuW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016768759055470592/pu/pl/CuewZbUoHoBlTG7g.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016768759055470592"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2016768801833157085",
+        "created_at": "2026-01-29T07:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016768801833157085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZrB4hTF2x",
+              "end": 58,
+              "expanded_url": "https://x.com/WorstCat/status/2016768801833157085/video/1",
+              "media_key": "7_2016768759055470592",
+              "start": 35,
+              "url": "https://t.co/GZrB4hTF2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016768801833157085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人说等嫌弃我了就把我扔到垃圾桶里，这么大的够不够呢，多多11买的🥺 https://t.co/GZrB4hTF2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 7,
+          "like_count": 1315,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 571
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

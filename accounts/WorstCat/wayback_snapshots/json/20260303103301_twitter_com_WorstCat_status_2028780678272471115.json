@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2028743406290362830",
+    "created_at": "2026-03-03T10:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028780678272471115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028780678272471115",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028743406290362830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 这个药成瘾以后贼可怕，不吃就别想睡，用久了还会锥体外系"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2028743393111953408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeLXgbb0AArK_T.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2028743406290362830",
+        "created_at": "2026-03-03T10:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028780678272471115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028780678272471115",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028743406290362830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 这个药成瘾以后贼可怕，不吃就别想睡，用久了还会锥体外系"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028743393111953408"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2028743406290362830",
+        "created_at": "2026-03-03T08:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028743406290362830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVZfjKUfTd",
+              "end": 42,
+              "expanded_url": "https://x.com/amecandy_x/status/2028743406290362830/photo/1",
+              "media_key": "3_2028743393111953408",
+              "start": 19,
+              "url": "https://t.co/vVZfjKUfTd"
+            },
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2028742612157689905",
+              "start": 43,
+              "url": "https://t.co/tNQxWOivaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028743406290362830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028742612157689905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个药不是抗组胺吗？用来当安眠药用？ https://t.co/vVZfjKUfTd https://t.co/tNQxWOivaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 7,
+          "like_count": 1984,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 729
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ 跨女 / radical communist / ally / ai4fun🤖 / 競馬🏇🏻 / vocaloid🎶 / 也许是铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5737,
+          "following_count": 1979,
+          "like_count": 25407,
+          "listed_count": 16,
+          "media_count": 1262,
+          "tweet_count": 9082
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1987519152240857152",
+    "created_at": "2025-11-10T05:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987750120897798571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670791007426822153",
+          "start": 0,
+          "username": "dominason48381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987750120897798571",
+    "in_reply_to_user_id": "1670791007426822153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987697267974009199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dominason48381 国内监狱通用标志，\"囚\"字的变形图案~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1987519152240857152",
+        "created_at": "2025-11-10T05:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987750120897798571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670791007426822153",
+              "start": 0,
+              "username": "dominason48381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987750120897798571",
+        "in_reply_to_user_id": "1670791007426822153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987697267974009199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dominason48381 国内监狱通用标志，\"囚\"字的变形图案~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670791007426822153",
+        "conversation_id": "1987519152240857152",
+        "created_at": "2025-11-10T01:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T02:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987697267974009199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987697267974009199",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987519152240857152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 这标志有什么说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 3,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 112
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T13:49:59.000Z",
+        "description": "smer",
+        "id": "1670791007426822153",
+        "location": "020",
+        "name": "Dominason",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976466602423189504/o8f20p9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 122,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 457
+        },
+        "username": "dominason48381",
+        "verified": false
+      }
+    ]
+  }
+}

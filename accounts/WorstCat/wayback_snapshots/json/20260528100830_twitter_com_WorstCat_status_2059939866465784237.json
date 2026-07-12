@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2059876197535019028",
+    "created_at": "2026-05-28T10:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059939866465784237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873618004870889473",
+          "start": 0,
+          "username": "yuil_209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059939866465784237",
+    "in_reply_to_user_id": "1873618004870889473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059876197535019028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuil_209 医師からの共感的な教育が欠けている。仕事帰りの二人のいじめっ子に優しく押し下げてもらい、潤滑剤なしで一度挿入させてみれば、理解できるだろう😼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_2059876193684553728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYmfAXaAAAwxwN.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2059876197535019028",
+        "created_at": "2026-05-28T10:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059939866465784237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873618004870889473",
+              "start": 0,
+              "username": "yuil_209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059939866465784237",
+        "in_reply_to_user_id": "1873618004870889473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059876197535019028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuil_209 医師からの共感的な教育が欠けている。仕事帰りの二人のいじめっ子に優しく押し下げてもらい、潤滑剤なしで一度挿入させてみれば、理解できるだろう😼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059876193684553728"
+          ]
+        },
+        "author_id": "1873618004870889473",
+        "conversation_id": "2059876197535019028",
+        "created_at": "2026-05-28T05:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059876197535019028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yD9Whw91tb",
+              "end": 111,
+              "expanded_url": "https://x.com/yuil_209/status/2059876197535019028/photo/1",
+              "media_key": "3_2059876193684553728",
+              "start": 88,
+              "url": "https://t.co/yD9Whw91tb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059876197535019028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9063,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "結局チューブ🥲こんなに太かったっけ（14Fr）😭一年ぶりなのもあって入れる時激痛すぎて涙止まらんかった。\n「痛いねー。」って言いながらズカズカチューブ入れる主治医が怖かった😇 https://t.co/yD9Whw91tb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 22,
+          "like_count": 6871,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 1287
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T06:32:39.000Z",
+        "description": "￤ 𝟶𝟿 ￤ 𝙾𝚃を目指す𝚓𝚔￤ 通信制 ￤ 日常・闘病𓂃🩺 ￤ \n✄╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ­­╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ ╶ 🐰⸝꙳摂食障害 ｜パニック障害｜社交不安障害｜𝙷𝚂𝙿気質",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuil_209",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuil_209",
+                "start": 0,
+                "url": "https://t.co/nkpocNVCUn"
+              }
+            ]
+          }
+        },
+        "id": "1873618004870889473",
+        "location": "👒🔅『手話・闘病』",
+        "name": "ゆいの日記【精神疾患】",
+        "pinned_tweet_id": "2016284778686005534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013197766411898881/Jev7DrHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 47,
+          "like_count": 8716,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/nkpocNVCUn",
+        "username": "yuil_209",
+        "verified": false
+      }
+    ]
+  }
+}

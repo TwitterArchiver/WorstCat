@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058138785934893056"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2058138790716396000",
+    "created_at": "2026-05-23T10:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058138790716396000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/96Q32eLVff",
+          "end": 199,
+          "expanded_url": "https://x.com/WorstCat/status/2058138790716396000/photo/1",
+          "media_key": "3_2058138785934893056",
+          "start": 176,
+          "url": "https://t.co/96Q32eLVff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058138790716396000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "AAA玉米批发王总:玉米片🌽21.9一盒,还有最后4盒卖完就不进了,要几盒?\n不吃香菜(咳嗽版):全都要!!快给我发!!!🥺\n不吃香菜(咳嗽版):发起转账\nAAA玉米批发王总:哎呦喂,丫够躁的,下午发出🤝\nAAA玉米批发王总:转账已接收\nAAA玉米批发王总:ST11451419191810二欠日达\n不吃香菜(咳嗽版):Σ( ° △ °|||)︴好臭 https://t.co/96Q32eLVff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2058138785934893056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_6UkIaYAAMraZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058138785934893056"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2058138790716396000",
+        "created_at": "2026-05-23T10:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058138790716396000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96Q32eLVff",
+              "end": 199,
+              "expanded_url": "https://x.com/WorstCat/status/2058138790716396000/photo/1",
+              "media_key": "3_2058138785934893056",
+              "start": 176,
+              "url": "https://t.co/96Q32eLVff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058138790716396000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "AAA玉米批发王总:玉米片🌽21.9一盒,还有最后4盒卖完就不进了,要几盒?\n不吃香菜(咳嗽版):全都要!!快给我发!!!🥺\n不吃香菜(咳嗽版):发起转账\nAAA玉米批发王总:哎呦喂,丫够躁的,下午发出🤝\nAAA玉米批发王总:转账已接收\nAAA玉米批发王总:ST11451419191810二欠日达\n不吃香菜(咳嗽版):Σ( ° △ °|||)︴好臭 https://t.co/96Q32eLVff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 21,
+          "like_count": 6248,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1185
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

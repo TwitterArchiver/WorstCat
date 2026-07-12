@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2013195357102977431",
+    "created_at": "2026-01-19T10:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T11:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013195357102977431"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013195357102977431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和主人一个中级一个注会大眼瞪小眼总算把这季度税报了，莫名其妙对不上，最后发现是上季度太迷糊出错了，挨了一顿骂。其实能过系统校验就没多大事，网上段子什么差一分钱差几毛钱要命的纯粹编故事，老板不会管专管员不会管狗才会在乎1分钱，差几百都没事直接记营业外或者管理费用就行了我都是那么干🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2013195357102977431",
+        "created_at": "2026-01-19T10:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013195357102977431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013195357102977431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和主人一个中级一个注会大眼瞪小眼总算把这季度税报了，莫名其妙对不上，最后发现是上季度太迷糊出错了，挨了一顿骂。其实能过系统校验就没多大事，网上段子什么差一分钱差几毛钱要命的纯粹编故事，老板不会管专管员不会管狗才会在乎1分钱，差几百都没事直接记营业外或者管理费用就行了我都是那么干🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2252,
+          "following_count": 7,
+          "like_count": 1208,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 503
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

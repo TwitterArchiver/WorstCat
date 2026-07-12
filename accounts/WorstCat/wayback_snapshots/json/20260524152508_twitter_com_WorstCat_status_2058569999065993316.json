@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058569999065993316",
+    "created_at": "2026-05-24T15:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058569999065993316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_dissociating/…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/_dissociating/status/2058182251058507823",
+          "start": 42,
+          "url": "https://t.co/lMlElFoWJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058569999065993316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058182251058507823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本也要开始品鉴口哨糖了吗🥺话说我一直分不清日本新药株式会社和日新药品工业株式会社 https://t.co/lMlElFoWJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2058182248655204352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAh2bYbsAAAoGD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058569999065993316",
+        "created_at": "2026-05-24T15:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058569999065993316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_dissociating/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/_dissociating/status/2058182251058507823",
+              "start": 42,
+              "url": "https://t.co/lMlElFoWJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058569999065993316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058182251058507823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本也要开始品鉴口哨糖了吗🥺话说我一直分不清日本新药株式会社和日新药品工业株式会社 https://t.co/lMlElFoWJ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058182248655204352"
+          ]
+        },
+        "author_id": "2000177328383770624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058182251058507823",
+        "created_at": "2026-05-23T13:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058182251058507823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qohHwHK1c",
+              "end": 38,
+              "expanded_url": "https://x.com/_dissociating/status/2058182251058507823/photo/1",
+              "media_key": "3_2058182248655204352",
+              "start": 15,
+              "url": "https://t.co/5qohHwHK1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058182251058507823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 23172,
+          "like_count": 465,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "トローチODするかwwwww https://t.co/5qohHwHK1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 22,
+          "like_count": 6436,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 1208
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T12:13:56.000Z",
+        "description": "",
+        "id": "2000177328383770624",
+        "name": "濫用等のおそれのある医薬品",
+        "pinned_tweet_id": "2048739687892918648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038635275321278464/9HcqLyja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 12,
+          "like_count": 1947,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 244
+        },
+        "username": "_dissociating",
+        "verified": false
+      }
+    ]
+  }
+}

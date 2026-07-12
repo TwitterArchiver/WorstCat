@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2062050961846407679",
+    "created_at": "2026-06-03T11:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062138243358105721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062138243358105721",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062050961846407679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 利多卡因是可以静脉注射不是100%死亡率，只是有严格的适用症，说明书用法用于室上速室早室颤等抗心律不齐治疗以及全麻中辅助麻醉，超说明书用法用于辅助镇痛但是不应单独使用也不能自行使用🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1397,
+        "media_key": "3_2062050954984488960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3gaxibAAAzISK.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2062050961846407679",
+        "created_at": "2026-06-03T11:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062138243358105721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062138243358105721",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062050961846407679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 利多卡因是可以静脉注射不是100%死亡率，只是有严格的适用症，说明书用法用于室上速室早室颤等抗心律不齐治疗以及全麻中辅助麻醉，超说明书用法用于辅助镇痛但是不应单独使用也不能自行使用🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062050954984488960"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2062050961846407679",
+        "created_at": "2026-06-03T05:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062050961846407679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xarmh9gamZ",
+              "end": 83,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2062050961846407679/photo/1",
+              "media_key": "3_2062050954984488960",
+              "start": 60,
+              "url": "https://t.co/Xarmh9gamZ"
+            },
+            {
+              "display_url": "x.com/koroshiiiiiii/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/koroshiiiiiii/status/2061784473474404726",
+              "start": 84,
+              "url": "https://t.co/vhsg1LYDqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062050961846407679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2430,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061784473474404726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真心希望这位孩子能看到...由于我的疏忽，昨天在右美药效里回答了你的问题，但千万不要这样做啊啊啊，对不起，感谢狐😭😭 https://t.co/Xarmh9gamZ https://t.co/vhsg1LYDqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 24,
+          "like_count": 7566,
+          "listed_count": 5,
+          "media_count": 236,
+          "tweet_count": 1353
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/AiSMfPiELF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cpRhZbk6H2bT…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cpRhZbk6H2bT?f=301",
+                "start": 106,
+                "url": "https://t.co/AiSMfPiELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✟秽土四",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 364,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

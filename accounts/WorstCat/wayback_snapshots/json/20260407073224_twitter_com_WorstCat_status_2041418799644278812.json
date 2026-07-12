@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2041154796502294962",
+    "created_at": "2026-04-07T07:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041418799644278812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992142628343996416",
+          "start": 0,
+          "username": "Witch198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041418799644278812",
+    "in_reply_to_user_id": "1992142628343996416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041154796502294962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Witch198964 这个是承运人的免责流程，它广播了就尽到救助义务了，但是站出来的会被家属质疑超范围执业，不适用于医师法第27条需要赔偿🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2041154796502294962",
+        "created_at": "2026-04-07T07:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041418799644278812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992142628343996416",
+              "start": 0,
+              "username": "Witch198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041418799644278812",
+        "in_reply_to_user_id": "1992142628343996416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041154796502294962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Witch198964 这个是承运人的免责流程，它广播了就尽到救助义务了，但是站出来的会被家属质疑超范围执业，不适用于医师法第27条需要赔偿🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992142628343996416",
+        "conversation_id": "2041154796502294962",
+        "created_at": "2026-04-06T14:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041154796502294962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041154796502294962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高铁上有人突发疾病（\n居然开广播向全车寻找医务工作者了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 7,
+          "like_count": 2700,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 830
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T08:07:09.000Z",
+        "description": "06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜喜欢搞抽象的健全新工科生｜同类互fo可面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/pPKH6CUK3R"
+              }
+            ]
+          }
+        },
+        "id": "1992142628343996416",
+        "location": "北京市西城区西华门大街28号",
+        "name": "Witch（严肃搞抽象版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2034994870910427157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303398504497152/ZYMCS_D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 536,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/pPKH6CUK3R",
+        "username": "Witch198964",
+        "verified": false
+      }
+    ]
+  }
+}

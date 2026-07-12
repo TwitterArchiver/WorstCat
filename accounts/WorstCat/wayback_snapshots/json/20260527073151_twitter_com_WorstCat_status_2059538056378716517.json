@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2059125897643581930",
+    "created_at": "2026-05-27T07:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059538056378716517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94999172",
+          "start": 0,
+          "username": "toukorina"
+        },
+        {
+          "end": 20,
+          "id": "1682793693630304260",
+          "start": 11,
+          "username": "gpSillyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059538056378716517",
+    "in_reply_to_user_id": "94999172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059428274963706227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toukorina @gpSillyB 这个医院因为这个事上了新闻诶，引起好多讨伐，有什么权力在人家户口本上盖章的。很多地级市可能有处方权的就一两个医生，有也不太愿意开，各种理由推脱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2059125897643581930",
+        "created_at": "2026-05-27T07:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059538056378716517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            },
+            {
+              "end": 20,
+              "id": "1682793693630304260",
+              "start": 11,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059538056378716517",
+        "in_reply_to_user_id": "94999172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059428274963706227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina @gpSillyB 这个医院因为这个事上了新闻诶，引起好多讨伐，有什么权力在人家户口本上盖章的。很多地级市可能有处方权的就一两个医生，有也不太愿意开，各种理由推脱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2059125897643581930",
+        "created_at": "2026-05-27T00:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059428274963706227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 19,
+              "id": "1682793693630304260",
+              "start": 10,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059428274963706227",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059282927826108746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @gpSillyB 户口本？？？我只听说过带身份证的 另外去之前可以先给药房打电话问有没有药免得白跑 一本正经一点问 药房一般没理由撒谎 因为开不开得出是医生的事 当然了各地可能有所不同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 22,
+          "like_count": 6794,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 1276
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7354,
+          "following_count": 954,
+          "like_count": 172406,
+          "listed_count": 17,
+          "media_count": 1503,
+          "tweet_count": 43813
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 178,
+          "like_count": 5267,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 984
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

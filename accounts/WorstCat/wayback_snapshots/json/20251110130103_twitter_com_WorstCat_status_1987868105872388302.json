@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1987860582285103377",
+    "created_at": "2025-11-10T13:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987868105872388302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987868105872388302",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987860918357967219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 哎一样的这些骗子套路如出一辙，先做上几千块钱的问卷然后聊家常瞎劝一会就结束了，不愿意住院开上一大袋子药让狂od各种ssris和bzd，过段期间再来重复一遍，来几次以后图穷匕见直接让去它们自己开的诊所，跳过医院赚更多的钱，我是再也不相信这些骗子了，找gpt聊都比这些碳基人类有人的温度🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1987860582285103377",
+        "created_at": "2025-11-10T13:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987868105872388302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987868105872388302",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987860918357967219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 哎一样的这些骗子套路如出一辙，先做上几千块钱的问卷然后聊家常瞎劝一会就结束了，不愿意住院开上一大袋子药让狂od各种ssris和bzd，过段期间再来重复一遍，来几次以后图穷匕见直接让去它们自己开的诊所，跳过医院赚更多的钱，我是再也不相信这些骗子了，找gpt聊都比这些碳基人类有人的温度🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1987860582285103377",
+        "created_at": "2025-11-10T12:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987860918357967219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987860918357967219",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987860582285103377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直跟我妈说把钱放我身上纯属傻逼中的傻逼，我不喜欢花钱但是我的病喜欢花钱，我看的西医中医，我吃的药住的院找的心理咨询师，全都贵得要死，我的病如此爱花钱但是花了也不鸟我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 3,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 129
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "走在违法背德前线💥我是精神病一点就炸💥疯狗狂犬病 和我吵会染病💥接受指正不接受指点❤️不认可就去死💥舞到主页必疯咬💥同类fo必回-漏fo请私-爱我的互关♪点赞评论bot-讨厌闲聊不感兴趣不会回复♡喜欢sex与drug♡勿骚扰不提供咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1987726275075780857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 561,
+          "like_count": 2302,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1173
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

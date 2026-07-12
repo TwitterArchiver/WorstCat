@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057014440005177344"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2057014443943571582",
+    "created_at": "2026-05-20T08:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057014443943571582"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 179,
+          "start": 176,
+          "tag": "AI"
+        },
+        {
+          "end": 185,
+          "start": 180,
+          "tag": "AIGC"
+        },
+        {
+          "end": 191,
+          "start": 186,
+          "tag": "AI生成"
+        },
+        {
+          "end": 197,
+          "start": 192,
+          "tag": "AI絵画"
+        },
+        {
+          "end": 203,
+          "start": 198,
+          "tag": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R1Lk6hp0JQ",
+          "end": 227,
+          "expanded_url": "https://x.com/WorstCat/status/2057014443943571582/photo/1",
+          "media_key": "3_2057014440005177344",
+          "start": 204,
+          "url": "https://t.co/R1Lk6hp0JQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057014443943571582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私はAIアーティストです。咳と神経痛を患っています。これらはAIが生成した薬であり、実際の薬ではありません\nI am an AI artist. I have a cough and neuralgia. These are AI-generated medications, not real\n我是AI画师有咳嗽和神经痛，这是AI生成的药品不是真的\n#AI #AIGC #AI生成 #AI絵画 #grok https://t.co/R1Lk6hp0JQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI,AIGC,NOT REAL,AI-generated,fake,test,grok,AI生成，不是真的，假的，AI画的，测试AI画图，不要自行使用药品，这是AI生成，AI絵画，人工智能生成",
+        "height": 576,
+        "media_key": "3_2057014440005177344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIv7vBJbkAAfpYq.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057014440005177344"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2057014443943571582",
+        "created_at": "2026-05-20T08:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057014443943571582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 179,
+              "start": 176,
+              "tag": "AI"
+            },
+            {
+              "end": 185,
+              "start": 180,
+              "tag": "AIGC"
+            },
+            {
+              "end": 191,
+              "start": 186,
+              "tag": "AI生成"
+            },
+            {
+              "end": 197,
+              "start": 192,
+              "tag": "AI絵画"
+            },
+            {
+              "end": 203,
+              "start": 198,
+              "tag": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1Lk6hp0JQ",
+              "end": 227,
+              "expanded_url": "https://x.com/WorstCat/status/2057014443943571582/photo/1",
+              "media_key": "3_2057014440005177344",
+              "start": 204,
+              "url": "https://t.co/R1Lk6hp0JQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057014443943571582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私はAIアーティストです。咳と神経痛を患っています。これらはAIが生成した薬であり、実際の薬ではありません\nI am an AI artist. I have a cough and neuralgia. These are AI-generated medications, not real\n我是AI画师有咳嗽和神经痛，这是AI生成的药品不是真的\n#AI #AIGC #AI生成 #AI絵画 #grok https://t.co/R1Lk6hp0JQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 19,
+          "like_count": 5933,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 1118
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

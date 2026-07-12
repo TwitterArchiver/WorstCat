@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058737660982923369",
+    "created_at": "2026-05-25T15:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058933897770279112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "989792932533223424",
+          "start": 0,
+          "username": "Kinodar_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058933897770279112",
+    "in_reply_to_user_id": "989792932533223424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058737660982923369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinodar_ 国内精二有权限的也不愿意开，日本限购1盒，美国60mg*100大瓶的不限购(‾◡◝)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058737660982923369",
+        "created_at": "2026-05-25T15:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058933897770279112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "989792932533223424",
+              "start": 0,
+              "username": "Kinodar_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058933897770279112",
+        "in_reply_to_user_id": "989792932533223424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058737660982923369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinodar_ 国内精二有权限的也不愿意开，日本限购1盒，美国60mg*100大瓶的不限购(‾◡◝)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989792932533223424",
+        "conversation_id": "2058737660982923369",
+        "created_at": "2026-05-25T02:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058737660982923369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058737660982923369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是低烧就直接上布洛芬，一点苦都不想受的那一派…\n\n早上低烧+咳嗽直接拿出圣遗物右美糖浆+布洛芬，现在神清气爽\n\n话说现在一般药店开得到右美沙芬的各种药片吗？还是需要处方？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 22,
+          "like_count": 6544,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1230
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/38岁 日记推 https://t.co/lTHzXm4cwc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kinodar",
+                "end": 36,
+                "expanded_url": "https://ngl.link/kinodar",
+                "start": 13,
+                "url": "https://t.co/lTHzXm4cwc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3eOBk"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005194038027436032/sbjch9Y7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 115,
+          "like_count": 16120,
+          "listed_count": 6,
+          "media_count": 2130,
+          "tweet_count": 9664
+        },
+        "url": "https://t.co/DtKsP3eOBk",
+        "username": "Kinodar_",
+        "verified": false
+      }
+    ]
+  }
+}

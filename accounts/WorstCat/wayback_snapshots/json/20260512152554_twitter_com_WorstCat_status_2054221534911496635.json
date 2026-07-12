@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2054205704790237221",
+    "created_at": "2026-05-12T15:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054221534911496635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965457223636975617",
+          "start": 0,
+          "username": "Thymol_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054221534911496635",
+    "in_reply_to_user_id": "1965457223636975617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054205704790237221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thymol_11 没有添加化学药的中成药感冒药95%以上都是纯安慰剂，连保健食品都不如没有任何治疗和保健作用，但是至少毒性轻微。最坏的是999感冒灵一类的添加对乙酰氨基酚(apap)的中成药，几种加起来就到了apap急性肝损伤剂量了👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2054205704790237221",
+        "created_at": "2026-05-12T15:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054221534911496635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054221534911496635",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054205704790237221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 没有添加化学药的中成药感冒药95%以上都是纯安慰剂，连保健食品都不如没有任何治疗和保健作用，但是至少毒性轻微。最坏的是999感冒灵一类的添加对乙酰氨基酚(apap)的中成药，几种加起来就到了apap急性肝损伤剂量了👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2054205704790237221",
+        "created_at": "2026-05-12T14:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054205704790237221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054205704790237221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不懂病毒感冒咳嗽的要死掉累死累活去医院开一堆非处方中成药有个屁用，我要吃囤的愈美片了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 7,
+          "like_count": 5134,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1004
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2045358763578970285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 656,
+          "like_count": 5465,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

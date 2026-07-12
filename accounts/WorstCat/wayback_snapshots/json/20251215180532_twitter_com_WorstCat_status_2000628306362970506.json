@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2000436773210738829",
+    "created_at": "2025-12-15T18:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T19:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000628306362970506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982052343110840320",
+          "start": 0,
+          "username": "Snegur0chk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000628306362970506",
+    "in_reply_to_user_id": "1982052343110840320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000627308105957881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snegur0chk nmda除了dxm都是邪修好吧，你就差试试氯胺酮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2000436773210738829",
+        "created_at": "2025-12-15T18:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T19:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000628306362970506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982052343110840320",
+              "start": 0,
+              "username": "Snegur0chk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000628306362970506",
+        "in_reply_to_user_id": "1982052343110840320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000627308105957881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snegur0chk nmda除了dxm都是邪修好吧，你就差试试氯胺酮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982052343110840320",
+        "conversation_id": "2000436773210738829",
+        "created_at": "2025-12-15T18:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T19:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000627308105957881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000627308105957881",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000626673000313066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 哈哈…啊……喜欢吃屎吧……哥们不碰普瑞巴林不碰右美沙芬不碰白兔   o晚安和美金刚    当时听了别人的鬼话真以为美金刚是低配右美，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 7,
+          "like_count": 1089,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 402
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T11:51:36.000Z",
+        "description": "",
+        "id": "1982052343110840320",
+        "name": "Snegurochka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989554384880242689/VVb0X7cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "Snegur0chk",
+        "verified": false
+      }
+    ]
+  }
+}

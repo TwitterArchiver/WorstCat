@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058917557940502887",
+    "created_at": "2026-05-26T02:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059095538595991873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Ayanekawaii2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059095538595991873",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059061631142052232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanekawaii2 对呀，国内的各种雷生都贼贵诶苏沃还是精二，都是买日本发货的(͏ ˉ ꈊ ˉ)✧˖°"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058917557940502887",
+        "created_at": "2026-05-26T02:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059095538595991873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059095538595991873",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059061631142052232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 对呀，国内的各种雷生都贼贵诶苏沃还是精二，都是买日本发货的(͏ ˉ ꈊ ˉ)✧˖°"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2058917557940502887",
+        "created_at": "2026-05-25T23:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059061631142052232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059061631142052232",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058946682860274165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我去这么便宜吗 国内卖的可贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 22,
+          "like_count": 6596,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 1235
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル/低精力低能量社交苦手 没有回消息的义务 视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2056314378048450652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055312720648679424/eQz3DeYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 206,
+          "like_count": 386,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2407
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

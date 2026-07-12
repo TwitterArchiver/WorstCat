@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2059926389630136624",
+    "created_at": "2026-05-28T09:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059926389630136624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mememeko_chan/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/mememeko_chan/status/2059598267273675065",
+          "start": 44,
+          "url": "https://t.co/tqRJuP6DUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059926389630136624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059598267273675065",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "颐指气使的太君🤓\n突然的掌握了道德高地了，好high呦，嘲讽弱势的人感觉自己可厉害了😺 https://t.co/tqRJuP6DUH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2059926389630136624",
+        "created_at": "2026-05-28T09:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059926389630136624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mememeko_chan/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/mememeko_chan/status/2059598267273675065",
+              "start": 44,
+              "url": "https://t.co/tqRJuP6DUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059926389630136624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059598267273675065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "颐指气使的太君🤓\n突然的掌握了道德高地了，好high呦，嘲讽弱势的人感觉自己可厉害了😺 https://t.co/tqRJuP6DUH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815264498992979969",
+        "conversation_id": "2059598267273675065",
+        "created_at": "2026-05-27T11:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059598267273675065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/15hell_/status…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/15hell_/status/2059193305074929856",
+              "start": 58,
+              "url": "https://t.co/EeIi0cd5kC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059598267273675065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 143698,
+          "like_count": 1836,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059193305074929856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ODしてこんな写真まで載せるの本当理解できない\nヨチヨチ待ち以外になんかあるの？\nそもそも誰が写真撮ったんだろうね https://t.co/EeIi0cd5kC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 22,
+          "like_count": 6859,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 1285
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T05:57:53.000Z",
+        "description": "鬱病、パニック障害、全般性不安障害、強迫性障害、解離性障害(離人症) 手帳2級障害年金2級通院歴22年 14歳に発症して今36歳1人暮らし自死遺族/DM拒否読みません返しません無視します",
+        "id": "1815264498992979969",
+        "name": "メメメ子ちゃん",
+        "pinned_tweet_id": "1851828246687699404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815265152817856512/46zItRPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8492,
+          "following_count": 2329,
+          "like_count": 13794,
+          "listed_count": 42,
+          "media_count": 313,
+          "tweet_count": 6591
+        },
+        "username": "mememeko_chan",
+        "verified": false
+      }
+    ]
+  }
+}

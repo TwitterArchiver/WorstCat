@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2068539347968926133",
+    "created_at": "2026-06-21T08:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068611821687468516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065149033379971072",
+          "start": 0,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068611821687468516",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068540032307351864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral896444 我感觉找男医生好开，穿的成熟一点，拿着原来的药盒直接去点菜续方，拿一些相关的原研的药问有没有没有中间混着自己要的，我们都是合法正规使用诶遵医嘱的ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2068539347968926133",
+        "created_at": "2026-06-21T08:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068611821687468516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068611821687468516",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068540032307351864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 我感觉找男医生好开，穿的成熟一点，拿着原来的药盒直接去点菜续方，拿一些相关的原研的药问有没有没有中间混着自己要的，我们都是合法正规使用诶遵医嘱的ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2068539347968926133",
+        "created_at": "2026-06-21T03:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068540032307351864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068540032307351864",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068539347968926133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "决心呵护在这家医院的就诊记录，，，不管怎么说处方都迁过来了，不用再往外地跑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 31,
+          "like_count": 9308,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1454
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/QwIZQw05Ms"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 371,
+          "like_count": 1902,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/QwIZQw05Ms",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

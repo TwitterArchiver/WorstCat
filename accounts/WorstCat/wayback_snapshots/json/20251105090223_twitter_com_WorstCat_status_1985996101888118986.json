@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1985992244441280519",
+    "created_at": "2025-11-05T09:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T10:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985996101888118986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985996101888118986",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985992244441280519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 回答里面有可能涉及自伤具体步骤或者方法的内容，就被伦理审查器直接把回答隐藏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_1985992226024132609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-paEbbEAEAY5p.jpg",
+        "width": 2548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1985992244441280519",
+        "created_at": "2025-11-05T09:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985996101888118986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985996101888118986",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985992244441280519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 回答里面有可能涉及自伤具体步骤或者方法的内容，就被伦理审查器直接把回答隐藏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985992226024132609"
+          ]
+        },
+        "author_id": "993886755878191104",
+        "conversation_id": "1985992244441280519",
+        "created_at": "2025-11-05T08:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985992244441280519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwEozF8OOt",
+              "end": 31,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/1985992244441280519/photo/1",
+              "media_key": "3_1985992226024132609",
+              "start": 8,
+              "url": "https://t.co/fwEozF8OOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985992244441280519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈的 搞笑呢 https://t.co/fwEozF8OOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 2,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 83
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~ \n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/eietheenblacks…",
+                "end": 23,
+                "expanded_url": "https://t.me/eietheenblacksilk",
+                "start": 0,
+                "url": "https://t.co/hCc1qMhq4Z"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "1973357017793437938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26062,
+          "following_count": 14220,
+          "like_count": 1587,
+          "listed_count": 63,
+          "media_count": 2595,
+          "tweet_count": 8754
+        },
+        "url": "https://t.co/hCc1qMhq4Z",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      }
+    ]
+  }
+}

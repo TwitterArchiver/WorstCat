@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2008801138649538775",
+    "created_at": "2026-01-07T07:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T08:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008801138649538775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/WorstCat/status/2007129330103824752",
+          "start": 125,
+          "url": "https://t.co/3VyepUILbB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008801138649538775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007129330103824752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在它永远的关上了，昨天犯病的时候我看它特别不顺眼，打它打的手都流血了还是亮着，我没找到刀，拿别的东西把开关砸烂了还是亮着，就把吊灯从天花板上撕下来摔烂了，今天吃饭的时候抹黑吃的，为什么要这么对待我，我想要正常的开关都不行吗，为什么都要和我对着干🥺 https://t.co/3VyepUILbB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2008801138649538775",
+        "created_at": "2026-01-07T07:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008801138649538775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/WorstCat/status/2007129330103824752",
+              "start": 125,
+              "url": "https://t.co/3VyepUILbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008801138649538775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007129330103824752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在它永远的关上了，昨天犯病的时候我看它特别不顺眼，打它打的手都流血了还是亮着，我没找到刀，拿别的东西把开关砸烂了还是亮着，就把吊灯从天花板上撕下来摔烂了，今天吃饭的时候抹黑吃的，为什么要这么对待我，我想要正常的开关都不行吗，为什么都要和我对着干🥺 https://t.co/3VyepUILbB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2007129330103824752",
+        "created_at": "2026-01-02T16:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007129330103824752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007129330103824752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1264,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "客厅的灯坏了，开关关不上，遥控器关不上，亮了好几天了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 7,
+          "like_count": 1148,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 475
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

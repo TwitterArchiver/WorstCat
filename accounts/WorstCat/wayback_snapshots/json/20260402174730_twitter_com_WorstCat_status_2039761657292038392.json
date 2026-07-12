@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2036649648849568193",
+    "created_at": "2026-04-02T17:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039761657292038392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1008056746391232512",
+          "start": 0,
+          "username": "XINSHu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039761657292038392",
+    "in_reply_to_user_id": "1008056746391232512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036939240299458805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XINSHu233 musk好过分竟然没收到通知！5.0的尺寸真的不敢想象，不过好像确实越粗越顺畅不容易焦虑，我好多次惊恐发作都与呼吸不畅有关，不知道dexmedetomidine能不能压的住自己插管的时候惊恐 。微信公众号看到一个医生说用耳鼻喉科用的喷雾管喷lidocaine表麻会更彻底更不容易呛咳。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2036649648849568193",
+        "created_at": "2026-04-02T17:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039761657292038392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1008056746391232512",
+              "start": 0,
+              "username": "XINSHu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039761657292038392",
+        "in_reply_to_user_id": "1008056746391232512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036939240299458805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XINSHu233 musk好过分竟然没收到通知！5.0的尺寸真的不敢想象，不过好像确实越粗越顺畅不容易焦虑，我好多次惊恐发作都与呼吸不畅有关，不知道dexmedetomidine能不能压的住自己插管的时候惊恐 。微信公众号看到一个医生说用耳鼻喉科用的喷雾管喷lidocaine表麻会更彻底更不容易呛咳。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008056746391232512",
+        "conversation_id": "2036649648849568193",
+        "created_at": "2026-03-25T22:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T23:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036939240299458805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036939240299458805",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036804575286718812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 加强的 我感觉气插那个管子轻轻怼到气道上只是呛咳 应该不会受伤 但还是尽量轻点推 这个喉罩我买的是5.0的 我感觉在能接受的情况 越粗的管呼吸会越顺畅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 7,
+          "like_count": 2611,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 814
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-16T18:40:31.000Z",
+        "description": "是抖s 颜控 脾气很差！ 有一堆奇奇怪怪的玩具 xp广泛 机械奸/拘束衣/完全拘束/排泄管理/灌肠/abdl/医疗调教/石膏拘束  不是男同！ 推特内容禁止转载到国内平台",
+        "id": "1008056746391232512",
+        "location": "阿根廷",
+        "name": "心树",
+        "pinned_tweet_id": "1880823953821979099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432194902327115778/jndxhZr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9074,
+          "following_count": 946,
+          "like_count": 10193,
+          "listed_count": 38,
+          "media_count": 32,
+          "tweet_count": 1853
+        },
+        "username": "XINSHu233",
+        "verified": false
+      }
+    ]
+  }
+}

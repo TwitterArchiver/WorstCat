@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021929556853346305"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2021929534581600575",
+    "created_at": "2026-02-12T12:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021929561832010203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MysiIFJNVn",
+          "end": 169,
+          "expanded_url": "https://x.com/WorstCat/status/2021929561832010203/photo/1",
+          "media_key": "3_2021929556853346305",
+          "start": 146,
+          "url": "https://t.co/MysiIFJNVn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021929561832010203",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021929534581600575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "市监局联系不上也得挂个经营异常，我就不信它的自编2-1号是实际经营地址，想解除经营异常得找关系或者交罚款，欺诈查证属实只有一个苦主一般罚1-2万，总不能白欺负我，谁都来欺负我，我是很贱的吗？买个东西被骗了还得被骂不会量有误差，但凡说发错了让我退货换货我都不生气，60的还没别家45的大😡😡😡 https://t.co/MysiIFJNVn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2021929556853346305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9WOCUbUAE9Ujh.jpg",
+        "width": 3778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021929556853346305"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2021929534581600575",
+        "created_at": "2026-02-12T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021929561832010203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MysiIFJNVn",
+              "end": 169,
+              "expanded_url": "https://x.com/WorstCat/status/2021929561832010203/photo/1",
+              "media_key": "3_2021929556853346305",
+              "start": 146,
+              "url": "https://t.co/MysiIFJNVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021929561832010203",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021929534581600575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "市监局联系不上也得挂个经营异常，我就不信它的自编2-1号是实际经营地址，想解除经营异常得找关系或者交罚款，欺诈查证属实只有一个苦主一般罚1-2万，总不能白欺负我，谁都来欺负我，我是很贱的吗？买个东西被骗了还得被骂不会量有误差，但凡说发错了让我退货换货我都不生气，60的还没别家45的大😡😡😡 https://t.co/MysiIFJNVn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2021929534581600575",
+        "created_at": "2026-02-12T12:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021929534581600575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021929534581600575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买的60cm美乐蒂尺寸不够还说我不会量，斜着量都没有40好吧，我找平台投诉欺诈要求下架多多后续应该是不管的，只退一赔一，我不需要赔偿就是生气为什么都喜欢欺负我，那就挂号信邮寄举报材料给卖家所在地市监局要求立案调查，法定时效内没有书面告知我处理结果就复议去，这招是某个朋友教我的😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你11.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 7,
+          "like_count": 1577,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 639
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

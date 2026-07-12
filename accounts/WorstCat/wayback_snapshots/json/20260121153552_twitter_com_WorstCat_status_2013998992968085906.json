@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2013998990342209653",
+    "created_at": "2026-01-21T15:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013998992968085906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013998992968085906",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013998990342209653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亲奶奶是我噩梦里的顶级boss，现实中能随时赶到哐哐的砸门，木板门仿佛随时都会被砸破，我每次都抵着门边哭边喊不让进来，在噩梦里就变成了坏掉的门 锁不上的门 被撬开的门 消失的门，门外是面目狰狞扭曲的奶奶要砍死我妈妈，或者各种鬼怪透过门来咬我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2013998990342209653",
+        "created_at": "2026-01-21T15:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013998992968085906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013998992968085906",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013998990342209653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲奶奶是我噩梦里的顶级boss，现实中能随时赶到哐哐的砸门，木板门仿佛随时都会被砸破，我每次都抵着门边哭边喊不让进来，在噩梦里就变成了坏掉的门 锁不上的门 被撬开的门 消失的门，门外是面目狰狞扭曲的奶奶要砍死我妈妈，或者各种鬼怪透过门来咬我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2013998990342209653",
+        "created_at": "2026-01-21T15:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013998990342209653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013998990342209653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人说她98年1月还抱过我，上辈子抱的是吧，我记得98年是在干爹家过的年，干奶奶给了我20块压岁钱，给哥哥姐姐都是10块。\n而亲奶奶极度憎恶妈妈和我，说是给我2块钱压岁钱，但是欺负我认不出2块与2毛的区别，最后给了我2毛，给别人都是10块。\n亲奶奶痴呆以后已经好几年不认识我了，却能认识别人👏☺👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 7,
+          "like_count": 1229,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 516
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

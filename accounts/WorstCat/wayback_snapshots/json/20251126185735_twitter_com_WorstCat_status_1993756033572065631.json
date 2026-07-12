@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1993699803407233097",
+    "created_at": "2025-11-26T18:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993756033572065631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581071360473735169",
+          "start": 0,
+          "username": "tachibana_kin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993756033572065631",
+    "in_reply_to_user_id": "1581071360473735169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993729447057592557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tachibana_kin 下单到公司，然后前台在公司群@你:你买的棉服演出服囚服劳改犯监狱服服刑人员看守所棉衣棉裤到了，记得过来拿～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1993699803407233097",
+        "created_at": "2025-11-26T18:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993756033572065631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581071360473735169",
+              "start": 0,
+              "username": "tachibana_kin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993756033572065631",
+        "in_reply_to_user_id": "1581071360473735169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993729447057592557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tachibana_kin 下单到公司，然后前台在公司群@你:你买的棉服演出服囚服劳改犯监狱服服刑人员看守所棉衣棉裤到了，记得过来拿～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581071360473735169",
+        "conversation_id": "1993699803407233097",
+        "created_at": "2025-11-26T17:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993729447057592557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993729447057592557",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993699803407233097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 幸亏没有下单（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.2KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 7,
+          "like_count": 561,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 319
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T23:56:09.000Z",
+        "description": "估计是个无证禁糖(hypertensive)的MtX/Maybe NSFW/推广请退散",
+        "id": "1581071360473735169",
+        "location": "雌堕奴隶监狱 严管一监区 38号禁闭笼",
+        "name": "立花 槿 /Kin Tachibana",
+        "pinned_tweet_id": "1895151815861359093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908434169195356164/NsxHjo62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 202,
+          "like_count": 792,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1023
+        },
+        "username": "tachibana_kin",
+        "verified": false
+      }
+    ]
+  }
+}

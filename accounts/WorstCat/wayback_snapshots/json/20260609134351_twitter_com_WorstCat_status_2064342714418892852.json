@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2064341089994367001",
+    "created_at": "2026-06-09T13:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064342714418892852"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064342714418892852",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064341089994367001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开了一瓶10ml氯化钠注射液用无菌棉签清洗伤口，小持针器消毒后撕下敷料贴上的，现在看起来还好吧o(╥﹏╥)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2064341089994367001",
+        "created_at": "2026-06-09T13:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064342714418892852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064342714418892852",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064341089994367001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开了一瓶10ml氯化钠注射液用无菌棉签清洗伤口，小持针器消毒后撕下敷料贴上的，现在看起来还好吧o(╥﹏╥)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2064341089994367001",
+        "created_at": "2026-06-09T13:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064341089994367001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064341089994367001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效里真的什么精密的事都不要做呀家猫们太无语了，日常拿红贝印修眉，然后莫名其妙给眼皮来了一下，贴了水胶体敷料，后天开始用喜辽妥吧，希望不要留疤呜呜呜T﹏T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 27,
+          "like_count": 8130,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1389
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

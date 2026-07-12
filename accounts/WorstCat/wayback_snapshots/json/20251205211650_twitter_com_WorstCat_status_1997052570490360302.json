@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997052567122333697"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "1997052570490360302",
+    "created_at": "2025-12-05T21:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T22:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997052570490360302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZfKMvgbBEb",
+          "end": 30,
+          "expanded_url": "https://x.com/WorstCat/status/1997052570490360302/photo/1",
+          "media_key": "3_1997052567122333697",
+          "start": 7,
+          "url": "https://t.co/ZfKMvgbBEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997052570490360302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是手铐吧 https://t.co/ZfKMvgbBEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_1997052567122333697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7b0up0b0AEGbRI.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997052567122333697"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "1997052570490360302",
+        "created_at": "2025-12-05T21:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T22:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997052570490360302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfKMvgbBEb",
+              "end": 30,
+              "expanded_url": "https://x.com/WorstCat/status/1997052570490360302/photo/1",
+              "media_key": "3_1997052567122333697",
+              "start": 7,
+              "url": "https://t.co/ZfKMvgbBEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997052570490360302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是手铐吧 https://t.co/ZfKMvgbBEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你4.1KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 7,
+          "like_count": 822,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 361
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

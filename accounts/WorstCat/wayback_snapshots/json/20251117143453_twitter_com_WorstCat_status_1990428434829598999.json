@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "1990403150050714044",
+    "created_at": "2025-11-17T14:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990428434829598999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990428434829598999",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990403150050714044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 10年前管控这药的时候我就不理解含量那么低，吃到甘草中毒才有明显感觉吧，含量比这个多的药反而卖的好好的。在我这边只能在医院有影像学诊断的时候才给开一瓶，药店都没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "1990403150050714044",
+        "created_at": "2025-11-17T14:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990428434829598999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990428434829598999",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990403150050714044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 10年前管控这药的时候我就不理解含量那么低，吃到甘草中毒才有明显感觉吧，含量比这个多的药反而卖的好好的。在我这边只能在医院有影像学诊断的时候才给开一瓶，药店都没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1990403150050714044",
+        "created_at": "2025-11-17T12:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990403150050714044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990403150050714044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，复方甘草片外面裹了一层糖浆，没错是糖浆，直接摸的话会粘手上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.4KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 6,
+          "like_count": 289,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 208
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 中文/Eng。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 778,
+          "like_count": 12065,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 5062
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

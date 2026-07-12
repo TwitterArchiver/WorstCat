@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989454100623495169"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989455874285601057",
+    "created_at": "2025-11-14T22:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T23:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989455874285601057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TM3sdM8k4w",
+          "end": 113,
+          "expanded_url": "https://x.com/WorstCat/status/1989455874285601057/photo/1",
+          "media_key": "3_1989454100623495169",
+          "start": 90,
+          "url": "https://t.co/TM3sdM8k4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989455874285601057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "南洋特色农作物🌿\n直采保证高纯度🙅‍♀️\n含量超过九十八💵\n超量灌装人人夸💊\n一颗百毫暖心膛⚖️\n警长叔叔也想尝👮‍\n身心轻盈心飞扬😵\n寿元暴涨乐无疆🪦\n\n(普法宣传 珍爱生命) https://t.co/TM3sdM8k4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "fake,only food additives N-ethyl-γ-L-glutamine\n合法食品添加剂L-茶氨酸，珍爱生命远离毒品",
+        "height": 982,
+        "media_key": "3_1989454100623495169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5v19sSbkAEPftM.jpg",
+        "width": 1309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989454100623495169"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989455874285601057",
+        "created_at": "2025-11-14T22:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T23:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989455874285601057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TM3sdM8k4w",
+              "end": 113,
+              "expanded_url": "https://x.com/WorstCat/status/1989455874285601057/photo/1",
+              "media_key": "3_1989454100623495169",
+              "start": 90,
+              "url": "https://t.co/TM3sdM8k4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989455874285601057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南洋特色农作物🌿\n直采保证高纯度🙅‍♀️\n含量超过九十八💵\n超量灌装人人夸💊\n一颗百毫暖心膛⚖️\n警长叔叔也想尝👮‍\n身心轻盈心飞扬😵\n寿元暴涨乐无疆🪦\n\n(普法宣传 珍爱生命) https://t.co/TM3sdM8k4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726286088216576/WwHrrrF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 5,
+          "like_count": 242,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 195
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

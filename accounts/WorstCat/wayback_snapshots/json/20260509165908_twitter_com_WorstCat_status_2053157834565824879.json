@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2053107046602682423",
+    "created_at": "2026-05-09T16:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053157834565824879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053157834565824879",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053107046602682423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 我也好亢奋睡不着今天睡了3小时在梦里吵架撕逼撕咬蠕动阴暗爬行最后做噩梦被口水呛醒了，醒来惊恐发现手机正在小布通话中还有一堆未接，AAA玉米批发赵总不肯给我发货，还拿多个固话给我打了一堆电话，我还以为被晶了呢。我感觉我这个状态不能吃pr会出事，就忍着没吃🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2053107046602682423",
+        "created_at": "2026-05-09T16:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053157834565824879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053157834565824879",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053107046602682423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 我也好亢奋睡不着今天睡了3小时在梦里吵架撕逼撕咬蠕动阴暗爬行最后做噩梦被口水呛醒了，醒来惊恐发现手机正在小布通话中还有一堆未接，AAA玉米批发赵总不肯给我发货，还拿多个固话给我打了一堆电话，我还以为被晶了呢。我感觉我这个状态不能吃pr会出事，就忍着没吃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2053107046602682423",
+        "created_at": "2026-05-09T13:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053107046602682423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053107046602682423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 618,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我很躁狂，每天晚上靠喹硫平一拳击毙我，睡五六个小时中途不能被吵醒，一旦醒了完全睡不了了太亢奋了，又焦虑又亢奋白天吃bzd还是很清醒 ，完全不觉得累也没有任何负面情绪，高度自信心+极低共情能力，天选牛马机器，我真的需要大量安定剂往头上浇冷水\n但我现在吃了普瑞我更high了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 9,
+          "like_count": 4855,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 963
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论互动会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️我素non-binary我友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（2.0禁言中",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 2359,
+          "like_count": 11083,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 8873
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

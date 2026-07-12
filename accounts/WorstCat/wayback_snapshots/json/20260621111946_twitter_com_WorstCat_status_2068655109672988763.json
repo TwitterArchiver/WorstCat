@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2068636752433352758",
+    "created_at": "2026-06-21T11:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068655109672988763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2840236608",
+          "start": 0,
+          "username": "MilkSU_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068655109672988763",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068636752433352758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkSU_Official 这个香香的草本味道搭配雪碧很好喝🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068636744585711616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVGKLpaEAAlLxn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068636744581627904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVGKLobwAAnyT1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2068636752433352758",
+        "created_at": "2026-06-21T11:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068655109672988763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068655109672988763",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068636752433352758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 这个香香的草本味道搭配雪碧很好喝🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068636744585711616",
+            "3_2068636744581627904"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068636752433352758",
+        "created_at": "2026-06-21T10:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068636752433352758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/suZTbh7vCs",
+              "end": 37,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2068636752433352758/photo/1",
+              "media_key": "3_2068636744585711616",
+              "start": 14,
+              "url": "https://t.co/suZTbh7vCs"
+            },
+            {
+              "display_url": "pic.x.com/suZTbh7vCs",
+              "end": 37,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2068636752433352758/photo/1",
+              "media_key": "3_2068636744581627904",
+              "start": 14,
+              "url": "https://t.co/suZTbh7vCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068636752433352758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个金酒味道好香 松子酒🥵 https://t.co/suZTbh7vCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 33,
+          "like_count": 9386,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Animation Creator. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 123,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Barcelona, Cataluña",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053836039312084992/TPeF1NcP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4794,
+          "following_count": 2629,
+          "like_count": 41241,
+          "listed_count": 18,
+          "media_count": 1547,
+          "tweet_count": 13385
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

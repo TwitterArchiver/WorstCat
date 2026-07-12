@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2073711921342378354",
+    "created_at": "2026-07-05T14:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073776800774471795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1822170840231776256",
+          "start": 0,
+          "username": "mofa_ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073776800774471795",
+    "in_reply_to_user_id": "1822170840231776256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073711921342378354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofa_ee 很多医院的检查项目都是门诊提供纸质报告和胶片，住院后开的不提供纸质报告和胶片，需要则应由主治医生写申请才能去打印ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2073711921342378354",
+        "created_at": "2026-07-05T14:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073776800774471795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1822170840231776256",
+              "start": 0,
+              "username": "mofa_ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073776800774471795",
+        "in_reply_to_user_id": "1822170840231776256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073711921342378354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofa_ee 很多医院的检查项目都是门诊提供纸质报告和胶片，住院后开的不提供纸质报告和胶片，需要则应由主治医生写申请才能去打印ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822170840231776256",
+        "conversation_id": "2073711921342378354",
+        "created_at": "2026-07-05T10:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073711921342378354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073711921342378354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东省精卫怎么这样咕😡😡😡，我自己申请填的自测表不给我纸质版结果，要看结果的话只能找主治医生让他带你去看一眼电子版，也只能看到一部分，详细结果也不给你看咕😔\n我手机上电子版报告那一栏也看不到自测表结果……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 54,
+          "like_count": 11462,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:19:38.000Z",
+        "description": "无证含糖🍥 | 断糖中 | 不确定家长管不管党 | hrt💊2026.5.10 | 誕生日🍰2006.9 | 168cm 53kg | infp | 是只鸽子~ | 好孤独，想要得到关注 | 爱好是画画，术曲，有时会唱点歌 | 现在在山东省精卫里咕… | 闺蜜：@mizukishi316",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 131,
+                "username": "mizukishi316"
+              }
+            ]
+          }
+        },
+        "id": "1822170840231776256",
+        "location": "山东省精神卫生中心",
+        "name": "已成汤的魔法鸽🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064207287808557056/uV314pUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 173,
+          "like_count": 658,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "mofa_ee",
+        "verified": false
+      }
+    ]
+  }
+}

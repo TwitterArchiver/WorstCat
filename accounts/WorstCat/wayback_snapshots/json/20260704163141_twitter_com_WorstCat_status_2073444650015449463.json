@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2073280375863099665",
+    "created_at": "2026-07-04T16:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073444650015449463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654159503921934337",
+          "start": 0,
+          "username": "404ADHD_DOG"
+        },
+        {
+          "end": 27,
+          "id": "1998751032650969088",
+          "start": 13,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073444650015449463",
+    "in_reply_to_user_id": "1654159503921934337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073325374919025048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404ADHD_DOG @Fox_Sakura233 莱博雷生吧，很小一部分人会偶然触发鬼压床，原因不明，需要醒来重新再睡一次🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2073280375863099665",
+        "created_at": "2026-07-04T16:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073444650015449463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654159503921934337",
+              "start": 0,
+              "username": "404ADHD_DOG"
+            },
+            {
+              "end": 27,
+              "id": "1998751032650969088",
+              "start": 13,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073444650015449463",
+        "in_reply_to_user_id": "1654159503921934337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073325374919025048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404ADHD_DOG @Fox_Sakura233 莱博雷生吧，很小一部分人会偶然触发鬼压床，原因不明，需要醒来重新再睡一次🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654159503921934337",
+        "conversation_id": "2073280375863099665",
+        "created_at": "2026-07-04T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073325374919025048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 24,
+              "id": "1998751032650969088",
+              "start": 10,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073325374919025048",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073289377355358661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @Fox_Sakura233 雷生会输出幻觉，我经常鬼压床听到声音 身体触感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3063,
+          "following_count": 53,
+          "like_count": 11336,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 1620
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T16:22:21.000Z",
+        "description": "",
+        "id": "1654159503921934337",
+        "name": "赛级野狗",
+        "pinned_tweet_id": "1977956819655147691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000296103519080448/gozsHtSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 278,
+          "like_count": 2344,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "404ADHD_DOG",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 519,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

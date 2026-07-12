@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2071664576274505768",
+    "created_at": "2026-06-29T19:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071677605447929950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999004442704883716",
+          "start": 0,
+          "username": "lbtuan25_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071677605447929950",
+    "in_reply_to_user_id": "1999004442704883716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071664576274505768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25_1 氯雷他定不是抗过敏的还能抗焦虑嘛，如果真的能看到幻觉，应该用喹硫平 米氮平 阿普唑仑一类的药物🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2071664576274505768",
+        "created_at": "2026-06-29T19:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071677605447929950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999004442704883716",
+              "start": 0,
+              "username": "lbtuan25_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071677605447929950",
+        "in_reply_to_user_id": "1999004442704883716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071664576274505768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25_1 氯雷他定不是抗过敏的还能抗焦虑嘛，如果真的能看到幻觉，应该用喹硫平 米氮平 阿普唑仑一类的药物🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999004442704883716",
+        "conversation_id": "2071664576274505768",
+        "created_at": "2026-06-29T18:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071664576274505768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071664576274505768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了一粒氯雷他定\n暂时压制了来自智人的原生焦虑...\n但是幻觉还是很严重\n照镜子的话就会看见一只古猿\n看演唱会像是神秘的祭祀仪式\n手里的杯子软软的像泥捏的\n没有结构也不合法\n只是还看不见未来...\n暂时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 45,
+          "like_count": 10507,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 1545
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:33:21.000Z",
+        "description": "AAA👽驻🌍大使馆保安兼保洁，办三体星签证请私信｜目标是通过地雷女六级...｜逃生舱指路：https://t.co/IbzozcMB1W｜本星系红通人员：马斯克@elonmusk｜自我提升...自我实现...自我毁灭...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "elonmusk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lbtuan…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/lbtuan25.bsky.social",
+                "start": 45,
+                "url": "https://t.co/IbzozcMB1W"
+              }
+            ]
+          }
+        },
+        "id": "1999004442704883716",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "✦玻色团子✦（常驻🌍黑暗面",
+        "pinned_tweet_id": "1999008615441777032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019496124479062016/alc8Hryu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 491,
+          "like_count": 6362,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1695
+        },
+        "url": "",
+        "username": "lbtuan25_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058877468770234485",
+    "created_at": "2026-05-26T19:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059359283347914988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 28,
+          "id": "1186247446533414912",
+          "start": 17,
+          "username": "ArdaAtik79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059359283347914988",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059344831772844079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @ArdaAtik79 (*☉౪⊙*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058877468770234485",
+        "created_at": "2026-05-26T19:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059359283347914988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 28,
+              "id": "1186247446533414912",
+              "start": 17,
+              "username": "ArdaAtik79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059359283347914988",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059344831772844079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @ArdaAtik79 (*☉౪⊙*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2058877468770234485",
+        "created_at": "2026-05-26T18:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059344831772844079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 21,
+              "id": "1186247446533414912",
+              "start": 10,
+              "username": "ArdaAtik79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059344831772844079",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059337778153017682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @ArdaAtik79 你应该多发这个赛道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031,
+          "following_count": 22,
+          "like_count": 6761,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 1269
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 2717,
+          "like_count": 79766,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 5925
+        },
+        "username": "Technology80420",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-21T11:46:54.000Z",
+        "description": "",
+        "id": "1186247446533414912",
+        "name": "はる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058873293688725504/auLzllLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 76,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 106
+        },
+        "username": "ArdaAtik79",
+        "verified": false
+      }
+    ]
+  }
+}

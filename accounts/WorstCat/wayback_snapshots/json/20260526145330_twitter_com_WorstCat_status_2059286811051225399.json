@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058877468770234485",
+    "created_at": "2026-05-26T14:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059286811051225399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 28,
+          "id": "1186247446533414912",
+          "start": 17,
+          "username": "ArdaAtik79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059286811051225399",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059138368940941780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @ArdaAtik79 看起来像某位铆钉仙女♪(´▽｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058877468770234485",
+        "created_at": "2026-05-26T14:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059286811051225399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 28,
+              "id": "1186247446533414912",
+              "start": 17,
+              "username": "ArdaAtik79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059286811051225399",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059138368940941780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @ArdaAtik79 看起来像某位铆钉仙女♪(´▽｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2058877468770234485",
+        "created_at": "2026-05-26T05:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059138368940941780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1186247446533414912",
+              "start": 0,
+              "username": "ArdaAtik79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059138368940941780",
+        "in_reply_to_user_id": "1186247446533414912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058877468770234485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArdaAtik79 图片是盗的！😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 22,
+          "like_count": 6735,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1259
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 2714,
+          "like_count": 79646,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 5907
+        },
+        "username": "Technology80420",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-21T11:46:54.000Z",
+        "description": "",
+        "id": "1186247446533414912",
+        "name": "はる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058873293688725504/auLzllLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 76,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 99
+        },
+        "username": "ArdaAtik79",
+        "verified": false
+      }
+    ]
+  }
+}

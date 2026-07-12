@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2059988756745371849",
+    "created_at": "2026-05-29T09:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060294579627401368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579442033483075584",
+          "start": 0,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060294579627401368",
+    "in_reply_to_user_id": "1579442033483075584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060288604560134321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@26suversider (〃°ω°〃)♡先养养胃吧不急这几天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2059988756745371849",
+        "created_at": "2026-05-29T09:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060294579627401368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060294579627401368",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060288604560134321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider (〃°ω°〃)♡先养养胃吧不急这几天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2059988756745371849",
+        "created_at": "2026-05-29T09:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060288604560134321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060288604560134321",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060284847340548531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我要去买😭谢谢你宝贝，这几天我胃一直痛呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 22,
+          "like_count": 6982,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 1299
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活",
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2060083221384310785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580752318286295040/CMv7KtOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 66,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 282
+        },
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

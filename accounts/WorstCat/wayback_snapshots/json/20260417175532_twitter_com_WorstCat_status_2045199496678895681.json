@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2045170302695653865",
+    "created_at": "2026-04-17T17:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045199496678895681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030544827864236033",
+          "start": 0,
+          "username": "Muddlledist"
+        },
+        {
+          "end": 25,
+          "id": "2029908828125548546",
+          "start": 13,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045199496678895681",
+    "in_reply_to_user_id": "2030544827864236033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045197501981216835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Muddlledist @bui_tu46916 淄博的，红军背景，手术室集采王者，它家布洛芬很好用吃了十几年，从2.3一瓶吃到16一瓶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2045170302695653865",
+        "created_at": "2026-04-17T17:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045199496678895681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030544827864236033",
+              "start": 0,
+              "username": "Muddlledist"
+            },
+            {
+              "end": 25,
+              "id": "2029908828125548546",
+              "start": 13,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045199496678895681",
+        "in_reply_to_user_id": "2030544827864236033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045197501981216835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muddlledist @bui_tu46916 淄博的，红军背景，手术室集采王者，它家布洛芬很好用吃了十几年，从2.3一瓶吃到16一瓶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030544827864236033",
+        "conversation_id": "2045170302695653865",
+        "created_at": "2026-04-17T17:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045197501981216835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045197501981216835",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045170302695653865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 新华是什么牌子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你0.7KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 6,
+          "like_count": 3064,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 781
+        },
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T07:23:22.000Z",
+        "description": "前前前世\n@Muddledist\n破千fo被封|tg：@Muddledst\n｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Muddledist"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Muddledst"
+              }
+            ]
+          }
+        },
+        "id": "2030544827864236033",
+        "name": "@乙女椿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030544925373386752/2IKIoLhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "username": "Muddlledist",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 198,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 568
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

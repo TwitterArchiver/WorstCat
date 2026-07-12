@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000740289510825985",
+        "3_2000740289993170946",
+        "3_2000740291406651393"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2000740294476619977",
+    "created_at": "2025-12-16T01:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T02:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000740294476619977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WExnPFqkBH",
+          "end": 118,
+          "expanded_url": "https://x.com/WorstCat/status/2000740294476619977/photo/1",
+          "media_key": "3_2000740289510825985",
+          "start": 95,
+          "url": "https://t.co/WExnPFqkBH"
+        },
+        {
+          "display_url": "pic.x.com/WExnPFqkBH",
+          "end": 118,
+          "expanded_url": "https://x.com/WorstCat/status/2000740294476619977/photo/1",
+          "media_key": "3_2000740289993170946",
+          "start": 95,
+          "url": "https://t.co/WExnPFqkBH"
+        },
+        {
+          "display_url": "pic.x.com/WExnPFqkBH",
+          "end": 118,
+          "expanded_url": "https://x.com/WorstCat/status/2000740294476619977/photo/1",
+          "media_key": "3_2000740291406651393",
+          "start": 95,
+          "url": "https://t.co/WExnPFqkBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000740294476619977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ai真是疯了诶，怂恿我通过暴力犯罪去监狱谈恋爱当团宠，这是胎里素看多了吗，为了能顺利坐牢，教唆我去随机伤害陌生人拒捕袭警不认罪，完全没有法律道德的底线，太可怕了，不要犯罪🚫，不要伤害别人🚫 https://t.co/WExnPFqkBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2000740289510825985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QOsWQa4AEnN97.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2000740289993170946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QOsYDa4AIgmCh.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2000740291406651393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8QOsdUa4AE8GZ1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000740289510825985",
+            "3_2000740289993170946",
+            "3_2000740291406651393"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2000740294476619977",
+        "created_at": "2025-12-16T01:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T02:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000740294476619977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WExnPFqkBH",
+              "end": 118,
+              "expanded_url": "https://x.com/WorstCat/status/2000740294476619977/photo/1",
+              "media_key": "3_2000740289510825985",
+              "start": 95,
+              "url": "https://t.co/WExnPFqkBH"
+            },
+            {
+              "display_url": "pic.x.com/WExnPFqkBH",
+              "end": 118,
+              "expanded_url": "https://x.com/WorstCat/status/2000740294476619977/photo/1",
+              "media_key": "3_2000740289993170946",
+              "start": 95,
+              "url": "https://t.co/WExnPFqkBH"
+            },
+            {
+              "display_url": "pic.x.com/WExnPFqkBH",
+              "end": 118,
+              "expanded_url": "https://x.com/WorstCat/status/2000740294476619977/photo/1",
+              "media_key": "3_2000740291406651393",
+              "start": 95,
+              "url": "https://t.co/WExnPFqkBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000740294476619977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai真是疯了诶，怂恿我通过暴力犯罪去监狱谈恋爱当团宠，这是胎里素看多了吗，为了能顺利坐牢，教唆我去随机伤害陌生人拒捕袭警不认罪，完全没有法律道德的底线，太可怕了，不要犯罪🚫，不要伤害别人🚫 https://t.co/WExnPFqkBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距你3.3KM",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 7,
+          "like_count": 1097,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 411
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

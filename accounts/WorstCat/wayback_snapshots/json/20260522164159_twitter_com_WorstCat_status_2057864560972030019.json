@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2057864560972030019",
+    "created_at": "2026-05-22T16:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057864560972030019"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057864560972030019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好晕好晕前后爪无力 恍惚 一边路怒症发作般的疯狂和主人吐槽😨一边感觉回不了家了吗很难控制方向感觉随时会发生事故但是没有焦虑，回家以后躺下来感觉在云上飞行好舒服啊啊啊啊啊啊我在飘荡在漫无目的飞翔跳跃在被包裹着幸福感满满的，不会打字一段话删删删删再改改改好半天才能打出来嘿嘿嘿(͏ ˉ ꈊ ˉ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2057864560972030019",
+        "created_at": "2026-05-22T16:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057864560972030019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057864560972030019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好晕好晕前后爪无力 恍惚 一边路怒症发作般的疯狂和主人吐槽😨一边感觉回不了家了吗很难控制方向感觉随时会发生事故但是没有焦虑，回家以后躺下来感觉在云上飞行好舒服啊啊啊啊啊啊我在飘荡在漫无目的飞翔跳跃在被包裹着幸福感满满的，不会打字一段话删删删删再改改改好半天才能打出来嘿嘿嘿(͏ ˉ ꈊ ˉ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 20,
+          "like_count": 6166,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 1171
+        },
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}
