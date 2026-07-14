@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2076188125186163096",
+    "created_at": "2026-07-12T07:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076201400980390101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076201400980390101",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076188125186163096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 啊啊啊鼠鼠🐭期待的眼神(⁎⁍̴̛ᴗ⁍̴̛⁎)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076188119116996608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAaGB7a4AAHdBt.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2076188119108653056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAaGB5bkAAiTNs.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2076188125186163096",
+        "created_at": "2026-07-12T07:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076201400980390101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076201400980390101",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076188125186163096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 啊啊啊鼠鼠🐭期待的眼神(⁎⁍̴̛ᴗ⁍̴̛⁎)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076188119116996608",
+            "3_2076188119108653056"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2076188125186163096",
+        "created_at": "2026-07-12T06:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076188125186163096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYKpHpE3lS",
+              "end": 57,
+              "expanded_url": "https://x.com/Easter_buny/status/2076188125186163096/photo/1",
+              "media_key": "3_2076188119116996608",
+              "start": 34,
+              "url": "https://t.co/tYKpHpE3lS"
+            },
+            {
+              "display_url": "pic.x.com/tYKpHpE3lS",
+              "end": 57,
+              "expanded_url": "https://x.com/Easter_buny/status/2076188125186163096/photo/1",
+              "media_key": "3_2076188119108653056",
+              "start": 34,
+              "url": "https://t.co/tYKpHpE3lS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076188125186163096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次我吃东西，哪怕咀嚼发出一点点声音，都能被笨老鼠听到，然后就这样 https://t.co/tYKpHpE3lS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3067,
+          "following_count": 59,
+          "like_count": 12265,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8401,
+          "following_count": 1256,
+          "like_count": 66850,
+          "listed_count": 8,
+          "media_count": 3088,
+          "tweet_count": 19063
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

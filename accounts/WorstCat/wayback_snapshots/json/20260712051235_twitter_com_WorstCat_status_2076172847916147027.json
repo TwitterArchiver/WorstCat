@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2058391741800337592",
+    "created_at": "2026-07-12T05:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076172847916147027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013291051558273024",
+          "start": 0,
+          "username": "kateamine149062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076172847916147027",
+    "in_reply_to_user_id": "2013291051558273024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058391741800337592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kateamine149062 好羡慕台湾可以买到安公子🥹感觉好舒服的样子🥹🥹🥹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058391741800337592].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058391741800337592",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058391741800337592"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2058391741800337592",
+        "created_at": "2026-07-12T05:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076172847916147027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013291051558273024",
+              "start": 0,
+              "username": "kateamine149062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076172847916147027",
+        "in_reply_to_user_id": "2013291051558273024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058391741800337592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kateamine149062 好羡慕台湾可以买到安公子🥹感觉好舒服的样子🥹🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 58,
+          "like_count": 12215,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 1688
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T16:44:12.000Z",
+        "description": "未來超人氣偶像K貓貓的小號！！用來po藥物以及其他偶像貓貓不能在大號裏po的内容。",
+        "id": "2013291051558273024",
+        "name": "Kateamine1766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015139754698788864/2jjeqyd6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7621,
+          "following_count": 26,
+          "like_count": 21,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "kateamine149062",
+        "verified": false
+      }
+    ]
+  }
+}

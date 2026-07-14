@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2076086455127134229",
+    "created_at": "2026-07-12T04:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076156568991912027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 31,
+          "id": "3318278592",
+          "start": 17,
+          "username": "BigglesworthX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20704…",
+          "end": 70,
+          "expanded_url": "https://x.com/i/status/2070476649888612366",
+          "start": 47,
+          "url": "https://t.co/EX6Zg5ZO5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076156568991912027",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070476649888612366",
+        "type": "quoted"
+      },
+      {
+        "id": "2076095940331806859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @BigglesworthX 宝宝你可以去重庆体验呀这里这里https://t.co/EX6Zg5ZO5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2070476644771667969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvPid9boAE3tLH.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070476644641558528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvPideaUAAVEAO.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2070476644633260032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvPidcbsAAWVgl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2070476647367933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvPinobgAAKSoO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2076086455127134229",
+        "created_at": "2026-07-12T04:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076156568991912027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 31,
+              "id": "3318278592",
+              "start": 17,
+              "username": "BigglesworthX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20704…",
+              "end": 70,
+              "expanded_url": "https://x.com/i/status/2070476649888612366",
+              "start": 47,
+              "url": "https://t.co/EX6Zg5ZO5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076156568991912027",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070476649888612366",
+            "type": "quoted"
+          },
+          {
+            "id": "2076095940331806859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @BigglesworthX 宝宝你可以去重庆体验呀这里这里https://t.co/EX6Zg5ZO5H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070476644771667969",
+            "3_2070476644641558528",
+            "3_2070476644633260032",
+            "3_2070476647367933952"
+          ]
+        },
+        "author_id": "1069805157943103488",
+        "conversation_id": "2070476649888612366",
+        "created_at": "2026-06-26T11:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070476649888612366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTuHHY4eTt",
+              "end": 39,
+              "expanded_url": "https://x.com/6187king/status/2070476649888612366/photo/1",
+              "media_key": "3_2070476644771667969",
+              "start": 16,
+              "url": "https://t.co/TTuHHY4eTt"
+            },
+            {
+              "display_url": "pic.x.com/TTuHHY4eTt",
+              "end": 39,
+              "expanded_url": "https://x.com/6187king/status/2070476649888612366/photo/1",
+              "media_key": "3_2070476644641558528",
+              "start": 16,
+              "url": "https://t.co/TTuHHY4eTt"
+            },
+            {
+              "display_url": "pic.x.com/TTuHHY4eTt",
+              "end": 39,
+              "expanded_url": "https://x.com/6187king/status/2070476649888612366/photo/1",
+              "media_key": "3_2070476644633260032",
+              "start": 16,
+              "url": "https://t.co/TTuHHY4eTt"
+            },
+            {
+              "display_url": "pic.x.com/TTuHHY4eTt",
+              "end": 39,
+              "expanded_url": "https://x.com/6187king/status/2070476649888612366/photo/1",
+              "media_key": "3_2070476647367933952",
+              "start": 16,
+              "url": "https://t.co/TTuHHY4eTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070476649888612366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5352,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "铁笼 铁链有种特别的金属魅力😎 https://t.co/TTuHHY4eTt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "2076086455127134229",
+        "created_at": "2026-07-12T00:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076095940331806859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076095940331806859",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076086455127134229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 涩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 58,
+          "like_count": 12165,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her🏳️‍⚧️",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 3106,
+          "like_count": 87271,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 7006
+        },
+        "url": "",
+        "username": "Technology80420",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider | Banned in 106 Chinese transgender chat group for posting spider pictures.",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "2038488362190020638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 948,
+          "like_count": 3296,
+          "listed_count": 4,
+          "media_count": 1492,
+          "tweet_count": 7492
+        },
+        "url": "",
+        "username": "BigglesworthX",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T04:06:40.000Z",
+        "description": "性别男～金属控\n坐标重庆。有体验馆想来玩的可以私信😘（企鹅:850290808，或者776541305） \n！不是女孩子，看清楚哟！",
+        "id": "1069805157943103488",
+        "location": "chongqing",
+        "name": "钰园（钰园体验+企鹅850290808）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471739209879015426/KMgt0scY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10755,
+          "following_count": 637,
+          "like_count": 2987,
+          "listed_count": 31,
+          "media_count": 158,
+          "tweet_count": 1296
+        },
+        "url": "",
+        "username": "6187king",
+        "verified": true
+      }
+    ]
+  }
+}

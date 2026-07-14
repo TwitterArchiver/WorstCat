@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2075810799608844438",
+    "created_at": "2026-07-12T03:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076152029991637148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845076547197353984",
+          "start": 0,
+          "username": "jutangxiao1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076152029991637148",
+    "in_reply_to_user_id": "1845076547197353984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075810799608844438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jutangxiao1229 黛力新原研的也不贵呀这都有仿制的了(*☉౪⊙*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2075810782705864704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7C6KQb0AAnu0-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2075810799608844438",
+        "created_at": "2026-07-12T03:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076152029991637148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076152029991637148",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075810799608844438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 黛力新原研的也不贵呀这都有仿制的了(*☉౪⊙*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075810782705864704"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2075810799608844438",
+        "created_at": "2026-07-11T05:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075810799608844438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R93zr334QU",
+              "end": 77,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2075810799608844438/photo/1",
+              "media_key": "3_2075810782705864704",
+              "start": 54,
+              "url": "https://t.co/R93zr334QU"
+            },
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2075803685914075186",
+              "start": 78,
+              "url": "https://t.co/No9ZQt1icd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075810799608844438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075803685914075186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本次药品还是SSRI+抗精神病类+GABA正变构调节剂\n而且因为是精卫，所以全是仿制药(坏！)\n(´ཫ`) https://t.co/R93zr334QU https://t.co/No9ZQt1icd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 58,
+          "like_count": 12161,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 1678
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 248,
+          "like_count": 8156,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}
