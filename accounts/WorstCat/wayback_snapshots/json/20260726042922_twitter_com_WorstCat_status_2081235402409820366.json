@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2080929217093759197",
+    "created_at": "2026-07-26T04:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081235402409820366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053536594427338752",
+          "start": 0,
+          "username": "sonia_lychee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081235402409820366",
+    "in_reply_to_user_id": "2053536594427338752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080929217093759197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonia_lychee 给别人不难但是给自己可能有心理压力。甲氧氯普胺锥体外系风险高，自己使用很不安全的，间苯三酚和昂丹司琼其实可以口服呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2080929217093759197",
+        "created_at": "2026-07-26T04:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081235402409820366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053536594427338752",
+              "start": 0,
+              "username": "sonia_lychee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081235402409820366",
+        "in_reply_to_user_id": "2053536594427338752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080929217093759197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonia_lychee 给别人不难但是给自己可能有心理压力。甲氧氯普胺锥体外系风险高，自己使用很不安全的，间苯三酚和昂丹司琼其实可以口服呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053536594427338752",
+        "conversation_id": "2080929217093759197",
+        "created_at": "2026-07-25T08:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080929217093759197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080929217093759197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己学吊水难吗，医院流程太慢了我想自己备一点间苯三酚或者甲氧氯普胺在控制不住呕吐的时候用，吊水大厅好冷我要被冻僵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 73,
+          "like_count": 13870,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 1991
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T18:04:22.000Z",
+        "description": "只是吐黑泥的地方。\n路过的朋友我祝你肠胃健康，睡眠健康。",
+        "id": "2053536594427338752",
+        "location": "Nakano-ku, Tokyo",
+        "name": "AAA肠胃睡眠健康宣传大使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053536777672278016/QaKcIqe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 63,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "sonia_lychee",
+        "verified": false
+      }
+    ]
+  }
+}
