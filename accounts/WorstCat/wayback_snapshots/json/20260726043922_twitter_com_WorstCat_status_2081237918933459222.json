@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2081215754901602624",
+    "created_at": "2026-07-26T04:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081237918933459222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671951520529797120",
+          "start": 0,
+          "username": "sqq1370192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081237918933459222",
+    "in_reply_to_user_id": "1671951520529797120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081215754901602624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sqq1370192 日本的otc都是兽药的剂量给的推荐量已经非常多了，推荐量都会晕的呀ꉂ(ˊᗜˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2081215754901602624",
+        "created_at": "2026-07-26T04:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081237918933459222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671951520529797120",
+              "start": 0,
+              "username": "sqq1370192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081237918933459222",
+        "in_reply_to_user_id": "1671951520529797120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081215754901602624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sqq1370192 日本的otc都是兽药的剂量给的推荐量已经非常多了，推荐量都会晕的呀ꉂ(ˊᗜˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671951520529797120",
+        "conversation_id": "2081215754901602624",
+        "created_at": "2026-07-26T03:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081215754901602624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081215754901602624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，日本药妆店那个最大剂量治感冒和喉咙痛的药成年人不是一次只能吃两颗吗？然后为了药效强一点，因为我喉咙真的很痛，然后我吃了四颗，我明明没有醉，但是我现在有点头重脚轻晕乎乎的咋回事\n但是我上次吃另外一个牌子的，然后同一种也是治喉咙痛的药，吃四颗就没有关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 73,
+          "like_count": 13877,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 1993
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T18:41:40.000Z",
+        "description": "很抽象一个人｜选择性话多 ｜性格多分悪い｜对非人生物过敏｜限制级的碎碎念｜大概是里账号｜東京在住留学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sqq13701922",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sqq13701922",
+                "start": 0,
+                "url": "https://t.co/Ytv7kimvFR"
+              }
+            ]
+          }
+        },
+        "id": "1671951520529797120",
+        "name": "Zzzzzzzi",
+        "pinned_tweet_id": "1947152531140104461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070880503348232192/1dskdMXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 64,
+          "like_count": 1850,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1726
+        },
+        "url": "https://t.co/Ytv7kimvFR",
+        "username": "sqq1370192",
+        "verified": false
+      }
+    ]
+  }
+}

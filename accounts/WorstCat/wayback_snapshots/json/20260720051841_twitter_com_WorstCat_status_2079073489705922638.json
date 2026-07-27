@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2078345409035178277",
+    "created_at": "2026-07-20T05:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079073489705922638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845076547197353984",
+          "start": 0,
+          "username": "jutangxiao1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079073489705922638",
+    "in_reply_to_user_id": "1845076547197353984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078345409035178277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jutangxiao1229 肌酐怎么会那么高刚o完就去检查了吗，注意保护肾呀这个年龄egfr不应该低于110吧，还有尿酸也挺高的了，不知道crp多少但是平时要注意一下饮食了吧，防止出现痛风症状🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2078345383110217728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfEHUjbkAAVx0V.jpg",
+        "width": 968
+      },
+      {
+        "height": 1348,
+        "media_key": "3_2078345389728747520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfEHtNaUAAKeaM.jpg",
+        "width": 968
+      },
+      {
+        "height": 2119,
+        "media_key": "3_2078345396137648128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfEIFFaYAAPrMz.jpg",
+        "width": 965
+      },
+      {
+        "height": 2103,
+        "media_key": "3_2078345403205115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfEIfabYAAaV5A.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2078345409035178277",
+        "created_at": "2026-07-20T05:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079073489705922638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079073489705922638",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078345409035178277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 肌酐怎么会那么高刚o完就去检查了吗，注意保护肾呀这个年龄egfr不应该低于110吧，还有尿酸也挺高的了，不知道crp多少但是平时要注意一下饮食了吧，防止出现痛风症状🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078345383110217728",
+            "3_2078345389728747520",
+            "3_2078345396137648128",
+            "3_2078345403205115904"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2078345409035178277",
+        "created_at": "2026-07-18T05:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078345409035178277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nR8kFfhCM9",
+              "end": 51,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2078345409035178277/photo/1",
+              "media_key": "3_2078345383110217728",
+              "start": 28,
+              "url": "https://t.co/nR8kFfhCM9"
+            },
+            {
+              "display_url": "pic.x.com/nR8kFfhCM9",
+              "end": 51,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2078345409035178277/photo/1",
+              "media_key": "3_2078345389728747520",
+              "start": 28,
+              "url": "https://t.co/nR8kFfhCM9"
+            },
+            {
+              "display_url": "pic.x.com/nR8kFfhCM9",
+              "end": 51,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2078345409035178277/photo/1",
+              "media_key": "3_2078345396137648128",
+              "start": 28,
+              "url": "https://t.co/nR8kFfhCM9"
+            },
+            {
+              "display_url": "pic.x.com/nR8kFfhCM9",
+              "end": 51,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2078345409035178277/photo/1",
+              "media_key": "3_2078345403205115904",
+              "start": 28,
+              "url": "https://t.co/nR8kFfhCM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078345409035178277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了有些营养不良，其他貌似都还不错～\n՞˶•⩊•˶՞ಣ https://t.co/nR8kFfhCM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 70,
+          "like_count": 13192,
+          "listed_count": 5,
+          "media_count": 265,
+          "tweet_count": 1849
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 248,
+          "like_count": 10917,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

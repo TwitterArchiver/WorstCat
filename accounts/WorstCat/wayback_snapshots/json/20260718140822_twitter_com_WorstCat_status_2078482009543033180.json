@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2077704054273368252",
+    "created_at": "2026-07-18T14:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078482009543033180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708410791744118784",
+          "start": 0,
+          "username": "trump1029597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078482009543033180",
+    "in_reply_to_user_id": "1708410791744118784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078412949706924186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trump1029597 嗯嗯谢谢你，我下次去问问，好远的，之前去了几个省属医院都没有，市属医院能查库存都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2077704054273368252",
+        "created_at": "2026-07-18T14:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078482009543033180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708410791744118784",
+              "start": 0,
+              "username": "trump1029597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078482009543033180",
+        "in_reply_to_user_id": "1708410791744118784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078412949706924186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trump1029597 嗯嗯谢谢你，我下次去问问，好远的，之前去了几个省属医院都没有，市属医院能查库存都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708410791744118784",
+        "conversation_id": "2077704054273368252",
+        "created_at": "2026-07-18T09:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078412949706924186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078412949706924186",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078035042811658684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 啊，你又在吃格拉司琼啊，这俩药基本上差不多的，不过试试嘛，又不贵，至于羟考酮嘛，你去你们那边省里最大的三甲医院看看，应该是有的，你吃的双氢可待因的止痛效果跟这个根本不是一个级别的，最后还是祝你早日康复～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 68,
+          "like_count": 13094,
+          "listed_count": 5,
+          "media_count": 265,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T09:17:38.000Z",
+        "description": "随便玩玩",
+        "id": "1708410791744118784",
+        "name": "永雏小晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966436944273084416/jmwFI7ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 17,
+          "like_count": 12895,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "trump1029597",
+        "verified": false
+      }
+    ]
+  }
+}

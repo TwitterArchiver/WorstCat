@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081085854672658432"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2081085857067581857",
+    "created_at": "2026-07-25T18:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081085857067581857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zhHzpEKLr3",
+          "end": 168,
+          "expanded_url": "https://x.com/WorstCat/status/2081085857067581857/photo/1",
+          "media_key": "3_2081085854672658432",
+          "start": 145,
+          "url": "https://t.co/zhHzpEKLr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081085857067581857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在才缓过来，不知道pr体验卡与哪个药冲突了，从13点使用到20点都还挺好的，结果到了21点就剧烈头晕犯困没力气，在路上都恍惚凭本能回了家。头晕是那种难受的晕然后加上恶心干呕，量了一下血压偏低，只要睡着了血氧就会降低 舌根会塌陷。现在2点了才感觉好点，第一次体验这么长又难受的pr……🥺 https://t.co/zhHzpEKLr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081085854672658432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGAjwraoAAuT9c.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081085854672658432"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2081085857067581857",
+        "created_at": "2026-07-25T18:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081085857067581857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhHzpEKLr3",
+              "end": 168,
+              "expanded_url": "https://x.com/WorstCat/status/2081085857067581857/photo/1",
+              "media_key": "3_2081085854672658432",
+              "start": 145,
+              "url": "https://t.co/zhHzpEKLr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081085857067581857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在才缓过来，不知道pr体验卡与哪个药冲突了，从13点使用到20点都还挺好的，结果到了21点就剧烈头晕犯困没力气，在路上都恍惚凭本能回了家。头晕是那种难受的晕然后加上恶心干呕，量了一下血压偏低，只要睡着了血氧就会降低 舌根会塌陷。现在2点了才感觉好点，第一次体验这么长又难受的pr……🥺 https://t.co/zhHzpEKLr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 72,
+          "like_count": 13816,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

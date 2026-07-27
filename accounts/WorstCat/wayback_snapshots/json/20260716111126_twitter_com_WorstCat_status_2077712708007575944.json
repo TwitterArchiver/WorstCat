@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2075960678884790697",
+    "created_at": "2026-07-16T11:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077712708007575944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048402283797381120",
+          "start": 0,
+          "username": "MiraiPure40605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077712708007575944",
+    "in_reply_to_user_id": "2048402283797381120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077709384218738968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiraiPure40605 (ˆ꜆ .   ̫  . ).   ̫  . ꜀ˆ)抱抱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2075960678884790697",
+        "created_at": "2026-07-16T11:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077712708007575944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048402283797381120",
+              "start": 0,
+              "username": "MiraiPure40605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077712708007575944",
+        "in_reply_to_user_id": "2048402283797381120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077709384218738968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiraiPure40605 (ˆ꜆ .   ̫  . ).   ̫  . ꜀ˆ)抱抱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048402283797381120",
+        "conversation_id": "2075960678884790697",
+        "created_at": "2026-07-16T10:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077709384218738968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077709384218738968",
+        "in_reply_to_user_id": "467659726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075960678884790697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 抱抱坏猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3074,
+          "following_count": 66,
+          "like_count": 12864,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 1794
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T14:02:36.000Z",
+        "description": "镇静药物全是梦2.0 \n备用\n叫我Mirai未来",
+        "id": "2048402283797381120",
+        "name": "MiraiPure",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048402464530112513/TaBGRpVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 43,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "MiraiPure40605",
+        "verified": false
+      }
+    ]
+  }
+}

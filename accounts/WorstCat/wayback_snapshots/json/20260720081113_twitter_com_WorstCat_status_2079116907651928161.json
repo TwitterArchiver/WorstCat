@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2079116907651928161",
+    "created_at": "2026-07-20T08:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079116907651928161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WorstCat/statu…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/WorstCat/status/2072857975761596690",
+          "start": 150,
+          "url": "https://t.co/gXPBP2xqHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079116907651928161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072857975761596690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对于有精分又拒绝按时服药的主人来说，DA+++ NE--，吃了pr只会诱发精分急性发作，好多次都是吃完很快出现精分阳性症状觉得我是敌人觉得有人在旁边偷听偷窥有人想谋害有人在大声密谋🤨\n因为预估肾小球滤过率是夸张的177，pr从服用到完全代谢只有4小时，但是精分发作能持续十几个小时，没打我就不错了🥹 https://t.co/gXPBP2xqHn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2079116907651928161",
+        "created_at": "2026-07-20T08:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079116907651928161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/WorstCat/status/2072857975761596690",
+              "start": 150,
+              "url": "https://t.co/gXPBP2xqHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079116907651928161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072857975761596690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于有精分又拒绝按时服药的主人来说，DA+++ NE--，吃了pr只会诱发精分急性发作，好多次都是吃完很快出现精分阳性症状觉得我是敌人觉得有人在旁边偷听偷窥有人想谋害有人在大声密谋🤨\n因为预估肾小球滤过率是夸张的177，pr从服用到完全代谢只有4小时，但是精分发作能持续十几个小时，没打我就不错了🥹 https://t.co/gXPBP2xqHn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2072857975761596690",
+        "created_at": "2026-07-03T01:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072857975761596690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072857975761596690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2627,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点半主人吃了两粒红普，然后从3点骂我骂到现在(⇀‸↼‶)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 70,
+          "like_count": 13247,
+          "listed_count": 5,
+          "media_count": 265,
+          "tweet_count": 1860
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2077704054273368252",
+    "created_at": "2026-07-19T13:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078834561749057804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708410791744118784",
+          "start": 0,
+          "username": "trump1029597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078834561749057804",
+    "in_reply_to_user_id": "1708410791744118784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078811799101780113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trump1029597 反正市属医院的草台班子要么阿巴阿巴的流口水开止疼药，就是说打阻滞包括星状阻滞，它们觉得无非就是肌筋膜疼痛综合征和颈源性头晕头痛椎间盘突出压迫点神经不是什么大事，还让我多运动呢，我感觉去省属医院也一样，麻卡很难吧🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2077704054273368252",
+        "created_at": "2026-07-19T13:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078834561749057804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708410791744118784",
+              "start": 0,
+              "username": "trump1029597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078834561749057804",
+        "in_reply_to_user_id": "1708410791744118784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078811799101780113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trump1029597 反正市属医院的草台班子要么阿巴阿巴的流口水开止疼药，就是说打阻滞包括星状阻滞，它们觉得无非就是肌筋膜疼痛综合征和颈源性头晕头痛椎间盘突出压迫点神经不是什么大事，还让我多运动呢，我感觉去省属医院也一样，麻卡很难吧🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708410791744118784",
+        "conversation_id": "2077704054273368252",
+        "created_at": "2026-07-19T11:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078811799101780113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078811799101780113",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078482009543033180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 抱抱你，你要不试试看能不能办个麻醉本，这样就能开纯羟考酮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 69,
+          "like_count": 13159,
+          "listed_count": 5,
+          "media_count": 265,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T09:17:38.000Z",
+        "description": "随便玩玩",
+        "id": "1708410791744118784",
+        "name": "永雏小晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966436944273084416/jmwFI7ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 17,
+          "like_count": 12894,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 521
+        },
+        "url": "",
+        "username": "trump1029597",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2077699333471007131",
+    "created_at": "2026-07-16T14:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077761102159757500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077761102159757500",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077699333471007131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 ww我的评论区最近也好多机器人，不知道干嘛盯上我🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2077699333471007131",
+        "created_at": "2026-07-16T14:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077761102159757500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077761102159757500",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077699333471007131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 ww我的评论区最近也好多机器人，不知道干嘛盯上我🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2077699333471007131",
+        "created_at": "2026-07-16T10:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077699333471007131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077699333471007131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我的号被晶哥 攻击了\n回复都是 机器人\n何必呢\n你们真正应该是让那些人如何去逃离这种令人窒息的环境吧 而不是投放机器人让我的帖子沉水吧\n一个人的心理 精神健康还是很重要的 而不是一直堵着不宣泄出去吧 都憋成炸弹了就都被同归于尽了吧\n那些什么禁毒的也是 物质依赖固然不对 但是真正该解决的是心理问题 而不是连oder最后一丝让自己开心的东西都被剥夺了吧\n我相信健全人可能会反驳我 说我教唆吸毒什么的 但是我只是觉得心理问题大于这些 上瘾了可以用其他药物慢慢改善 但是心理问题得不到解决就是真的很难改善了\n谁也没法保证自己永远没有心理问题吧 你现在嘲讽oder 将来你也是oder呢 话不能说得太绝对\n心理健康还是太重要了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的号被晶哥 攻击了\n回复都是 机器人\n何必呢\n你们真正应该是让那些人如何去逃离这种令人窒息的环境吧 而不是投放机器人让我的帖子沉水吧\n一个人的心理 精神健康还是很重要的 而不是一直堵着不宣泄出去吧 都憋成炸弹了就都被同归于尽了吧\n那些什么禁毒的也是 物质依赖固然不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 66,
+          "like_count": 12899,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 1804
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 不好看 可互关 机器人除外 不见证\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨\n有點陰暗 囤積癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "plane294"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076966433515532288/I6rNTjt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 259,
+          "like_count": 2629,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

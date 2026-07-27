@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080885468024193024"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080728110098763906",
+    "created_at": "2026-07-25T05:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080885470524055814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1536716629505359872",
+          "start": 0,
+          "username": "cigsafterdrug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20147…",
+          "end": 45,
+          "expanded_url": "https://x.com/i/status/2014751102181498944",
+          "start": 22,
+          "url": "https://t.co/upAT2teA3t"
+        },
+        {
+          "display_url": "pic.x.com/PXwaMuQ0ff",
+          "end": 69,
+          "expanded_url": "https://x.com/WorstCat/status/2080885470524055814/photo/1",
+          "media_key": "3_2080885468024193024",
+          "start": 46,
+          "url": "https://t.co/PXwaMuQ0ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080885470524055814",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014751102181498944",
+        "type": "quoted"
+      },
+      {
+        "id": "2080728110098763906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigsafterdrug 很早以前就买了https://t.co/upAT2teA3t https://t.co/PXwaMuQ0ff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2080885468024193024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODKTuPawAAoKyy.jpg",
+        "width": 1180
+      },
+      {
+        "height": 768,
+        "media_key": "3_2014751099388100608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XVc0XbAAAeGJ8.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080728104696471552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA7L-Ka4AA6fzo.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080885468024193024"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080728110098763906",
+        "created_at": "2026-07-25T05:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080885470524055814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20147…",
+              "end": 45,
+              "expanded_url": "https://x.com/i/status/2014751102181498944",
+              "start": 22,
+              "url": "https://t.co/upAT2teA3t"
+            },
+            {
+              "display_url": "pic.x.com/PXwaMuQ0ff",
+              "end": 69,
+              "expanded_url": "https://x.com/WorstCat/status/2080885470524055814/photo/1",
+              "media_key": "3_2080885468024193024",
+              "start": 46,
+              "url": "https://t.co/PXwaMuQ0ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080885470524055814",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014751102181498944",
+            "type": "quoted"
+          },
+          {
+            "id": "2080728110098763906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 很早以前就买了https://t.co/upAT2teA3t https://t.co/PXwaMuQ0ff"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014751099388100608"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2014751102181498944",
+        "created_at": "2026-01-23T17:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014751102181498944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gDc8Xp9sb",
+              "end": 23,
+              "expanded_url": "https://x.com/WorstCat/status/2014751102181498944/photo/1",
+              "media_key": "3_2014751099388100608",
+              "start": 0,
+              "url": "https://t.co/5gDc8Xp9sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014751102181498944",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6287,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5gDc8Xp9sb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080728104696471552"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080728110098763906",
+        "created_at": "2026-07-24T18:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080728110098763906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRv9rJlCKe",
+              "end": 35,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2080728110098763906/photo/1",
+              "media_key": "3_2080728104696471552",
+              "start": 12,
+              "url": "https://t.co/zRv9rJlCKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080728110098763906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1497,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这208个推友出来自首 https://t.co/zRv9rJlCKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3088,
+          "following_count": 72,
+          "like_count": 13738,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 1968
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 473,
+          "like_count": 31678,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3151
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

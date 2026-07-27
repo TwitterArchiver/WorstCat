@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2078722853915312550",
+    "created_at": "2026-07-20T11:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079170668445532500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1856197998990241794",
+          "start": 0,
+          "username": "haijin_sos1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079170668445532500",
+    "in_reply_to_user_id": "1856197998990241794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078722853915312550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haijin_sos1 以前、Bilibiliで双極性障害を「代謝性脳症」の一種として解説する教育動画を見たことがあります。それによると、脳内には、症状が安定している時期であっても、くすぶる火のように高い活動状態を保ち続け、絶えずエネルギーを消費している領域があるそうです。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2078722853915312550",
+        "created_at": "2026-07-20T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079170668445532500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1856197998990241794",
+              "start": 0,
+              "username": "haijin_sos1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079170668445532500",
+        "in_reply_to_user_id": "1856197998990241794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078722853915312550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haijin_sos1 以前、Bilibiliで双極性障害を「代謝性脳症」の一種として解説する教育動画を見たことがあります。それによると、脳内には、症状が安定している時期であっても、くすぶる火のように高い活動状態を保ち続け、絶えずエネルギーを消費している領域があるそうです。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856197998990241794",
+        "conversation_id": "2078722853915312550",
+        "created_at": "2026-07-19T06:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078722853915312550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078722853915312550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 30481,
+          "like_count": 771,
+          "quote_count": 43,
+          "reply_count": 10,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "双極性障害注意⚠️、\n\n1日に「躁」、「鬱」を短時間で、\n繰り返し🔁てると、\n\n重症化すると、\n「認知症のような症状」、\nになる為、\n\n早期に治療してください、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 71,
+          "like_count": 13289,
+          "listed_count": 5,
+          "media_count": 267,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:51:46.000Z",
+        "description": "鬱→パニック障害→双極性障害→摂食障害→闘病中、躁と鬱繰り返して自分を見失う人、病み垢さんも歓迎、似た環境の方、仲良くしてください。毒吐きます。相互フォローしてくれるとありがたいです。自衛してください。エロ垢❌スピリチュアル❌作業所勧誘❌ハンドメイド紹介❌",
+        "id": "1856197998990241794",
+        "name": "廃人1号",
+        "pinned_tweet_id": "2035084961032937659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941250075629395968/kK2bYNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5033,
+          "following_count": 6815,
+          "like_count": 5679,
+          "listed_count": 13,
+          "media_count": 208,
+          "tweet_count": 5478
+        },
+        "url": "",
+        "username": "haijin_sos1",
+        "verified": true
+      }
+    ]
+  }
+}

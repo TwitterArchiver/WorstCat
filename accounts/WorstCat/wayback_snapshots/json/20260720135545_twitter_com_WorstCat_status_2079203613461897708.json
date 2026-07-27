@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2079203610077110272"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2079203613461897708",
+    "created_at": "2026-07-20T13:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079203613461897708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079203613461897708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以现在我该怎么办ww，血液有问题但是排除了慢粒白血病，还有持续疼痛问题，是先看疼痛科还是看血液科，下次去哪呢🥺"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2026-07-22T13:55:45.000Z",
+        "id": "2079203610077110272",
+        "options": [
+          {
+            "label": "本省第一的血液科",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "瑞金的血液科",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "本省第一的疼痛科",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "去看免疫科排查",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2079203610077110272"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2079203613461897708",
+        "created_at": "2026-07-20T13:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079203613461897708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079203613461897708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以现在我该怎么办ww，血液有问题但是排除了慢粒白血病，还有持续疼痛问题，是先看疼痛科还是看血液科，下次去哪呢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 72,
+          "like_count": 13334,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 1892
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

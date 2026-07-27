@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2080875357344002538",
+    "created_at": "2026-07-26T04:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081232977359724587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067546726551199744",
+          "start": 0,
+          "username": "tsumi0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081232977359724587",
+    "in_reply_to_user_id": "2067546726551199744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080875357344002538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsumi0313 哇哇哇我家主人也喜欢高槻泉头像都是😺\n你好呀小泉φ(≧ω≦*)♪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2080875344446529536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODBGc-aoAA3S30.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2080875357344002538",
+        "created_at": "2026-07-26T04:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081232977359724587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067546726551199744",
+              "start": 0,
+              "username": "tsumi0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081232977359724587",
+        "in_reply_to_user_id": "2067546726551199744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080875357344002538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsumi0313 哇哇哇我家主人也喜欢高槻泉头像都是😺\n你好呀小泉φ(≧ω≦*)♪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080875344446529536"
+          ]
+        },
+        "author_id": "2067546726551199744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2080875357344002538",
+        "created_at": "2026-07-25T04:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080875357344002538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVgSEi8qal",
+              "end": 163,
+              "expanded_url": "https://x.com/tsumi0313/status/2080875357344002538/photo/1",
+              "media_key": "3_2080875344446529536",
+              "start": 140,
+              "url": "https://t.co/QVgSEi8qal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080875357344002538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1023,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是高槻泉，08年INFJ，坐标湖南\n生理心理性别女，喜欢听歌打游戏旅游，家里就像动物园养了两只狗一只猫两只鹦鹉\n讨厌性别对立，你喜欢我=我喜欢你\n最近明日方舟边狱巴士赛博朋克2077cs2（主队绿龙）生化危机鬼泣5死亡搁浅以撒的结合高浓度，欢迎找我加steam好友当赛博邻居 https://t.co/QVgSEi8qal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 73,
+          "like_count": 13851,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T09:57:49.000Z",
+        "description": "live for games and arts \n中文/EN",
+        "id": "2067546726551199744",
+        "location": "H CORP",
+        "name": "泉Izumi",
+        "pinned_tweet_id": "2080875357344002538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067547804432805888/fnabk7Bj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 46,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 854
+        },
+        "url": "",
+        "username": "tsumi0313",
+        "verified": false
+      }
+    ]
+  }
+}
