@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2081328264929493140",
+    "created_at": "2026-07-26T20:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081483774953762862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992300667395092480",
+          "start": 0,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081483774953762862",
+    "in_reply_to_user_id": "1992300667395092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081328264929493140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albert_C_Anker 这个止咳退烧还行止疼不比nsaid强多少，没有列管的处方药，药店都有，按说明书用也不能多吃，apap可不是闹着玩的呀🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081328255987253248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJdBX8agAAiVnx.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2081328264929493140",
+        "created_at": "2026-07-26T20:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081483774953762862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992300667395092480",
+              "start": 0,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081483774953762862",
+        "in_reply_to_user_id": "1992300667395092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081328264929493140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albert_C_Anker 这个止咳退烧还行止疼不比nsaid强多少，没有列管的处方药，药店都有，按说明书用也不能多吃，apap可不是闹着玩的呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081328255987253248"
+          ]
+        },
+        "author_id": "1992300667395092480",
+        "conversation_id": "2081328264929493140",
+        "created_at": "2026-07-26T10:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081328264929493140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3bVgOc9K4",
+              "end": 78,
+              "expanded_url": "https://x.com/Albert_C_Anker/status/2081328264929493140/photo/1",
+              "media_key": "3_2081328255987253248",
+              "start": 55,
+              "url": "https://t.co/l3bVgOc9K4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081328264929493140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6564,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我二姨夫得癌症了化疗非常痛苦（但是今天状态挺好）这是我在他们家桌上发现的\n最终还是没把盒子悄咪咪打开拿走一板 https://t.co/l3bVgOc9K4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3094,
+          "following_count": 74,
+          "like_count": 13970,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 2011
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机&伪人日记本|消极虚无主义者|默认友好基本无雷|不关心政治|INFJ sp/so5w6|Aspie&Asexual|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StopOverThinkin",
+                "end": 23,
+                "expanded_url": "https://t.me/StopOverThinkin",
+                "start": 0,
+                "url": "https://t.co/IcuRbOjlYg"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "伪人阿尔伯特",
+        "pinned_tweet_id": "2042353903682142500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022152434731335680/7w9oGGgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 237,
+          "like_count": 12996,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/IcuRbOjlYg",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}
