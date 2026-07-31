@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2081035380099604739",
+    "created_at": "2026-07-28T12:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082085106630721789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896604741821726720",
+          "start": 0,
+          "username": "_yonayonaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082085106630721789",
+    "in_reply_to_user_id": "1896604741821726720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081035380099604739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yonayonaka_ 宝宝找医生开 间苯三酚 + 依托考昔 试试呢，依托考昔大概有20小时作用吧，间苯三酚可以解孪减少痛感，吃冰的就是很容易痉挛剧烈疼痛诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2081035380099604739",
+        "created_at": "2026-07-28T12:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082085106630721789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896604741821726720",
+              "start": 0,
+              "username": "_yonayonaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082085106630721789",
+        "in_reply_to_user_id": "1896604741821726720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081035380099604739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yonayonaka_ 宝宝找医生开 间苯三酚 + 依托考昔 试试呢，依托考昔大概有20小时作用吧，间苯三酚可以解孪减少痛感，吃冰的就是很容易痉挛剧烈疼痛诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896604741821726720",
+        "conversation_id": "2081035380099604739",
+        "created_at": "2026-07-25T15:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081035380099604739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081035380099604739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛经快死掉了😭明明以前学生时代没什么感觉的…还能随便吃冰淇淋喝冷饮。昨天睡了4个小时疼醒了，吃止疼药也只能压几个小时，好折磨。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3092,
+          "following_count": 74,
+          "like_count": 14154,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 1999
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "痛苦和幸福本来就是同一条感受通道里的两端。\n里人格：@shi6w6\n🍤请看置顶 口令/赞赏码备注，没有口令的私信无差别拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "shi6w6"
+              }
+            ]
+          }
+        },
+        "id": "1896604741821726720",
+        "location": "🚪88/288/520 ",
+        "name": "✞薬箱✞",
+        "pinned_tweet_id": "2069371793832616314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 296,
+          "like_count": 1405,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 1407
+        },
+        "url": "",
+        "username": "_yonayonaka_",
+        "verified": true
+      }
+    ]
+  }
+}

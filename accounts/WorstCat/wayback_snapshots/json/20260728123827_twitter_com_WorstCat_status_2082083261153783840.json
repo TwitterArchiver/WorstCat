@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2081764683628089627",
+    "created_at": "2026-07-28T12:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082083261153783840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1928692640356134912",
+          "start": 0,
+          "username": "9way021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082083261153783840",
+    "in_reply_to_user_id": "1928692640356134912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081764683628089627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9way021 烟草各种酒给国家带来巨大的财富，巨额的消费税和增值税足够覆盖军费支出，不可能禁的&gt;_&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2081764683628089627",
+        "created_at": "2026-07-28T12:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082083261153783840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1928692640356134912",
+              "start": 0,
+              "username": "9way021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082083261153783840",
+        "in_reply_to_user_id": "1928692640356134912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081764683628089627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9way021 烟草各种酒给国家带来巨大的财富，巨额的消费税和增值税足够覆盖军费支出，不可能禁的&gt;_&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928692640356134912",
+        "conversation_id": "2081764683628089627",
+        "created_at": "2026-07-27T15:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081764683628089627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081764683628089627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国能不能禁止香烟、酒精、槟榔开放大麻？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3091,
+          "following_count": 74,
+          "like_count": 14144,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 1998
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T05:59:07.000Z",
+        "description": "https://t.co/lfgYhH3aJt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/weiwei0420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/weiwei0420",
+                "start": 0,
+                "url": "https://t.co/lfgYhH3aJt"
+              }
+            ]
+          }
+        },
+        "id": "1928692640356134912",
+        "location": "ISFP | ADHD | 上推只为发颠 ",
+        "name": "Dennis Nilsen 2.0",
+        "pinned_tweet_id": "2081373295409250675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076929194685251585/UIXxFdlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 94,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "9way021",
+        "verified": false
+      }
+    ]
+  }
+}
