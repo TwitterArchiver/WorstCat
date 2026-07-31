@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2082288342998159709",
+    "created_at": "2026-07-29T12:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082438614898876664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067546726551199744",
+          "start": 0,
+          "username": "tsumi0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082438614898876664",
+    "in_reply_to_user_id": "2067546726551199744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082288342998159709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsumi0313 如果现在因为愧疚不愿意接受帮助，有相当一部分人因为饮食时间次数不规律患上胃病被折磨多年。父母也不希望你过的太辛苦也会心疼也会担忧反而会更麻烦更担心一直记挂着担心吃不好冻着热着的。不吃早餐对消化系统特别是胃食道胆伤害很大，现在接受帮助并不是添麻烦，是支取家庭幸福基金以后记得存进去😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2082288342998159709",
+        "created_at": "2026-07-29T12:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082438614898876664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067546726551199744",
+              "start": 0,
+              "username": "tsumi0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082438614898876664",
+        "in_reply_to_user_id": "2067546726551199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082288342998159709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsumi0313 如果现在因为愧疚不愿意接受帮助，有相当一部分人因为饮食时间次数不规律患上胃病被折磨多年。父母也不希望你过的太辛苦也会心疼也会担忧反而会更麻烦更担心一直记挂着担心吃不好冻着热着的。不吃早餐对消化系统特别是胃食道胆伤害很大，现在接受帮助并不是添麻烦，是支取家庭幸福基金以后记得存进去😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067546726551199744",
+        "conversation_id": "2082288342998159709",
+        "created_at": "2026-07-29T02:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082288342998159709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082288342998159709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 269,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我现在穷的要死甚至没钱买早餐，厂位置偏僻外卖费太贵了我都不想点，而且找父母要钱会有一种强烈的愧疚感觉得自己就是寄生虫。所以一般很少主动找父母要钱，现在上大学都是月初时候父母主动跟我打生活费。我妈今天还埋怨我为啥有什么困难和需要帮助都不跟她说，因为我不想麻烦父母。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3093,
+          "following_count": 75,
+          "like_count": 14226,
+          "listed_count": 5,
+          "media_count": 269,
+          "tweet_count": 1991
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T09:57:49.000Z",
+        "description": "Chinese player🎮\n中文/EN/日本語ok\n翻訳ソフトを使います",
+        "id": "2067546726551199744",
+        "location": "中华人民共和国",
+        "name": "高槻泉",
+        "pinned_tweet_id": "2082159633456881881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067547804432805888/fnabk7Bj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 51,
+          "like_count": 1957,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "tsumi0313",
+        "verified": false
+      }
+    ]
+  }
+}
