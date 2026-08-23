@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2084927380183994705",
+    "created_at": "2026-08-06T13:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085364782945984558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        },
+        {
+          "end": 30,
+          "id": "1438114009408884738",
+          "start": 14,
+          "username": "MzTHtXJAx4zR24w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085364782945984558",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084956884189212969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya @MzTHtXJAx4zR24w 不要自己用，数学不好算错了都有危险，泵速错了…房室传导阻滞 严重可能会停搏，特别是静息心率慢的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2084927380183994705",
+        "created_at": "2026-08-06T13:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085364782945984558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            },
+            {
+              "end": 30,
+              "id": "1438114009408884738",
+              "start": 14,
+              "username": "MzTHtXJAx4zR24w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085364782945984558",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084956884189212969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya @MzTHtXJAx4zR24w 不要自己用，数学不好算错了都有危险，泵速错了…房室传导阻滞 严重可能会停搏，特别是静息心率慢的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2084927380183994705",
+        "created_at": "2026-08-05T10:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084956884189212969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1438114009408884738",
+              "start": 0,
+              "username": "MzTHtXJAx4zR24w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084956884189212969",
+        "in_reply_to_user_id": "1438114009408884738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084946895156457630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MzTHtXJAx4zR24w 我化学和药理学都不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 80,
+          "like_count": 15062,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 2118
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2084566116417032467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 446,
+          "like_count": 683,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-15T12:17:35.000Z",
+        "description": "nb",
+        "id": "1438114009408884738",
+        "name": "李某某",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438114919807815683/BvgkrTmQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 144,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "MzTHtXJAx4zR24w",
+        "verified": false
+      }
+    ]
+  }
+}

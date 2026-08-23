@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2085596415342850459",
+    "created_at": "2026-08-07T14:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085735753850757304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        },
+        {
+          "end": 27,
+          "id": "906703622112776193",
+          "start": 17,
+          "username": "KANEKEN47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085735753850757304",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085596415342850459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi @KANEKEN47 石膏锯还会伤人嘛(*☉౪⊙*)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2085596408686465024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGG4jyWUAA2j0L.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2085596415342850459",
+        "created_at": "2026-08-07T14:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085735753850757304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            },
+            {
+              "end": 27,
+              "id": "906703622112776193",
+              "start": 17,
+              "username": "KANEKEN47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085735753850757304",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085596415342850459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi @KANEKEN47 石膏锯还会伤人嘛(*☉౪⊙*)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085596408686465024"
+          ]
+        },
+        "author_id": "993886755878191104",
+        "conversation_id": "2085596415342850459",
+        "created_at": "2026-08-07T05:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085596415342850459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 108,
+              "id": "906703622112776193",
+              "start": 98,
+              "username": "KANEKEN47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xuheKlYa6g",
+              "end": 132,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/2085596415342850459/photo/1",
+              "media_key": "3_2085596408686465024",
+              "start": 109,
+              "url": "https://t.co/xuheKlYa6g"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4f0863bf85aefe32"
+        },
+        "id": "2085596415342850459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 42912,
+          "like_count": 321,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们玩石膏的怎么嘴那么严😭😭😭\n虽然拘束效果超级棒整个人只能望着窗户发呆时不时再灌点肠电两下（？\n但是拆石膏 电动石膏锯在你头边狂奔宛如电锯杀人魔😭 还烫\n我喊的一路火花带闪电的😭😭😭\n感谢大手子@KANEKEN47 https://t.co/xuheKlYa6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3104,
+          "following_count": 85,
+          "like_count": 15189,
+          "listed_count": 5,
+          "media_count": 282,
+          "tweet_count": 2135
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g1990033159623422010/i28K3XoY5L",
+                "start": 0,
+                "url": "https://t.co/Jtngzd0IB3"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27401,
+          "following_count": 14862,
+          "like_count": 2906,
+          "listed_count": 78,
+          "media_count": 3143,
+          "tweet_count": 10228
+        },
+        "url": "https://t.co/Jtngzd0IB3",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-10T02:19:24.000Z",
+        "description": "擅长木乃伊全包，制造创意道具，以及圈养；可惜绳不是很擅长。目前在新泽西，偶尔在北京。本门是物理，对社会学和历史也有些许研究，可以礼貌地交流各路有趣的科学和哲学观点。Specialized in mummification.Welcome.",
+        "id": "906703622112776193",
+        "location": "New Jersey, USA",
+        "name": "KANE 47",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695495845620195328/PQMSccVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31503,
+          "following_count": 6925,
+          "like_count": 117312,
+          "listed_count": 107,
+          "media_count": 377,
+          "tweet_count": 9430
+        },
+        "url": "",
+        "username": "KANEKEN47",
+        "verified": true
+      }
+    ]
+  }
+}

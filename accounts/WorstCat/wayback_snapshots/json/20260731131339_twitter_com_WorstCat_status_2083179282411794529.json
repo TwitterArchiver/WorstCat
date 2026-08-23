@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2048270031080042872",
+    "created_at": "2026-07-31T13:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083179282411794529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1832449274434777088",
+          "start": 0,
+          "username": "Unieno2088"
+        },
+        {
+          "end": 23,
+          "id": "1721895937357004800",
+          "start": 12,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083179282411794529",
+    "in_reply_to_user_id": "1832449274434777088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082470157491048636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unieno2088 @Strf_9040C 这个列表是为了调侃啦，不要当真，虽然新疆真的在严控布洛芬就很好笑。再烂的药都能遇到对的人呀，苯海拉明和eve里的丙戊酰脲在日本还是必o顶流呢，扑尔敏 苯海索 氯氮平 阿托品也都有相伴一生的爱人φ(≧ω≦*)♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2048270031080042872",
+        "created_at": "2026-07-31T13:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083179282411794529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1832449274434777088",
+              "start": 0,
+              "username": "Unieno2088"
+            },
+            {
+              "end": 23,
+              "id": "1721895937357004800",
+              "start": 12,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083179282411794529",
+        "in_reply_to_user_id": "1832449274434777088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082470157491048636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unieno2088 @Strf_9040C 这个列表是为了调侃啦，不要当真，虽然新疆真的在严控布洛芬就很好笑。再烂的药都能遇到对的人呀，苯海拉明和eve里的丙戊酰脲在日本还是必o顶流呢，扑尔敏 苯海索 氯氮平 阿托品也都有相伴一生的爱人φ(≧ω≦*)♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832449274434777088",
+        "conversation_id": "2048270031080042872",
+        "created_at": "2026-07-29T14:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082470157491048636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 21,
+              "id": "1721895937357004800",
+              "start": 10,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082470157491048636",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048293559590322633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @Strf_9040C 对乙酰氨基酚和布洛芬都列到精二里面有点离谱了…墙内 sb 真的一言难尽，但是如果列精二感冒药就真的全军覆没了啊\n治疗AD 的药物学界广泛认可只有AChEI 和美金刚。而且晚期也只有美金刚效应量比较强，是没有代替品的。AD 患者人太多列精二不太可能，最多也只能是目前pr 的管制方式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3086,
+          "following_count": 74,
+          "like_count": 14334,
+          "listed_count": 5,
+          "media_count": 270,
+          "tweet_count": 1998
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T16:02:30.000Z",
+        "description": "",
+        "id": "1832449274434777088",
+        "name": "Aurorix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070505476241186816/lj4MTlH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Unieno2088",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 2480,
+          "like_count": 14383,
+          "listed_count": 2,
+          "media_count": 685,
+          "tweet_count": 1198
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

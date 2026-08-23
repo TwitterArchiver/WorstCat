@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2083413687008981263",
+    "created_at": "2026-08-02T11:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083872677761302892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083872677761302892",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083413687008981263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 拉黑华住很久了，太差"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083413678070943744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnFs6mb0AA8nkl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1776,
+        "media_key": "3_2083413678108602368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnFs6vacAApMGt.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2083413687008981263",
+        "created_at": "2026-08-02T11:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083872677761302892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083872677761302892",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083413687008981263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 拉黑华住很久了，太差"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083413678070943744",
+            "3_2083413678108602368"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2083413687008981263",
+        "created_at": "2026-08-01T04:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083413687008981263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwSoifgVTS",
+              "end": 58,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2083413687008981263/photo/1",
+              "media_key": "3_2083413678070943744",
+              "start": 35,
+              "url": "https://t.co/iwSoifgVTS"
+            },
+            {
+              "display_url": "pic.x.com/iwSoifgVTS",
+              "end": 58,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2083413687008981263/photo/1",
+              "media_key": "3_2083413678108602368",
+              "start": 35,
+              "url": "https://t.co/iwSoifgVTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083413687008981263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 54221,
+          "like_count": 288,
+          "quote_count": 2,
+          "reply_count": 77,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉亚朵是真的尊重我_(:з」∠)_\n华住会都没这待遇\n即使证件为男 https://t.co/iwSoifgVTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 75,
+          "like_count": 14599,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 2039
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 1281,
+          "like_count": 7624,
+          "listed_count": 6,
+          "media_count": 672,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087161745731465217",
+        "3_2087161745005834240"
+      ],
+      "media_source_tweet_id": [
+        "2087161749305012433",
+        "2087161749305012433"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2087171454140047378",
+    "created_at": "2026-08-11T13:37:07.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087171454140047378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1496243522374098947",
+          "start": 3,
+          "username": "cheese_ju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTA6ydywRr",
+          "end": 85,
+          "expanded_url": "https://x.com/cheese_ju/status/2087161749305012433/photo/1",
+          "media_key": "3_2087161745731465217",
+          "start": 62,
+          "url": "https://t.co/eTA6ydywRr"
+        },
+        {
+          "display_url": "pic.x.com/eTA6ydywRr",
+          "end": 85,
+          "expanded_url": "https://x.com/cheese_ju/status/2087161749305012433/photo/1",
+          "media_key": "3_2087161745005834240",
+          "start": 62,
+          "url": "https://t.co/eTA6ydywRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087171454140047378",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087161745731465217"
+      },
+      {
+        "media_key": "3_2087161745005834240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087161749305012433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheese_ju: 刘总说的对，橘橘我确实有精神病，有诊断证明的那种，做为囚服生产厂家，您对客户的描述太精准啦👍 https://t.co/eTA6ydywRr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2087161745731465217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcWjKsbsAE3yCd.jpg",
+        "width": 688
+      },
+      {
+        "height": 517,
+        "media_key": "3_2087161745005834240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcWjH_bcAAYOxA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087161745731465217",
+            "3_2087161745005834240"
+          ]
+        },
+        "author_id": "1496243522374098947",
+        "conversation_id": "2087161749305012433",
+        "created_at": "2026-08-11T12:58:33.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087161749305012433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTA6ydywRr",
+              "end": 70,
+              "expanded_url": "https://x.com/cheese_ju/status/2087161749305012433/photo/1",
+              "media_key": "3_2087161745731465217",
+              "start": 47,
+              "url": "https://t.co/eTA6ydywRr"
+            },
+            {
+              "display_url": "pic.x.com/eTA6ydywRr",
+              "end": 70,
+              "expanded_url": "https://x.com/cheese_ju/status/2087161749305012433/photo/1",
+              "media_key": "3_2087161745005834240",
+              "start": 47,
+              "url": "https://t.co/eTA6ydywRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087161749305012433",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087161745731465217"
+          },
+          {
+            "media_key": "3_2087161745005834240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刘总说的对，橘橘我确实有精神病，有诊断证明的那种，做为囚服生产厂家，您对客户的描述太精准啦👍 https://t.co/eTA6ydywRr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087161745731465217",
+            "3_2087161745005834240"
+          ],
+          "media_source_tweet_id": [
+            "2087161749305012433",
+            "2087161749305012433"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2087171454140047378",
+        "created_at": "2026-08-11T13:37:07.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087171454140047378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1496243522374098947",
+              "start": 3,
+              "username": "cheese_ju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTA6ydywRr",
+              "end": 85,
+              "expanded_url": "https://x.com/cheese_ju/status/2087161749305012433/photo/1",
+              "media_key": "3_2087161745731465217",
+              "start": 62,
+              "url": "https://t.co/eTA6ydywRr"
+            },
+            {
+              "display_url": "pic.x.com/eTA6ydywRr",
+              "end": 85,
+              "expanded_url": "https://x.com/cheese_ju/status/2087161749305012433/photo/1",
+              "media_key": "3_2087161745005834240",
+              "start": 62,
+              "url": "https://t.co/eTA6ydywRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087171454140047378",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087161745731465217"
+          },
+          {
+            "media_key": "3_2087161745005834240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087161749305012433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheese_ju: 刘总说的对，橘橘我确实有精神病，有诊断证明的那种，做为囚服生产厂家，您对客户的描述太精准啦👍 https://t.co/eTA6ydywRr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2087171454140047378",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 87,
+          "like_count": 15623,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 2212
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-22T22:00:51.000Z",
+        "description": "壓倒炕的大橘貓，現實中的乖阿姨 #brat #abdlgirl \n👉#lesbian 有對🐘不約！不找主人！不加q不加v 再問拉黑👈\n繩子 金屬束縛 醫療 戀痛 輕度接受breathplay 正在被 #圈養⛓️\n隨緣發癲，經常失踪，發癫小號@WorstCat 一起来發癫~",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "brat"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "abdlgirl"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "lesbian"
+              },
+              {
+                "end": 103,
+                "start": 100,
+                "tag": "圈養"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "WorstCat"
+              }
+            ]
+          }
+        },
+        "id": "1496243522374098947",
+        "is_identity_verified": false,
+        "location": "距您1.1KM",
+        "most_recent_tweet_id": "2087161749305012433",
+        "name": "呆橘橘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1496243522374098947/1647995366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525044935598080/5VNMH3vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21379,
+          "following_count": 325,
+          "like_count": 4136,
+          "listed_count": 54,
+          "media_count": 128,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "cheese_ju",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

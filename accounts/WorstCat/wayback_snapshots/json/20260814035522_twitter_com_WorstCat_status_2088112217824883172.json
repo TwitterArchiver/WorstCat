@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088112207448162304",
+        "3_2088112214914002944"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2088112217824883172",
+    "created_at": "2026-08-14T03:55:22.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088112217824883172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mCpEDoSyH4",
+          "end": 87,
+          "expanded_url": "https://x.com/WorstCat/status/2088112217824883172/photo/1",
+          "media_key": "3_2088112207448162304",
+          "start": 64,
+          "url": "https://t.co/mCpEDoSyH4"
+        },
+        {
+          "display_url": "pic.x.com/mCpEDoSyH4",
+          "end": 87,
+          "expanded_url": "https://x.com/WorstCat/status/2088112217824883172/photo/1",
+          "media_key": "3_2088112214914002944",
+          "start": 64,
+          "url": "https://t.co/mCpEDoSyH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088112217824883172",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088112207448162304"
+      },
+      {
+        "media_key": "3_2088112214914002944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奇怪长相的土耳其版本利必通咀嚼片，生产地址就是土耳其。中国版和越南版(又称波兰版)都是波兰生产所以长得一样。its扫码是对的。 https://t.co/mCpEDoSyH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_2088112207448162304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp2_UgawAAHzY7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088112214914002944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp2_wUacAA75bZ.jpg",
+        "width": 957
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088112207448162304",
+            "3_2088112214914002944"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2088112217824883172",
+        "created_at": "2026-08-14T03:55:22.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088112217824883172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCpEDoSyH4",
+              "end": 87,
+              "expanded_url": "https://x.com/WorstCat/status/2088112217824883172/photo/1",
+              "media_key": "3_2088112207448162304",
+              "start": 64,
+              "url": "https://t.co/mCpEDoSyH4"
+            },
+            {
+              "display_url": "pic.x.com/mCpEDoSyH4",
+              "end": 87,
+              "expanded_url": "https://x.com/WorstCat/status/2088112217824883172/photo/1",
+              "media_key": "3_2088112214914002944",
+              "start": 64,
+              "url": "https://t.co/mCpEDoSyH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088112217824883172",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088112207448162304"
+          },
+          {
+            "media_key": "3_2088112214914002944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪长相的土耳其版本利必通咀嚼片，生产地址就是土耳其。中国版和越南版(又称波兰版)都是波兰生产所以长得一样。its扫码是对的。 https://t.co/mCpEDoSyH4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2088112217824883172",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 86,
+          "like_count": 15756,
+          "listed_count": 5,
+          "media_count": 293,
+          "tweet_count": 2230
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

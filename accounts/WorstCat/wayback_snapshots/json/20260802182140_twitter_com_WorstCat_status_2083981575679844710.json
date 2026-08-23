@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2072717655447155143",
+    "created_at": "2026-08-02T18:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083981575679844710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083981575679844710",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072717655447155143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 医生给我开的56的橙普才17多‌・ࡇ・"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072717639156477954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPFtgmbsAIlzqU.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2072717655447155143",
+        "created_at": "2026-08-02T18:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083981575679844710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083981575679844710",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072717655447155143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 医生给我开的56的橙普才17多‌・ࡇ・"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072717639156477954"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "conversation_id": "2072717655447155143",
+        "created_at": "2026-07-02T16:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072717655447155143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lceCakI40",
+              "end": 23,
+              "expanded_url": "https://x.com/OoOooo0518/status/2072717655447155143/photo/1",
+              "media_key": "3_2072717639156477954",
+              "start": 0,
+              "url": "https://t.co/7lceCakI40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072717655447155143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1576,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7lceCakI40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 76,
+          "like_count": 14631,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹: @QianQian_TwT @FanQie_QianQian @OE3IIGFQRQ9473\n免费咨询药物推荐电报联系https://t.co/CIpMy1GwBH或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QianQian_TwT"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 121,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 98,
+                "url": "https://t.co/CIpMy1GwBH"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "location": "杭州",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 328,
+          "like_count": 2687,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 880
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": false
+      }
+    ]
+  }
+}

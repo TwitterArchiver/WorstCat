@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089000071316865024"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2089000073787228217",
+    "created_at": "2026-08-16T14:43:23.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089000073787228217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sgc4aACKrE",
+          "end": 46,
+          "expanded_url": "https://x.com/WorstCat/status/2089000073787228217/photo/1",
+          "media_key": "3_2089000071316865024",
+          "start": 23,
+          "url": "https://t.co/Sgc4aACKrE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089000073787228217",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089000071316865024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自行车锁的卖家太坏了，拆包装就把猫爪戳破了🥺 https://t.co/Sgc4aACKrE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2089000071316865024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2efzKbgAArBQc.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089000071316865024"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2089000073787228217",
+        "created_at": "2026-08-16T14:43:23.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089000073787228217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sgc4aACKrE",
+              "end": 46,
+              "expanded_url": "https://x.com/WorstCat/status/2089000073787228217/photo/1",
+              "media_key": "3_2089000071316865024",
+              "start": 23,
+              "url": "https://t.co/Sgc4aACKrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089000073787228217",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089000071316865024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自行车锁的卖家太坏了，拆包装就把猫爪戳破了🥺 https://t.co/Sgc4aACKrE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2089000073787228217",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 85,
+          "like_count": 15938,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 2259
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

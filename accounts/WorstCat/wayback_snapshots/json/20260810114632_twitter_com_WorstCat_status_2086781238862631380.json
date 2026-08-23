@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2086764814320419186",
+    "created_at": "2026-08-10T11:46:32.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086781238862631380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628182955872129024",
+          "start": 0,
+          "username": "baifu080810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086781238862631380",
+    "in_reply_to_user_id": "1628182955872129024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086764814320419186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baifu080810 生日快乐呀🎂🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086764803159420928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWtiEYa8AAMUvH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2086764814320419186",
+        "created_at": "2026-08-10T11:46:32.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086781238862631380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628182955872129024",
+              "start": 0,
+              "username": "baifu080810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086781238862631380",
+        "in_reply_to_user_id": "1628182955872129024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086764814320419186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baifu080810 生日快乐呀🎂🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086764803159420928"
+          ]
+        },
+        "author_id": "1628182955872129024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086764814320419186",
+        "created_at": "2026-08-10T10:41:16.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086764814320419186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6oQVFWgbgy",
+              "end": 27,
+              "expanded_url": "https://x.com/baifu080810/status/2086764814320419186/photo/1",
+              "media_key": "3_2086764803159420928",
+              "start": 4,
+              "url": "https://t.co/6oQVFWgbgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086764814320419186",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086764803159420928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日咯 https://t.co/6oQVFWgbgy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2086781238862631380",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 88,
+          "like_count": 15492,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 2189
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-22T00:01:08.000Z",
+        "description": "你好这里是白缚！直接叫haku就行！08/不登校/低浮上",
+        "id": "1628182955872129024",
+        "is_identity_verified": false,
+        "location": "银河铁道",
+        "most_recent_tweet_id": "2086764814320419186",
+        "name": "Hakukawaii（MECT）",
+        "pinned_tweet_id": "1845832099548536875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628182955872129024/1709112188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640661273208832000/OKHEtjKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 242,
+          "like_count": 3090,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2137
+        },
+        "url": "",
+        "username": "baifu080810",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

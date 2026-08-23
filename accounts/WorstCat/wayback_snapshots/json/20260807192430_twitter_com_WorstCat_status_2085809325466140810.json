@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2085728531162837273",
+    "created_at": "2026-08-07T19:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085809325466140810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085809325466140810",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085728531162837273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt 第一次还不错，可以考虑四五十买个电陶炉不是特别小的那种，温度好控制，平时还能拿来煮面煮茶(˶ᵔᵕᵔ˶)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51110,
+        "height": 1920,
+        "media_key": "13_2085727999182446593",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085727999182446593/img/bJqqjhJkvx6fHaDf.jpg",
+        "public_metrics": {
+          "view_count": 468
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085727999182446593/vid/avc1/480x852/5NKtt06LuhBU_nsf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085727999182446593/vid/avc1/1080x1920/xiAdhCJphbk-NDYw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085727999182446593/vid/avc1/720x1280/15ceIXlvdwn3eaql.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085727999182446593/pl/8CTjgx8pJ_3jD55x.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085727999182446593/vid/avc1/320x568/Qw_btKI9_GOPWyHR.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2085728531162837273",
+        "created_at": "2026-08-07T19:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085809325466140810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085809325466140810",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085728531162837273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 第一次还不错，可以考虑四五十买个电陶炉不是特别小的那种，温度好控制，平时还能拿来煮面煮茶(˶ᵔᵕᵔ˶)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085727999182446593"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "2085728531162837273",
+        "created_at": "2026-08-07T14:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085728531162837273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzaVkVTFXo",
+              "end": 90,
+              "expanded_url": "https://x.com/Jaciezyt/status/2085728531162837273/video/1",
+              "media_key": "13_2085727999182446593",
+              "start": 67,
+              "url": "https://t.co/mzaVkVTFXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085728531162837273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1349,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一次用摩卡壶\n应该算成功了吧🤔\n可能离火晚了稍微有点过萃（\n差点溢出来了\n\n我对压力容器一直有一种敬畏（\n最后冒好多泡泡吓到我了（ https://t.co/mzaVkVTFXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 85,
+          "like_count": 15216,
+          "listed_count": 5,
+          "media_count": 283,
+          "tweet_count": 2139
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 JK刚刚退役😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 984,
+          "like_count": 66339,
+          "listed_count": 11,
+          "media_count": 1468,
+          "tweet_count": 16791
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": true
+      }
+    ]
+  }
+}

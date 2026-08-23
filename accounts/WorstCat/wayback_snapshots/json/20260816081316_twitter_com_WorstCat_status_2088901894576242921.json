@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2088599671124148675",
+    "created_at": "2026-08-16T08:13:16.000Z",
+    "display_text_range": [
+      17,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T09:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088901894576242921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467343910284701700",
+          "start": 0,
+          "username": "beagooddoctor01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088901894576242921",
+    "in_reply_to_user_id": "1467343910284701700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088599671124148675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beagooddoctor01 这人主治就这么大的架子以为自己是科主任教授博导杰青院士呢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2088599671124148675",
+        "created_at": "2026-08-16T08:13:16.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088901894576242921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1467343910284701700",
+              "start": 0,
+              "username": "beagooddoctor01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088901894576242921",
+        "in_reply_to_user_id": "1467343910284701700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088599671124148675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beagooddoctor01 这人主治就这么大的架子以为自己是科主任教授博导杰青院士呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467343910284701700",
+        "conversation_id": "2088599671124148675",
+        "created_at": "2026-08-15T12:12:20.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088599671124148675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beagooddoctor0…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/beagooddoctor01/status/2087165266463781297",
+              "start": 140,
+              "url": "https://t.co/uFPmJ6mE1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088599671124148675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087165266463781297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天夜班请消化科会诊结果来的又是这个傻哔😅\n昨天一个腹泻入院的老太太突发腹痛、呕吐，虽然腹部查体没有明显的腹膜刺激征，但做完急诊腹部ct技师打电话过来报危急值说是像肠梗阻\n结果这傻哔来的第一句话就是骂我：你没脑子吗?这种事情都不会判断还要请急会诊(废话都打电话过来报危急值了😅) https://t.co/uFPmJ6mE1d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2088901894576242921",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 85,
+          "like_count": 15896,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 2253
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-05T04:04:00.000Z",
+        "description": "臭底边住院医师\n立场在建制粉区和逆天支黑之中反复横跳\n包蜜/粉区/反贼/支黑/小骂大帮忙",
+        "id": "1467343910284701700",
+        "is_identity_verified": false,
+        "location": "China,Zhejiang province",
+        "most_recent_tweet_id": "2088901217162502555",
+        "name": "逻各斯official",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1467343910284701700/1712071198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013232374423724032/lt5_UrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 332,
+          "like_count": 1356,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 2310
+        },
+        "url": "",
+        "username": "beagooddoctor01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

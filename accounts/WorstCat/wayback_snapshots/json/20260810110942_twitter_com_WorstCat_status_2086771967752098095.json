@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2086577318060024073",
+    "created_at": "2026-08-10T11:09:42.000Z",
+    "display_text_range": [
+      10,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086771967752098095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086771967752098095",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086577318060024073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 宝宝我很担心你， 🧊是把神经元的内啡肽彻底抢走搬空所以带来极致的感觉，会让人无比怀念，其他的都很难达到，用太久的话就很难离开了。简单的也许去看医生试试呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2086577318060024073",
+        "created_at": "2026-08-10T11:09:42.000Z",
+        "display_text_range": [
+          10,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086771967752098095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086771967752098095",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086577318060024073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 宝宝我很担心你， 🧊是把神经元的内啡肽彻底抢走搬空所以带来极致的感觉，会让人无比怀念，其他的都很难达到，用太久的话就很难离开了。简单的也许去看医生试试呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2086577318060024073",
+        "created_at": "2026-08-09T22:16:14.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086577318060024073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/riexwx/status/…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/riexwx/status/2086137568093982991",
+              "start": 105,
+              "url": "https://t.co/XBwHHkyFQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086577318060024073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2330,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086137568093982991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是啊\n我真的只想搞点简单的 比如右美 普瑞 oxy\n蘑菇也行\n我只想温和一点 让我保持正常生活而已\n为什么甲基苯丙胺 氯胺酮这些东西遍地都是还便宜\n我只想吃点正常的药想开到很费劲\n所以这个世界到底怎么了？ https://t.co/XBwHHkyFQ6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2086771967752098095",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 88,
+          "like_count": 15487,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "",
+        "id": "1809233055196073984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086584582795919695",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809233055196073984/1780769369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 438,
+          "like_count": 2246,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 1564
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

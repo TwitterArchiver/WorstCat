@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2088045004577181738",
+    "created_at": "2026-08-13T23:28:17.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088045004577181738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088045004577181738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论如何家务活都需要我来做，不管多疼，扫地拖地擦桌子洗衣服晾衣服都是我的，主人口口声声说帮我结果只停留在嘴上，还把垃圾扔的到处都是用完的东西乱放。我哪怕疼到nrs5-6也得吃了止疼药做，医生觉得我不够疼主人也觉得我没多疼：这不是能干活吗？我很委屈，我想发癫全都弄烂找个没人的地方躲起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2088045004577181738",
+        "created_at": "2026-08-13T23:28:17.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088045004577181738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088045004577181738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论如何家务活都需要我来做，不管多疼，扫地拖地擦桌子洗衣服晾衣服都是我的，主人口口声声说帮我结果只停留在嘴上，还把垃圾扔的到处都是用完的东西乱放。我哪怕疼到nrs5-6也得吃了止疼药做，医生觉得我不够疼主人也觉得我没多疼：这不是能干活吗？我很委屈，我想发癫全都弄烂找个没人的地方躲起来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2088045004577181738",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3103,
+          "following_count": 87,
+          "like_count": 15742,
+          "listed_count": 5,
+          "media_count": 292,
+          "tweet_count": 2228
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
