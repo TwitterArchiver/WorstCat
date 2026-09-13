@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2095074911522042076",
+    "created_at": "2026-09-05T06:41:47.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096126629651296427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "840860307652194305",
+          "start": 0,
+          "username": "shj80900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096126629651296427",
+    "in_reply_to_user_id": "840860307652194305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096106108616364528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shj80900 看过啦从业40多年的老中医让我用乌头碱续命汤🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2095074911522042076",
+        "created_at": "2026-09-05T06:41:47.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096126629651296427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "840860307652194305",
+              "start": 0,
+              "username": "shj80900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096126629651296427",
+        "in_reply_to_user_id": "840860307652194305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096106108616364528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shj80900 看过啦从业40多年的老中医让我用乌头碱续命汤🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840860307652194305",
+        "conversation_id": "2095074911522042076",
+        "created_at": "2026-09-05T05:20:14.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096106108616364528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096106108616364528",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095074911522042076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 是在没结果就只能去看看老中医了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096126629651296427",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 90,
+          "like_count": 17336,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 2435
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-12T09:41:34.000Z",
+        "description": "",
+        "id": "840860307652194305",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2096106108616364528",
+        "name": "shj",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1039066447287267328/S7V56myo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 2091,
+          "like_count": 1692,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "shj80900",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096604835139461476",
+    "created_at": "2026-09-06T15:07:02.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096616167784042911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096616167784042911",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096604835139461476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 今日青年大学习已完成φ(≧ω≦*)♪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096604826302124032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRii-zIbkAA3MNH.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096604835139461476",
+        "created_at": "2026-09-06T15:07:02.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096616167784042911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096616167784042911",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096604835139461476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 今日青年大学习已完成φ(≧ω≦*)♪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096604826302124032"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096604835139461476",
+        "created_at": "2026-09-06T14:22:00.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096604835139461476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5FpQpjCvXO",
+              "end": 45,
+              "expanded_url": "https://x.com/YangDowond/status/2096604835139461476/photo/1",
+              "media_key": "3_2096604826302124032",
+              "start": 22,
+              "url": "https://t.co/5FpQpjCvXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096604835139461476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096604826302124032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效上来看广州吸毒真是好玩，越看越得劲（） https://t.co/5FpQpjCvXO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096616167784042911",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 99,
+          "like_count": 17722,
+          "listed_count": 6,
+          "media_count": 316,
+          "tweet_count": 2493
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096616018902974949",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 306,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

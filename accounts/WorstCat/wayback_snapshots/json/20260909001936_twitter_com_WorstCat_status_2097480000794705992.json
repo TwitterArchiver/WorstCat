@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097384732023808156",
+    "created_at": "2026-09-09T00:19:36.000Z",
+    "display_text_range": [
+      17,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T01:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097480000794705992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803609911215136769",
+          "start": 0,
+          "username": "pDwIj6gMsi50560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097480000794705992",
+    "in_reply_to_user_id": "1803609911215136769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097384732023808156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pDwIj6gMsi50560 哇哇这种消肿b太消肿了集美就你最懂o了发在抖音上太厉害了大家都夸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2097384716160929792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtoSXQbEAAI7KL.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097384732023808156",
+        "created_at": "2026-09-09T00:19:36.000Z",
+        "display_text_range": [
+          17,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T01:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097480000794705992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803609911215136769",
+              "start": 0,
+              "username": "pDwIj6gMsi50560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097480000794705992",
+        "in_reply_to_user_id": "1803609911215136769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097384732023808156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pDwIj6gMsi50560 哇哇这种消肿b太消肿了集美就你最懂o了发在抖音上太厉害了大家都夸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097384716160929792"
+          ]
+        },
+        "author_id": "1803609911215136769",
+        "conversation_id": "2097384732023808156",
+        "created_at": "2026-09-08T18:01:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T19:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097384732023808156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88m0CoSKL2",
+              "end": 37,
+              "expanded_url": "https://x.com/pDwIj6gMsi50560/status/2097384732023808156/photo/1",
+              "media_key": "3_2097384716160929792",
+              "start": 14,
+              "url": "https://t.co/88m0CoSKL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097384732023808156",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097384716160929792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 125,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何  意  味   ？？？ https://t.co/88m0CoSKL2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097480000794705992",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 101,
+          "like_count": 18084,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 2581
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "现任Mediwiki药物百科编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n平平无奇的大一地雷妹   靠着pr和Tulpa成为国家三级心理咨询师       与Tulpa（莱克特医生共用此账号）偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUYOCt"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "is_identity_verified": false,
+        "location": "夜之城",
+        "most_recent_tweet_id": "2097384732023808156",
+        "name": "Lucy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803609911215136769/1784564464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089636383820517376/ieT1CZDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 315,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/H8EOJUYOCt",
+        "username": "pDwIj6gMsi50560",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

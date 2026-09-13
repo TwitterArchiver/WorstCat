@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2095643681961423294",
+    "created_at": "2026-09-04T11:47:18.000Z",
+    "display_text_range": [
+      16,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095841127333306864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1111780496",
+          "start": 0,
+          "username": "SmithSmithymix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kiki_cuffs/sta…",
+          "end": 50,
+          "expanded_url": "https://x.com/kiki_cuffs/status/2045768893231436098",
+          "start": 27,
+          "url": "https://t.co/G38zKWCawd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095841127333306864",
+    "in_reply_to_user_id": "1111780496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045768893231436098",
+        "type": "quoted"
+      },
+      {
+        "id": "2095643681961423294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SmithSmithymix 你为什么要盗图，原作者https://t.co/G38zKWCawd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2095643580325048320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRU4u60aMAAiXSj.jpg",
+        "width": 912
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2045768887179137024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQH9sTb0AAnPxz.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2095643681961423294",
+        "created_at": "2026-09-04T11:47:18.000Z",
+        "display_text_range": [
+          16,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095841127333306864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1111780496",
+              "start": 0,
+              "username": "SmithSmithymix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kiki_cuffs/sta…",
+              "end": 50,
+              "expanded_url": "https://x.com/kiki_cuffs/status/2045768893231436098",
+              "start": 27,
+              "url": "https://t.co/G38zKWCawd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095841127333306864",
+        "in_reply_to_user_id": "1111780496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045768893231436098",
+            "type": "quoted"
+          },
+          {
+            "id": "2095643681961423294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SmithSmithymix 你为什么要盗图，原作者https://t.co/G38zKWCawd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095643580325048320"
+          ]
+        },
+        "author_id": "1111780496",
+        "conversation_id": "2095643681961423294",
+        "created_at": "2026-09-03T22:42:43.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T23:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095643681961423294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNcbScAIpO",
+              "end": 44,
+              "expanded_url": "https://x.com/SmithSmithymix/status/2095643681961423294/photo/1",
+              "media_key": "3_2095643580325048320",
+              "start": 21,
+              "url": "https://t.co/xNcbScAIpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095643681961423294",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095643580325048320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 22866,
+          "like_count": 1058,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "抵抗しないので優しくしてください.... https://t.co/xNcbScAIpO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045768887179137024"
+          ]
+        },
+        "author_id": "2036972153141420032",
+        "conversation_id": "2045768893231436098",
+        "created_at": "2026-04-19T07:38:07.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045768893231436098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "手铐"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "脚镣"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1998669969979277312",
+              "start": 9,
+              "username": "misokuro14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/na4t3f8nHA",
+              "end": 54,
+              "expanded_url": "https://x.com/KIKICUFFS/status/2045768893231436098/photo/1",
+              "media_key": "3_2045768887179137024",
+              "start": 31,
+              "url": "https://t.co/na4t3f8nHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045768893231436098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2045768887179137024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 141690,
+          "like_count": 2746,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "大家都觉得好邪恶！@misokuro14 \n\n#手铐 #脚镣 https://t.co/na4t3f8nHA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2095841127333306864",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 90,
+          "like_count": 17265,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 2409
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-01-22T15:05:41.000Z",
+        "description": "放置されると拗ねます あぽ▶@mmx__loov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "mmx__loov"
+              }
+            ]
+          }
+        },
+        "id": "1111780496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095821511051584000",
+        "name": "𝖱𝗎𝗇𝖺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111780496/1393266520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086021590500978688/yuuLCMhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 61,
+          "like_count": 742,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "SmithSmithymix",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T01:03:12.000Z",
+        "description": "@kiki_shibari的防丢小号｜更新一些日常｜礼貌私信｜主人@misokuro14 ｜ ✉️ https://t.co/AieX5ei8fB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kiki_shibari"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "misokuro14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kikiciffs",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kikiciffs",
+                "start": 50,
+                "url": "https://t.co/AieX5ei8fB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KIKICUFFS",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KIKICUFFS",
+                "start": 0,
+                "url": "https://t.co/uk7hZiyFea"
+              }
+            ]
+          }
+        },
+        "id": "2036972153141420032",
+        "is_identity_verified": false,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2095772370216911087",
+        "name": "ききkiki",
+        "pinned_tweet_id": "2086845166984495300",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046474875368550400/0PeGYb61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7826,
+          "following_count": 87,
+          "like_count": 231,
+          "listed_count": 18,
+          "media_count": 34,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/uk7hZiyFea",
+        "username": "kiki_cuffs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

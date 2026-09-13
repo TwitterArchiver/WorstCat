@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096053688179867773",
+    "created_at": "2026-09-05T02:11:00.000Z",
+    "display_text_range": [
+      12,
+      155
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T03:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096058485490553198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096058485490553198",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096057276272714178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 因为觉得我经常呼吸抑制很危险吧，然后特别提防监视不让我溜走一小时就过来看一次发现我不在就疯狂给我和紧急联系人打电话哪怕我只是在上厕所，不让我私自服药，都害怕感觉自己的执业证在闪烁，我感觉像是在住精神科半封闭🥺其实从前天开始戒oxy的时候我就放飞啦，啥药都偷偷不吃，然后只o pr好几天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096053688179867773",
+        "created_at": "2026-09-05T02:11:00.000Z",
+        "display_text_range": [
+          12,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096058485490553198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096058485490553198",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096057276272714178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 因为觉得我经常呼吸抑制很危险吧，然后特别提防监视不让我溜走一小时就过来看一次发现我不在就疯狂给我和紧急联系人打电话哪怕我只是在上厕所，不让我私自服药，都害怕感觉自己的执业证在闪烁，我感觉像是在住精神科半封闭🥺其实从前天开始戒oxy的时候我就放飞啦，啥药都偷偷不吃，然后只o pr好几天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096053688179867773",
+        "created_at": "2026-09-05T02:06:12.000Z",
+        "display_text_range": [
+          10,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096057276272714178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096057276272714178",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096053688179867773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 不是这第一个太吓人了吧，摸摸摸摸\n难道连最基本的尊重他人的意愿都没有吗？咱们又没有做伤天害理，耽误治疗的事情…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096058485490553198",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 90,
+          "like_count": 17334,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 2433
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096057276272714178",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 300,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

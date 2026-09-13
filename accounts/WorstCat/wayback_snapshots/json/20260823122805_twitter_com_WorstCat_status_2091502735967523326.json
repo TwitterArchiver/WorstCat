@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2091484960079143170",
+    "created_at": "2026-08-23T12:28:05.000Z",
+    "display_text_range": [
+      10,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091502735967523326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091502735967523326",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091484960079143170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 发痒是肉芽在生长不要碰，每天换药不要用太多碘伏，无菌盐水擦擦就行，不要吃辣的不要喝酒，初期红肿一点是炎症反应"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2091484947962040320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZyeqBakAA0tbt.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2091484960079143170",
+        "created_at": "2026-08-23T12:28:05.000Z",
+        "display_text_range": [
+          10,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091502735967523326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091502735967523326",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091484960079143170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 发痒是肉芽在生长不要碰，每天换药不要用太多碘伏，无菌盐水擦擦就行，不要吃辣的不要喝酒，初期红肿一点是炎症反应"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091484947962040320"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2091484960079143170",
+        "created_at": "2026-08-23T11:17:27.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091484960079143170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pr72QpOuwg",
+              "end": 43,
+              "expanded_url": "https://x.com/KBDYD555/status/2091484960079143170/photo/1",
+              "media_key": "3_2091484947962040320",
+              "start": 20,
+              "url": "https://t.co/pr72QpOuwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091484960079143170",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091484947962040320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 584,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "伤口好疼好痒红红的是不是发炎啊唉... https://t.co/pr72QpOuwg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2091502735967523326",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 90,
+          "like_count": 16385,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 2337
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫遭举报冻结...🚬/🩸/ed/🐭/🐶/🐱...互关欢迎会查成分...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 聊天先过门吧我没什么多余精力了🩵亲友@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "is_identity_verified": false,
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "most_recent_tweet_id": "2091485913029525640",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2072889837548712297",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557450235621695488/1768298893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655,
+          "following_count": 709,
+          "like_count": 5811,
+          "listed_count": 8,
+          "media_count": 1114,
+          "tweet_count": 4337
+        },
+        "url": "",
+        "username": "KBDYD555",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

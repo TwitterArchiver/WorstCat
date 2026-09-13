@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097217515122573710",
+    "created_at": "2026-09-08T08:57:35.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097247967187222879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097247967187222879",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097217515122573710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy 为什么两个人爪爪牵在一起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097217469362663424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrQLUYa8AAX4vB.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3748,
+        "media_key": "3_2097217483585490944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrQMJXaEAAyG4u.jpg",
+        "width": 2913
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097217493186306049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrQMtIa4AElLu5.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097217504636735489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrQNXyakAEH2yp.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097217515122573710",
+        "created_at": "2026-09-08T08:57:35.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097247967187222879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097247967187222879",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097217515122573710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 为什么两个人爪爪牵在一起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097217469362663424",
+            "3_2097217483585490944",
+            "3_2097217493186306049",
+            "3_2097217504636735489"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2097217515122573710",
+        "created_at": "2026-09-08T06:56:34.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097217515122573710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRJOyPyEJA",
+              "end": 54,
+              "expanded_url": "https://x.com/GptRainy/status/2097217515122573710/photo/1",
+              "media_key": "3_2097217469362663424",
+              "start": 31,
+              "url": "https://t.co/gRJOyPyEJA"
+            },
+            {
+              "display_url": "pic.x.com/gRJOyPyEJA",
+              "end": 54,
+              "expanded_url": "https://x.com/GptRainy/status/2097217515122573710/photo/1",
+              "media_key": "3_2097217483585490944",
+              "start": 31,
+              "url": "https://t.co/gRJOyPyEJA"
+            },
+            {
+              "display_url": "pic.x.com/gRJOyPyEJA",
+              "end": 54,
+              "expanded_url": "https://x.com/GptRainy/status/2097217515122573710/photo/1",
+              "media_key": "3_2097217493186306049",
+              "start": 31,
+              "url": "https://t.co/gRJOyPyEJA"
+            },
+            {
+              "display_url": "pic.x.com/gRJOyPyEJA",
+              "end": 54,
+              "expanded_url": "https://x.com/GptRainy/status/2097217515122573710/photo/1",
+              "media_key": "3_2097217504636735489",
+              "start": 31,
+              "url": "https://t.co/gRJOyPyEJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097217515122573710",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097217469362663424"
+          },
+          {
+            "media_key": "3_2097217483585490944"
+          },
+          {
+            "media_key": "3_2097217493186306049"
+          },
+          {
+            "media_key": "3_2097217504636735489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "光州天主教总教区天主教天主教中心\n现5·18民主化运动记录馆 https://t.co/gRJOyPyEJA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097247967187222879",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 99,
+          "like_count": 17969,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 2551
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "在🇰🇷旅游中/去过🇭🇰🇲🇴🇷🇺🇯🇵🇰🇷/我的小猫叫卡尔/Transfem/ASD/计算机科学/LLM/2007·19yo/communist/VOCALOID🎶/历史/语言学/公共交通/城市规划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2097234835903582367",
+        "name": "小雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2093002918572249139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 646,
+          "like_count": 1778,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

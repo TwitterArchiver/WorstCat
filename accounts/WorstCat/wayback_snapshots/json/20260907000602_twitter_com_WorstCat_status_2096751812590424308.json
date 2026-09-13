@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096646617000751425",
+    "created_at": "2026-09-07T00:06:02.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096751812590424308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2094681707052212224",
+          "start": 0,
+          "username": "nanahime1cpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096751812590424308",
+    "in_reply_to_user_id": "2094681707052212224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096646617000751425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanahime1cpc 呜呜菜菜o(╥﹏╥)o 希望你永远不再有痛苦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_2096646560486752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjI8DFbgAAxUI6.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096646617000751425",
+        "created_at": "2026-09-07T00:06:02.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096751812590424308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096751812590424308",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096646617000751425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 呜呜菜菜o(╥﹏╥)o 希望你永远不再有痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096646560486752256"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096646617000751425",
+        "created_at": "2026-09-06T17:08:01.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096646617000751425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7MmvwMou9",
+              "end": 50,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2096646617000751425/photo/1",
+              "media_key": "3_2096646560486752256",
+              "start": 27,
+              "url": "https://t.co/y7MmvwMou9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096646617000751425",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096646560486752256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2686,
+          "like_count": 47,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经最爱的人，是你杀了我哦。这次我能好好睡一觉啦。 https://t.co/y7MmvwMou9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096751812590424308",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 99,
+          "like_count": 17725,
+          "listed_count": 6,
+          "media_count": 316,
+          "tweet_count": 2495
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096649775986930007",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 198,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

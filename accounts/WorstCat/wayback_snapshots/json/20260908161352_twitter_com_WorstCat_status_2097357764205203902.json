@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097162818655228403",
+    "created_at": "2026-09-08T16:13:52.000Z",
+    "display_text_range": [
+      26,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097357764205203902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        },
+        {
+          "end": 25,
+          "id": "1547812257676963840",
+          "start": 13,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097357764205203902",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097350217939275784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny @YLS69979546 这么久对胃和肾真的很不好，这个药不能吃这么久诶，太辛苦了抱抱你(ˆ꜆ . ω . ). ω . ꜀ˆ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097162818655228403",
+        "created_at": "2026-09-08T16:13:52.000Z",
+        "display_text_range": [
+          26,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097357764205203902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            },
+            {
+              "end": 25,
+              "id": "1547812257676963840",
+              "start": 13,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097357764205203902",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097350217939275784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny @YLS69979546 这么久对胃和肾真的很不好，这个药不能吃这么久诶，太辛苦了抱抱你(ˆ꜆ . ω . ). ω . ꜀ˆ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2097162818655228403",
+        "created_at": "2026-09-08T15:43:53.000Z",
+        "display_text_range": [
+          23,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097350217939275784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 22,
+              "id": "1547812257676963840",
+              "start": 10,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097350217939275784",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097348828731191426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @YLS69979546 我等有空去医院🥹，谢谢宝宝，我已经吃了差不多快4个月的双氯芬酸钠了，bad"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097357764205203902",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 100,
+          "like_count": 18049,
+          "listed_count": 6,
+          "media_count": 321,
+          "tweet_count": 2572
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2097350217939275784",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8706,
+          "following_count": 1280,
+          "like_count": 70033,
+          "listed_count": 9,
+          "media_count": 3162,
+          "tweet_count": 19798
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097352198577700927",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 284,
+          "like_count": 11313,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 3215
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2098673809549074930",
+    "created_at": "2026-09-12T08:40:28.000Z",
+    "display_text_range": [
+      9,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098693214203269215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098693214203269215",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098673809549074930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 处方可以让药房给你打印然后服务台盖章就好，当天药店一般都认的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098673795905011723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_8srhWwAsfDwg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2098673809549074930",
+        "created_at": "2026-09-12T08:40:28.000Z",
+        "display_text_range": [
+          9,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098693214203269215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098693214203269215",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098673809549074930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 处方可以让药房给你打印然后服务台盖章就好，当天药店一般都认的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098673795905011723"
+          ]
+        },
+        "author_id": "1868203874726887424",
+        "conversation_id": "2098673809549074930",
+        "created_at": "2026-09-12T07:23:22.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098673809549074930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7yNp1G8XZO",
+              "end": 67,
+              "expanded_url": "https://x.com/daozhir/status/2098673809549074930/photo/1",
+              "media_key": "3_2098673795905011723",
+              "start": 44,
+              "url": "https://t.co/7yNp1G8XZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098673809549074930",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098673795905011723"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在医院开到普瑞了 但是只有一盒\n没给我处方 所以没办法去药店买\n并且问了很多药店没有货 https://t.co/7yNp1G8XZO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2098693214203269215",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3133,
+          "following_count": 105,
+          "like_count": 18722,
+          "listed_count": 6,
+          "media_count": 328,
+          "tweet_count": 2663
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "lesbian 丨10年丨顺女丨OD丨互fo同类 没fo私信丨LGBTQ全友好\n有事不要评论，有时候评论我刷新不出来 请直接私信",
+        "id": "1868203874726887424",
+        "is_identity_verified": false,
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "most_recent_tweet_id": "2098683841774760137",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868203874726887424/1775632701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 552,
+          "like_count": 1626,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1260
+        },
+        "url": "",
+        "username": "daozhir",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

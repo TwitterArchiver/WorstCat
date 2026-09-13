@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096205825664770298",
+    "created_at": "2026-09-06T07:13:13.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096496928368525762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2096172013996089344",
+          "start": 0,
+          "username": "Mintink4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096496928368525762",
+    "in_reply_to_user_id": "2096172013996089344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096205825664770298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink4 再过几个小时就是好运宝宝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096205813199306752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRc4FLfagAAF5c1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096205825664770298",
+        "created_at": "2026-09-06T07:13:13.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096496928368525762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2096172013996089344",
+              "start": 0,
+              "username": "Mintink4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096496928368525762",
+        "in_reply_to_user_id": "2096172013996089344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096205825664770298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink4 再过几个小时就是好运宝宝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096205813199306752"
+          ]
+        },
+        "author_id": "2096172013996089344",
+        "conversation_id": "2096205825664770298",
+        "created_at": "2026-09-05T11:56:29.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096205825664770298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSP9vPhUX5",
+              "end": 106,
+              "expanded_url": "https://x.com/Mintink4/status/2096205825664770298/photo/1",
+              "media_key": "3_2096205813199306752",
+              "start": 83,
+              "url": "https://t.co/RSP9vPhUX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096205825664770298",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096205813199306752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1511,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天去喝酒 客户喝多了还推了我一下 手脚都受伤了 也没给我赔钱 什么倒霉熊体制啊\n这周 vx被封 食物中毒 机票损失三千多 发单遇到蠢人 ….测测博主说我这周有七劫 https://t.co/RSP9vPhUX5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096496928368525762",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 95,
+          "like_count": 17609,
+          "listed_count": 6,
+          "media_count": 315,
+          "tweet_count": 2484
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "前世@Mintink3 被害 我转生了 没回fo就是当日关注上限了 请帮我寻回好友们 互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Mintink3"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096490985748635806",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2096176661050126752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 168,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

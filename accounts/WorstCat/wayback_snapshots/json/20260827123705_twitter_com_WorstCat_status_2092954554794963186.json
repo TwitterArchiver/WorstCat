@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2092861603775668506",
+    "created_at": "2026-08-27T12:37:05.000Z",
+    "display_text_range": [
+      13,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092954554794963186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1079483498686164992",
+          "start": 0,
+          "username": "KisaragiSue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092954554794963186",
+    "in_reply_to_user_id": "1079483498686164992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092893918543425704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KisaragiSue 病情从平衡到稳定会有一个过程，稳定了以后头发还是都会回来的(｡･ω･｡)ﾉ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2092861603775668506",
+        "created_at": "2026-08-27T12:37:05.000Z",
+        "display_text_range": [
+          13,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092954554794963186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092954554794963186",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092893918543425704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 病情从平衡到稳定会有一个过程，稳定了以后头发还是都会回来的(｡･ω･｡)ﾉ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2092861603775668506",
+        "created_at": "2026-08-27T08:36:08.000Z",
+        "display_text_range": [
+          10,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092893918543425704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092893918543425704",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092868265081000005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 嗯\n好多钱，换来的是呕吐和……脱发……\n癌痛也依然来了……\n长不回来了……窝想让她们晚点离开窝……\n最好在掉光之前窝死掉……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2092954554794963186",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 90,
+          "like_count": 16618,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2092952251782615220",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 640,
+          "like_count": 44837,
+          "listed_count": 6,
+          "media_count": 1245,
+          "tweet_count": 24002
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

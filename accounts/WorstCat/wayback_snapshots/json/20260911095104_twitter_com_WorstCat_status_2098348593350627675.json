@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2098344281346089275",
+    "created_at": "2026-09-11T09:51:04.000Z",
+    "display_text_range": [
+      15,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098348593350627675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1632464293835730947",
+          "start": 0,
+          "username": "William018018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098348593350627675",
+    "in_reply_to_user_id": "1632464293835730947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098345711959994807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@William018018 怕我呼吸抑制死家里。然后我买了个瑞思迈制氧机，之后再去店里看看有没有舒服点的呼吸机吧，毕竟她说的可能也不是没有(*☉౪⊙*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2098344281346089275",
+        "created_at": "2026-09-11T09:51:04.000Z",
+        "display_text_range": [
+          15,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098348593350627675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632464293835730947",
+              "start": 0,
+              "username": "William018018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098348593350627675",
+        "in_reply_to_user_id": "1632464293835730947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098345711959994807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@William018018 怕我呼吸抑制死家里。然后我买了个瑞思迈制氧机，之后再去店里看看有没有舒服点的呼吸机吧，毕竟她说的可能也不是没有(*☉౪⊙*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632464293835730947",
+        "conversation_id": "2098344281346089275",
+        "created_at": "2026-09-11T09:39:37.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098345711959994807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098345711959994807",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098344281346089275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 哈哈哈哈哈，主任用的什么理由搪塞的呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2098348593350627675",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 104,
+          "like_count": 18671,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 2644
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-05T19:33:21.000Z",
+        "description": "欢迎互fo呀🥰",
+        "id": "1632464293835730947",
+        "is_identity_verified": false,
+        "location": "沃泽发",
+        "most_recent_tweet_id": "2098345711959994807",
+        "name": "William",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632464862742716418/YgDPdZqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 134,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "William018018",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

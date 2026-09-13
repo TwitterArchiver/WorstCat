@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097091683884413419",
+    "created_at": "2026-09-08T01:52:03.000Z",
+    "display_text_range": [
+      14,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T02:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097140878532121005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683001001043984384",
+          "start": 0,
+          "username": "TudouCn24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097140878532121005",
+    "in_reply_to_user_id": "1683001001043984384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097091683884413419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TudouCn24795 啊啊啊啊啊啊啊啊53度的秘密我想喝酒想喝酒想喝酒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2097091681564979200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpdxgUbcAAIn2c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097091683884413419",
+        "created_at": "2026-09-08T01:52:03.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T02:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097140878532121005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683001001043984384",
+              "start": 0,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097140878532121005",
+        "in_reply_to_user_id": "1683001001043984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097091683884413419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TudouCn24795 啊啊啊啊啊啊啊啊53度的秘密我想喝酒想喝酒想喝酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097091681564979200"
+          ]
+        },
+        "author_id": "1683001001043984384",
+        "conversation_id": "2097091683884413419",
+        "created_at": "2026-09-07T22:36:34.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T23:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097091683884413419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4YDDPzI8V",
+              "end": 103,
+              "expanded_url": "https://x.com/TudouCn24795/status/2097091683884413419/photo/1",
+              "media_key": "3_2097091681564979200",
+              "start": 80,
+              "url": "https://t.co/o4YDDPzI8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097091683884413419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097091681564979200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日结算：牛栏山二锅头53º800ml\n雪花啤酒3.6º500ml×6\n大家如果在郑州的话可以找我喝酒呀！\n只剩下手上这瓶不舍得喝，这个太好闻了一点也不冲TT https://t.co/o4YDDPzI8V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097140878532121005",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 98,
+          "like_count": 17820,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 2524
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "身高年齡未知 / 愛好畫畫 / wargame / 工作性質特殊 / 無血腥藥物濫用內容 / 無政治內容 / 無 r18g 內容 / 少女終末旅行賽高",
+        "id": "1683001001043984384",
+        "is_identity_verified": false,
+        "location": "黄河路地铁站",
+        "most_recent_tweet_id": "2097097075678978480",
+        "name": "暖春☁",
+        "pinned_tweet_id": "2046723517463642257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683001001043984384/1735973959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024831783003676672/uTnSwwGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 665,
+          "like_count": 4977,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 2862
+        },
+        "url": "",
+        "username": "TudouCn24795",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

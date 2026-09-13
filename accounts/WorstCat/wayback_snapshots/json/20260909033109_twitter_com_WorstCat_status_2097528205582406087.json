@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097354523325206853",
+    "created_at": "2026-09-09T03:31:09.000Z",
+    "display_text_range": [
+      17,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097528205582406087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1428604449845440520",
+          "start": 0,
+          "username": "KafuuChino1204_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097528205582406087",
+    "in_reply_to_user_id": "1428604449845440520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097354523325206853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KafuuChino1204_ 对，医保也不管紫砂自伤，但是如果有精神障碍诊断证明的话也是可以报，出院前把证明开出来就能实时结算，如果没来得及开出来，出院后才开出来，也可以去人工窗口报销就是比较慢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097354523325206853",
+        "created_at": "2026-09-09T03:31:09.000Z",
+        "display_text_range": [
+          17,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097528205582406087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1428604449845440520",
+              "start": 0,
+              "username": "KafuuChino1204_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097528205582406087",
+        "in_reply_to_user_id": "1428604449845440520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097354523325206853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KafuuChino1204_ 对，医保也不管紫砂自伤，但是如果有精神障碍诊断证明的话也是可以报，出院前把证明开出来就能实时结算，如果没来得及开出来，出院后才开出来，也可以去人工窗口报销就是比较慢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428604449845440520",
+        "conversation_id": "2097354523325206853",
+        "created_at": "2026-09-08T16:00:59.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097354523325206853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097354523325206853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们注意！自杀失败住院医院不报销的！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097528205582406087",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 101,
+          "like_count": 18133,
+          "listed_count": 7,
+          "media_count": 322,
+          "tweet_count": 2586
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-20T06:27:46.000Z",
+        "description": "08-she/her-shtwt-查主页/眼熟回fo-互fo可以来DM我！-注销不是死了是被熟人发现了-无能狂吠",
+        "id": "1428604449845440520",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2097363645118419350",
+        "name": "椛椛椛椛椛椛㭤",
+        "pinned_tweet_id": "2096535982699061674",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428604449845440520/1690811142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965790302641221632/ire85tod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 499,
+          "like_count": 3025,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 3408
+        },
+        "url": "",
+        "username": "KafuuChino1204_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097205024816513186",
+    "created_at": "2026-09-08T08:43:32.000Z",
+    "display_text_range": [
+      16,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097244433624498294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605093608910381056",
+          "start": 0,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097244433624498294",
+    "in_reply_to_user_id": "1605093608910381056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097205024816513186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suekageseikiyo 有这么好的医生麻麻，那应该讨论考虑使用硫酸吗啡奥施康定力月西舒芬sns氯胺酮严肃抗抑郁吧&gt;_&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097205013286383616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrE2R4acAAr68D.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097205024816513186",
+        "created_at": "2026-09-08T08:43:32.000Z",
+        "display_text_range": [
+          16,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097244433624498294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605093608910381056",
+              "start": 0,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097244433624498294",
+        "in_reply_to_user_id": "1605093608910381056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097205024816513186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suekageseikiyo 有这么好的医生麻麻，那应该讨论考虑使用硫酸吗啡奥施康定力月西舒芬sns氯胺酮严肃抗抑郁吧&gt;_&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097205013286383616"
+          ]
+        },
+        "author_id": "1605093608910381056",
+        "conversation_id": "2097205024816513186",
+        "created_at": "2026-09-08T06:06:56.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097205024816513186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dws6EQVhbU",
+              "end": 88,
+              "expanded_url": "https://x.com/suekageseikiyo/status/2097205024816513186/photo/1",
+              "media_key": "3_2097205013286383616",
+              "start": 65,
+              "url": "https://t.co/dws6EQVhbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097205024816513186",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097205013286383616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 453,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在末末持续低迷、对生活失去希望几天后\n妈妈回家抱着一堆精神药品和舍曲林给末末，还说在医院有关系，想吃什么药都可以开…\n妈咪何意味 https://t.co/dws6EQVhbU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097244433624498294",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 99,
+          "like_count": 17948,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 2544
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097228828158648549",
+        "name": "末末",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605093608910381056/1771945016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093319654760730624/_iXwuaNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 635,
+          "like_count": 12527,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 2255
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

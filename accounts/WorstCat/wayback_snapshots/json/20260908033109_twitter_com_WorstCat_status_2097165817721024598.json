@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096973037807792151",
+    "created_at": "2026-09-08T03:31:09.000Z",
+    "display_text_range": [
+      32,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097165817721024598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055822314969665536",
+          "start": 0,
+          "username": "GrievousPotato1"
+        },
+        {
+          "end": 31,
+          "id": "2073934453454614530",
+          "start": 17,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097165817721024598",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097155334716485780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrievousPotato1 @dreamolly1997 可不可以给我也剃一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096973037807792151",
+        "created_at": "2026-09-08T03:31:09.000Z",
+        "display_text_range": [
+          32,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097165817721024598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            },
+            {
+              "end": 31,
+              "id": "2073934453454614530",
+              "start": 17,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097165817721024598",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097155334716485780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 @dreamolly1997 可不可以给我也剃一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2096973037807792151",
+        "created_at": "2026-09-08T02:49:29.000Z",
+        "display_text_range": [
+          15,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097155334716485780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2073934453454614530",
+              "start": 0,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097155334716485780",
+        "in_reply_to_user_id": "2073934453454614530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096973037807792151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamolly1997 轻松绷住，炫压抑了建议去看剃头视频，这样会显得更加消肿👍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097165817721024598",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 99,
+          "like_count": 17905,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 2537
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097156290506051630",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 476,
+          "like_count": 20896,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1668
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使\n🚪88，什么都没有",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2097075601912037599",
+        "name": "molly",
+        "pinned_tweet_id": "2095379425076621420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 955,
+          "like_count": 6222,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 5663
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096390358343319662",
+    "created_at": "2026-09-06T02:40:22.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T03:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096428265372316143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096428265372316143",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096426509464662494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 窗户外面不算室内吧🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096390358343319662",
+        "created_at": "2026-09-06T02:40:22.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096428265372316143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096428265372316143",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096426509464662494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 窗户外面不算室内吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2096390358343319662",
+        "created_at": "2026-09-06T02:33:24.000Z",
+        "display_text_range": [
+          10,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096426509464662494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096426509464662494",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096425313647690008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 要注意安全哦，小心用火和高空坠落，还有小心别碰见咱了咱会对每一个室内抽烟的人哈气"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096428265372316143",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 94,
+          "like_count": 17545,
+          "listed_count": 6,
+          "media_count": 314,
+          "tweet_count": 2470
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/言论含有政治内容致歉/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep/姐姐喵 @barutan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "AnranbuSleep"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "barutan8964"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096426509464662494",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2091704395511779603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360522586317348865/1764742642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 510,
+          "like_count": 95740,
+          "listed_count": 10,
+          "media_count": 982,
+          "tweet_count": 12954
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

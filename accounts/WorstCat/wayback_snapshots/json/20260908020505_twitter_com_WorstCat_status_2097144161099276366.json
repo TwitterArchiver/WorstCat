@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097054799300546982",
+    "created_at": "2026-09-08T02:05:05.000Z",
+    "display_text_range": [
+      10,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T03:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097144161099276366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "YongQuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097144161099276366",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097054799300546982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YongQuan 别人都是依赖学校提供有限的能源，带煤气罐不用担心限电挺好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1693,
+        "media_key": "3_2096949269358104576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRncQBga0AAdPzy.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097054799300546982",
+        "created_at": "2026-09-08T02:05:05.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097144161099276366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097144161099276366",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097054799300546982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan 别人都是依赖学校提供有限的能源，带煤气罐不用担心限电挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096949269358104576"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2097054799300546982",
+        "created_at": "2026-09-07T20:10:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097054799300546982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NhE70kSkN",
+              "end": 23,
+              "expanded_url": "https://x.com/YongQuan/status/2097054799300546982/photo/1",
+              "media_key": "3_2096949269358104576",
+              "start": 0,
+              "url": "https://t.co/6NhE70kSkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097054799300546982",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096949269358104576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2143,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6NhE70kSkN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097144161099276366",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 98,
+          "like_count": 17831,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 2527
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 雪秋重度依赖 ❤️@XUEQIUxka\n看日常@1H4teTheWorld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "1H4teTheWorld"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2097143383152365791",
+        "name": "铨🏳️‍⚧️｜雪秋夺舍",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545277694325116928/1787290454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095048210750332929/usYFQZ-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12003,
+          "following_count": 4882,
+          "like_count": 54404,
+          "listed_count": 42,
+          "media_count": 6400,
+          "tweet_count": 17619
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

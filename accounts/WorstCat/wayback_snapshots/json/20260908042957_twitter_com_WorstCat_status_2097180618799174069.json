@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2097162818655228403",
+    "created_at": "2026-09-08T04:29:57.000Z",
+    "display_text_range": [
+      13,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097180618799174069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097180618799174069",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097162818655228403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 非甾体的除了退烧止疼都很弱，试试氨酚双氢可待因呢，这个是普通处方药医院都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2097162818655228403",
+        "created_at": "2026-09-08T04:29:57.000Z",
+        "display_text_range": [
+          13,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097180618799174069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097180618799174069",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097162818655228403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 非甾体的除了退烧止疼都很弱，试试氨酚双氢可待因呢，这个是普通处方药医院都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2097162818655228403",
+        "created_at": "2026-09-08T03:19:14.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097162818655228403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097162818655228403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非甾体抗炎药物已经耐受的很糟糕了，还有什么可以止痛的药物吗🥲，我现在使用双氯芬酸钠双释放肠溶胶囊已经200mg/天了…骨头太痛了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2097180618799174069",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 99,
+          "like_count": 17918,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 2540
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "is_identity_verified": false,
+        "location": "地狱 ",
+        "most_recent_tweet_id": "2097162818655228403",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481172876589821952/1785943172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8704,
+          "following_count": 1291,
+          "like_count": 70005,
+          "listed_count": 9,
+          "media_count": 3161,
+          "tweet_count": 19781
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

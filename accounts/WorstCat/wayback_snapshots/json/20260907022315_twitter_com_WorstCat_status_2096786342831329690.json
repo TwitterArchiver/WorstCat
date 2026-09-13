@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096755246097920498",
+    "created_at": "2026-09-07T02:23:15.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096786342831329690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1684767587710992384",
+          "start": 0,
+          "username": "kti8243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096786342831329690",
+    "in_reply_to_user_id": "1684767587710992384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096778945329061985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kti8243 不明疼痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096755246097920498",
+        "created_at": "2026-09-07T02:23:15.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096786342831329690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1684767587710992384",
+              "start": 0,
+              "username": "kti8243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096786342831329690",
+        "in_reply_to_user_id": "1684767587710992384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096778945329061985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kti8243 不明疼痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684767587710992384",
+        "conversation_id": "2096755246097920498",
+        "created_at": "2026-09-07T01:53:51.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096778945329061985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096778945329061985",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096755246097920498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 猫猫到底是因为什么原因才住这么久的院啊？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096786342831329690",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 100,
+          "like_count": 17746,
+          "listed_count": 6,
+          "media_count": 317,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T03:27:59.000Z",
+        "description": "坐标鲁A，INTJ，07年4月8日出厂，戴锁新人一枚，已打pa，目前无主",
+        "id": "1684767587710992384",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2096778945329061985",
+        "name": "INDEPENDENCE.",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950707666075934721/mbYUiBs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 487,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "kti8243",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

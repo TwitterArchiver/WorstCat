@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2096520820831252625",
+    "created_at": "2026-09-07T03:27:21.000Z",
+    "display_text_range": [
+      30,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096802475206730167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066629255577182208",
+          "start": 0,
+          "username": "Antares04_64"
+        },
+        {
+          "end": 29,
+          "id": "1804296555354013696",
+          "start": 14,
+          "username": "LoveForever_52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096802475206730167",
+    "in_reply_to_user_id": "2066629255577182208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096659111492673545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_64 @LoveForever_52 很多医院都拿静脉针代替"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2096520820831252625",
+        "created_at": "2026-09-07T03:27:21.000Z",
+        "display_text_range": [
+          30,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096802475206730167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066629255577182208",
+              "start": 0,
+              "username": "Antares04_64"
+            },
+            {
+              "end": 29,
+              "id": "1804296555354013696",
+              "start": 14,
+              "username": "LoveForever_52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096802475206730167",
+        "in_reply_to_user_id": "2066629255577182208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096659111492673545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_64 @LoveForever_52 很多医院都拿静脉针代替"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066629255577182208",
+        "conversation_id": "2096520820831252625",
+        "created_at": "2026-09-06T17:57:40.000Z",
+        "display_text_range": [
+          26,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096659111492673545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 25,
+              "id": "1804296555354013696",
+              "start": 10,
+              "username": "LoveForever_52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096659111492673545",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096562968683323674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @LoveForever_52 应该是不常用，这种东西医院都是必备的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096802475206730167",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3125,
+          "following_count": 99,
+          "like_count": 17769,
+          "listed_count": 6,
+          "media_count": 317,
+          "tweet_count": 2506
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T21:10:54.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵/提问箱↓/(这里是煜4.0)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 0,
+                "url": "https://t.co/IDx6PAiC9K"
+              }
+            ]
+          }
+        },
+        "id": "2066629255577182208",
+        "is_identity_verified": false,
+        "location": "＃心宿二",
+        "most_recent_tweet_id": "2096800864757256436",
+        "name": "煜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066629255577182208/1781558900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066633487910866944/1KdcHk1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 59,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/IDx6PAiC9K",
+        "username": "Antares04_64",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T23:33:30.000Z",
+        "description": "生产日期08.4.18/保质期18年20年??/👻165cm54kg努力减肥中/半个家长党/同类可+我/临的可找我玩/小单睾一只（字面意思）",
+        "id": "1804296555354013696",
+        "is_identity_verified": true,
+        "location": "中国",
+        "most_recent_tweet_id": "2096786396573028394",
+        "name": "天依",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804296555354013696/1759493664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000435599564779520/7ap8p92y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 245,
+          "like_count": 319,
+          "listed_count": 6,
+          "media_count": 507,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "LoveForever_52",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
