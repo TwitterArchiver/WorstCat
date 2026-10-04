@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2100819883550220482",
+    "created_at": "2026-09-18T06:33:04.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100835477574275329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068511599518777344",
+          "start": 0,
+          "username": "FN404_anklet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100835477574275329",
+    "in_reply_to_user_id": "2068511599518777344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100819883550220482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FN404_anklet 其实这样楼下听到的声音贼大..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7715,
+        "height": 1280,
+        "media_key": "13_2100819752742477824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100819752742477824/img/wadNlib5NICUMv_X.jpg",
+        "public_metrics": {
+          "view_count": 212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100819752742477824/vid/avc1/320x568/wwVc2CyBQtI3ZIHz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100819752742477824/vid/avc1/480x852/5VNuhgl97ohXehfF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100819752742477824/vid/avc1/720x1280/fQ-t5Q5nTZsgRPQz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100819752742477824/pl/aJexMkxxqJscQ51G.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 12751,
+        "height": 1280,
+        "media_key": "13_2100819825081675776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100819825081675776/img/gKPwVtb9ETv9zVVL.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100819825081675776/vid/avc1/320x568/Z-Fpm6vGl3wczsed.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100819825081675776/vid/avc1/480x852/zEt0C7kL5-CcZi8a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100819825081675776/vid/avc1/720x1280/3L-CHiDbZlcbibIn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100819825081675776/pl/3Y3nHqzrWV956j-n.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2100819883550220482",
+        "created_at": "2026-09-18T06:33:04.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100835477574275329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068511599518777344",
+              "start": 0,
+              "username": "FN404_anklet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100835477574275329",
+        "in_reply_to_user_id": "2068511599518777344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100819883550220482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FN404_anklet 其实这样楼下听到的声音贼大..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100819752742477824",
+            "13_2100819825081675776"
+          ]
+        },
+        "author_id": "2068511599518777344",
+        "conversation_id": "2100819883550220482",
+        "created_at": "2026-09-18T05:31:06.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100819883550220482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "脚镣"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "连体铐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIuQ0U7YaE",
+              "end": 63,
+              "expanded_url": "https://x.com/FN404_anklet/status/2100819883550220482/video/1",
+              "media_key": "13_2100819752742477824",
+              "start": 40,
+              "url": "https://t.co/GIuQ0U7YaE"
+            },
+            {
+              "display_url": "pic.x.com/GIuQ0U7YaE",
+              "end": 63,
+              "expanded_url": "https://x.com/FN404_anklet/status/2100819883550220482/video/1",
+              "media_key": "13_2100819825081675776",
+              "start": 40,
+              "url": "https://t.co/GIuQ0U7YaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100819883550220482",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100819752742477824"
+          },
+          {
+            "media_key": "13_2100819825081675776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 400,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#脚镣 #连体铐\n趁着休假试试新买的连体铐～\n这个链子的长度。。。\n好像能跑？ https://t.co/GIuQ0U7YaE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2100835477574275329",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3135,
+          "following_count": 115,
+          "like_count": 19648,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 2774
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-21T01:51:17.000Z",
+        "description": "",
+        "id": "2068511599518777344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100819883550220482",
+        "name": "FN404",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068512627337142272/b2uIK8r4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 82,
+          "like_count": 398,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "FN404_anklet",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

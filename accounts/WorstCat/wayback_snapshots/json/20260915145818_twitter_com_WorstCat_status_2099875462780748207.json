@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2099738136884752856",
+    "created_at": "2026-09-15T14:58:18.000Z",
+    "display_text_range": [
+      13,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099875462780748207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2087523845901049856",
+          "start": 0,
+          "username": "suan4hjwnms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099875462780748207",
+    "in_reply_to_user_id": "2087523845901049856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099873475880202324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suan4hjwnms 中药不一定有用诶短时间内一定没用，解孪比堆止疼药更好用，大部分剧痛都是子宫平滑肌痉挛引起的🥺单方强的门诊开不到 复方的很差 不一定打得过弱的，至少要把非甾体和解孪用过以后再提无效让医生去抉择而不是主动要求，直接提只会让医生瞬间炸毛立马开启防御性医疗连弱的和pr都不给开🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2099738136884752856",
+        "created_at": "2026-09-15T14:58:18.000Z",
+        "display_text_range": [
+          13,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099875462780748207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2087523845901049856",
+              "start": 0,
+              "username": "suan4hjwnms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099875462780748207",
+        "in_reply_to_user_id": "2087523845901049856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099873475880202324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suan4hjwnms 中药不一定有用诶短时间内一定没用，解孪比堆止疼药更好用，大部分剧痛都是子宫平滑肌痉挛引起的🥺单方强的门诊开不到 复方的很差 不一定打得过弱的，至少要把非甾体和解孪用过以后再提无效让医生去抉择而不是主动要求，直接提只会让医生瞬间炸毛立马开启防御性医疗连弱的和pr都不给开🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087523845901049856",
+        "conversation_id": "2099738136884752856",
+        "created_at": "2026-09-15T14:50:25.000Z",
+        "display_text_range": [
+          10,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099873475880202324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099873475880202324",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099852875878789434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 我痛经贼痛但是他给我开了一堆中药我感觉根本不适合我我不爱吃药只疼才想去吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2099875462780748207",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 110,
+          "like_count": 19114,
+          "listed_count": 6,
+          "media_count": 331,
+          "tweet_count": 2712
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T12:58:00.000Z",
+        "description": "oder/bpd/pien/🩸/激进派反人类中心\n同类互fo 没回发私信给我就好\n联系不到我找@lyxz738 @T0X1C_R3B0Rn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "lyxz738"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "T0X1C_R3B0Rn"
+              }
+            ]
+          }
+        },
+        "id": "2087523845901049856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099873649272795143",
+        "name": "小酸4.0",
+        "pinned_tweet_id": "2088053477302055155",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087523845901049856/1786665438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 436,
+          "like_count": 811,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "suan4hjwnms",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

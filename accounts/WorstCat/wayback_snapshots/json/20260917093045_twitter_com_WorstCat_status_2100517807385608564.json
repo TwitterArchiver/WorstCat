@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2100361878899986899",
+    "created_at": "2026-09-17T09:30:45.000Z",
+    "display_text_range": [
+      28,
+      170
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100517807385608564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2087636528633982976",
+          "start": 0,
+          "username": "67De_dian"
+        },
+        {
+          "end": 27,
+          "id": "2008923573231185921",
+          "start": 11,
+          "username": "sOg2pCnkPJ60957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100517807385608564",
+    "in_reply_to_user_id": "2087636528633982976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100512548244377823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@67De_dian @sOg2pCnkPJ60957 嗯嗯，住院系统性的查一下血液生化全套，风湿免疫全套，颈椎头颅肩颈的ct mri 彩超，先试试神经阻滞 血管减压 球囊压迫  射频，顺便让医生给你调调药 各种西平 巴氯芬 普瑞/美洛/加巴一类的，在医院调药也安全。你不能贪便宜找小医院，得去当地三甲大医院疼痛科最好的，宝宝早点好起来呀🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2100361878899986899",
+        "created_at": "2026-09-17T09:30:45.000Z",
+        "display_text_range": [
+          28,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100517807385608564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2087636528633982976",
+              "start": 0,
+              "username": "67De_dian"
+            },
+            {
+              "end": 27,
+              "id": "2008923573231185921",
+              "start": 11,
+              "username": "sOg2pCnkPJ60957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100517807385608564",
+        "in_reply_to_user_id": "2087636528633982976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100512548244377823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@67De_dian @sOg2pCnkPJ60957 嗯嗯，住院系统性的查一下血液生化全套，风湿免疫全套，颈椎头颅肩颈的ct mri 彩超，先试试神经阻滞 血管减压 球囊压迫  射频，顺便让医生给你调调药 各种西平 巴氯芬 普瑞/美洛/加巴一类的，在医院调药也安全。你不能贪便宜找小医院，得去当地三甲大医院疼痛科最好的，宝宝早点好起来呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087636528633982976",
+        "conversation_id": "2100361878899986899",
+        "created_at": "2026-09-17T09:09:51.000Z",
+        "display_text_range": [
+          27,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100512548244377823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 26,
+              "id": "2008923573231185921",
+              "start": 10,
+              "username": "sOg2pCnkPJ60957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100512548244377823",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100483394937516251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @sOg2pCnkPJ60957 啊这样吗，原来如此…\n那我下次还是看哪个便宜选哪个吧\n感觉我们这边每家医院定价都不太同"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2100517807385608564",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3137,
+          "following_count": 113,
+          "like_count": 19439,
+          "listed_count": 6,
+          "media_count": 332,
+          "tweet_count": 2754
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2100514533282586910",
+        "name": "绝望_6De点（pr暂缺货，可提供其他药商）",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 483,
+          "like_count": 4655,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1242
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T15:28:19.000Z",
+        "description": "더 이상 울지 마라.",
+        "id": "2008923573231185921",
+        "is_identity_verified": false,
+        "location": "Iceland",
+        "most_recent_tweet_id": "2100452705907122245",
+        "name": "夜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008923573231185921/1785679723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088249042681868288/qkYe2ACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 21,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "sOg2pCnkPJ60957",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

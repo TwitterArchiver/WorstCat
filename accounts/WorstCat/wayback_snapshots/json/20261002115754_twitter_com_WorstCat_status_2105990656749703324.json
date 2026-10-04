@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105990619432935424",
+        "3_2105990647656394752"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105990656749703324",
+    "created_at": "2026-10-02T11:57:54.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T12:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105990656749703324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6WD0zU84uw",
+          "end": 94,
+          "expanded_url": "https://x.com/WorstCat/status/2105990656749703324/photo/1",
+          "media_key": "3_2105990619432935424",
+          "start": 71,
+          "url": "https://t.co/6WD0zU84uw"
+        },
+        {
+          "display_url": "pic.x.com/6WD0zU84uw",
+          "end": 94,
+          "expanded_url": "https://x.com/WorstCat/status/2105990656749703324/photo/1",
+          "media_key": "3_2105990647656394752",
+          "start": 71,
+          "url": "https://t.co/6WD0zU84uw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105990656749703324",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105990619432935424"
+      },
+      {
+        "media_key": "3_2105990647656394752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下午闲着没事去医院买点药，结果整的跟进货似的，我本来想各要一盒，结果医生一下开4盒，盛情难却我就勉为其难的收下了ฅ(⌯͒• ɪ •⌯͒)ฅ❣ https://t.co/6WD0zU84uw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105990619432935424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTn7T3Oa4AAJh7k.jpg",
+        "width": 2304
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2105990647656394752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTn7VgXasAA0LdO.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105990619432935424",
+            "3_2105990647656394752"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105990656749703324",
+        "created_at": "2026-10-02T11:57:54.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T12:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105990656749703324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WD0zU84uw",
+              "end": 94,
+              "expanded_url": "https://x.com/WorstCat/status/2105990656749703324/photo/1",
+              "media_key": "3_2105990619432935424",
+              "start": 71,
+              "url": "https://t.co/6WD0zU84uw"
+            },
+            {
+              "display_url": "pic.x.com/6WD0zU84uw",
+              "end": 94,
+              "expanded_url": "https://x.com/WorstCat/status/2105990656749703324/photo/1",
+              "media_key": "3_2105990647656394752",
+              "start": 71,
+              "url": "https://t.co/6WD0zU84uw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105990656749703324",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105990619432935424"
+          },
+          {
+            "media_key": "3_2105990647656394752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午闲着没事去医院买点药，结果整的跟进货似的，我本来想各要一盒，结果医生一下开4盒，盛情难却我就勉为其难的收下了ฅ(⌯͒• ɪ •⌯͒)ฅ❣ https://t.co/6WD0zU84uw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2105990656749703324",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 154,
+          "like_count": 21937,
+          "listed_count": 6,
+          "media_count": 342,
+          "tweet_count": 2932
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099067649426853888"
+      ]
+    },
+    "author_id": "467659726",
+    "conversation_id": "2099067695920562481",
+    "created_at": "2026-09-13T09:28:32.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099067695920562481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oD4y3claBW",
+          "end": 140,
+          "expanded_url": "https://x.com/WorstCat/status/2099067695920562481/photo/1",
+          "media_key": "3_2099067649426853888",
+          "start": 117,
+          "url": "https://t.co/oD4y3claBW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099067695920562481",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099067649426853888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "疼痛科住了一次院，氨酚oxy也成了点菜了(*☉౪⊙*)\n问了问脑机接口和神经毁损不符合适应症。鞘内泵14万报销比例大概70%，脊髓电刺激测试阶段1.4万，植入阶段20万报销比例大概也是70%。都支持无线充电，但是鞘内泵不一定过伦理🥺 https://t.co/oD4y3claBW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099067649426853888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFi5-OaEAA_09B.jpg",
+        "width": 2947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099067649426853888"
+          ]
+        },
+        "author_id": "467659726",
+        "conversation_id": "2099067695920562481",
+        "created_at": "2026-09-13T09:28:32.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099067695920562481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oD4y3claBW",
+              "end": 140,
+              "expanded_url": "https://x.com/WorstCat/status/2099067695920562481/photo/1",
+              "media_key": "3_2099067649426853888",
+              "start": 117,
+              "url": "https://t.co/oD4y3claBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099067695920562481",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099067649426853888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疼痛科住了一次院，氨酚oxy也成了点菜了(*☉౪⊙*)\n问了问脑机接口和神经毁损不符合适应症。鞘内泵14万报销比例大概70%，脊髓电刺激测试阶段1.4万，植入阶段20万报销比例大概也是70%。都支持无线充电，但是鞘内泵不一定过伦理🥺 https://t.co/oD4y3claBW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2099067695920562481",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 106,
+          "like_count": 18866,
+          "listed_count": 6,
+          "media_count": 329,
+          "tweet_count": 2671
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

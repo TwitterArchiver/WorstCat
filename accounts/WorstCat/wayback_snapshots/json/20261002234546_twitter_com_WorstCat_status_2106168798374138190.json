@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2105944553899663742",
+    "created_at": "2026-10-02T23:45:46.000Z",
+    "display_text_range": [
+      17,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T00:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106168798374138190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2103402426812489728",
+          "start": 0,
+          "username": "MutsumiDisappea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106168798374138190",
+    "in_reply_to_user_id": "2103402426812489728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105944553899663742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiDisappea 3mg也太多了吧，3盒Σ( ° △ °|||)︴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2105944553899663742",
+        "created_at": "2026-10-02T23:45:46.000Z",
+        "display_text_range": [
+          17,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T00:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106168798374138190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2103402426812489728",
+              "start": 0,
+              "username": "MutsumiDisappea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106168798374138190",
+        "in_reply_to_user_id": "2103402426812489728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105944553899663742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiDisappea 3mg也太多了吧，3盒Σ( ° △ °|||)︴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103402426812489728",
+        "conversation_id": "2105944553899663742",
+        "created_at": "2026-10-02T08:54:42.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105944553899663742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105944553899663742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 384,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实口服右美托咪定相当安全，试过多次了，没有一点难受的感觉，只要不静脉推注就好\n体感就是警觉性降低+放松+焦虑抑制，感觉世界都变软 变得不刺了\n我一次口服直接就是3mg\n这是一个被人们严重低估的好药！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2106168798374138190",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 154,
+          "like_count": 22065,
+          "listed_count": 6,
+          "media_count": 343,
+          "tweet_count": 2944
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T08:52:34.000Z",
+        "description": "小睦的5代目转生号~\n好久不见呀，米娜桑 ヾ(^▽^*)))\n这次又会活多久呢？以及我这个人还会活多久呢？？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/fpos7uKWBl"
+              }
+            ]
+          }
+        },
+        "id": "2103402426812489728",
+        "is_identity_verified": false,
+        "location": "Mercy所在之处",
+        "most_recent_tweet_id": "2106125465681547286",
+        "name": "MutsumiDisappeared",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103402426812489728/1790326892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103408078993707008/2T3ZbJBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 86,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/fpos7uKWBl",
+        "username": "MutsumiDisappea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

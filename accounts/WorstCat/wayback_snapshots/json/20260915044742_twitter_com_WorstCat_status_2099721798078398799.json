@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2099219288943140928",
+    "created_at": "2026-09-15T04:47:42.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099721798078398799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999004442704883716",
+          "start": 0,
+          "username": "lbtuan25_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099721798078398799",
+    "in_reply_to_user_id": "1999004442704883716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099219288943140928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25_1 听不懂数学&gt;_&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "16_2099219259364941825",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSHsy1QbIAEszID.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSHsy1QbIAEszID.mp4"
+          }
+        ],
+        "width": 320
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2099219277740199937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHsz5tbUAE23lX.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2099219288943140928",
+        "created_at": "2026-09-15T04:47:42.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099721798078398799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999004442704883716",
+              "start": 0,
+              "username": "lbtuan25_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099721798078398799",
+        "in_reply_to_user_id": "1999004442704883716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099219288943140928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25_1 听不懂数学&gt;_&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2099219259364941825",
+            "3_2099219277740199937"
+          ]
+        },
+        "author_id": "1999004442704883716",
+        "conversation_id": "2099219288943140928",
+        "created_at": "2026-09-13T19:30:54.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T20:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099219288943140928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FH3WTW3oIj",
+              "end": 110,
+              "expanded_url": "https://x.com/lbtuan25_1/status/2099219288943140928/photo/1",
+              "media_key": "16_2099219259364941825",
+              "start": 87,
+              "url": "https://t.co/FH3WTW3oIj"
+            },
+            {
+              "display_url": "pic.x.com/FH3WTW3oIj",
+              "end": 110,
+              "expanded_url": "https://x.com/lbtuan25_1/status/2099219288943140928/photo/1",
+              "media_key": "3_2099219277740199937",
+              "start": 87,
+              "url": "https://t.co/FH3WTW3oIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099219288943140928",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2099219259364941825"
+          },
+          {
+            "media_key": "3_2099219277740199937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 13596,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "团子突然发现个好玩的\n就是一截链条中间的环乍一看给人感觉能在平面内旋转对吧\n但是实际上由于它围成的圆矩形的宽小于两边铁丝直径的和\n所以实际上是几何锁定不能旋转的\n很好玩吧🤓 https://t.co/FH3WTW3oIj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2099721798078398799",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3136,
+          "following_count": 108,
+          "like_count": 19053,
+          "listed_count": 6,
+          "media_count": 330,
+          "tweet_count": 2706
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-12-11T06:33:21.000Z",
+        "description": "AAA👽驻🌍大使馆保安兼保洁，办三体星签证请私信｜目标是通过地雷女六级...｜逃生舱指路：https://t.co/IbzozcMB1W｜本星系红通人员：马斯克@elonmusk｜自我提升...自我实现...自我毁灭...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "elonmusk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lbtuan…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/lbtuan25.bsky.social",
+                "start": 45,
+                "url": "https://t.co/IbzozcMB1W"
+              }
+            ]
+          }
+        },
+        "id": "1999004442704883716",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2099688498794201118",
+        "name": "✦玻色团子✦（常驻🌍黑暗面",
+        "pinned_tweet_id": "1999008615441777032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999004442704883716/1765435017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019496124479062016/alc8Hryu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 586,
+          "like_count": 8706,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2128
+        },
+        "url": "",
+        "username": "lbtuan25_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

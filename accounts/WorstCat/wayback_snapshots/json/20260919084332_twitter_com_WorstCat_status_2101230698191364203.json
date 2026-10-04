@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101230638313644032",
+        "3_2101230669028532225",
+        "3_2101230686091014144"
+      ]
+    },
+    "author_id": "467659726",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2101230698191364203",
+    "created_at": "2026-09-19T08:43:32.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101230698191364203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zoq9wbAvIk",
+          "end": 110,
+          "expanded_url": "https://x.com/WorstCat/status/2101230698191364203/photo/1",
+          "media_key": "3_2101230638313644032",
+          "start": 87,
+          "url": "https://t.co/Zoq9wbAvIk"
+        },
+        {
+          "display_url": "pic.x.com/Zoq9wbAvIk",
+          "end": 110,
+          "expanded_url": "https://x.com/WorstCat/status/2101230698191364203/photo/1",
+          "media_key": "3_2101230669028532225",
+          "start": 87,
+          "url": "https://t.co/Zoq9wbAvIk"
+        },
+        {
+          "display_url": "pic.x.com/Zoq9wbAvIk",
+          "end": 110,
+          "expanded_url": "https://x.com/WorstCat/status/2101230698191364203/photo/1",
+          "media_key": "3_2101230686091014144",
+          "start": 87,
+          "url": "https://t.co/Zoq9wbAvIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101230698191364203",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101230638313644032"
+      },
+      {
+        "media_key": "3_2101230669028532225"
+      },
+      {
+        "media_key": "3_2101230686091014144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜呜猫猫好想哭，在家附近的三甲医院终于办出麻卡了，开出整盒的奥施康定，每15天可以开一盒，终于看到盒子长啥样了。主任人很好，只需要诊断证明就可以，不需要复印病历和户口本。 https://t.co/Zoq9wbAvIk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2101230638313644032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkSIfvaIAAoz-J.jpg",
+        "width": 3884
+      },
+      {
+        "height": 4094,
+        "media_key": "3_2101230669028532225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkSKSKaIAErX_R.jpg",
+        "width": 2704
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2101230686091014144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkSLRua8AARj9c.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101230638313644032",
+            "3_2101230669028532225",
+            "3_2101230686091014144"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101230698191364203",
+        "created_at": "2026-09-19T08:43:32.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101230698191364203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zoq9wbAvIk",
+              "end": 110,
+              "expanded_url": "https://x.com/WorstCat/status/2101230698191364203/photo/1",
+              "media_key": "3_2101230638313644032",
+              "start": 87,
+              "url": "https://t.co/Zoq9wbAvIk"
+            },
+            {
+              "display_url": "pic.x.com/Zoq9wbAvIk",
+              "end": 110,
+              "expanded_url": "https://x.com/WorstCat/status/2101230698191364203/photo/1",
+              "media_key": "3_2101230669028532225",
+              "start": 87,
+              "url": "https://t.co/Zoq9wbAvIk"
+            },
+            {
+              "display_url": "pic.x.com/Zoq9wbAvIk",
+              "end": 110,
+              "expanded_url": "https://x.com/WorstCat/status/2101230698191364203/photo/1",
+              "media_key": "3_2101230686091014144",
+              "start": 87,
+              "url": "https://t.co/Zoq9wbAvIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101230698191364203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101230638313644032"
+          },
+          {
+            "media_key": "3_2101230669028532225"
+          },
+          {
+            "media_key": "3_2101230686091014144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜猫猫好想哭，在家附近的三甲医院终于办出麻卡了，开出整盒的奥施康定，每15天可以开一盒，终于看到盒子长啥样了。主任人很好，只需要诊断证明就可以，不需要复印病历和户口本。 https://t.co/Zoq9wbAvIk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2101230698191364203",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3133,
+          "following_count": 118,
+          "like_count": 19734,
+          "listed_count": 6,
+          "media_count": 335,
+          "tweet_count": 2788
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

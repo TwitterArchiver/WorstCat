@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2104672254143627594",
+    "created_at": "2026-09-29T07:49:06.000Z",
+    "display_text_range": [
+      17,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T08:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104840880561811809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064870849493237760",
+          "start": 0,
+          "username": "HsiaoChiLaowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104840880561811809",
+    "in_reply_to_user_id": "2064870849493237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104672254143627594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsiaoChiLaowang 补钾还是用保健品的葡萄糖酸钾吧，挺温和的不刺激胃🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2104672236720529408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTVMP45aoAAmk7S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2104672254143627594",
+        "created_at": "2026-09-29T07:49:06.000Z",
+        "display_text_range": [
+          17,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T08:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104840880561811809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064870849493237760",
+              "start": 0,
+              "username": "HsiaoChiLaowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104840880561811809",
+        "in_reply_to_user_id": "2064870849493237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104672254143627594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsiaoChiLaowang 补钾还是用保健品的葡萄糖酸钾吧，挺温和的不刺激胃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104672236720529408"
+          ]
+        },
+        "author_id": "2064870849493237760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104672254143627594",
+        "created_at": "2026-09-28T20:39:02.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T21:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104672254143627594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/921BC3Luor",
+              "end": 107,
+              "expanded_url": "https://x.com/HsiaoChiLaowang/status/2104672254143627594/photo/1",
+              "media_key": "3_2104672236720529408",
+              "start": 84,
+              "url": "https://t.co/921BC3Luor"
+            },
+            {
+              "display_url": "x.com/zau74359882867…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/zau743598828677/status/2104543687715996051",
+              "start": 108,
+              "url": "https://t.co/DFlu2op7km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104672254143627594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104672236720529408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104543687715996051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "口服，還好不是緩釋片，就算是緩釋片吃下一整板12片我自己也挺過去了⋯甚至撐到外地⋯ecg p波高於qrs波群頻發性pvc&gt;30很難受拉肚子求求別這樣幹只會難受🥺 https://t.co/921BC3Luor https://t.co/DFlu2op7km"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2104840880561811809",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 153,
+          "like_count": 21550,
+          "listed_count": 6,
+          "media_count": 340,
+          "tweet_count": 2897
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T00:55:21.000Z",
+        "description": "喵嗚？關注老王喵關注老王謝謝喵⋯線上原皮，線下高p！嗚⋯老王的日常？hrt1k+days的老必登mtf，一切捲土重來吧qwq老王是一隻可（圓）愛（頭）貓（耄）貓（耋）喔，時不時喵嗚（哈氣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/SHLxd7n-wz",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/SHLxd7n-wz",
+                "start": 0,
+                "url": "https://t.co/qGzMwCRMdQ"
+              }
+            ]
+          }
+        },
+        "id": "2064870849493237760",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2104680408629809406",
+        "name": "⁺✞ʚ老王重度依賴ɞ✟₊🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2065005195013329252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064870849493237760/1783201511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079498709621260288/VAFB4ghu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 170,
+          "like_count": 1351,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/qGzMwCRMdQ",
+        "username": "HsiaoChiLaowang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

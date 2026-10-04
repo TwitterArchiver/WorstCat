@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2100445420656972232",
+    "created_at": "2026-09-17T15:38:39.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100610392049561900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2064236987213905920",
+          "start": 0,
+          "username": "YuukiReina2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100610392049561900",
+    "in_reply_to_user_id": "2064236987213905920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100445420656972232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuukiReina2023 φ(≧ω≦*)♪对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2100445420656972232",
+        "created_at": "2026-09-17T15:38:39.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100610392049561900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2064236987213905920",
+              "start": 0,
+              "username": "YuukiReina2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100610392049561900",
+        "in_reply_to_user_id": "2064236987213905920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100445420656972232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuukiReina2023 φ(≧ω≦*)♪对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064236987213905920",
+        "conversation_id": "2100445420656972232",
+        "created_at": "2026-09-17T04:43:07.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100445420656972232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100445420656972232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呼吸机、心电监护和输液...真的是特别美好的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2100610392049561900",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3137,
+          "following_count": 113,
+          "like_count": 19468,
+          "listed_count": 6,
+          "media_count": 333,
+          "tweet_count": 2762
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-09T06:44:46.000Z",
+        "description": "A cute autistic kiddo and her gadgets: Dreams of becoming a fox-girl engineer, dabbles in electronics & coding😊\n\n哥@YangDowond 老婆@LolingVerse 姐姐@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "YangDowond"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "LolingVerse"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YuukiReina2023",
+                "end": 23,
+                "expanded_url": "https://github.com/YuukiReina2023",
+                "start": 0,
+                "url": "https://t.co/2dFOiyRx87"
+              }
+            ]
+          }
+        },
+        "id": "2064236987213905920",
+        "is_identity_verified": false,
+        "location": "京都第二赤十字病院",
+        "most_recent_tweet_id": "2100538743245721811",
+        "name": "𝒴𝓊𝓊𝓀𝒾ℛℯ𝒾𝓃𝒶×𝒟𝒾𝓈ℴ𝓇𝒹ℯ𝓇",
+        "pinned_tweet_id": "2095017515764318548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064236987213905920/1787368592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086683250437537792/gnAY6x_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 234,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/2dFOiyRx87",
+        "username": "YuukiReina2023",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

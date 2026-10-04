@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "467659726",
+    "conversation_id": "2101151374176346131",
+    "created_at": "2026-09-19T03:28:19.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101151374176346131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101151374176346131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的邪门了诶，昨晚用多导睡眠监测仪，没有明显呼吸暂停问题，我的监护仪只在快睡着前有一次低血氧最低72，之后5小时血氧除了6次94，其他都在95-98之间。昨晚用的奥施康定 普瑞巴林 拉莫三嗪 甲钴胺 瑞巴派特 瑞舒伐他汀，按照以前血氧会一直80多，好古怪呀主任让我再戴一晚试试🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2101151374176346131",
+        "created_at": "2026-09-19T03:28:19.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101151374176346131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101151374176346131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的邪门了诶，昨晚用多导睡眠监测仪，没有明显呼吸暂停问题，我的监护仪只在快睡着前有一次低血氧最低72，之后5小时血氧除了6次94，其他都在95-98之间。昨晚用的奥施康定 普瑞巴林 拉莫三嗪 甲钴胺 瑞巴派特 瑞舒伐他汀，按照以前血氧会一直80多，好古怪呀主任让我再戴一晚试试🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2101151374176346131",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 118,
+          "like_count": 19718,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 2784
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
