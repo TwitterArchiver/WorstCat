@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-04T18:21:18",
+  "last_updated": "2026-10-04T18:24:48",
   "html": {
     "https://web.archive.org/web/20251026184638if_/https://twitter.com/WorstCat/status/1982519256530170202": {
       "status": "done",
@@ -23053,9 +23053,9 @@
       "referenced_by": [
         "20251109044520_twitter_com_WorstCat_status_1987380966441312287.json"
       ],
-      "last_updated": "2026-09-13T17:33:58",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251109044520if_/https://pbs.twimg.com/profile_images/1985045271924137985/AfwlOWEC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2407a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:21:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251109044520if_/https://pbs.twimg.com/profile_images/1985045271924137985/AfwlOWEC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619f1d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg": {
       "status": "done",
@@ -23117,54 +23117,54 @@
       "referenced_by": [
         "20251110074900_twitter_com_WorstCat_status_1987789574429671704.json"
       ],
-      "last_updated": "2026-09-13T17:34:00",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110074900if_/https://pbs.twimg.com/profile_images/1984902758353469440/8z6LfT-V_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2354ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:21:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110074900if_/https://pbs.twimg.com/profile_images/1984902758353469440/8z6LfT-V_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619d0d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1944859128507072513/THFM5nxU_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251110093453_twitter_com_WorstCat_status_1987816220167663622.json"
       ],
-      "last_updated": "2026-09-13T17:34:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110093453if_/https://pbs.twimg.com/profile_images/1944859128507072513/THFM5nxU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2355010>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:21:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110093453if_/https://pbs.twimg.com/profile_images/1944859128507072513/THFM5nxU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619e840>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1985339407680086016/1ULhzq5g_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251110093739_twitter_com_WorstCat_status_1987816918166995179.json"
       ],
-      "last_updated": "2026-09-13T17:34:05",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110093739if_/https://pbs.twimg.com/profile_images/1985339407680086016/1ULhzq5g_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e24062a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110093739if_/https://pbs.twimg.com/profile_images/1985339407680086016/1ULhzq5g_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261bc950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1905832567091412992/Z3D_VRl2_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251110100209_twitter_com_WorstCat_status_1987823080669093931.json"
       ],
-      "last_updated": "2026-09-13T17:34:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110100209if_/https://pbs.twimg.com/profile_images/1905832567091412992/Z3D_VRl2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2356210>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110100209if_/https://pbs.twimg.com/profile_images/1905832567091412992/Z3D_VRl2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261bc110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1986724002216427520/m1XoYgqC_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251110100844_twitter_com_WorstCat_status_1987824737838649612.json"
       ],
-      "last_updated": "2026-09-13T17:34:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110100844if_/https://pbs.twimg.com/profile_images/1986724002216427520/m1XoYgqC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2405ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:06",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110100844if_/https://pbs.twimg.com/profile_images/1986724002216427520/m1XoYgqC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615fe00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1897278084060987392/vlkDiSnc_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251110102323_twitter_com_WorstCat_status_1987828424854134961.json"
       ],
-      "last_updated": "2026-09-13T17:34:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110102323if_/https://pbs.twimg.com/profile_images/1897278084060987392/vlkDiSnc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23569f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251110102323if_/https://pbs.twimg.com/profile_images/1897278084060987392/vlkDiSnc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615ea50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1954449950093266944/Fv0eK1ZD_normal.jpg": {
       "status": "done",
@@ -23181,18 +23181,18 @@
       "referenced_by": [
         "20251111082614_twitter_com_WorstCat_status_1988161330663330064.json"
       ],
-      "last_updated": "2026-09-13T17:34:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111082614if_/https://pbs.twimg.com/profile_images/1974991767977316353/5ulQ2MRF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237f860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111082614if_/https://pbs.twimg.com/profile_images/1974991767977316353/5ulQ2MRF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619c980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1978435318585135104/qyJSzlFf_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251111085740_twitter_com_WorstCat_status_1988169242051838113.json"
       ],
-      "last_updated": "2026-09-13T17:34:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111085740if_/https://pbs.twimg.com/profile_images/1978435318585135104/qyJSzlFf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237e570>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251111085740if_/https://pbs.twimg.com/profile_images/1978435318585135104/qyJSzlFf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615deb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg": {
       "status": "done",
@@ -23206,9 +23206,9 @@
       "referenced_by": [
         "20251112122651_twitter_com_WorstCat_status_1988584271150534696.json"
       ],
-      "last_updated": "2026-09-13T17:34:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112122651if_/https://pbs.twimg.com/profile_images/1709915204996546561/Va3Cgy9K_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e289da60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112122651if_/https://pbs.twimg.com/profile_images/1709915204996546561/Va3Cgy9K_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e0bf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1565301499030298624/oAvcJ5Fa_normal.jpg": {
       "status": "done",
@@ -23227,9 +23227,9 @@
         "20251112160905_twitter_com_WorstCat_status_1988640198109073653.json",
         "20251112162658_twitter_com_WorstCat_status_1988644702015594912.json"
       ],
-      "last_updated": "2026-09-13T17:34:23",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112162658if_/https://pbs.twimg.com/profile_images/1987360801301405699/sMbJqs2K_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e24041a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112162658if_/https://pbs.twimg.com/profile_images/1987360801301405699/sMbJqs2K_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e0a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1987763020832145408/gRP7T5wc_normal.jpg": {
       "status": "failed",
@@ -23237,9 +23237,9 @@
         "20251112160905_twitter_com_WorstCat_status_1988640198109073653.json",
         "20251112162658_twitter_com_WorstCat_status_1988644702015594912.json"
       ],
-      "last_updated": "2026-09-13T17:34:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112162658if_/https://pbs.twimg.com/profile_images/1987763020832145408/gRP7T5wc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237e8a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251112162658if_/https://pbs.twimg.com/profile_images/1987763020832145408/gRP7T5wc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261bf320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1983775496262606848/At-tnfmA_normal.jpg": {
       "status": "done",
@@ -23381,9 +23381,9 @@
       "referenced_by": [
         "20251114084227_twitter_com_WorstCat_status_1989252576576204814.json"
       ],
-      "last_updated": "2026-09-13T17:34:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114084227if_/https://pbs.twimg.com/profile_images/1908093508411641856/_4JxonrS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237f980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114084227if_/https://pbs.twimg.com/profile_images/1908093508411641856/_4JxonrS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261bc7d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1979862484744810496/CwmKdvHO_normal.jpg": {
       "status": "failed",
@@ -23393,9 +23393,9 @@
         "20251114171328_twitter_com_WorstCat_status_1989381177514643506.json",
         "20251114172058_twitter_com_WorstCat_status_1989383066306187402.json"
       ],
-      "last_updated": "2026-09-13T17:34:31",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114172058if_/https://pbs.twimg.com/profile_images/1979862484744810496/CwmKdvHO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2354d70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251114172058if_/https://pbs.twimg.com/profile_images/1979862484744810496/CwmKdvHO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261be690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png": {
       "status": "failed_all",
@@ -23454,9 +23454,9 @@
       "referenced_by": [
         "20251117032044_twitter_com_WorstCat_status_1990258777216692582.json"
       ],
-      "last_updated": "2026-09-13T17:34:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117032044if_/https://pbs.twimg.com/profile_images/1987760267858714625/upfLFa8B_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2355eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117032044if_/https://pbs.twimg.com/profile_images/1987760267858714625/upfLFa8B_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615d310>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1341609598956892163/W4cONRah_normal.jpg": {
       "status": "done",
@@ -23477,9 +23477,9 @@
       "referenced_by": [
         "20251117145211_twitter_com_WorstCat_status_1990432787074335107.json"
       ],
-      "last_updated": "2026-09-13T17:34:36",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117145211if_/https://pbs.twimg.com/profile_images/1983767458319364097/NWXXeieY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23561b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251117145211if_/https://pbs.twimg.com/profile_images/1983767458319364097/NWXXeieY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619eb10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1951669316937752576/zQaUeS18_normal.jpg": {
       "status": "done",
@@ -23529,9 +23529,9 @@
       "referenced_by": [
         "20251119071813_twitter_com_WorstCat_status_1991043316591600109.json"
       ],
-      "last_updated": "2026-09-13T17:34:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119071813if_/https://pbs.twimg.com/profile_images/1920403191352397824/faomfTCf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237d280>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119071813if_/https://pbs.twimg.com/profile_images/1920403191352397824/faomfTCf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619e0c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1680474148563468288/k9MIG1Gc_normal.jpg": {
       "status": "done",
@@ -23545,9 +23545,9 @@
       "referenced_by": [
         "20251120225842_twitter_com_WorstCat_status_1991642387890991540.json"
       ],
-      "last_updated": "2026-09-13T17:34:41",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120225842if_/https://pbs.twimg.com/profile_images/1991256822448287744/MpisKFXo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23557c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251120225842if_/https://pbs.twimg.com/profile_images/1991256822448287744/MpisKFXo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619d430>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1982074929496424448/3yNHSKqo_normal.jpg": {
       "status": "done",
@@ -23633,9 +23633,9 @@
         "20251125032749_twitter_com_WorstCat_status_1993159661735100518.json",
         "20251126194924_twitter_com_WorstCat_status_1993769074753720506.json"
       ],
-      "last_updated": "2026-09-13T17:34:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126194924if_/https://pbs.twimg.com/profile_images/1987954160395055104/Spp9MWn8_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e24073b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126194924if_/https://pbs.twimg.com/profile_images/1987954160395055104/Spp9MWn8_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619de50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1895914961018183680/iWep-P8X_normal.jpg": {
       "status": "done",
@@ -23734,9 +23734,9 @@
         "20251125032749_twitter_com_WorstCat_status_1993159661735100518.json",
         "20251126194924_twitter_com_WorstCat_status_1993769074753720506.json"
       ],
-      "last_updated": "2026-09-13T17:34:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126194924if_/https://pbs.twimg.com/profile_images/1743911241398042624/nHc-kejP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b4500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126194924if_/https://pbs.twimg.com/profile_images/1743911241398042624/nHc-kejP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615c770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1771422602072059905/e-ZPD4ro_normal.jpg": {
       "status": "done",
@@ -23780,9 +23780,9 @@
         "20251123034210_twitter_com_WorstCat_status_1992438500218839528.json",
         "20251123045230_twitter_com_WorstCat_status_1992456197895799273.json"
       ],
-      "last_updated": "2026-09-13T17:34:49",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123045230if_/https://pbs.twimg.com/profile_images/1915448137826918402/3MR5Gyur_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237e450>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123045230if_/https://pbs.twimg.com/profile_images/1915448137826918402/3MR5Gyur_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e24b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1991669632042954756/g0wNRSFa_normal.jpg": {
       "status": "done",
@@ -23801,9 +23801,9 @@
       "referenced_by": [
         "20251123034524_twitter_com_WorstCat_status_1992439311544078734.json"
       ],
-      "last_updated": "2026-09-13T17:34:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123034524if_/https://pbs.twimg.com/profile_images/1963020731782144000/TFdEBz1z_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237cdd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123034524if_/https://pbs.twimg.com/profile_images/1963020731782144000/TFdEBz1z_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e25d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg": {
       "status": "failed",
@@ -23814,9 +23814,9 @@
         "20251123090144_twitter_com_WorstCat_status_1992518919316496752.json",
         "20251123094823_twitter_com_WorstCat_status_1992530661505474725.json"
       ],
-      "last_updated": "2026-09-13T17:34:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123094823if_/https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2356600>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251123094823if_/https://pbs.twimg.com/profile_images/1975515757137338368/jPrPpZkm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615c410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1980834354554081280/n3YoaBrm_normal.jpg": {
       "status": "done",
@@ -23895,18 +23895,18 @@
       "referenced_by": [
         "20251125172519_twitter_com_WorstCat_status_1993370426790363229.json"
       ],
-      "last_updated": "2026-09-13T17:34:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251125172519if_/https://pbs.twimg.com/profile_images/1992919446218846208/4YNxCCsN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b7260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251125172519if_/https://pbs.twimg.com/profile_images/1992919446218846208/4YNxCCsN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e0980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1969324028516319233/LLKbW6v4_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251126031732_twitter_com_WorstCat_status_1993519462503596147.json"
       ],
-      "last_updated": "2026-09-13T17:34:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126031732if_/https://pbs.twimg.com/profile_images/1969324028516319233/LLKbW6v4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23d9640>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126031732if_/https://pbs.twimg.com/profile_images/1969324028516319233/LLKbW6v4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261bdf40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1910593885484593152/eNMw3lXq_normal.jpg": {
       "status": "done",
@@ -23922,9 +23922,9 @@
       "referenced_by": [
         "20251126054342_twitter_com_WorstCat_status_1993556247887724577.json"
       ],
-      "last_updated": "2026-09-13T17:35:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126054342if_/https://pbs.twimg.com/profile_images/1887550637552046080/_N2zMpCN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23d82c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126054342if_/https://pbs.twimg.com/profile_images/1887550637552046080/_N2zMpCN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fdd90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1907933753277636608/AUgOFyXG_normal.jpg": {
       "status": "done",
@@ -23948,18 +23948,18 @@
       "referenced_by": [
         "20251126193140_twitter_com_WorstCat_status_1993764612354003144.json"
       ],
-      "last_updated": "2026-09-13T17:35:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126193140if_/https://pbs.twimg.com/profile_images/1919365089695879168/PGXeeDBt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2405eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126193140if_/https://pbs.twimg.com/profile_images/1919365089695879168/PGXeeDBt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619ee40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251127035222_twitter_com_WorstCat_status_1993890616900739320.json"
       ],
-      "last_updated": "2026-09-13T17:35:07",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251127035222if_/https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b61b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251127035222if_/https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e2390>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg": {
       "status": "done",
@@ -24022,9 +24022,9 @@
       "referenced_by": [
         "20251206221132_twitter_com_WorstCat_status_1997428720450326672.json"
       ],
-      "last_updated": "2026-09-13T17:35:10",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251206221132if_/https://pbs.twimg.com/profile_images/1482993469840936965/Fy7RNoUp_normal.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b7ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251206221132if_/https://pbs.twimg.com/profile_images/1482993469840936965/Fy7RNoUp_normal.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e13d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg": {
       "status": "done",
@@ -24645,9 +24645,9 @@
       "referenced_by": [
         "20251214044133_twitter_com_WorstCat_status_2000063586413256928.json"
       ],
-      "last_updated": "2026-09-13T17:35:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251214044133if_/https://pbs.twimg.com/profile_images/1996220919707271168/5kGi05Ct_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2404110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:22:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251214044133if_/https://pbs.twimg.com/profile_images/1996220919707271168/5kGi05Ct_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619fad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1999424066177171456/AN4v18BT_normal.jpg": {
       "status": "failed_all",
@@ -24693,9 +24693,9 @@
       "referenced_by": [
         "20251215152738_twitter_com_WorstCat_status_2000588568532586691.json"
       ],
-      "last_updated": "2026-09-13T17:35:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251215152738if_/https://pbs.twimg.com/profile_images/1222973158434594816/_CONeW_u_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237ee70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251215152738if_/https://pbs.twimg.com/profile_images/1222973158434594816/_CONeW_u_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e2600>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2000192992045576192/CPhMInVz_normal.jpg": {
       "status": "done",
@@ -25050,9 +25050,9 @@
         "20260124132810_twitter_com_WorstCat_status_2015054017110683928.json",
         "20260124133205_twitter_com_WorstCat_status_2015055002981863610.json"
       ],
-      "last_updated": "2026-09-13T17:35:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124133205if_/https://pbs.twimg.com/profile_images/1847836709922426880/Bm27_xod_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237ea20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260124133205if_/https://pbs.twimg.com/profile_images/1847836709922426880/Bm27_xod_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615cc50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1709994021056372736/baxnzgyZ_normal.jpg": {
       "status": "done",
@@ -25165,9 +25165,9 @@
       "referenced_by": [
         "20260203133104_twitter_com_WorstCat_status_2018678626267316602.json"
       ],
-      "last_updated": "2026-09-13T17:35:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260203133104if_/https://pbs.twimg.com/profile_images/2014987081853153280/AWCPz6VM_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b40e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260203133104if_/https://pbs.twimg.com/profile_images/2014987081853153280/AWCPz6VM_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615cf80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg": {
       "status": "done",
@@ -25189,9 +25189,9 @@
       "referenced_by": [
         "20260204150743_twitter_com_WorstCat_status_2019065339292569836.json"
       ],
-      "last_updated": "2026-09-13T17:35:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260204150743if_/https://pbs.twimg.com/profile_images/1614817191844618242/DOypNDng_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b67e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260204150743if_/https://pbs.twimg.com/profile_images/1614817191844618242/DOypNDng_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619f470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1979840771009163264/mKufTq48_normal.jpg": {
       "status": "done",
@@ -25205,9 +25205,9 @@
       "referenced_by": [
         "20260206080954_twitter_com_WorstCat_status_2019684967996092740.json"
       ],
-      "last_updated": "2026-09-13T17:35:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206080954if_/https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e289e240>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206080954if_/https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619f950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2019496124479062016/alc8Hryu_normal.jpg": {
       "status": "done",
@@ -25295,9 +25295,9 @@
       "referenced_by": [
         "20260206165725_twitter_com_WorstCat_status_2019817719856787806.json"
       ],
-      "last_updated": "2026-09-13T17:35:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206165725if_/https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b7a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:12",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206165725if_/https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261e3650>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1559055169072930816/xcwI0T_i_normal.jpg": {
       "status": "done",
@@ -25320,9 +25320,9 @@
       "referenced_by": [
         "20260212174302_twitter_com_WorstCat_status_2022003525203661074.json"
       ],
-      "last_updated": "2026-09-13T17:35:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260212174302if_/https://pbs.twimg.com/profile_images/2013798037030871040/t79i5NM1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23d8a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260212174302if_/https://pbs.twimg.com/profile_images/2013798037030871040/t79i5NM1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615e570>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg": {
       "status": "done",
@@ -25416,9 +25416,9 @@
       "referenced_by": [
         "20260218021156_twitter_com_WorstCat_status_2023943537167945985.json"
       ],
-      "last_updated": "2026-09-13T17:35:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260218021156if_/https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b4740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260218021156if_/https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fe660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg": {
       "status": "done",
@@ -25451,18 +25451,18 @@
         "20260218121545_twitter_com_WorstCat_status_2024095492301529450.json",
         "20260218124306_twitter_com_WorstCat_status_2024102373455782329.json"
       ],
-      "last_updated": "2026-09-13T17:35:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260218124306if_/https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2354950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260218124306if_/https://pbs.twimg.com/profile_images/2011497532711714818/f-A8QXeK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fe5a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2013953203147038721/Mqcu7-fa_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260218125310_twitter_com_WorstCat_status_2024104908039868639.json"
       ],
-      "last_updated": "2026-09-13T17:35:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260218125310if_/https://pbs.twimg.com/profile_images/2013953203147038721/Mqcu7-fa_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2407710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260218125310if_/https://pbs.twimg.com/profile_images/2013953203147038721/Mqcu7-fa_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fd8e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg": {
       "status": "done",
@@ -25497,18 +25497,18 @@
         "20260222063113_twitter_com_WorstCat_status_2025458337073258998.json",
         "20260223060524_twitter_com_WorstCat_status_2025814228888903975.json"
       ],
-      "last_updated": "2026-09-13T17:35:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223060524if_/https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23db1a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223060524if_/https://pbs.twimg.com/profile_images/2023980914729254912/9d2mun2U_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fc380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260222073758_twitter_com_WorstCat_status_2025475133905965181.json"
       ],
-      "last_updated": "2026-09-13T17:35:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260222073758if_/https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23da270>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260222073758if_/https://pbs.twimg.com/profile_images/2023075572533121025/bEp-7N8J_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261ffa70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg": {
       "status": "done",
@@ -25542,9 +25542,9 @@
       "referenced_by": [
         "20260223061623_twitter_com_WorstCat_status_2025816991416942938.json"
       ],
-      "last_updated": "2026-09-13T17:35:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223061623if_/https://pbs.twimg.com/profile_images/2025210016291033089/eQnDkr6H_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23db4a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223061623if_/https://pbs.twimg.com/profile_images/2025210016291033089/eQnDkr6H_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615d4f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg": {
       "status": "done",
@@ -25783,27 +25783,27 @@
       "referenced_by": [
         "20260319065129_twitter_com_WorstCat_status_2034523132535644510.json"
       ],
-      "last_updated": "2026-09-13T17:35:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319065129if_/https://pbs.twimg.com/profile_images/2019382394135232512/gryjflOj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237ede0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319065129if_/https://pbs.twimg.com/profile_images/2019382394135232512/gryjflOj_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261be9c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2023377662811705344/gslaL-yq_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260319120309_twitter_com_WorstCat_status_2034601566234440029.json"
       ],
-      "last_updated": "2026-09-13T17:35:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319120309if_/https://pbs.twimg.com/profile_images/2023377662811705344/gslaL-yq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2354170>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319120309if_/https://pbs.twimg.com/profile_images/2023377662811705344/gslaL-yq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261bce30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2015768177091936256/sDXcJM8e_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260323211202_twitter_com_WorstCat_status_2036189248278372778.json"
       ],
-      "last_updated": "2026-09-13T17:35:52",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323211202if_/https://pbs.twimg.com/profile_images/2015768177091936256/sDXcJM8e_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23571a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323211202if_/https://pbs.twimg.com/profile_images/2015768177091936256/sDXcJM8e_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615f500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg": {
       "status": "done",
@@ -25963,9 +25963,9 @@
         "20260407105558_twitter_com_WorstCat_status_2041470031444554191.json",
         "20260407150918_twitter_com_WorstCat_status_2041533784345243895.json"
       ],
-      "last_updated": "2026-09-13T17:35:54",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407150918if_/https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237f080>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407150918if_/https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fcc50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg": {
       "status": "done",
@@ -25985,9 +25985,9 @@
       "referenced_by": [
         "20260407161503_twitter_com_WorstCat_status_2041550331256168839.json"
       ],
-      "last_updated": "2026-09-13T17:35:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407161503im_/https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e2354680>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407161503if_/https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261be4e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg": {
       "status": "done",
@@ -26024,9 +26024,9 @@
       "referenced_by": [
         "20260408123435_twitter_com_WorstCat_status_2041857233907282330.json"
       ],
-      "last_updated": "2026-09-13T17:36:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408123435if_/https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237d0a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408123435if_/https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fe960>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg": {
       "status": "done",
@@ -26077,9 +26077,9 @@
       "referenced_by": [
         "20260409121435_twitter_com_WorstCat_status_2042214591325986823.json"
       ],
-      "last_updated": "2026-09-13T17:36:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409121435im_/https://pbs.twimg.com/profile_images/2040560533070585856/9aPVSuHU_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23d9970>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409121435if_/https://pbs.twimg.com/profile_images/2040560533070585856/9aPVSuHU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619ec00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg": {
       "status": "done",
@@ -26180,9 +26180,9 @@
       "referenced_by": [
         "20260410151019_twitter_com_WorstCat_status_2042621204469813549.json"
       ],
-      "last_updated": "2026-09-13T17:36:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410151019if_/https://pbs.twimg.com/profile_images/2035173221130018816/v1xYOw6e_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b4f80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410151019if_/https://pbs.twimg.com/profile_images/2035173221130018816/v1xYOw6e_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fc560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg": {
       "status": "done",
@@ -26256,9 +26256,9 @@
       "referenced_by": [
         "20260416144420_twitter_com_WorstCat_status_2044788991632052480.json"
       ],
-      "last_updated": "2026-09-13T17:36:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416144420im_/https://pbs.twimg.com/profile_images/2040727260039352320/FmBMGIu1_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23b4620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260416144420if_/https://pbs.twimg.com/profile_images/2040727260039352320/FmBMGIu1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562615ec00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg": {
       "status": "done",
@@ -26355,9 +26355,9 @@
         "20260420041711_twitter_com_WorstCat_status_2046080713116750208.json",
         "20260420132836_twitter_com_WorstCat_status_2046219485032624273.json"
       ],
-      "last_updated": "2026-09-13T17:36:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420132836if_/https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23d9790>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420132836if_/https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f562619dc10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2044553228495564800/GccKMUIJ_normal.jpg": {
       "status": "done",
@@ -28752,9 +28752,9 @@
       "referenced_by": [
         "20260424165054_twitter_com_WorstCat_status_2047719944385860037.json"
       ],
-      "last_updated": "2026-09-13T17:36:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424165054im_/https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23542f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424165054if_/https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f56261fd040>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1937169897206763520/YtgLgApI_normal.jpg": {
       "status": "done",
@@ -28768,9 +28768,9 @@
       "referenced_by": [
         "20260424172038_twitter_com_WorstCat_status_2047727429637349806.json"
       ],
-      "last_updated": "2026-09-13T17:36:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424172038if_/https://pbs.twimg.com/profile_images/1991208747276857344/vqR608PG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e237dd90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424172038if_/https://pbs.twimg.com/profile_images/1991208747276857344/vqR608PG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f5626025d60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1888626247548514304/MegS1DUU_normal.jpg": {
       "status": "done",
@@ -28931,9 +28931,9 @@
       "referenced_by": [
         "20260427050345_twitter_com_WorstCat_status_2048629150332903552.json"
       ],
-      "last_updated": "2026-09-13T17:36:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427050345im_/https://pbs.twimg.com/profile_images/2048438215724638208/Kp8bZu-X_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23b47a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:23:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427050345im_/https://pbs.twimg.com/profile_images/2048438215724638208/Kp8bZu-X_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261e3080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg": {
       "status": "done",
@@ -29059,9 +29059,9 @@
       "referenced_by": [
         "20260427190641_twitter_com_WorstCat_status_2048841281284231229.json"
       ],
-      "last_updated": "2026-09-13T17:36:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427190641if_/https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2200800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260427190641im_/https://pbs.twimg.com/profile_images/2036449774623399938/RTsoNxso_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261bf710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2047341419409637376/UTz0FjxJ_normal.jpg": {
       "status": "done",
@@ -29101,9 +29101,9 @@
       "referenced_by": [
         "20260428012610_twitter_com_WorstCat_status_2048936782079918499.json"
       ],
-      "last_updated": "2026-09-13T17:36:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428012610im_/https://pbs.twimg.com/profile_images/2026942556014292992/JDpjSlw1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e24066c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428012610im_/https://pbs.twimg.com/profile_images/2026942556014292992/JDpjSlw1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f562619e810>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg": {
       "status": "done",
@@ -29175,9 +29175,9 @@
         "20260429145125_twitter_com_WorstCat_status_2049501818116612386.json",
         "20260429151847_twitter_com_WorstCat_status_2049508704916300138.json"
       ],
-      "last_updated": "2026-09-13T17:36:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429151847if_/https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e23b7a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429151847im_/https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261bc530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg": {
       "status": "done",
@@ -29273,9 +29273,9 @@
       "referenced_by": [
         "20260501110531_twitter_com_WorstCat_status_2050169741357322494.json"
       ],
-      "last_updated": "2026-09-13T17:36:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501110531im_/https://pbs.twimg.com/profile_images/2048795042991738880/UMh5OtPf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e2404200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501110531im_/https://pbs.twimg.com/profile_images/2048795042991738880/UMh5OtPf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261be390>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg": {
       "status": "done",
@@ -29385,13 +29385,13 @@
       "last_updated": "2026-07-12T04:12:47"
     },
     "https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260505114301_twitter_com_WorstCat_status_2051628731345911834.json"
       ],
-      "last_updated": "2026-09-13T17:36:41",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505114301if_/https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa9e2405a90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:12",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505114301if_/https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2989e6ae10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 27
     },
     "https://pbs.twimg.com/profile_images/2038600574313066496/2mhmAiVH_normal.jpg": {
       "status": "done",
@@ -29450,9 +29450,9 @@
       "referenced_by": [
         "20260507013707_twitter_com_WorstCat_status_2052201028804821073.json"
       ],
-      "last_updated": "2026-09-13T17:36:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507013707im_/https://pbs.twimg.com/profile_images/1945379597916495874/9dCZKNpD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e237cc50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507013707im_/https://pbs.twimg.com/profile_images/1945379597916495874/9dCZKNpD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261e0140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2047212955574358016/Gq_SfWUB_normal.jpg": {
       "status": "done",
@@ -29846,9 +29846,9 @@
         "20260518190858_twitter_com_WorstCat_status_2056451998258692586.json",
         "20260519084530_twitter_com_WorstCat_status_2056657488741900594.json"
       ],
-      "last_updated": "2026-09-13T17:36:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519084530im_/https://pbs.twimg.com/profile_images/2054876841518002176/cMyOUZFc_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e2405bb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519084530im_/https://pbs.twimg.com/profile_images/2054876841518002176/cMyOUZFc_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261ff860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg": {
       "status": "done",
@@ -30290,9 +30290,9 @@
       "referenced_by": [
         "20260524145052_twitter_com_WorstCat_status_2058561374700380231.json"
       ],
-      "last_updated": "2026-09-13T17:36:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524145052im_/https://pbs.twimg.com/profile_images/2033567826464964608/pT3pZYsC_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23b7260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524145052im_/https://pbs.twimg.com/profile_images/2033567826464964608/pT3pZYsC_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f562619e3c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg": {
       "status": "failed_all",
@@ -30314,9 +30314,9 @@
       "referenced_by": [
         "20260524152508_twitter_com_WorstCat_status_2058569999065993316.json"
       ],
-      "last_updated": "2026-09-13T17:36:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524152508im_/https://pbs.twimg.com/profile_images/2038635275321278464/9HcqLyja_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e237f6e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524152508im_/https://pbs.twimg.com/profile_images/2038635275321278464/9HcqLyja_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261fc350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1802069176447561728/w4P9zN-v_normal.jpg": {
       "status": "done",
@@ -30428,9 +30428,9 @@
       "referenced_by": [
         "20260525144311_twitter_com_WorstCat_status_2058921827754545287.json"
       ],
-      "last_updated": "2026-09-13T17:37:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525144311im_/https://pbs.twimg.com/profile_images/1860971782217605120/WY3KaNM9_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e2355010>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525144311im_/https://pbs.twimg.com/profile_images/1860971782217605120/WY3KaNM9_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f562619fb30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2052769101605670912/97NSf03T_normal.jpg": {
       "status": "done",
@@ -30564,9 +30564,9 @@
         "20260526125235_twitter_com_WorstCat_status_2059256381639901524.json",
         "20260526125309_twitter_com_WorstCat_status_2059256524485398640.json"
       ],
-      "last_updated": "2026-09-13T17:37:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526125309im_/https://pbs.twimg.com/profile_images/2057749754852093952/Vmj6eo_-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e2404290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260526125309im_/https://pbs.twimg.com/profile_images/2057749754852093952/Vmj6eo_-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261e0cb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2043000923929157632/GlfJ_8qN_normal.jpg": {
       "status": "done",
@@ -30652,22 +30652,22 @@
       "last_updated": "2026-07-12T04:12:53"
     },
     "https://pbs.twimg.com/profile_images/2059188417431314432/ny2G1lcF_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260528100531_twitter_com_WorstCat_status_2059939113034510493.json"
       ],
-      "last_updated": "2026-09-13T17:37:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528100531im_/https://pbs.twimg.com/profile_images/2059188417431314432/ny2G1lcF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23572c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:34",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528100531if_/https://pbs.twimg.com/profile_images/2059188417431314432/ny2G1lcF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2989d9d550>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 27
     },
     "https://pbs.twimg.com/profile_images/2013197766411898881/Jev7DrHl_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260528100830_twitter_com_WorstCat_status_2059939866465784237.json"
       ],
-      "last_updated": "2026-09-13T17:37:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528100830im_/https://pbs.twimg.com/profile_images/2013197766411898881/Jev7DrHl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e2405c70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528100830im_/https://pbs.twimg.com/profile_images/2013197766411898881/Jev7DrHl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261ffa10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1974876671779246081/Qk0E58cJ_normal.png": {
       "status": "done",
@@ -30677,11 +30677,11 @@
       "last_updated": "2026-07-12T04:12:54"
     },
     "https://pbs.twimg.com/profile_images/2058648090790494208/uQz_FsT5_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260529065656_twitter_com_WorstCat_status_2060254046255260045.json"
       ],
-      "last_updated": "2026-09-13T17:37:17",
+      "last_updated": "2026-10-04T18:21:49",
       "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529065656im_/https://pbs.twimg.com/profile_images/2058648090790494208/uQz_FsT5_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23db7a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
       "miss_count": 26
     },
@@ -31284,9 +31284,9 @@
       "referenced_by": [
         "20260626065503_twitter_com_WorstCat_status_2070400430665023659.json"
       ],
-      "last_updated": "2026-09-13T17:37:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626065503im_/https://pbs.twimg.com/profile_images/1908957316587606016/hbFWA1Nb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e237e810>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626065503im_/https://pbs.twimg.com/profile_images/1908957316587606016/hbFWA1Nb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f562619d310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg": {
       "status": "done",
@@ -31516,9 +31516,9 @@
       "referenced_by": [
         "20260703181749_twitter_com_WorstCat_status_2073108971368624558.json"
       ],
-      "last_updated": "2026-09-13T17:37:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703181749im_/https://pbs.twimg.com/profile_images/1889688484761235456/riBDJNWd_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa9e23b4e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 26
+      "last_updated": "2026-10-04T18:24:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260703181749im_/https://pbs.twimg.com/profile_images/1889688484761235456/riBDJNWd_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f56261fe1e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 28
     },
     "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg": {
       "status": "done",
@@ -33337,107 +33337,122 @@
       "last_updated": "2026-09-13T17:33:54"
     },
     "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260913010013_twitter_com_WorstCat_status_2098939773729857881.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2011121027326361600/HcnX5dAJ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260914120900_twitter_com_WorstCat_status_2099470469842055377.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2036413497047916548/4XE_ZRTW_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260914120936_twitter_com_WorstCat_status_2099470618337194494.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2098627557096833024/9eyjNyuo_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260914162015_twitter_com_WorstCat_status_2099533698240762300.json",
         "20260914162735_twitter_com_WorstCat_status_2099535544707698916.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2088221645056122881/HH9SIN1s_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260914162735_twitter_com_WorstCat_status_2099535544707698916.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915014328_twitter_com_WorstCat_status_2099675435366019382.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915024054_twitter_com_WorstCat_status_2099689888228724979.json",
         "20260915032659_twitter_com_WorstCat_status_2099701486699823401.json",
         "20260926175813_twitter_com_WorstCat_status_2103907006952378421.json",
         "20261001084718_twitter_com_WorstCat_status_2105580303142244807.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915043134_twitter_com_WorstCat_status_2099717738541494407.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915054107_twitter_com_WorstCat_status_2099735240256454926.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915132833_twitter_com_WorstCat_status_2099852875878789434.json",
         "20260915135455_twitter_com_WorstCat_status_2099859512148754923.json",
         "20260915145818_twitter_com_WorstCat_status_2099875462780748207.json",
         "20260915152728_twitter_com_WorstCat_status_2099882801478897910.json",
         "20260918054105_twitter_com_WorstCat_status_2100822397993808352.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2056743743915737088/WczyUo4A_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915135455_twitter_com_WorstCat_status_2099859512148754923.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/1963515355265208320/borYDv6M_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915150821_twitter_com_WorstCat_status_2099877992696783158.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2096434282671525891/pNZNdKCr_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915150821_twitter_com_WorstCat_status_2099877992696783158.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915185129_twitter_com_WorstCat_status_2099934142922473610.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915191356_twitter_com_WorstCat_status_2099939792238829594.json",
         "20260915191454_twitter_com_WorstCat_status_2099940035760111894.json",
         "20260917071555_twitter_com_WorstCat_status_2100483874379936012.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260915191723_twitter_com_WorstCat_status_2099940662007493047.json",
         "20260916140645_twitter_com_WorstCat_status_2100224874765799833.json",
@@ -33466,70 +33481,82 @@
         "20260920041737_twitter_com_WorstCat_status_2101526167006433615.json",
         "20260920125144_twitter_com_WorstCat_status_2101655548383105162.json",
         "20260923230448_twitter_com_WorstCat_status_2102896995543519597.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260916043153_twitter_com_WorstCat_status_2100080205050315018.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:49"
     },
     "https://pbs.twimg.com/profile_images/2100276921091448832/juABfBwl_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260916174433_twitter_com_WorstCat_status_2100279685720822084.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:24:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260916174433if_/https://pbs.twimg.com/profile_images/2100276921091448832/juABfBwl_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2989f7ba10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2088249042681868288/qkYe2ACT_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260917071401_twitter_com_WorstCat_status_2100483394937516251.json",
         "20260917093045_twitter_com_WorstCat_status_2100517807385608564.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2084155426950762496/u0wVs8XF_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260918061215_twitter_com_WorstCat_status_2100830242118271235.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2068512627337142272/b2uIK8r4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260918063304_twitter_com_WorstCat_status_2100835477574275329.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919014839_twitter_com_WorstCat_status_2101126290896302456.json",
         "20261002173249_twitter_com_WorstCat_status_2106074939954794945.json",
         "20261003001149_twitter_com_WorstCat_status_2106175352091693090.json",
         "20261003001653_twitter_com_WorstCat_status_2106176627201974385.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919023843_twitter_com_WorstCat_status_2101138890170196095.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260919143104_twitter_com_WorstCat_status_2101318157856317606.json",
         "20260920041409_twitter_com_WorstCat_status_2101525296705048820.json",
         "20260920124950_twitter_com_WorstCat_status_2101655071498940860.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2097473888469065728/u9DlQYHb_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260920042016_twitter_com_WorstCat_status_2101526833485463835.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260920084454_twitter_com_WorstCat_status_2101593433475600516.json",
         "20260920084730_twitter_com_WorstCat_status_2101594086696526055.json",
@@ -33539,183 +33566,213 @@
         "20260922015002_twitter_com_WorstCat_status_2102213800980365517.json",
         "20260922153441_twitter_com_WorstCat_status_2102421333657497799.json",
         "20260923225902_twitter_com_WorstCat_status_2102895546503708747.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260921051518_twitter_com_WorstCat_status_2101903070989074450.json",
         "20260921060239_twitter_com_WorstCat_status_2101914986247487539.json",
         "20260921155433_twitter_com_WorstCat_status_2102063944496304606.json",
         "20260922015823_twitter_com_WorstCat_status_2102215903526125813.json",
         "20260928090113_twitter_com_WorstCat_status_2104496642259132523.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260921101353_twitter_com_WorstCat_status_2101978212335300790.json",
         "20260924040409_twitter_com_WorstCat_status_2102972330905608265.json",
         "20260924163318_twitter_com_WorstCat_status_2103160859350720883.json",
         "20260926161240_twitter_com_WorstCat_status_2103880441241735434.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260921114409_twitter_com_WorstCat_status_2102000928283042028.json",
         "20260927110156_twitter_com_WorstCat_status_2104164631090753680.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2089300666359664640/x2Seu3j3_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260923125108_twitter_com_WorstCat_status_2102742560385179909.json",
         "20260924145552_twitter_com_WorstCat_status_2103136338170253679.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2097040569604485120/mGQIJqxW_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260923161927_twitter_com_WorstCat_status_2102794985502613935.json",
         "20260924095140_twitter_com_WorstCat_status_2103059784354451602.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2089218334667788288/kDANtfwN_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260924054237_twitter_com_WorstCat_status_2102997111050801192.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260924065141_twitter_com_WorstCat_status_2103014492351365523.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2102390600683425792/OaVHbXBc_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260924095140_twitter_com_WorstCat_status_2103059784354451602.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2101600062413635584/KemIHPfL_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260924103317_twitter_com_WorstCat_status_2103070259712544868.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2101483925386477569/2cIden52_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260924113325_twitter_com_WorstCat_status_2103085390299357654.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2100747986183815168/1nRI_rj4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925073320_twitter_com_WorstCat_status_2103387359215804717.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2096924456518332417/WRiU-J6y_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925092757_twitter_com_WorstCat_status_2103416204690100568.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2103153351492038657/EA_vzpyN_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260925103348_twitter_com_WorstCat_status_2103432775420588319.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:24:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260925103348im_/https://pbs.twimg.com/profile_images/2103153351492038657/EA_vzpyN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5625b23f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260925160155_twitter_com_WorstCat_status_2103515351455768693.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260926122928_twitter_com_WorstCat_status_2103824274825867365.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2097165978748547072/DG8XzL64_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927091212_twitter_com_WorstCat_status_2104137015537307974.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2104109674274664448/hqVVlXLq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928145205_twitter_com_WorstCat_status_2104584939081748541.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2104172346491736064/aEszKX97_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928145854_twitter_com_WorstCat_status_2104586656754045056.json",
         "20260929093145_twitter_com_WorstCat_status_2104866714303488394.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/1823025945533730816/HdNApQee_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928151405_twitter_com_WorstCat_status_2104590474992656718.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2103408078993707008/2T3ZbJBq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260928182345_twitter_com_WorstCat_status_2104638205303947319.json",
         "20261002234546_twitter_com_WorstCat_status_2106168798374138190.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2079498709621260288/VAFB4ghu_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929074906_twitter_com_WorstCat_status_2104840880561811809.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2095026139299536896/OnadKp65_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929125644_twitter_com_WorstCat_status_2104918299385504160.json",
         "20261001082734_twitter_com_WorstCat_status_2105575336033526015.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2103941661198008320/kFBWbLRL_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261001082646_twitter_com_WorstCat_status_2105575135906611277.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261001105649_twitter_com_WorstCat_status_2105612896986337724.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/2094487922905116672/jcFm84nz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261002152556_twitter_com_WorstCat_status_2106043010198962292.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     },
     "https://pbs.twimg.com/profile_images/1509919318242656257/U9LQd6r__normal.png": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261002195441_twitter_com_WorstCat_status_2106110641681661980.json",
         "20261002200322_twitter_com_WorstCat_status_2106112828327551216.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:51"
     },
     "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261002234719_twitter_com_WorstCat_status_2106169184967348699.json"
-      ]
+      ],
+      "last_updated": "2026-10-04T18:21:50"
     }
   },
   "media": {
@@ -48102,7 +48159,7 @@
       "last_updated": "2026-07-12T04:12:44"
     },
     "20260505114301_twitter_com_WorstCat_status_2051628731345911834.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -48111,7 +48168,7 @@
           "https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15",
+      "last_updated": "2026-10-04T18:24:12",
       "miss_count": 26
     },
     "20260505114354_twitter_com_WorstCat_status_2051628953560125752.json": {
@@ -52916,7 +52973,7 @@
       "last_updated": "2026-07-12T04:12:53"
     },
     "20260528100531_twitter_com_WorstCat_status_2059939113034510493.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -52925,7 +52982,7 @@
           "https://pbs.twimg.com/profile_images/2059188417431314432/ny2G1lcF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15",
+      "last_updated": "2026-10-04T18:24:34",
       "miss_count": 26
     },
     "20260528100830_twitter_com_WorstCat_status_2059939866465784237.json": {
@@ -53010,7 +53067,7 @@
       "last_updated": "2026-07-12T04:12:44"
     },
     "20260529065656_twitter_com_WorstCat_status_2060254046255260045.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -53019,7 +53076,7 @@
           "https://pbs.twimg.com/profile_images/2058648090790494208/uQz_FsT5_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15",
+      "last_updated": "2026-10-04T18:21:49",
       "miss_count": 26
     },
     "20260529070253_twitter_com_WorstCat_status_2060255542686458263.json": {
@@ -70872,7 +70929,7 @@
       "last_updated": "2026-10-04T18:10:00"
     },
     "20260913010013_twitter_com_WorstCat_status_2098939773729857881.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70881,7 +70938,7 @@
           "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260913011109_twitter_com_WorstCat_status_2098942526665494804.json": {
       "status": "done",
@@ -70958,7 +71015,7 @@
       "last_updated": "2026-10-04T18:10:01"
     },
     "20260914120900_twitter_com_WorstCat_status_2099470469842055377.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70967,10 +71024,10 @@
           "https://pbs.twimg.com/profile_images/2011121027326361600/HcnX5dAJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260914120936_twitter_com_WorstCat_status_2099470618337194494.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -70979,7 +71036,7 @@
           "https://pbs.twimg.com/profile_images/2036413497047916548/4XE_ZRTW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260914121002_twitter_com_WorstCat_status_2099470726927716514.json": {
       "status": "done",
@@ -71116,7 +71173,7 @@
       "last_updated": "2026-10-04T18:10:01"
     },
     "20260914162015_twitter_com_WorstCat_status_2099533698240762300.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71125,10 +71182,10 @@
           "https://pbs.twimg.com/profile_images/2098627557096833024/9eyjNyuo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260914162735_twitter_com_WorstCat_status_2099535544707698916.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71138,7 +71195,7 @@
           "https://pbs.twimg.com/profile_images/2098627557096833024/9eyjNyuo_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260914163557_twitter_com_WorstCat_status_2099537646221734235.json": {
       "status": "done",
@@ -71225,7 +71282,7 @@
       "last_updated": "2026-10-04T18:10:01"
     },
     "20260915014328_twitter_com_WorstCat_status_2099675435366019382.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71234,7 +71291,7 @@
           "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915015618_twitter_com_WorstCat_status_2099678665017876745.json": {
       "status": "done",
@@ -71274,7 +71331,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260915024054_twitter_com_WorstCat_status_2099689888228724979.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSJDmjGbgAAltrl.jpg"
@@ -71286,7 +71343,7 @@
           "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915024244_twitter_com_WorstCat_status_2099690350751412593.json": {
       "status": "done",
@@ -71301,7 +71358,7 @@
       "last_updated": "2026-10-04T18:10:01"
     },
     "20260915032659_twitter_com_WorstCat_status_2099701486699823401.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSOe0L2agAAq00P.jpg"
@@ -71312,7 +71369,7 @@
           "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915032902_twitter_com_WorstCat_status_2099702003484221544.json": {
       "status": "done",
@@ -71328,7 +71385,7 @@
       "last_updated": "2026-10-04T18:10:01"
     },
     "20260915043134_twitter_com_WorstCat_status_2099717738541494407.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71337,7 +71394,7 @@
           "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915044742_twitter_com_WorstCat_status_2099721798078398799.json": {
       "status": "done",
@@ -71356,7 +71413,7 @@
       "last_updated": "2026-10-04T18:21:16"
     },
     "20260915054107_twitter_com_WorstCat_status_2099735240256454926.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSFIHB3acAAIrH3.jpg",
@@ -71368,7 +71425,7 @@
           "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915112039_twitter_com_WorstCat_status_2099820687791919506.json": {
       "status": "done",
@@ -71400,7 +71457,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260915132833_twitter_com_WorstCat_status_2099852875878789434.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71409,10 +71466,10 @@
           "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915135455_twitter_com_WorstCat_status_2099859512148754923.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71422,10 +71479,10 @@
           "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915145818_twitter_com_WorstCat_status_2099875462780748207.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71434,7 +71491,7 @@
           "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915150047_twitter_com_WorstCat_status_2099876087706865947.json": {
       "status": "done",
@@ -71451,7 +71508,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260915150821_twitter_com_WorstCat_status_2099877992696783158.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71461,7 +71518,7 @@
           "https://pbs.twimg.com/profile_images/2096434282671525891/pNZNdKCr_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260915150922_twitter_com_WorstCat_status_2099878246414459250.json": {
       "status": "done",
@@ -71476,7 +71533,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260915152728_twitter_com_WorstCat_status_2099882801478897910.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71485,7 +71542,7 @@
           "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915152910_twitter_com_WorstCat_status_2099883231504171253.json": {
       "status": "done",
@@ -71503,7 +71560,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260915185129_twitter_com_WorstCat_status_2099934142922473610.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSRVOxFbMAI6nif.jpg"
@@ -71514,7 +71571,7 @@
           "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915185234_twitter_com_WorstCat_status_2099934415183126722.json": {
       "status": "done",
@@ -71539,7 +71596,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260915191356_twitter_com_WorstCat_status_2099939792238829594.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSRz5XdbUAA8Xo0.jpg",
@@ -71552,10 +71609,10 @@
           "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915191454_twitter_com_WorstCat_status_2099940035760111894.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSRz5XdbUAA8Xo0.jpg",
@@ -71568,10 +71625,10 @@
           "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915191723_twitter_com_WorstCat_status_2099940662007493047.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71580,7 +71637,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260915225416_twitter_com_WorstCat_status_2099995243294961988.json": {
       "status": "done",
@@ -71628,7 +71685,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260916043153_twitter_com_WorstCat_status_2100080205050315018.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71637,7 +71694,7 @@
           "https://pbs.twimg.com/profile_images/2097972943989125120/jgk-OU2N_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260916114246_twitter_com_WorstCat_status_2100188643206029566.json": {
       "status": "done",
@@ -71652,7 +71709,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260916140645_twitter_com_WorstCat_status_2100224874765799833.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71661,7 +71718,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260916142351_twitter_com_WorstCat_status_2100229178843152716.json": {
       "status": "done",
@@ -71736,7 +71793,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260916174433_twitter_com_WorstCat_status_2100279685720822084.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71745,10 +71802,10 @@
           "https://pbs.twimg.com/profile_images/2100276921091448832/juABfBwl_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:24:44"
     },
     "20260917044924_twitter_com_WorstCat_status_2100447002098069901.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71758,10 +71815,10 @@
           "https://pbs.twimg.com/profile_images/2083202567937650688/Xs4QIS3h_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917045237_twitter_com_WorstCat_status_2100447810944639256.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSYSO0PbQAAnTkd.jpg"
@@ -71772,10 +71829,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917045940_twitter_com_WorstCat_status_2100449587169567199.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71784,7 +71841,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917050130_twitter_com_WorstCat_status_2100450048345829705.json": {
       "status": "done",
@@ -71836,7 +71893,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260917070201_twitter_com_WorstCat_status_2100480376397594883.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71846,10 +71903,10 @@
           "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917070330_twitter_com_WorstCat_status_2100480748004540602.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSZX1r7XwAAiC8h.jpg"
@@ -71860,7 +71917,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917070650_twitter_com_WorstCat_status_2100481589327098270.json": {
       "status": "done",
@@ -71892,7 +71949,7 @@
       "miss_count": 2
     },
     "20260917071401_twitter_com_WorstCat_status_2100483394937516251.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71902,10 +71959,10 @@
           "https://pbs.twimg.com/profile_images/2088249042681868288/qkYe2ACT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260917071555_twitter_com_WorstCat_status_2100483874379936012.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71914,7 +71971,7 @@
           "https://pbs.twimg.com/profile_images/2099932916256231424/qm6-56FO_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917072618_twitter_com_WorstCat_status_2100486488366662073.json": {
       "status": "done",
@@ -71941,7 +71998,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260917091228_twitter_com_WorstCat_status_2100513206452232580.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71951,10 +72008,10 @@
           "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917093045_twitter_com_WorstCat_status_2100517807385608564.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71964,10 +72021,10 @@
           "https://pbs.twimg.com/profile_images/2088249042681868288/qkYe2ACT_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260917101322_twitter_com_WorstCat_status_2100528532975722609.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71977,10 +72034,10 @@
           "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917101932_twitter_com_WorstCat_status_2100530082158924050.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -71990,7 +72047,7 @@
           "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260917112525_twitter_com_WorstCat_status_2100546663618105411.json": {
       "status": "done",
@@ -72130,7 +72187,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260918054105_twitter_com_WorstCat_status_2100822397993808352.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72139,7 +72196,7 @@
           "https://pbs.twimg.com/profile_images/2092618861329911808/N4KIRah-_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260918055502_twitter_com_WorstCat_status_2100825909376995688.json": {
       "status": "done",
@@ -72190,7 +72247,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260918061215_twitter_com_WorstCat_status_2100830242118271235.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSb7wyqW0AEmzFa.jpg"
@@ -72201,10 +72258,10 @@
           "https://pbs.twimg.com/profile_images/2084155426950762496/u0wVs8XF_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260918063304_twitter_com_WorstCat_status_2100835477574275329.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -72216,7 +72273,7 @@
           "https://pbs.twimg.com/profile_images/2068512627337142272/b2uIK8r4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:16"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260918063349_twitter_com_WorstCat_status_2100835666959724727.json": {
       "status": "done",
@@ -72269,7 +72326,7 @@
       "last_updated": "2026-10-04T18:10:02"
     },
     "20260919014839_twitter_com_WorstCat_status_2101126290896302456.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSdqvSYa8AAqM3x.jpg",
@@ -72281,7 +72338,7 @@
           "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260919015211_twitter_com_WorstCat_status_2101127179291725920.json": {
       "status": "done",
@@ -72299,7 +72356,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260919023843_twitter_com_WorstCat_status_2101138890170196095.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72308,10 +72365,10 @@
           "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260919024807_twitter_com_WorstCat_status_2101141254553874461.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72320,10 +72377,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919030247_twitter_com_WorstCat_status_2101144946229309632.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72332,7 +72389,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919032819_twitter_com_WorstCat_status_2101151374176346131.json": {
       "status": "done",
@@ -72370,7 +72427,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260919082729_twitter_com_WorstCat_status_2101226661287194639.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72379,7 +72436,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919084332_twitter_com_WorstCat_status_2101230698191364203.json": {
       "status": "done",
@@ -72397,7 +72454,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260919084420_twitter_com_WorstCat_status_2101230900302192722.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72407,7 +72464,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919093050_twitter_com_WorstCat_status_2101242601315917930.json": {
       "status": "done",
@@ -72422,7 +72479,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260919093220_twitter_com_WorstCat_status_2101242982074855498.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSkUUwhbcAAK6Lb.jpg"
@@ -72434,10 +72491,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919093308_twitter_com_WorstCat_status_2101243182814204292.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSkUUwhbcAAK6Lb.jpg"
@@ -72449,10 +72506,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919093659_twitter_com_WorstCat_status_2101244149836267981.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72462,10 +72519,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919093726_twitter_com_WorstCat_status_2101244264994979939.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72475,10 +72532,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919093944_twitter_com_WorstCat_status_2101244844404547909.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72487,10 +72544,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919105120_twitter_com_WorstCat_status_2101262860680900907.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72500,10 +72557,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919113422_twitter_com_WorstCat_status_2101273689971126377.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72513,7 +72570,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260919142634_twitter_com_WorstCat_status_2101317028976242823.json": {
       "status": "done",
@@ -72531,7 +72588,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260919143104_twitter_com_WorstCat_status_2101318157856317606.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72540,7 +72597,7 @@
           "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920041049_twitter_com_WorstCat_status_2101524457596805133.json": {
       "status": "done",
@@ -72555,7 +72612,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260920041208_twitter_com_WorstCat_status_2101524787042603123.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72564,7 +72621,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260920041309_twitter_com_WorstCat_status_2101525042224123942.json": {
       "status": "done",
@@ -72579,7 +72636,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260920041409_twitter_com_WorstCat_status_2101525296705048820.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72588,7 +72645,7 @@
           "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920041621_twitter_com_WorstCat_status_2101525849065333116.json": {
       "status": "done",
@@ -72603,7 +72660,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260920041737_twitter_com_WorstCat_status_2101526167006433615.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72613,10 +72670,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260920042016_twitter_com_WorstCat_status_2101526833485463835.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSgNulgb0AAHwjj.jpg",
@@ -72629,7 +72686,7 @@
           "https://pbs.twimg.com/profile_images/2097473888469065728/u9DlQYHb_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920042134_twitter_com_WorstCat_status_2101527162155040948.json": {
       "status": "done",
@@ -72719,7 +72776,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260920084454_twitter_com_WorstCat_status_2101593433475600516.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72728,7 +72785,7 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920084559_twitter_com_WorstCat_status_2101593704456753475.json": {
       "status": "done",
@@ -72746,7 +72803,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260920084730_twitter_com_WorstCat_status_2101594086696526055.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72755,10 +72812,10 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920084753_twitter_com_WorstCat_status_2101594181668085773.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72767,10 +72824,10 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920085335_twitter_com_WorstCat_status_2101595616627605607.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72779,10 +72836,10 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920124950_twitter_com_WorstCat_status_2101655071498940860.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72791,10 +72848,10 @@
           "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260920125144_twitter_com_WorstCat_status_2101655548383105162.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72805,7 +72862,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260920125251_twitter_com_WorstCat_status_2101655829367894506.json": {
       "status": "done",
@@ -72832,7 +72889,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260921051518_twitter_com_WorstCat_status_2101903070989074450.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSq_s6oa4AA2mSR.jpg"
@@ -72843,7 +72900,7 @@
           "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260921051713_twitter_com_WorstCat_status_2101903553669570659.json": {
       "status": "done",
@@ -72884,7 +72941,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260921060239_twitter_com_WorstCat_status_2101914986247487539.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72893,7 +72950,7 @@
           "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260921073714_twitter_com_WorstCat_status_2101938792177475867.json": {
       "status": "done",
@@ -72908,7 +72965,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260921075358_twitter_com_WorstCat_status_2101942999995519362.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HStYk8HaYAAkpF3.jpg"
@@ -72919,7 +72976,7 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260921094611_twitter_com_WorstCat_status_2101971242001608966.json": {
       "status": "done",
@@ -72935,7 +72992,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260921101353_twitter_com_WorstCat_status_2101978212335300790.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72944,7 +73001,7 @@
           "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260921102139_twitter_com_WorstCat_status_2101980167833018569.json": {
       "status": "done",
@@ -72959,7 +73016,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260921114409_twitter_com_WorstCat_status_2102000928283042028.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSulE06a0AAwvr_.jpg"
@@ -72970,10 +73027,10 @@
           "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260921155433_twitter_com_WorstCat_status_2102063944496304606.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -72982,7 +73039,7 @@
           "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260922013540_twitter_com_WorstCat_status_2102210188011098599.json": {
       "status": "done",
@@ -73009,7 +73066,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260922015002_twitter_com_WorstCat_status_2102213800980365517.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73018,7 +73075,7 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260922015144_twitter_com_WorstCat_status_2102214229445210221.json": {
       "status": "done",
@@ -73045,7 +73102,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260922015823_twitter_com_WorstCat_status_2102215903526125813.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73054,7 +73111,7 @@
           "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260922041334_twitter_com_WorstCat_status_2102249923681145035.json": {
       "status": "done",
@@ -73093,7 +73150,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260922153441_twitter_com_WorstCat_status_2102421333657497799.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS1Gn2lbwAAD7e7.jpg",
@@ -73106,7 +73163,7 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260922184041_twitter_com_WorstCat_status_2102468142056534045.json": {
       "status": "done",
@@ -73133,7 +73190,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260923125108_twitter_com_WorstCat_status_2102742560385179909.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73142,10 +73199,10 @@
           "https://pbs.twimg.com/profile_images/2089300666359664640/x2Seu3j3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260923161927_twitter_com_WorstCat_status_2102794985502613935.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73154,7 +73211,7 @@
           "https://pbs.twimg.com/profile_images/2097040569604485120/mGQIJqxW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260923222849_twitter_com_WorstCat_status_2102887940510929155.json": {
       "status": "done",
@@ -73168,7 +73225,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260923225902_twitter_com_WorstCat_status_2102895546503708747.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS7RlMKbUAASyCB.jpg"
@@ -73179,7 +73236,7 @@
           "https://pbs.twimg.com/profile_images/2098564435900329984/5m_hoHk7_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260923230214_twitter_com_WorstCat_status_2102896351801757977.json": {
       "status": "done",
@@ -73196,7 +73253,7 @@
       "last_updated": "2026-10-04T18:21:17"
     },
     "20260923230448_twitter_com_WorstCat_status_2102896995543519597.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73205,7 +73262,7 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260924034920_twitter_com_WorstCat_status_2102968602857251087.json": {
       "status": "done",
@@ -73220,7 +73277,7 @@
       "last_updated": "2026-10-04T18:10:03"
     },
     "20260924040409_twitter_com_WorstCat_status_2102972330905608265.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS8e_HLawAAkw6-.jpg"
@@ -73231,7 +73288,7 @@
           "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260924054157_twitter_com_WorstCat_status_2102996942754337185.json": {
       "status": "done",
@@ -73247,7 +73304,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260924054237_twitter_com_WorstCat_status_2102997111050801192.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS9R4hvbYAAkaQ1.jpg",
@@ -73260,10 +73317,10 @@
           "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260924065141_twitter_com_WorstCat_status_2103014492351365523.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS9KTn9aYAEvtXP.jpg"
@@ -73274,10 +73331,10 @@
           "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260924095140_twitter_com_WorstCat_status_2103059784354451602.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73287,7 +73344,7 @@
           "https://pbs.twimg.com/profile_images/2097040569604485120/mGQIJqxW_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260924095229_twitter_com_WorstCat_status_2103059992140202297.json": {
       "status": "failed",
@@ -73356,7 +73413,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260924103317_twitter_com_WorstCat_status_2103070259712544868.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS-GAY9a0AAS2T7.jpg"
@@ -73367,10 +73424,10 @@
           "https://pbs.twimg.com/profile_images/2101600062413635584/KemIHPfL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260924113325_twitter_com_WorstCat_status_2103085390299357654.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73380,10 +73437,10 @@
           "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260924145552_twitter_com_WorstCat_status_2103136338170253679.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73392,10 +73449,10 @@
           "https://pbs.twimg.com/profile_images/2089300666359664640/x2Seu3j3_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260924163318_twitter_com_WorstCat_status_2103160859350720883.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73404,10 +73461,10 @@
           "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260925073320_twitter_com_WorstCat_status_2103387359215804717.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTCtDuUb0AAg_r3.jpg",
@@ -73420,10 +73477,10 @@
           "https://pbs.twimg.com/profile_images/2100747986183815168/1nRI_rj4_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260925092757_twitter_com_WorstCat_status_2103416204690100568.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTC13SMbsAAU9kb.jpg",
@@ -73435,7 +73492,7 @@
           "https://pbs.twimg.com/profile_images/2096924456518332417/WRiU-J6y_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260925094128_twitter_com_WorstCat_status_2103419607378010598.json": {
       "status": "done",
@@ -73464,7 +73521,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260925103348_twitter_com_WorstCat_status_2103432775420588319.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73473,7 +73530,7 @@
           "https://pbs.twimg.com/profile_images/2103153351492038657/EA_vzpyN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:52"
     },
     "20260925141234_twitter_com_WorstCat_status_2103487830832156875.json": {
       "status": "done",
@@ -73501,7 +73558,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260925160155_twitter_com_WorstCat_status_2103515351455768693.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTDrlweaoAAr1Yo.jpg"
@@ -73512,7 +73569,7 @@
           "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260925180332_twitter_com_WorstCat_status_2103545956449104148.json": {
       "status": "done",
@@ -73527,7 +73584,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260926122928_twitter_com_WorstCat_status_2103824274825867365.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTBZA9abUAAqARS.jpg"
@@ -73538,7 +73595,7 @@
           "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260926131818_twitter_com_WorstCat_status_2103836561506988258.json": {
       "status": "done",
@@ -73568,7 +73625,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260926161240_twitter_com_WorstCat_status_2103880441241735434.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73577,7 +73634,7 @@
           "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260926163137_twitter_com_WorstCat_status_2103885210215715101.json": {
       "status": "done",
@@ -73592,7 +73649,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260926175813_twitter_com_WorstCat_status_2103907006952378421.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTKF16wb0AEo114.jpg",
@@ -73604,7 +73661,7 @@
           "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20260927075929_twitter_com_WorstCat_status_2104118718926340274.json": {
       "status": "done",
@@ -73642,7 +73699,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260927091212_twitter_com_WorstCat_status_2104137015537307974.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73651,10 +73708,10 @@
           "https://pbs.twimg.com/profile_images/2097165978748547072/DG8XzL64_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260927110156_twitter_com_WorstCat_status_2104164631090753680.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTNKtq_bgAAeeq4.jpg"
@@ -73665,7 +73722,7 @@
           "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260927110930_twitter_com_WorstCat_status_2104166535728353377.json": {
       "status": "done",
@@ -73744,7 +73801,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260928090113_twitter_com_WorstCat_status_2104496642259132523.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73753,7 +73810,7 @@
           "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260928090127_twitter_com_WorstCat_status_2104496698386960687.json": {
       "status": "done",
@@ -73794,7 +73851,7 @@
       "last_updated": "2026-10-04T18:10:05"
     },
     "20260928145205_twitter_com_WorstCat_status_2104584939081748541.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -73805,10 +73862,10 @@
           "https://pbs.twimg.com/profile_images/2104109674274664448/hqVVlXLq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:17"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260928145854_twitter_com_WorstCat_status_2104586656754045056.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTTVzeiWgAAecYm.jpg"
@@ -73819,10 +73876,10 @@
           "https://pbs.twimg.com/profile_images/2104172346491736064/aEszKX97_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260928151405_twitter_com_WorstCat_status_2104590474992656718.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTSr_4rbcAAYd3-.jpg",
@@ -73836,10 +73893,10 @@
           "https://pbs.twimg.com/profile_images/1823025945533730816/HdNApQee_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260928182345_twitter_com_WorstCat_status_2104638205303947319.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTPEIgxbEAAL8o6.jpg"
@@ -73850,7 +73907,7 @@
           "https://pbs.twimg.com/profile_images/2103408078993707008/2T3ZbJBq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260929072625_twitter_com_WorstCat_status_2104835169551085579.json": {
       "status": "done",
@@ -73865,7 +73922,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260929074906_twitter_com_WorstCat_status_2104840880561811809.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTVMP45aoAAmk7S.jpg"
@@ -73876,7 +73933,7 @@
           "https://pbs.twimg.com/profile_images/2079498709621260288/VAFB4ghu_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260929075026_twitter_com_WorstCat_status_2104841215619576214.json": {
       "status": "done",
@@ -73965,7 +74022,7 @@
       "last_updated": "2026-10-04T18:10:04"
     },
     "20260929093145_twitter_com_WorstCat_status_2104866714303488394.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -73974,7 +74031,7 @@
           "https://pbs.twimg.com/profile_images/2104172346491736064/aEszKX97_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260929093415_twitter_com_WorstCat_status_2104867340597018885.json": {
       "status": "done",
@@ -74093,7 +74150,7 @@
       "last_updated": "2026-10-04T18:10:05"
     },
     "20260929125644_twitter_com_WorstCat_status_2104918299385504160.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74102,7 +74159,7 @@
           "https://pbs.twimg.com/profile_images/2095026139299536896/OnadKp65_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20260929140946_twitter_com_WorstCat_status_2104936676158247054.json": {
       "status": "done",
@@ -74180,7 +74237,7 @@
       "last_updated": "2026-10-04T18:10:05"
     },
     "20261001082646_twitter_com_WorstCat_status_2105575135906611277.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74189,10 +74246,10 @@
           "https://pbs.twimg.com/profile_images/2103941661198008320/kFBWbLRL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261001082734_twitter_com_WorstCat_status_2105575336033526015.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74201,7 +74258,7 @@
           "https://pbs.twimg.com/profile_images/2095026139299536896/OnadKp65_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261001082820_twitter_com_WorstCat_status_2105575528527024438.json": {
       "status": "done",
@@ -74242,7 +74299,7 @@
       "last_updated": "2026-10-04T18:10:05"
     },
     "20261001084718_twitter_com_WorstCat_status_2105580303142244807.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74251,10 +74308,10 @@
           "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:49"
     },
     "20261001105649_twitter_com_WorstCat_status_2105612896986337724.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTcC7WHaUAA_WWQ.jpg"
@@ -74265,7 +74322,7 @@
           "https://pbs.twimg.com/profile_images/2105181442254970880/OQRVzp-G_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261002060736_twitter_com_WorstCat_status_2105902501379883112.json": {
       "status": "done",
@@ -74383,7 +74440,7 @@
       "last_updated": "2026-10-04T18:10:05"
     },
     "20261002152556_twitter_com_WorstCat_status_2106043010198962292.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTmC_LmbQAA_CpN.jpg"
@@ -74394,7 +74451,7 @@
           "https://pbs.twimg.com/profile_images/2094487922905116672/jcFm84nz_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261002160252_twitter_com_WorstCat_status_2106052304613044464.json": {
       "status": "done",
@@ -74422,7 +74479,7 @@
       "last_updated": "2026-10-04T18:10:05"
     },
     "20261002173249_twitter_com_WorstCat_status_2106074939954794945.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HToC5CkaMAQCnfy.jpg"
@@ -74433,10 +74490,10 @@
           "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261002195441_twitter_com_WorstCat_status_2106110641681661980.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74445,10 +74502,10 @@
           "https://pbs.twimg.com/profile_images/1509919318242656257/U9LQd6r__normal.png"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:51"
     },
     "20261002200322_twitter_com_WorstCat_status_2106112828327551216.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74457,10 +74514,10 @@
           "https://pbs.twimg.com/profile_images/1509919318242656257/U9LQd6r__normal.png"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:51"
     },
     "20261002234546_twitter_com_WorstCat_status_2106168798374138190.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74469,10 +74526,10 @@
           "https://pbs.twimg.com/profile_images/2103408078993707008/2T3ZbJBq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261002234719_twitter_com_WorstCat_status_2106169184967348699.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTpIJFabEAAEqxO.jpg"
@@ -74484,10 +74541,10 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261003001149_twitter_com_WorstCat_status_2106175352091693090.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74496,10 +74553,10 @@
           "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     },
     "20261003001653_twitter_com_WorstCat_status_2106176627201974385.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -74508,7 +74565,7 @@
           "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-04T18:21:15"
+      "last_updated": "2026-10-04T18:21:50"
     }
   }
 }
